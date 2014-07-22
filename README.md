@@ -37,13 +37,17 @@ youngboys,   BSC Young Boys|Young Boys|Young Boys Bern, YB
 Spieltag 1
 
 [Sa 19.7.]
-  17.45   FC Aarau       1:2 (0:2)  FC Basel
-  20.00   FC St. Gallen  2:2 (1:1)  BSC Young Boys
+  17.45   FC Aarau       1:2 (0:2)  FC Basel             @ Brügglifeld, Aarau
+            [Schultz 85'; Embolo 15' Aliji 38']
+  20.00   FC St. Gallen  2:2 (1:1)  BSC Young Boys       @ AFG Arena, St. Gallen
+            [Cavusevic 14' Gajic  52' (ET); Kubo 23' Afum 90' ]
 [So 20.7.]
-  13.45   FC Thun        1:0 (1:0)  FC Vaduz
-  13.45   FC Luzern      1:1 (1:1)  FC Sion
-  16.00   FC Zürich      1:0 (0:0)  Grasshoppers Zürich
-
+  13.45   FC Thun        1:0 (1:0)  FC Vaduz             @ Stockhorn Arena, Thun
+            [Sadik (P) 33']
+  13.45   FC Luzern      1:1 (1:1)  FC Sion              @ Swissporarena, Luzern
+            [Schneuwly 41'; Vanczak 45+4']
+  16.00   FC Zürich      1:0 (0:0)  Grasshoppers Zürich  @ Letzigrund, Zürich
+            [Chiumiento 59']
 ...
 ~~~
 
