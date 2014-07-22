@@ -34,6 +34,16 @@ youngboys,   BSC Young Boys|Young Boys|Young Boys Bern, YB
 ~~~
 ### Super League 2014/15
 
+Spieltag 1
+
+[Sa 19.7.]
+  17.45   FC Aarau       1:2 (0:2)  FC Basel
+  20.00   FC St. Gallen  2:2 (1:1)  BSC Young Boys
+[So 20.7.]
+  13.45   FC Thun        1:0 (1:0)  FC Vaduz
+  13.45   FC Luzern      1:1 (1:1)  FC Sion
+  16.00   FC Zürich      1:0 (0:0)  Grasshoppers Zürich
+
 ...
 ~~~
 

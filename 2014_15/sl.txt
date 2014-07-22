@@ -1,0 +1,159 @@
+#################################
+#  Super League 2014/15
+
+Spieltag 1
+
+[Sa 19.7.]
+  17.45   FC Aarau       1:2 (0:2)  FC Basel
+  20.00   FC St. Gallen  2:2 (1:1)  BSC Young Boys
+[So 20.7.]
+  13.45   FC Thun        1:0 (1:0)  FC Vaduz
+  13.45   FC Luzern      1:1 (1:1)  FC Sion
+  16.00   FC Zürich      1:0 (0:0)  Grasshoppers Zürich
+
+
+Spieltag 2
+
+[Sa 26.7.]
+  17:45   Grasshoppers Zürich   FC Thun   
+  20:00   FC Sion   FC St. Gallen   
+[So 27.7.]
+  13:45   BSC Young Boys   FC Aarau   
+  13:45   FC Vaduz   FC Zürich   
+  16:45   FC Basel   FC Luzern   
+
+
+Spieltag 3
+
+02.08. 17:45 (Sa)  FC Thun   FC Basel   
+02.08. 20:00 (Sa)  Grasshoppers Zürich   FC Sion   
+03.08. 13:45 (So)  FC Aarau   FC Vaduz   
+03.08. 13:45 (So)  FC Zürich   BSC Young Boys   
+03.08. 16:00 (So)  FC St. Gallen   FC Luzern   
+
+
+Spieltag 4
+
+09.08. 17:45 (Sa)  FC St. Gallen   FC Aarau   
+09.08. 20:00 (Sa)  FC Basel   FC Zürich   
+10.08. 13:45 (So)  FC Sion   FC Vaduz   
+10.08. 13:45 (So)  FC Luzern   Grasshoppers Zürich   
+10.08. 16:00 (So)  BSC Young Boys   FC Thun   
+
+Spieltag 5
+
+23.07. 19:45 (Mi)  FC Aarau   FC Sion     ### check if date is ok ??
+23.07. 19:45 (Mi)  FC Zürich   FC Thun    ### check if date is ok ??
+13.08. 19:45 (Mi)  FC Vaduz   FC Luzern   
+13.08. 19:45 (Mi)  BSC Young Boys   Grasshoppers Zürich   
+14.08. 20:00 (Do)  FC Basel   FC St. Gallen   
+
+Spieltag 6
+
+16.08. 17:45 (Sa)  FC Aarau   Grasshoppers Zürich   
+16.08. 20:00 (Sa)  FC Luzern   FC Zürich   
+17.08. 13:45 (So)  FC Sion   FC Basel   
+17.08. 13:45 (So)  FC Thun   FC St. Gallen   
+17.08. 16:00 (So)  FC Vaduz   BSC Young Boys   
+
+Spieltag 7
+
+30.08. 17:45 (Sa)  FC Thun   FC Sion   
+31.08. 13:45 (So)  Grasshoppers Zürich   FC Vaduz   
+31.08. 13:45 (So)  FC St. Gallen   FC Zürich   
+31.08. 16:00 (So)  FC Basel   BSC Young Boys   
+01.09. 19:45 (Mo)  FC Luzern   FC Aarau   
+
+
+Spieltag 8
+
+13.09. 17:45 (Sa)  Grasshoppers Zürich   FC Basel   
+13.09. 20:00 (Sa)  FC Aarau   FC Thun   
+14.09. 13:45 (So)  BSC Young Boys   FC Luzern   
+14.09. 13:45 (So)  FC Vaduz   FC St. Gallen   
+14.09. 16:00 (So)  FC Zürich   FC Sion   
+
+Spieltag 9
+
+23.09. 19:45 (Di)  FC Basel   FC Vaduz   
+23.09. 19:45 (Di)  FC Thun   FC Luzern   
+24.09. 19:45 (Mi)  FC St. Gallen   Grasshoppers Zürich   
+24.09. 19:45 (Mi)  FC Zürich   FC Aarau   
+24.09. 20:30 (Mi)  FC Sion   BSC Young Boys   
+
+Spieltag 10
+
+28.09.   (So)  FC Basel   FC Thun   
+28.09.   (So)  Grasshoppers Zürich   FC Aarau   
+28.09.   (So)  BSC Young Boys   FC Zürich   
+28.09.   (So)  FC Luzern   FC St. Gallen   
+28.09.   (So)  FC Vaduz   FC Sion   
+
+
+Spieltag 11
+
+05.10.   (So)  FC Zürich   FC Vaduz   
+05.10.   (So)  FC Thun   Grasshoppers Zürich   
+05.10.   (So)  FC Sion   FC Luzern   
+05.10.   (So)  FC St. Gallen   FC Basel   
+05.10.   (So)  FC Aarau   BSC Young Boys   
+
+Spieltag 12
+
+19.10.   (So)  Grasshoppers Zürich   FC Zürich   
+19.10.   (So)  BSC Young Boys   FC Basel   
+19.10.   (So)  FC Sion   FC Thun   
+19.10.   (So)  FC Luzern   FC Vaduz   
+19.10.   (So)  FC Aarau   FC St. Gallen   
+
+Spieltag 13
+
+26.10.   (So)  FC Basel   FC Sion   
+26.10.   (So)  FC Zürich   FC St. Gallen
+26.10.   (So)  FC Thun   FC Aarau   
+26.10.   (So)  FC Luzern   BSC Young Boys   
+26.10.   (So)  FC Vaduz   Grasshoppers Zürich   
+
+
+Spieltag 14
+
+02.11.   (So)  FC Basel   Grasshoppers Zürich   
+02.11.   (So)  FC Zürich   FC Luzern   
+02.11.   (So)  BSC Young Boys   FC Vaduz   
+02.11.   (So)  FC Sion   FC Aarau   
+02.11.   (So)  FC St. Gallen   FC Thun   
+
+
+Spieltag 15
+
+09.11.   (So)  Grasshoppers Zürich   FC St. Gallen   
+09.11.   (So)  BSC Young Boys   FC Sion   
+09.11.   (So)  FC Luzern   FC Thun   
+09.11.   (So)  FC Aarau   FC Zürich   
+09.11.   (So)  FC Vaduz   FC Basel   
+
+Spieltag 16
+
+23.11.   (So)  FC Basel   FC Aarau   
+23.11.   (So)  Grasshoppers Zürich   FC Luzern   
+23.11.   (So)  FC Thun   BSC Young Boys   
+23.11.   (So)  FC Sion   FC Zürich   
+23.11.   (So)  FC St. Gallen   FC Vaduz   
+
+
+Spieltag 17
+
+30.11.   (So)  FC Zürich   FC Basel   
+30.11.   (So)  BSC Young Boys   FC St. Gallen   
+30.11.   (So)  FC Sion   Grasshoppers Zürich   
+30.11.   (So)  FC Aarau   FC Luzern   
+30.11.   (So)  FC Vaduz   FC Thun   
+
+Spieltag 18
+
+07.12.   (So)  Grasshoppers Zürich   BSC Young Boys   
+07.12.   (So)  FC Thun   FC Zürich   
+07.12.   (So)  FC Luzern   FC Basel   
+07.12.   (So)  FC St. Gallen   FC Sion   
+07.12.   (So)  FC Vaduz   FC Aarau   
+

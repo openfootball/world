@@ -1,0 +1,166 @@
+###########################################
+#  Super League 2014/15 Rückrunde
+
+
+Spieltag 19
+
+[So 8.2.]
+  Grasshoppers Zürich   FC Basel
+  FC Thun               FC Aarau
+  FC Luzern             BSC Young Boys
+  FC St. Gallen         FC Zürich
+  FC Vaduz              FC Sion
+
+
+Spieltag 20
+
+[So 15.2.]
+  FC Basel         FC Sion
+  FC Zürich        FC Thun
+  BSC Young Boys   Grasshoppers Zürich
+  FC St. Gallen    FC Luzern
+  FC Aarau         FC Vaduz
+
+
+Spieltag 21
+
+22.02. (So)  Grasshoppers Zürich   FC Zürich   
+22.02. (So)  BSC Young Boys   FC Basel   
+22.02. (So)  FC Sion   FC St. Gallen   
+22.02. (So)  FC Luzern   FC Aarau   
+22.02. (So)  FC Vaduz   FC Thun   
+
+
+Spieltag 22
+
+01.03. (So)  FC Basel   FC Vaduz   
+01.03. (So)  FC Zürich   FC Aarau   
+01.03. (So)  FC Thun   BSC Young Boys   
+01.03. (So)  FC Sion   FC Luzern   
+01.03. (So)  FC St. Gallen   Grasshoppers Zürich   
+
+
+Spieltag 23
+
+08.03. (So)  FC Basel   FC Thun   
+08.03. (So)  Grasshoppers Zürich   FC Luzern   
+08.03. (So)  BSC Young Boys   FC Sion   
+08.03. (So)  FC Aarau   FC St. Gallen   
+08.03. (So)  FC Vaduz   FC Zürich   
+
+
+Spieltag 24
+
+15.03. (So)  FC Zürich   FC Sion   
+15.03. (So)  FC Thun   Grasshoppers Zürich   
+15.03. (So)  FC Luzern   FC Vaduz   
+15.03. (So)  FC St. Gallen   FC Basel   
+15.03. (So)  FC Aarau   BSC Young Boys   
+
+
+Spieltag 25
+
+22.03. (So)  Grasshoppers Zürich   FC Aarau   
+22.03. (So)  BSC Young Boys   FC Zürich   
+22.03. (So)  FC Sion   FC Thun   
+22.03. (So)  FC Luzern   FC Basel   
+22.03. (So)  FC Vaduz   FC St. Gallen   
+
+
+Spieltag 26
+
+06.04. (Mo)  FC Basel   FC Aarau   
+06.04. (Mo)  FC Zürich   FC Luzern   
+06.04. (Mo)  FC Thun   FC St. Gallen   
+06.04. (Mo)  FC Sion   Grasshoppers Zürich   
+06.04. (Mo)  FC Vaduz   BSC Young Boys   
+
+
+Spieltag 27
+
+12.04. (So)  FC Basel   FC Zürich   
+12.04. (So)  Grasshoppers Zürich   FC Vaduz   
+12.04. (So)  FC Thun   FC Luzern   
+12.04. (So)  FC St. Gallen   BSC Young Boys   
+12.04. (So)  FC Aarau   FC Sion   
+
+
+Spieltag 28
+
+19.04. (So)  FC Zürich   FC St. Gallen   
+19.04. (So)  BSC Young Boys   FC Thun   
+19.04. (So)  FC Sion   FC Basel   
+19.04. (So)  FC Luzern   Grasshoppers Zürich   
+19.04. (So)  FC Vaduz   FC Aarau   
+
+
+Spieltag 29
+
+26.04. (So)  FC Basel   FC Luzern   
+26.04. (So)  Grasshoppers Zürich   BSC Young Boys   
+26.04. (So)  FC Thun   FC Sion   
+26.04. (So)  FC St. Gallen   FC Vaduz   
+26.04. (So)  FC Aarau   FC Zürich   
+
+
+Spieltag 30
+
+29.04. (Mi)  Grasshoppers Zürich   FC Thun   
+29.04. (Mi)  BSC Young Boys   FC Aarau   
+29.04. (Mi)  FC Sion   FC Zürich   
+29.04. (Mi)  FC Luzern   FC St. Gallen   
+29.04. (Mi)  FC Vaduz   FC Basel   
+
+
+Spieltag 31
+
+03.05. (So)  FC Basel   Grasshoppers Zürich   
+03.05. (So)  FC Zürich   BSC Young Boys   
+03.05. (So)  FC Thun   FC Vaduz   
+03.05. (So)  FC St. Gallen   FC Sion   
+03.05. (So)  FC Aarau   FC Luzern   
+
+
+Spieltag 32
+
+10.05. (So)  FC Zürich   FC Basel   
+10.05. (So)  BSC Young Boys   FC St. Gallen   
+10.05. (So)  FC Sion   FC Vaduz   
+10.05. (So)  FC Luzern   FC Thun   
+10.05. (So)  FC Aarau   Grasshoppers Zürich   
+
+
+Spieltag 33
+
+17.05. (So)  FC Basel   BSC Young Boys   
+17.05. (So)  Grasshoppers Zürich   FC St. Gallen   
+17.05. (So)  FC Thun   FC Zürich   
+17.05. (So)  FC Sion   FC Aarau   
+17.05. (So)  FC Vaduz   FC Luzern   
+
+
+Spieltag 34
+
+24.05. (So)  Grasshoppers Zürich   FC Sion   
+24.05. (So)  FC Zürich   FC Vaduz   
+24.05. (So)  BSC Young Boys   FC Luzern   
+24.05. (So)  FC St. Gallen   FC Thun   
+24.05. (So)  FC Aarau   FC Basel   
+
+
+Spieltag 35
+
+31.05. (So)  FC Thun   FC Basel   
+31.05. (So)  FC Sion   BSC Young Boys   
+31.05. (So)  FC Luzern   FC Zürich   
+31.05. (So)  FC St. Gallen   FC Aarau   
+31.05. (So)  FC Vaduz   Grasshoppers Zürich   
+
+Spieltag 36
+
+07.06. (So)  FC Basel   FC St. Gallen   
+07.06. (So)  FC Zürich   Grasshoppers Zürich   
+07.06. (So)  BSC Young Boys   FC Vaduz   
+07.06. (So)  FC Luzern   FC Sion   
+07.06. (So)  FC Aarau   FC Thun   
+
