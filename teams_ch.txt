@@ -4,14 +4,64 @@
 
 # note: add two/three letter codes from sfl.ch
 
+[zuerich]
+  FC Zürich, 1896, FCZ
+  // Zürich
+  www.fcz.ch
+  de.wikipedia: FC_Zürich
 
-zuerich,     FC Zürich, FCZ, city:zuerich
-grasshopper, Grasshopper Club Zürich|Grasshoppers|Grasshoppers Zürich, GC, city:zuerich
-basel,       FC Basel 1893|Basel|FC Basel, BAS, city:basel
-youngboys,   BSC Young Boys|Young Boys|Young Boys Bern|Berner Sport Club Young Boys, YB, city:bern
-lausanne,    FC Lausanne-Sport|Lausanne|FC Lausanne, LS, city:lausanne
-luzern,      FC Luzern|Luzern, LUZ, city:luzern
-stgallen,    FC St. Gallen|St. Gallen, SG, city:stgallen
-thun,        FC Thun|Thun, THU, city:thun
-sion,        FC Sion|Sion, SIO, city:sion
-aarau,       FC Aarau|Aarau, AAR, city:aarau
+[grasshopper]
+  Grasshopper Club Zürich|Grasshoppers|Grasshoppers Zürich, 1886, GC
+  // Zürich
+  www.gcz.ch
+  de.wikipedia: Grasshopper_Club_Zürich
+
+[basel]
+  FC Basel 1893|Basel|FC Basel, 1893, BAS
+  // Basel
+  www.fcb.ch
+  de.wikipedia: FC_Basel
+
+[youngboys]
+  BSC Young Boys|Young Boys|Young Boys Bern|Berner Sport Club Young Boys|BSC YB, 1898, YB
+  // Bern
+  www.bscyb.ch
+  de.wikipedia: BSC_Young_Boys
+
+[luzern]
+  FC Luzern|Luzern, 1901, LUZ
+  // Luzern
+  www.fcl.ch
+  de.wikipedia: FC_Luzern
+
+[stgallen]
+  FC St. Gallen|St. Gallen, 1879, SG
+  // St. Gallen
+  www.fcsg.ch
+  de.wikipedia: FC_St._Gallen
+
+[thun]
+  FC Thun|Thun|FC Thun 1898, 1898, THU
+  // Thun
+  www.fcthun.ch
+  de.wikipedia: FC_Thun
+
+[sion]
+  FC Sion|Sion, 1909, SIO
+  // Sion
+  www.fc-sion.ch
+  de.wikipedia: FC_Sion
+  fr.wikipedia: Football_club_de_Sion
+
+[aarau]
+  FC Aarau|Aarau,  1902, AAR
+  // Aarau
+  www.fcaarau.ch
+  de.wikipedia: FC_Aarau
+
+
+################
+# changes
+#  in 2014/15:
+#    ++  FC Vaduz
+#    --  FC Lausanne

@@ -2,19 +2,41 @@
 # Challenge League 2014/15
 #  - 10 Teams
 
-servette, Servette FC|Servette|Servette FC Genève|Servette Genève, SFC, city:geneve
+[lausanne]
+  FC Lausanne-Sport|Lausanne|FC Lausanne, 1896, LS
+  // Lausanne
+  www.lausanne-sport.ch
+  de.wikipedia: FC_Lausanne-Sport
+
+[lemont]
+  FC Le Mont|FC Le Mont-sur-Lausanne, 1942, LMT
+  // Le Mont-sur-Lausanne
+  www.fclemontlausanne.ch
+  de.wikipedia: FC_Le_Mont-sur-Lausanne
+
+[servette]
+  Servette FC|Servette|Servette FC Genève|Servette Genève, 1890, SFC
+  // Genève
+  www.servettefc.ch
+  de.wikipedia: Servette_FC_Genève
+
+[lugano]
+  FC Lugano|Lugano, 1908, LUG
+  // Lugano
+  www.aclugano.ch
+  de.wikipedia: FC_Lugano
+
+
 wil,        FC Wil 1900|Wil, WIL, city:wil
 winterthur, FC Winterthur|Winterthur, WIN, city:winterthur
 chiasso,    FC Chiasso|Chiasso, CHI, city:chiasso
-lugano,     FC Lugano|Lugano, LUG, city:lugano
 biel,       FC Biel-Bienne|Biel-Bienne, BIE, city:biel
 wohlen,     FC Wohlen|Wohlen, WOH, city:wohlen
-locarno,    FC Locarno|Locarno, LOC, city:locarno
-
 schaffhausen, FC Schaffhausen, FCS, city:schaffhausen
 
 
-####
-# NB:
-#
-#  include europe/teams_central.txt for  FC Vaduz from Liechtenstein !!!
+###########
+#  changes:
+#   2014/15
+#    ++  FC Le Mont-sur-Lausanne
+#    --  FC Locarno

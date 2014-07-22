@@ -8,7 +8,8 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 
 ## Intro
 
-Free open public domain football data for Switzerland (Schweiz, Suisse, Svizzera, Svizra).
+Free open public domain football data for Switzerland (Schweiz, Suisse, Svizzera, Svizra)
+incl. Liechtenstein.
 National football club leagues and cup tournaments include:
 
 | Level |                                |            |
@@ -42,8 +43,8 @@ youngboys,   BSC Young Boys|Young Boys|Young Boys Bern, YB
 Use the `sportdb` command line tool to build your own `football.db` copy
 from the plain text data sets. [More »](http://openfootball.github.io/build.html)
 
-Note:  The Super League includes teams from Lichtenstein
-(e.g. ??).
+
+Note:  The Super League includes teams from Lichtenstein (e.g. FC Vaduz).
 
 
 ## Questions? Comments?

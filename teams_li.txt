@@ -1,3 +1,11 @@
 ###############################################
-# Liechtenstein (li) Teams (in Swiss Leagues)
+# Liechtenstein (li) Teams
+#  - in Swiss Leagues
+
+
+vaduz, FC Vaduz, VAD, www.fcvaduz.li, li
+
+#  // Vaduz
+#  de.wikipedia: FC_Vaduz
+#  -- todo check how to use country code li in multi-line recs
 

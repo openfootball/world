@@ -1,5 +1,6 @@
 ####
 # more teams
 
-
+locarno,    FC Locarno|Locarno, LOC, city:locarno
 bellinzona, AC Bellinzona|Bellinzona, city:bellinzona
+
