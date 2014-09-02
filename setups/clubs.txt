@@ -1,0 +1,6 @@
+#########
+# Clubs
+
+ch-confoederatio-helvetica!/clubs
+ch-confoederatio-helvetica!/clubs_2
+ch-confoederatio-helvetica!/clubs_lie
