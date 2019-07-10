@@ -20,18 +20,18 @@ National football club leagues and cup tournaments include:
 
 Example:
 
-~~~
+```
 ### Super League Teams
 
-zuerich,     FC Zürich, FCZ
-grasshopper, Grasshoppers|Grasshoppers Zürich, GC
-basel,       FC Basel 1893|Basel|FC Basel, BAS
-youngboys,   BSC Young Boys|Young Boys|Young Boys Bern, YB
+zuerich,     FC Zürich,            FCZ
+grasshopper, Grasshoppers Zürich,  GC
+basel,       FC Basel,             BAS
+youngboys,   BSC Young Boys,       YB
 
 ...
-~~~
+```
 
-~~~
+```
 ### Super League 2014/15
 
 1. Spieltag
@@ -49,7 +49,8 @@ youngboys,   BSC Young Boys|Young Boys|Young Boys Bern, YB
   16.00   FC Zürich      1:0 (0:0)  Grasshoppers Zürich  @ Letzigrund, Zürich
             [Chiumiento 59']
 ...
-~~~
+```
+
 
 
 ## Build Your Own `football.db` Copy
