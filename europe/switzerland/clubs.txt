@@ -1,7 +1,7 @@
 #########################################################
 #  Switzerland • Confoederatio Helvetica (ch)
 
-# note: add two/three letter codes from sfl.ch
+# note: uses "official" two/three letter codes from sfl.ch
 
 Key,           Name,                 Code
 zuerich,       FC Zürich,            FCZ
@@ -13,7 +13,8 @@ stgallen,      FC St. Gallen,        SG
 thun,          FC Thun,              THU
 sion,          FC Sion,              SIO
 aarau,         FC Aarau,             AAR
-lausanne,      FC Lausanne-Sport,    LS
+lausanne,      FC Lausanne-Sport,       LS
+slo,           FC Stade-Lausanne-Ouchy, SLO
 lemont,        FC Le Mont,           LMT
 servette,      Servette Genève,      SFC
 lugano,        FC Lugano,            LUG
@@ -24,7 +25,8 @@ biel,          FC Biel-Bienne,       BIE
 wohlen,        FC Wohlen,            WOH
 schaffhausen,  FC Schaffhausen,      FCS
 locarno,       FC Locarno,           LOC
-
+xamax,         Neuchâtel Xamax FCS,  XAM
+kriens,        SC Kriens,            SCK
 
 # Liechtenstein (li) Teams
 vaduz,         FC Vaduz,             VAD

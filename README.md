@@ -12,8 +12,14 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 
 Free open public domain football datasets include:
 
-- United States & Canada - Major League Soccer (MLS)  
-- Switzerland (Schweiz • Suisse • Svizzera • Svizra) incl. Liechtenstein - Super League, Challenge League
+North America
+
+- [**United States & Canada**](north-america/major-league-soccer) - Major League Soccer (MLS)
+
+Europe
+
+- [**Switzerland (Schweiz • Suisse • Svizzera • Svizra) incl. Liechtenstein**](europe/switzerland) - Super League, Challenge League
+- [**Turkey**](europe/turkey) - Süper Lig, 1. Lig
 - and others
 
 
