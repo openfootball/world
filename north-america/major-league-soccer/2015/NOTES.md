@@ -1,8 +1,9 @@
-league:    mls
-season:    2016
-start_at:  2016-03-06
+# Notes
 
-20 teams:
+- start_at:  2015-03-06
+
+## 20 teams
+
 - Seattle
 - D.C. United
 - Vancouver
@@ -23,3 +24,5 @@ start_at:  2016-03-06
 - Chicago
 - Montreal
 - New York City
+
+
