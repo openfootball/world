@@ -18,6 +18,8 @@ North America
 
 Europe
 
+- [**Netherlands**](europe/netherlands) - Eredivisie
+- [**Portugal**](europe/portugal) - Primeira Liga
 - [**Switzerland (Schweiz • Suisse • Svizzera • Svizra) incl. Liechtenstein**](europe/switzerland) - Super League, Challenge League
 - [**Turkey**](europe/turkey) - Süper Lig, 1. Lig
 - and others

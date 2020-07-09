@@ -1,0 +1,540 @@
+= Portuguese Primeira Liga 2019/20
+
+
+Jornada 1
+[Sex, 9/Agosto]
+  Portimonense SC          0-0  Os Belenenses
+[Sáb, 10/Agosto]
+  CD Santa Clara           0-2  FC Famalicão
+  Gil Vicente FC           2-1  FC Porto
+  SL Benfica               5-0  FC Paços de Ferreira
+[Dom, 11/Agosto]
+  Boavista FC              2-1  CD Aves
+  CS Marítimo              1-1  Sporting CP
+  SC Braga                 3-1  Moreirense FC
+[Seg, 12/Agosto]
+  Vitória de Setúbal       0-0  CD Tondela
+
+
+Jornada 2
+[Sex, 16/Agosto]
+  FC Famalicão             1-0  Rio Ave FC
+[Sáb, 17/Agosto]
+  Moreirense FC            3-0  Gil Vicente FC
+  Os Belenenses            0-2  SL Benfica
+  FC Porto                 4-0  Vitória de Setúbal
+[Dom, 18/Agosto]
+  FC Paços de Ferreira     0-1  CD Santa Clara
+  CD Aves                  3-1  CS Marítimo
+  Vitória de Guimarães     1-1  Boavista FC
+  Sporting CP              2-1  SC Braga
+[Seg, 19/Agosto]
+  CD Tondela               1-2  Portimonense SC
+
+
+Jornada 3
+[Sex, 23/Agosto]
+  Vitória de Setúbal       0-0  Moreirense FC
+  Rio Ave FC               5-1  CD Aves
+[Sáb, 24/Agosto]
+  SL Benfica               0-2  FC Porto
+  Boavista FC              1-1  FC Paços de Ferreira
+[Dom, 25/Agosto]
+  CS Marítimo              2-3  CD Tondela
+  CD Santa Clara           0-0  Os Belenenses
+  Portimonense SC          1-3  Sporting CP
+  Gil Vicente FC           1-1  SC Braga
+  Vitória de Guimarães     1-1  FC Famalicão
+
+
+Jornada 4
+[Sex, 30/Agosto]
+  Moreirense FC            1-0  Portimonense SC
+  Os Belenenses            0-1  Boavista FC
+[Sáb, 31/Agosto]
+  FC Paços de Ferreira     0-1  CS Marítimo
+  CD Aves                  2-3  FC Famalicão
+  Sporting CP              2-3  Rio Ave FC
+  Gil Vicente FC           0-0  Vitória de Setúbal
+[Dom, 1/Set]
+  CD Tondela               0-0  CD Santa Clara
+  FC Porto                 3-0  Vitória de Guimarães
+  SC Braga                 0-4  SL Benfica
+
+
+Jornada 1
+[Dom, 8/Set]
+  Rio Ave FC               1-1  Vitória de Guimarães
+
+
+Jornada 5
+[Sex, 13/Set]
+  Vitória de Setúbal       1-0  SC Braga
+[Sáb, 14/Set]
+  FC Famalicão             4-2  FC Paços de Ferreira
+  SL Benfica               2-0  Gil Vicente FC
+  Vitória de Guimarães     5-1  CD Aves
+[Dom, 15/Set]
+  CS Marítimo              1-3  Os Belenenses
+  Rio Ave FC               2-4  CD Tondela
+  CD Santa Clara           2-0  Moreirense FC
+  Portimonense SC          2-3  FC Porto
+  Boavista FC              1-1  Sporting CP
+
+
+Jornada 6
+[Sex, 20/Set]
+  FC Paços de Ferreira     2-1  CD Aves
+[Sáb, 21/Set]
+  Os Belenenses            0-2  Rio Ave FC
+  Moreirense FC            1-2  SL Benfica
+[Dom, 22/Set]
+  Gil Vicente FC           0-0  Boavista FC
+  Vitória de Setúbal       0-0  Portimonense SC
+  CD Tondela               1-3  Vitória de Guimarães
+  FC Porto                 2-0  CD Santa Clara
+[Seg, 23/Set]
+  SC Braga                 2-2  CS Marítimo
+  Sporting CP              1-2  FC Famalicão
+
+
+Jornada 7
+[Sex, 27/Set]
+  Boavista FC              0-0  CD Tondela
+[Sáb, 28/Set]
+  CS Marítimo              2-1  Moreirense FC
+  SL Benfica               1-0  Vitória de Setúbal
+  FC Famalicão             3-1  Os Belenenses
+[Dom, 29/Set]
+  Vitória de Guimarães     1-0  FC Paços de Ferreira
+  CD Santa Clara           1-0  Gil Vicente FC
+  Portimonense SC          0-1  SC Braga
+  Rio Ave FC               0-1  FC Porto
+[Seg, 30/Set]
+  CD Aves                  0-1  Sporting CP
+
+
+Jornada 9
+[Sáb, 5/Out]
+  CD Aves                  0-1  CD Tondela
+
+
+Jornada 8
+[Sex, 25/Out]
+  FC Paços de Ferreira     0-0  Rio Ave FC
+[Sáb, 26/Out]
+  Gil Vicente FC           1-1  Portimonense SC
+  Os Belenenses            3-2  CD Aves
+  Vitória de Setúbal       0-0  CS Marítimo
+  Moreirense FC            1-1  Boavista FC
+[Dom, 27/Out]
+  CD Tondela               0-1  SL Benfica
+  FC Porto                 3-0  FC Famalicão
+  Sporting CP              3-1  Vitória de Guimarães
+[Seg, 28/Out]
+  SC Braga                 2-0  CD Santa Clara
+
+
+Jornada 9
+[Qua, 30/Out]
+  Rio Ave FC               1-1  Moreirense FC
+  CS Marítimo              1-1  FC Porto
+  Vitória de Guimarães     5-0  Os Belenenses
+  SL Benfica               4-0  Portimonense SC
+  FC Famalicão             2-1  Gil Vicente FC
+[Qui, 31/Out]
+  FC Paços de Ferreira     1-2  Sporting CP
+  CD Santa Clara           1-1  Vitória de Setúbal
+  Boavista FC              2-0  SC Braga
+
+
+Jornada 10
+[Sáb, 2/Nov]
+  SL Benfica               2-0  Rio Ave FC
+  Moreirense FC            1-1  Vitória de Guimarães
+[Dom, 3/Nov]
+  Gil Vicente FC           2-0  CS Marítimo
+  CD Tondela               1-0  Sporting CP
+  FC Porto                 1-0  CD Aves
+  SC Braga                 2-2  FC Famalicão
+[Seg, 4/Nov]
+  Os Belenenses            1-0  FC Paços de Ferreira
+  Vitória de Setúbal       1-0  Boavista FC
+  Portimonense SC          1-1  CD Santa Clara
+
+
+Jornada 11
+[Sex, 8/Nov]
+  CD Aves                  1-2  Gil Vicente FC
+[Sáb, 9/Nov]
+  Rio Ave FC               1-0  Vitória de Setúbal
+  CD Santa Clara           1-2  SL Benfica
+  FC Famalicão             3-3  Moreirense FC
+[Dom, 10/Nov]
+  CS Marítimo              1-1  Portimonense SC
+  FC Paços de Ferreira     1-0  CD Tondela
+  Sporting CP              2-0  Os Belenenses
+  Vitória de Guimarães     0-2  SC Braga
+  Boavista FC              0-1  FC Porto
+
+
+Jornada 12
+[Sex, 29/Nov]
+  CD Santa Clara           1-2  Boavista FC
+[Sáb, 30/Nov]
+  Moreirense FC            3-2  CD Aves
+  SL Benfica               4-0  CS Marítimo
+  Portimonense SC          2-1  FC Famalicão
+[Dom, 1/Dez]
+  CD Tondela               0-1  Os Belenenses
+  Vitória de Setúbal       1-1  Vitória de Guimarães
+  Gil Vicente FC           3-1  Sporting CP
+[Seg, 2/Dez]
+  SC Braga                 2-0  Rio Ave FC
+  FC Porto                 2-0  FC Paços de Ferreira
+
+
+Jornada 13
+[Sex, 6/Dez]
+  Boavista FC              1-4  SL Benfica
+[Sáb, 7/Dez]
+  CS Marítimo              2-2  CD Santa Clara
+  FC Famalicão             2-3  CD Tondela
+  CD Aves                  1-0  SC Braga
+[Dom, 8/Dez]
+  FC Paços de Ferreira     2-3  Vitória de Setúbal
+  Vitória de Guimarães     2-0  Portimonense SC
+  Sporting CP              1-0  Moreirense FC
+  Os Belenenses            1-1  FC Porto
+[Seg, 9/Dez]
+  Rio Ave FC               1-0  Gil Vicente FC
+
+
+Jornada 14
+[Sex, 13/Dez]
+  Portimonense SC          1-1  Rio Ave FC
+[Sáb, 14/Dez]
+  CS Marítimo              1-0  Boavista FC
+  SL Benfica               4-0  FC Famalicão
+  Vitória de Setúbal       1-0  CD Aves
+[Dom, 15/Dez]
+  Moreirense FC            2-1  Os Belenenses
+  Gil Vicente FC           2-2  Vitória de Guimarães
+  SC Braga                 0-1  FC Paços de Ferreira
+[Seg, 16/Dez]
+  CD Santa Clara           0-4  Sporting CP
+  FC Porto                 3-0  CD Tondela
+
+
+Jornada 15
+[Sáb, 4/Jan]
+  CD Aves                  0-1  CD Santa Clara
+  Boavista FC              1-1  Portimonense SC
+  Os Belenenses            1-7  SC Braga
+  Vitória de Guimarães     0-1  SL Benfica
+[Dom, 5/Jan]
+  FC Paços de Ferreira     1-0  Moreirense FC
+  Rio Ave FC               0-1  CS Marítimo
+  CD Tondela               1-1  Gil Vicente FC
+  Sporting CP              1-2  FC Porto
+  FC Famalicão             3-0  Vitória de Setúbal
+
+
+Jornada 16
+[Sex, 10/Jan]
+  SL Benfica               2-1  CD Aves
+  CD Santa Clara           0-1  Rio Ave FC
+  Moreirense FC            2-4  FC Porto
+[Sáb, 11/Jan]
+  Portimonense SC          0-0  FC Paços de Ferreira
+  Boavista FC              0-1  FC Famalicão
+  Vitória de Setúbal       1-3  Sporting CP
+[Dom, 12/Jan]
+  Gil Vicente FC           2-0  Os Belenenses
+  CS Marítimo              0-0  Vitória de Guimarães
+  SC Braga                 2-1  CD Tondela
+
+
+Jornada 17
+[Sex, 17/Jan]
+  FC Porto                 1-2  SC Braga
+  Sporting CP              0-2  SL Benfica
+[Sáb, 18/Jan]
+  Vitória de Guimarães     1-0  CD Santa Clara
+  CD Aves                  3-0  Portimonense SC
+  CD Tondela               1-1  Moreirense FC
+  Os Belenenses            0-1  Vitória de Setúbal
+[Dom, 19/Jan]
+  FC Paços de Ferreira     0-0  Gil Vicente FC
+  FC Famalicão             1-1  CS Marítimo
+  Rio Ave FC               2-0  Boavista FC
+
+
+Jornada 18
+[Dom, 26/Jan]
+  Os Belenenses            2-1  Portimonense SC
+  FC Famalicão             0-1  CD Santa Clara
+  CD Tondela               0-3  Vitória de Setúbal
+  FC Paços de Ferreira     0-2  SL Benfica
+  CD Aves                  0-1  Boavista FC
+[Seg, 27/Jan]
+  Vitória de Guimarães     1-2  Rio Ave FC
+  Sporting CP              1-0  CS Marítimo
+[Ter, 28/Jan]
+  FC Porto                 2-1  Gil Vicente FC
+[Qua, 29/Jan]
+  Moreirense FC            1-2  SC Braga
+
+
+Jornada 19
+[Sex, 31/Jan]
+  SL Benfica               3-2  Os Belenenses
+  Rio Ave FC               2-2  FC Famalicão
+[Sáb, 1/Fev]
+  Portimonense SC          0-1  CD Tondela
+  Vitória de Setúbal       0-4  FC Porto
+[Dom, 2/Fev]
+  CS Marítimo              1-2  CD Aves
+  Gil Vicente FC           1-5  Moreirense FC
+  SC Braga                 1-0  Sporting CP
+  CD Santa Clara           2-1  FC Paços de Ferreira
+  Boavista FC              2-0  Vitória de Guimarães
+
+
+Jornada 20
+[Sex, 7/Fev]
+  FC Paços de Ferreira     0-1  Boavista FC
+[Sáb, 8/Fev]
+  Os Belenenses            0-2  CD Santa Clara
+  FC Famalicão             0-7  Vitória de Guimarães
+  SC Braga                 2-2  Gil Vicente FC
+  FC Porto                 3-2  SL Benfica
+[Dom, 9/Fev]
+  Moreirense FC            1-1  Vitória de Setúbal
+  CD Tondela               0-0  CS Marítimo
+  Sporting CP              2-1  Portimonense SC
+  CD Aves                  0-4  Rio Ave FC
+
+
+Jornada 21
+[Sex, 14/Fev]
+  Vitória de Setúbal       1-2  Gil Vicente FC
+[Sáb, 15/Fev]
+  CD Santa Clara           1-0  CD Tondela
+  Portimonense SC          1-1  Moreirense FC
+  SL Benfica               0-1  SC Braga
+  Rio Ave FC               1-1  Sporting CP
+[Dom, 16/Fev]
+  CS Marítimo              3-0  FC Paços de Ferreira
+  Boavista FC              1-2  Os Belenenses
+  Vitória de Guimarães     1-2  FC Porto
+  FC Famalicão             1-1  CD Aves
+
+
+Jornada 22
+[Sex, 21/Fev]
+  CD Aves                  0-2  Vitória de Guimarães
+[Sáb, 22/Fev]
+  CD Tondela               1-2  Rio Ave FC
+  Os Belenenses            1-0  CS Marítimo
+[Dom, 23/Fev]
+  FC Paços de Ferreira     2-1  FC Famalicão
+  Moreirense FC            2-1  CD Santa Clara
+  Sporting CP              2-0  Boavista FC
+  SC Braga                 3-1  Vitória de Setúbal
+  FC Porto                 1-0  Portimonense SC
+[Seg, 24/Fev]
+  Gil Vicente FC           0-1  SL Benfica
+
+
+Jornada 23
+[Sex, 28/Fev]
+  Portimonense SC          0-0  Vitória de Setúbal
+[Sáb, 29/Fev]
+  Rio Ave FC               0-0  Os Belenenses
+  Boavista FC              0-1  Gil Vicente FC
+[Dom, 1/Março]
+  CD Aves                  1-3  FC Paços de Ferreira
+  CS Marítimo              1-2  SC Braga
+  Vitória de Guimarães     2-0  CD Tondela
+[Seg, 2/Março]
+  CD Santa Clara           0-2  FC Porto
+  SL Benfica               1-1  Moreirense FC
+[Ter, 3/Março]
+  FC Famalicão             3-1  Sporting CP
+
+
+Jornada 24
+[Sex, 6/Março]
+  SC Braga                 3-1  Portimonense SC
+[Sáb, 7/Março]
+  CD Tondela               1-1  Boavista FC
+  Vitória de Setúbal       1-1  SL Benfica
+  FC Porto                 1-1  Rio Ave FC
+[Dom, 8/Março]
+  Moreirense FC            2-0  CS Marítimo
+  Os Belenenses            0-0  FC Famalicão
+  Gil Vicente FC           1-1  CD Santa Clara
+  Sporting CP              2-0  CD Aves
+  FC Paços de Ferreira     1-2  Vitória de Guimarães
+
+
+Jornada 25
+[Qua, 3/Junho]
+  Portimonense SC          1-0  Gil Vicente FC
+  FC Famalicão             2-1  FC Porto
+[Qui, 4/Junho]
+  CS Marítimo              1-1  Vitória de Setúbal
+  SL Benfica               0-0  CD Tondela
+  Vitória de Guimarães     2-2  Sporting CP
+[Sex, 5/Junho]
+  CD Santa Clara           3-2  SC Braga
+  CD Aves                  0-2  Os Belenenses
+[Sáb, 6/Junho]
+  Boavista FC              0-1  Moreirense FC
+[Dom, 7/Junho]
+  Rio Ave FC               2-3  FC Paços de Ferreira
+
+
+Jornada 26
+[Ter, 9/Junho]
+  Gil Vicente FC           1-3  FC Famalicão
+[Qua, 10/Junho]
+  Vitória de Setúbal       2-2  CD Santa Clara
+  Portimonense SC          2-2  SL Benfica
+  FC Porto                 1-0  CS Marítimo
+[Qui, 11/Junho]
+  Os Belenenses            1-1  Vitória de Guimarães
+  CD Tondela               2-0  CD Aves
+[Sex, 12/Junho]
+  Moreirense FC            0-1  Rio Ave FC
+  Sporting CP              1-0  FC Paços de Ferreira
+[Sáb, 13/Junho]
+  SC Braga                 0-1  Boavista FC
+
+
+Jornada 27
+[Seg, 15/Junho]
+  CS Marítimo              2-1  Gil Vicente FC
+[Ter, 16/Junho]
+  CD Santa Clara           1-1  Portimonense SC
+  CD Aves                  0-0  FC Porto
+[Qua, 17/Junho]
+  FC Paços de Ferreira     2-1  Os Belenenses
+  Rio Ave FC               1-2  SL Benfica
+[Qui, 18/Junho]
+  Boavista FC              3-1  Vitória de Setúbal
+  Sporting CP              2-0  CD Tondela
+[Sex, 19/Junho]
+  Vitória de Guimarães     1-1  Moreirense FC
+  FC Famalicão             0-0  SC Braga
+
+
+Jornada 28
+[Dom, 21/Junho]
+  Gil Vicente FC           3-0  CD Aves
+[Seg, 22/Junho]
+  Portimonense SC          3-2  CS Marítimo
+[Ter, 23/Junho]
+  Vitória de Setúbal       1-2  Rio Ave FC
+  SL Benfica               3-4  CD Santa Clara
+  FC Porto                 4-0  Boavista FC
+[Qua, 24/Junho]
+  CD Tondela               1-3  FC Paços de Ferreira
+  Moreirense FC            1-1  FC Famalicão
+[Qui, 25/Junho]
+  SC Braga                 3-2  Vitória de Guimarães
+[Sex, 26/Junho]
+  Os Belenenses            1-3  Sporting CP
+
+
+Jornada 29
+[Dom, 28/Junho]
+  Boavista FC              1-0  CD Santa Clara
+[Seg, 29/Junho]
+  CD Aves                  0-1  Moreirense FC
+  CS Marítimo              2-0  SL Benfica
+  FC Paços de Ferreira     0-1  FC Porto
+[Ter, 30/Junho]
+  FC Famalicão             0-1  Portimonense SC
+  Vitória de Guimarães     2-0  Vitória de Setúbal
+  Rio Ave FC               4-3  SC Braga
+[Qua, 1/Julho]
+  Os Belenenses            1-1  CD Tondela
+  Sporting CP              2-1  Gil Vicente FC
+
+
+Jornada 30
+[Sex, 3/Julho]
+  CD Santa Clara           0-1  CS Marítimo
+[Sáb, 4/Julho]
+  Vitória de Setúbal       2-3  FC Paços de Ferreira
+  Portimonense SC          0-1  Vitória de Guimarães
+  SL Benfica               3-1  Boavista FC
+  SC Braga                 4-0  CD Aves
+[Dom, 5/Julho]
+  Gil Vicente FC           1-0  Rio Ave FC
+  CD Tondela               0-1  FC Famalicão
+  FC Porto                 5-0  Os Belenenses
+[Seg, 6/Julho]
+  Moreirense FC            0-0  Sporting CP
+
+
+Jornada 31
+[Qua, 8/Julho]
+  Boavista FC              0-1  CS Marítimo
+  CD Aves                  1-0  Vitória de Setúbal
+[Qui, 9/Julho]
+  Rio Ave FC               2-1  Portimonense SC
+  CD Tondela               -  FC Porto
+  FC Famalicão             -  SL Benfica
+[Sex, 10/Julho]
+  Vitória de Guimarães     -  Gil Vicente FC
+  Sporting CP              -  CD Santa Clara
+  FC Paços de Ferreira     -  SC Braga
+[Sáb, 11/Julho]
+  Os Belenenses            -  Moreirense FC
+
+
+Jornada 32
+[Seg, 13/Julho]
+  CS Marítimo              -  Rio Ave FC
+  Vitória de Setúbal       -  FC Famalicão
+[Ter, 14/Julho]
+  CD Santa Clara           -  CD Aves
+  Portimonense SC          -  Boavista FC
+  Gil Vicente FC           -  CD Tondela
+  SL Benfica               -  Vitória de Guimarães
+[Qua, 15/Julho]
+  Moreirense FC            -  FC Paços de Ferreira
+  SC Braga                 -  Os Belenenses
+  FC Porto                 -  Sporting CP
+
+
+Jornada 33
+[Sáb, 18/Julho]
+  Rio Ave FC               -  CD Santa Clara
+  FC Famalicão             -  Boavista FC
+[Dom, 19/Julho]
+  Os Belenenses            -  Gil Vicente FC
+  Vitória de Guimarães     -  CS Marítimo
+[Seg, 20/Julho]
+  FC Paços de Ferreira     -  Portimonense SC
+  CD Tondela               -  SC Braga
+  FC Porto                 -  Moreirense FC
+[Ter, 21/Julho]
+  Sporting CP              -  Vitória de Setúbal
+  CD Aves                  -  SL Benfica
+
+
+Jornada 34
+[Dom, 26/Julho]
+  SC Braga                 -  FC Porto
+  CS Marítimo              -  FC Famalicão
+  Gil Vicente FC           -  FC Paços de Ferreira
+  Moreirense FC            -  CD Tondela
+  SL Benfica               -  Sporting CP
+  Vitória de Setúbal       -  Os Belenenses
+  CD Santa Clara           -  Vitória de Guimarães
+  Portimonense SC          -  CD Aves
+  Boavista FC              -  Rio Ave FC
