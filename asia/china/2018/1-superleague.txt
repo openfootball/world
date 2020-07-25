@@ -1,0 +1,407 @@
+= Chinese Super League 2018
+
+
+Matchday 1
+[Fri Mar/2]
+  Henan Jianye              0-4  Tianjin Tianhai
+  Shanghai Shenxin          1-1  Changchun Yatai
+  Guangzhou Evergrande Taobao   4-5  Guangzhou R&F
+[Sat Mar/3]
+  Chongqing Dangdai Lifan   1-0  Beijing Renhe
+  Shanghai SIPG             8-0  Dalian Yifang
+  Tianjin TEDA              1-1  Hebei China Fortune
+[Sun Mar/4]
+  Guizhou Hengfeng          1-3  Jiangsu Suning
+  Shandong Luneng Taishan   3-0  Beijing Sinobo Guoan
+
+
+Matchday 2
+[Fri Mar/9]
+  Guangzhou Evergrande Taobao   5-0  Changchun Yatai
+[Sat Mar/10]
+  Tianjin Tianhai           1-2  Beijing Renhe
+  Guangzhou R&F             2-0  Dalian Yifang
+  Shanghai Shenxin          0-2  Shanghai SIPG
+  Shandong Luneng Taishan   2-0  Chongqing Dangdai Lifan
+[Sun Mar/11]
+  Guizhou Hengfeng          2-3  Hebei China Fortune
+  Jiangsu Suning            1-2  Beijing Sinobo Guoan
+  Henan Jianye              1-0  Tianjin TEDA
+
+
+Matchday 3
+[Fri Mar/16]
+  Dalian Yifang             0-3  Beijing Sinobo Guoan
+[Sat Mar/17]
+  Hebei China Fortune       1-2  Shandong Luneng Taishan
+  Chongqing Dangdai Lifan   4-1  Jiangsu Suning
+[Sun Mar/18]
+  Guangzhou R&F             2-5  Shanghai SIPG
+  Changchun Yatai           1-1  Beijing Renhe
+  Guangzhou Evergrande Taobao   1-0  Henan Jianye
+  Tianjin TEDA              3-2  Tianjin Tianhai
+  Guizhou Hengfeng          0-1  Shanghai Shenxin
+
+
+Matchday 4
+[Fri Mar/30]
+  Tianjin Tianhai           0-1  Guangzhou Evergrande Taobao
+  Shanghai SIPG             2-1  Chongqing Dangdai Lifan
+[Sat Mar/31]
+  Changchun Yatai           1-2  Guangzhou R&F
+  Shanghai Shenxin          4-2  Hebei China Fortune
+  Beijing Sinobo Guoan      4-0  Beijing Renhe
+  Henan Jianye              1-1  Dalian Yifang
+[Sun Apr/1]
+  Shandong Luneng Taishan   0-2  Guizhou Hengfeng
+  Jiangsu Suning            2-1  Tianjin TEDA
+
+
+Matchday 5
+[Fri Apr/6]
+  Beijing Sinobo Guoan      1-1  Tianjin TEDA
+  Guangzhou R&F             0-2  Jiangsu Suning
+[Sat Apr/7]
+  Dalian Yifang             2-2  Chongqing Dangdai Lifan
+  Hebei China Fortune       2-1  Changchun Yatai
+[Sun Apr/8]
+  Beijing Renhe             0-2  Shanghai Shenxin
+  Guizhou Hengfeng          0-1  Tianjin Tianhai
+  Henan Jianye              1-2  Shanghai SIPG
+  Guangzhou Evergrande Taobao   1-0  Shandong Luneng Taishan
+
+
+Matchday 6
+[Fri Apr/13]
+  Shanghai Shenxin          2-2  Guangzhou Evergrande Taobao
+  Tianjin Tianhai           1-1  Jiangsu Suning
+  Shanghai SIPG             2-0  Hebei China Fortune
+[Sat Apr/14]
+  Beijing Renhe             2-1  Guizhou Hengfeng
+  Tianjin TEDA              2-1  Guangzhou R&F
+  Shandong Luneng Taishan   2-0  Dalian Yifang
+[Sun Apr/15]
+  Changchun Yatai           3-0  Henan Jianye
+  Chongqing Dangdai Lifan   3-3  Beijing Sinobo Guoan
+
+
+Matchday 7
+[Fri Apr/20]
+  Henan Jianye              0-2  Chongqing Dangdai Lifan
+[Sat Apr/21]
+  Hebei China Fortune       0-0  Beijing Renhe
+  Guizhou Hengfeng          2-5  Changchun Yatai
+  Guangzhou R&F             2-4  Shandong Luneng Taishan
+[Sun Apr/22]
+  Dalian Yifang             1-1  Tianjin Tianhai
+  Jiangsu Suning            5-1  Shanghai Shenxin
+  Beijing Sinobo Guoan      2-2  Guangzhou Evergrande Taobao
+  Shanghai SIPG             1-1  Tianjin TEDA
+
+
+Matchday 8
+[Sat Apr/28]
+  Beijing Renhe             1-0  Tianjin TEDA
+  Tianjin Tianhai           0-3  Hebei China Fortune
+  Guangzhou Evergrande Taobao   1-0  Jiangsu Suning
+[Sun Apr/29]
+  Changchun Yatai           2-1  Shanghai SIPG
+  Shanghai Shenxin          1-0  Dalian Yifang
+  Chongqing Dangdai Lifan   0-1  Guangzhou R&F
+  Beijing Sinobo Guoan      4-3  Guizhou Hengfeng
+  Shandong Luneng Taishan   2-1  Henan Jianye
+
+
+Matchday 9
+[Sat May/5]
+  Dalian Yifang             3-0  Guangzhou Evergrande Taobao
+  Guangzhou R&F             4-2  Shanghai Shenxin
+  Shanghai SIPG             1-2  Beijing Sinobo Guoan
+  Chongqing Dangdai Lifan   0-1  Tianjin Tianhai
+  Hebei China Fortune       0-1  Henan Jianye
+[Sun May/6]
+  Tianjin TEDA              5-1  Guizhou Hengfeng
+  Beijing Renhe             0-0  Shandong Luneng Taishan
+  Jiangsu Suning            2-0  Changchun Yatai
+
+
+Matchday 10
+[Fri May/11]
+  Beijing Sinobo Guoan      2-2  Guangzhou R&F
+[Sat May/12]
+  Guizhou Hengfeng          1-1  Shanghai SIPG
+  Changchun Yatai           0-1  Tianjin TEDA
+  Shanghai Shenxin          2-1  Chongqing Dangdai Lifan
+  Guangzhou Evergrande Taobao   2-2  Hebei China Fortune
+  Tianjin Tianhai           1-1  Shandong Luneng Taishan
+[Sun May/13]
+  Henan Jianye              1-0  Beijing Renhe
+  Jiangsu Suning            1-0  Dalian Yifang
+
+
+Matchday 11
+[Fri May/18]
+  Tianjin TEDA              1-2  Shandong Luneng Taishan
+[Sat May/19]
+  Changchun Yatai           0-2  Beijing Sinobo Guoan
+  Guangzhou R&F             1-1  Henan Jianye
+  Hebei China Fortune       2-1  Chongqing Dangdai Lifan
+[Sun May/20]
+  Beijing Renhe             2-0  Guangzhou Evergrande Taobao
+  Tianjin Tianhai           2-1  Shanghai Shenxin
+  Dalian Yifang             2-1  Guizhou Hengfeng
+  Shanghai SIPG             2-0  Jiangsu Suning
+
+
+Matchday 12
+[Tue Jul/17]
+  Shandong Luneng Taishan   1-1  Shanghai SIPG
+  Chongqing Dangdai Lifan   1-2  Changchun Yatai
+  Jiangsu Suning            0-0  Beijing Renhe
+  Tianjin Tianhai           2-1  Guangzhou R&F
+[Wed Jul/18]
+  Dalian Yifang             0-0  Hebei China Fortune
+  Guangzhou Evergrande Taobao   4-0  Guizhou Hengfeng
+  Beijing Sinobo Guoan      2-1  Henan Jianye
+  Shanghai Shenxin          1-0  Tianjin TEDA
+
+
+Matchday 13
+[Sat Jul/21]
+  Changchun Yatai           1-2  Shandong Luneng Taishan
+  Tianjin TEDA              1-2  Chongqing Dangdai Lifan
+  Beijing Renhe             3-1  Dalian Yifang
+[Sun Jul/22]
+  Hebei China Fortune       0-0  Jiangsu Suning
+  Beijing Sinobo Guoan      3-2  Tianjin Tianhai
+  Guangzhou R&F             1-1  Guizhou Hengfeng
+  Henan Jianye              2-2  Shanghai Shenxin
+
+
+Matchday 14
+[Sat Jul/28]
+  Beijing Renhe             1-5  Shanghai SIPG
+  Dalian Yifang             2-3  Tianjin TEDA
+  Jiangsu Suning            1-1  Shandong Luneng Taishan
+  Guizhou Hengfeng          1-2  Henan Jianye
+  Hebei China Fortune       2-2  Guangzhou R&F
+  Shanghai Shenxin          2-2  Beijing Sinobo Guoan
+[Sun Jul/29]
+  Guangzhou Evergrande Taobao   5-0  Chongqing Dangdai Lifan
+  Tianjin Tianhai           2-0  Changchun Yatai
+
+
+Matchday 15
+[Wed Aug/1]
+  Changchun Yatai           3-0  Dalian Yifang
+  Shandong Luneng Taishan   3-1  Shanghai Shenxin
+  Chongqing Dangdai Lifan   3-4  Guizhou Hengfeng
+  Henan Jianye              0-1  Jiangsu Suning
+  Guangzhou R&F             4-1  Beijing Renhe
+  Shanghai SIPG             4-1  Tianjin Tianhai
+[Thu Aug/2]
+  Tianjin TEDA              0-3  Guangzhou Evergrande Taobao
+  Beijing Sinobo Guoan      6-3  Hebei China Fortune
+
+
+Matchday 16
+[Sat Aug/4]
+  Changchun Yatai           1-1  Shanghai Shenxin
+  Beijing Renhe             1-1  Chongqing Dangdai Lifan
+  Tianjin Tianhai           1-2  Henan Jianye
+[Sun Aug/5]
+  Hebei China Fortune       1-2  Tianjin TEDA
+  Guangzhou R&F             2-4  Guangzhou Evergrande Taobao
+  Beijing Sinobo Guoan      1-1  Shandong Luneng Taishan
+  Dalian Yifang             1-0  Shanghai SIPG
+  Jiangsu Suning            3-1  Guizhou Hengfeng
+
+
+Matchday 17
+[Fri Aug/10]
+  Beijing Sinobo Guoan      3-1  Jiangsu Suning
+  Tianjin TEDA              2-0  Henan Jianye
+  Dalian Yifang             3-0  Guangzhou R&F
+[Sat Aug/11]
+  Changchun Yatai           3-2  Guangzhou Evergrande Taobao
+  Shanghai SIPG             2-0  Shanghai Shenxin
+  Hebei China Fortune       1-0  Guizhou Hengfeng
+  Chongqing Dangdai Lifan   0-2  Shandong Luneng Taishan
+[Sun Aug/12]
+  Beijing Renhe             3-3  Tianjin Tianhai
+
+
+Matchday 18
+[Tue Aug/14]
+  Beijing Sinobo Guoan      5-2  Dalian Yifang
+[Wed Aug/15]
+  Shanghai SIPG             3-1  Guangzhou R&F
+  Jiangsu Suning            0-0  Chongqing Dangdai Lifan
+  Beijing Renhe             1-3  Changchun Yatai
+  Tianjin Tianhai           0-0  Tianjin TEDA
+  Shandong Luneng Taishan   3-1  Hebei China Fortune
+  Shanghai Shenxin          3-1  Guizhou Hengfeng
+  Henan Jianye              0-5  Guangzhou Evergrande Taobao
+
+
+Matchday 19
+[Sat Aug/18]
+  Guizhou Hengfeng          3-1  Shandong Luneng Taishan
+  Chongqing Dangdai Lifan   2-3  Shanghai SIPG
+  Dalian Yifang             2-1  Henan Jianye
+  Beijing Renhe             3-0  Beijing Sinobo Guoan
+  Guangzhou R&F             5-2  Changchun Yatai
+  Tianjin TEDA              1-1  Jiangsu Suning
+[Sun Aug/19]
+  Guangzhou Evergrande Taobao   5-0  Tianjin Tianhai
+  Hebei China Fortune       4-1  Shanghai Shenxin
+
+
+Matchday 20
+[Fri Aug/24]
+  Tianjin Tianhai           1-0  Guizhou Hengfeng
+[Sat Aug/25]
+  Tianjin TEDA              2-5  Beijing Sinobo Guoan
+  Shanghai SIPG             2-1  Henan Jianye
+  Shandong Luneng Taishan   1-4  Guangzhou Evergrande Taobao
+  Chongqing Dangdai Lifan   1-1  Dalian Yifang
+[Sun Aug/26]
+  Changchun Yatai           2-2  Hebei China Fortune
+  Jiangsu Suning            2-0  Guangzhou R&F
+  Shanghai Shenxin          1-3  Beijing Renhe
+
+
+Matchday 21
+[Thu Aug/30]
+  Beijing Sinobo Guoan      2-1  Chongqing Dangdai Lifan
+[Sat Sep/1]
+  Dalian Yifang             4-3  Shandong Luneng Taishan
+  Guangzhou R&F             2-0  Tianjin TEDA
+  Hebei China Fortune       1-1  Shanghai SIPG
+[Sun Sep/2]
+  Jiangsu Suning            1-1  Tianjin Tianhai
+  Henan Jianye              1-1  Changchun Yatai
+  Guangzhou Evergrande Taobao   2-1  Shanghai Shenxin
+  Guizhou Hengfeng          1-1  Beijing Renhe
+
+
+Matchday 22
+[Fri Sep/14]
+  Tianjin Tianhai           0-1  Dalian Yifang
+  Tianjin TEDA              2-5  Shanghai SIPG
+  Guangzhou Evergrande Taobao   1-0  Beijing Sinobo Guoan
+[Sat Sep/15]
+  Changchun Yatai           3-0  Guizhou Hengfeng
+  Shanghai Shenxin          1-1  Jiangsu Suning
+  Chongqing Dangdai Lifan   1-0  Henan Jianye
+[Sun Sep/16]
+  Shandong Luneng Taishan   2-1  Guangzhou R&F
+  Beijing Renhe             0-2  Hebei China Fortune
+
+
+Matchday 13
+[Tue Sep/18]
+  Shanghai SIPG             2-1  Guangzhou Evergrande Taobao
+
+
+Matchday 23
+[Sat Sep/22]
+  Dalian Yifang             2-1  Shanghai Shenxin
+  Henan Jianye              1-4  Shandong Luneng Taishan
+  Shanghai SIPG             3-1  Changchun Yatai
+  Hebei China Fortune       2-0  Tianjin Tianhai
+  Guizhou Hengfeng          3-2  Beijing Sinobo Guoan
+  Jiangsu Suning            2-3  Guangzhou Evergrande Taobao
+[Sun Sep/23]
+  Tianjin TEDA              2-2  Beijing Renhe
+  Guangzhou R&F             1-1  Chongqing Dangdai Lifan
+
+
+Matchday 24
+[Sat Sep/29]
+  Changchun Yatai           2-5  Jiangsu Suning
+  Henan Jianye              2-0  Hebei China Fortune
+  Guangzhou Evergrande Taobao   3-0  Dalian Yifang
+  Beijing Sinobo Guoan      0-1  Shanghai SIPG
+[Sun Sep/30]
+  Tianjin Tianhai           0-3  Chongqing Dangdai Lifan
+  Shanghai Shenxin          3-1  Guangzhou R&F
+  Shandong Luneng Taishan   1-1  Beijing Renhe
+  Guizhou Hengfeng          1-0  Tianjin TEDA
+
+
+Matchday 25
+[Fri Oct/5]
+  Shandong Luneng Taishan   3-2  Tianjin Tianhai
+  Beijing Renhe             1-0  Henan Jianye
+[Sat Oct/6]
+  Dalian Yifang             3-1  Jiangsu Suning
+  Tianjin TEDA              3-3  Changchun Yatai
+  Hebei China Fortune       0-3  Guangzhou Evergrande Taobao
+  Chongqing Dangdai Lifan   0-1  Shanghai Shenxin
+[Sun Oct/7]
+  Shanghai SIPG             5-0  Guizhou Hengfeng
+  Guangzhou R&F             0-3  Beijing Sinobo Guoan
+
+
+Matchday 26
+[Sat Oct/20]
+  Shandong Luneng Taishan   2-0  Tianjin TEDA
+  Shanghai Shenxin          1-1  Tianjin Tianhai
+  Guizhou Hengfeng          3-0  Dalian Yifang
+  Chongqing Dangdai Lifan   4-4  Hebei China Fortune
+  Guangzhou Evergrande Taobao   6-1  Beijing Renhe
+[Sun Oct/21]
+  Beijing Sinobo Guoan      1-1  Changchun Yatai
+  Henan Jianye              2-0  Guangzhou R&F
+  Jiangsu Suning            0-0  Shanghai SIPG
+
+
+Matchday 27
+[Sat Oct/27]
+  Changchun Yatai           1-2  Chongqing Dangdai Lifan
+  Beijing Renhe             0-2  Jiangsu Suning
+  Hebei China Fortune       3-2  Dalian Yifang
+  Guangzhou R&F             2-6  Tianjin Tianhai
+[Sun Oct/28]
+  Tianjin TEDA              2-4  Shanghai Shenxin
+  Guizhou Hengfeng          0-3  Guangzhou Evergrande Taobao
+  Henan Jianye              2-0  Beijing Sinobo Guoan
+  Shanghai SIPG             4-2  Shandong Luneng Taishan
+
+
+Matchday 28
+[Fri Nov/2]
+  Shanghai Shenxin          0-2  Henan Jianye
+  Tianjin Tianhai           0-0  Beijing Sinobo Guoan
+  Shandong Luneng Taishan   2-0  Changchun Yatai
+  Guizhou Hengfeng          0-2  Guangzhou R&F
+[Sat Nov/3]
+  Dalian Yifang             1-2  Beijing Renhe
+  Chongqing Dangdai Lifan   1-1  Tianjin TEDA
+  Jiangsu Suning            3-1  Hebei China Fortune
+  Guangzhou Evergrande Taobao   4-5  Shanghai SIPG
+
+
+Matchday 29
+[Wed Nov/7]
+  Guangzhou R&F             2-1  Hebei China Fortune
+  Beijing Sinobo Guoan      3-1  Shanghai Shenxin
+  Henan Jianye              4-0  Guizhou Hengfeng
+  Tianjin TEDA              3-1  Dalian Yifang
+  Chongqing Dangdai Lifan   2-0  Guangzhou Evergrande Taobao
+  Shanghai SIPG             2-1  Beijing Renhe
+  Changchun Yatai           2-2  Tianjin Tianhai
+  Shandong Luneng Taishan   3-2  Jiangsu Suning
+
+
+Matchday 30
+[Sun Nov/11]
+  Dalian Yifang             2-0  Changchun Yatai
+  Shanghai Shenxin          2-2  Shandong Luneng Taishan
+  Guangzhou Evergrande Taobao   5-1  Tianjin TEDA
+  Guizhou Hengfeng          1-0  Chongqing Dangdai Lifan
+  Hebei China Fortune       2-1  Beijing Sinobo Guoan
+  Jiangsu Suning            4-0  Henan Jianye
+  Beijing Renhe             0-0  Guangzhou R&F
+  Tianjin Tianhai           3-2  Shanghai SIPG

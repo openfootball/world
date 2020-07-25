@@ -1,0 +1,204 @@
+= Chinese Super League 2020
+
+
+Matchday 1
+[Sat Jul/25]
+  Guangzhou Evergrande Taobao  -  Shanghai Shenxin
+  Wuhan Zall               -  Qingdao Huanghai FC
+[Sun Jul/26]
+  Dalian Yifang            -  Shandong Luneng Taishan
+  Hebei China Fortune      -  Shijiazhuang Ever Bright
+  Shenzhen FC              -  Guangzhou R&F
+  Henan Jianye             -  Jiangsu Suning
+  Chongqing Dangdai Lifan  -  Beijing Sinobo Guoan
+[Mon Jul/27]
+  Tianjin Tianhai          -  Shanghai SIPG
+
+
+Matchday 2
+[Thu Jul/30]
+  Shanghai Shenxin         -  Shenzhen FC
+  Guangzhou R&F            -  Guangzhou Evergrande Taobao
+[Fri Jul/31]
+  Jiangsu Suning           -  Shandong Luneng Taishan
+  Dalian Yifang            -  Henan Jianye
+[Sat Aug/1]
+  Beijing Sinobo Guoan     -  Wuhan Zall
+  Shijiazhuang Ever Bright  -  Qingdao Huanghai FC
+[Sun Aug/2]
+  Shanghai SIPG            -  Hebei China Fortune
+  Chongqing Dangdai Lifan  -  Tianjin Tianhai
+
+
+Matchday 3
+[Tue Aug/4]
+  Shenzhen FC              -  Guangzhou Evergrande Taobao
+  Jiangsu Suning           -  Dalian Yifang
+[Wed Aug/5]
+  Shandong Luneng Taishan  -  Shanghai Shenxin
+  Henan Jianye             -  Guangzhou R&F
+[Thu Aug/6]
+  Tianjin Tianhai          -  Beijing Sinobo Guoan
+  Qingdao Huanghai FC      -  Shanghai SIPG
+[Fri Aug/7]
+  Wuhan Zall               -  Shijiazhuang Ever Bright
+  Hebei China Fortune      -  Chongqing Dangdai Lifan
+
+
+Matchday 4
+[Sun Aug/9]
+  Guangzhou Evergrande Taobao  -  Shandong Luneng Taishan
+  Guangzhou R&F            -  Jiangsu Suning
+[Mon Aug/10]
+  Shanghai Shenxin         -  Dalian Yifang
+  Shenzhen FC              -  Henan Jianye
+[Tue Aug/11]
+  Shijiazhuang Ever Bright  -  Tianjin Tianhai
+  Chongqing Dangdai Lifan  -  Qingdao Huanghai FC
+[Wed Aug/12]
+  Shanghai SIPG            -  Wuhan Zall
+  Beijing Sinobo Guoan     -  Hebei China Fortune
+
+
+Matchday 5
+[Fri Aug/14]
+  Henan Jianye             -  Guangzhou Evergrande Taobao
+  Jiangsu Suning           -  Shanghai Shenxin
+[Sat Aug/15]
+  Shandong Luneng Taishan  -  Shenzhen FC
+  Dalian Yifang            -  Guangzhou R&F
+[Sun Aug/16]
+  Qingdao Huanghai FC      -  Beijing Sinobo Guoan
+  Shanghai SIPG            -  Shijiazhuang Ever Bright
+[Mon Aug/17]
+  Wuhan Zall               -  Chongqing Dangdai Lifan
+  Hebei China Fortune      -  Tianjin Tianhai
+
+
+Matchday 6
+[Wed Aug/19]
+  Shandong Luneng Taishan  -  Henan Jianye
+  Shanghai Shenxin         -  Guangzhou R&F
+[Thu Aug/20]
+  Guangzhou Evergrande Taobao  -  Jiangsu Suning
+  Shenzhen FC              -  Dalian Yifang
+[Fri Aug/21]
+  Hebei China Fortune      -  Wuhan Zall
+  Chongqing Dangdai Lifan  -  Shijiazhuang Ever Bright
+[Sat Aug/22]
+  Tianjin Tianhai          -  Qingdao Huanghai FC
+  Beijing Sinobo Guoan     -  Shanghai SIPG
+
+
+Matchday 7
+[Mon Aug/24]
+  Henan Jianye             -  Shanghai Shenxin
+  Jiangsu Suning           -  Shenzhen FC
+[Tue Aug/25]
+  Guangzhou R&F            -  Shandong Luneng Taishan
+  Dalian Yifang            -  Guangzhou Evergrande Taobao
+[Wed Aug/26]
+  Shanghai SIPG            -  Chongqing Dangdai Lifan
+  Wuhan Zall               -  Tianjin Tianhai
+[Thu Aug/27]
+  Shijiazhuang Ever Bright  -  Beijing Sinobo Guoan
+  Qingdao Huanghai FC      -  Hebei China Fortune
+
+
+Matchday 8
+[Sat Aug/29]
+  Guangzhou R&F            -  Shenzhen FC
+  Shandong Luneng Taishan  -  Dalian Yifang
+[Sun Aug/30]
+  Jiangsu Suning           -  Henan Jianye
+  Shanghai Shenxin         -  Guangzhou Evergrande Taobao
+[Mon Aug/31]
+  Shijiazhuang Ever Bright  -  Hebei China Fortune
+  Shanghai SIPG            -  Tianjin Tianhai
+[Tue Sep/1]
+  Qingdao Huanghai FC      -  Wuhan Zall
+  Beijing Sinobo Guoan     -  Chongqing Dangdai Lifan
+
+
+Matchday 9
+[Thu Sep/3]
+  Henan Jianye             -  Dalian Yifang
+  Shandong Luneng Taishan  -  Jiangsu Suning
+[Fri Sep/4]
+  Shenzhen FC              -  Shanghai Shenxin
+  Guangzhou Evergrande Taobao  -  Guangzhou R&F
+[Sat Sep/5]
+  Hebei China Fortune      -  Shanghai SIPG
+  Qingdao Huanghai FC      -  Shijiazhuang Ever Bright
+[Sun Sep/6]
+  Tianjin Tianhai          -  Chongqing Dangdai Lifan
+  Wuhan Zall               -  Beijing Sinobo Guoan
+
+
+Matchday 10
+[Tue Sep/8]
+  Guangzhou R&F            -  Henan Jianye
+  Dalian Yifang            -  Jiangsu Suning
+[Wed Sep/9]
+  Guangzhou Evergrande Taobao  -  Shenzhen FC
+  Shanghai Shenxin         -  Shandong Luneng Taishan
+[Thu Sep/10]
+  Beijing Sinobo Guoan     -  Tianjin Tianhai
+  Shanghai SIPG            -  Qingdao Huanghai FC
+[Fri Sep/11]
+  Chongqing Dangdai Lifan  -  Hebei China Fortune
+  Shijiazhuang Ever Bright  -  Wuhan Zall
+
+
+Matchday 11
+[Sun Sep/13]
+  Jiangsu Suning           -  Guangzhou R&F
+  Shandong Luneng Taishan  -  Guangzhou Evergrande Taobao
+[Mon Sep/14]
+  Henan Jianye             -  Shenzhen FC
+  Dalian Yifang            -  Shanghai Shenxin
+[Tue Sep/15]
+  Wuhan Zall               -  Shanghai SIPG
+  Hebei China Fortune      -  Beijing Sinobo Guoan
+[Wed Sep/16]
+  Qingdao Huanghai FC      -  Chongqing Dangdai Lifan
+  Tianjin Tianhai          -  Shijiazhuang Ever Bright
+
+
+Matchday 12
+[Sat Sep/19]
+  Guangzhou Evergrande Taobao  -  Henan Jianye
+  Shenzhen FC              -  Shandong Luneng Taishan
+  Shanghai Shenxin         -  Jiangsu Suning
+  Guangzhou R&F            -  Dalian Yifang
+[Sun Sep/20]
+  Beijing Sinobo Guoan     -  Qingdao Huanghai FC
+  Tianjin Tianhai          -  Hebei China Fortune
+  Chongqing Dangdai Lifan  -  Wuhan Zall
+  Shijiazhuang Ever Bright  -  Shanghai SIPG
+
+
+Matchday 13
+[Wed Sep/23]
+  Guangzhou R&F            -  Shanghai Shenxin
+  Dalian Yifang            -  Shenzhen FC
+  Henan Jianye             -  Shandong Luneng Taishan
+  Jiangsu Suning           -  Guangzhou Evergrande Taobao
+[Thu Sep/24]
+  Shijiazhuang Ever Bright  -  Chongqing Dangdai Lifan
+  Qingdao Huanghai FC      -  Tianjin Tianhai
+  Wuhan Zall               -  Hebei China Fortune
+  Shanghai SIPG            -  Beijing Sinobo Guoan
+
+
+Matchday 14
+[Sun Sep/27]
+  Shenzhen FC              -  Jiangsu Suning
+  Shanghai Shenxin         -  Henan Jianye
+  Shandong Luneng Taishan  -  Guangzhou R&F
+  Guangzhou Evergrande Taobao  -  Dalian Yifang
+[Mon Sep/28]
+  Beijing Sinobo Guoan     -  Shijiazhuang Ever Bright
+  Hebei China Fortune      -  Qingdao Huanghai FC
+  Chongqing Dangdai Lifan  -  Shanghai SIPG
+  Tianjin Tianhai          -  Wuhan Zall
