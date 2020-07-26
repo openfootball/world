@@ -1,0 +1,490 @@
+= Japan J1 League 2019
+
+
+Matchday 1
+[Fri Feb/22]
+  Cerezo Osaka              1-0  Vissel Kobe
+[Sat Feb/23]
+  Vegalta Sendai            0-0  Urawa Red Diamonds
+  Sagan Tosu                0-4  Nagoya Grampus
+  Sanfrecce Hiroshima       1-1  Shimizu S-Pulse
+  Kawasaki Frontale         0-0  FC Tokyo
+  Júbilo Iwata              1-1  Matsumoto Yamaga
+  Gamba Osaka               2-3  Yokohama F. Marinos
+  Kashima Antlers           1-2  Oita Trinita
+  Shonan Bellmare           2-0  Hokkaido Consadole Sapporo
+
+
+Matchday 2
+[Fri Mar/1]
+  Kawasaki Frontale         1-1  Kashima Antlers
+  Sanfrecce Hiroshima       0-0  Júbilo Iwata
+[Sat Mar/2]
+  Yokohama F. Marinos       2-1  Vegalta Sendai
+  Nagoya Grampus            2-0  Cerezo Osaka
+  Shimizu S-Pulse           2-4  Gamba Osaka
+  Vissel Kobe               1-0  Sagan Tosu
+  Shonan Bellmare           2-3  FC Tokyo
+  Oita Trinita              0-1  Matsumoto Yamaga
+  Urawa Red Diamonds        0-2  Hokkaido Consadole Sapporo
+
+
+Matchday 3
+[Sat Mar/9]
+  Hokkaido Consadole Sapporo   5-2  Shimizu S-Pulse
+  Matsumoto Yamaga          0-1  Urawa Red Diamonds
+  Júbilo Iwata              1-2  Oita Trinita
+  Gamba Osaka               2-3  Nagoya Grampus
+  Cerezo Osaka              0-1  Sanfrecce Hiroshima
+  Kashima Antlers           1-0  Shonan Bellmare
+[Sun Mar/10]
+  Vegalta Sendai            1-3  Vissel Kobe
+  Yokohama F. Marinos       2-2  Kawasaki Frontale
+  FC Tokyo                  2-0  Sagan Tosu
+
+
+Matchday 4
+[Sun Mar/17]
+  Sagan Tosu                1-0  Júbilo Iwata
+  FC Tokyo                  1-0  Nagoya Grampus
+  Hokkaido Consadole Sapporo   1-3  Kashima Antlers
+  Vissel Kobe               1-1  Shimizu S-Pulse
+  Kawasaki Frontale         0-1  Gamba Osaka
+  Sanfrecce Hiroshima       1-0  Matsumoto Yamaga
+  Cerezo Osaka              1-2  Urawa Red Diamonds
+  Oita Trinita              2-0  Yokohama F. Marinos
+  Shonan Bellmare           2-1  Vegalta Sendai
+
+
+Matchday 5
+[Fri Mar/29]
+  Yokohama F. Marinos       0-0  Sagan Tosu
+[Sat Mar/30]
+  Vegalta Sendai            0-2  Cerezo Osaka
+  Nagoya Grampus            4-0  Hokkaido Consadole Sapporo
+  Urawa Red Diamonds        1-1  FC Tokyo
+  Júbilo Iwata              1-1  Kashima Antlers
+  Gamba Osaka               3-4  Vissel Kobe
+  Oita Trinita              0-1  Sanfrecce Hiroshima
+[Sun Mar/31]
+  Shimizu S-Pulse           1-3  Shonan Bellmare
+  Matsumoto Yamaga          0-2  Kawasaki Frontale
+
+
+Matchday 6
+[Fri Apr/5]
+  Kawasaki Frontale         1-1  Cerezo Osaka
+  Kashima Antlers           2-1  Nagoya Grampus
+  Urawa Red Diamonds        0-3  Yokohama F. Marinos
+[Sat Apr/6]
+  Hokkaido Consadole Sapporo   1-2  Oita Trinita
+  FC Tokyo                  2-1  Shimizu S-Pulse
+  Sanfrecce Hiroshima       3-0  Gamba Osaka
+  Vegalta Sendai            3-0  Sagan Tosu
+  Shonan Bellmare           0-2  Júbilo Iwata
+  Matsumoto Yamaga          2-1  Vissel Kobe
+
+
+Matchday 7
+[Sat Apr/13]
+  Cerezo Osaka              0-1  Hokkaido Consadole Sapporo
+  Yokohama F. Marinos       1-1  Nagoya Grampus
+[Sun Apr/14]
+  FC Tokyo                  3-1  Kashima Antlers
+  Sagan Tosu                0-1  Kawasaki Frontale
+  Júbilo Iwata              1-2  Shimizu S-Pulse
+  Vissel Kobe               2-4  Sanfrecce Hiroshima
+  Oita Trinita              2-0  Vegalta Sendai
+  Gamba Osaka               0-1  Urawa Red Diamonds
+  Shonan Bellmare           1-1  Matsumoto Yamaga
+
+
+Matchday 8
+[Fri Apr/19]
+  Sanfrecce Hiroshima       0-1  FC Tokyo
+  Kawasaki Frontale         2-0  Shonan Bellmare
+[Sat Apr/20]
+  Hokkaido Consadole Sapporo   3-0  Yokohama F. Marinos
+  Urawa Red Diamonds        1-0  Vissel Kobe
+  Matsumoto Yamaga          1-0  Sagan Tosu
+  Nagoya Grampus            1-0  Júbilo Iwata
+  Shimizu S-Pulse           1-0  Cerezo Osaka
+  Kashima Antlers           1-0  Vegalta Sendai
+  Gamba Osaka               1-1  Oita Trinita
+
+
+Matchday 9
+[Sat Apr/27]
+  Cerezo Osaka              0-0  Oita Trinita
+[Sun Apr/28]
+  Yokohama F. Marinos       2-1  Kashima Antlers
+  Vegalta Sendai            2-1  Gamba Osaka
+  Vissel Kobe               1-2  Kawasaki Frontale
+  Sagan Tosu                0-2  Shonan Bellmare
+  FC Tokyo                  2-0  Matsumoto Yamaga
+  Nagoya Grampus            1-0  Sanfrecce Hiroshima
+  Júbilo Iwata              1-2  Hokkaido Consadole Sapporo
+  Shimizu S-Pulse           0-2  Urawa Red Diamonds
+
+
+Matchday 10
+[Fri May/3]
+  Sanfrecce Hiroshima       0-1  Yokohama F. Marinos
+  Urawa Red Diamonds        0-1  Júbilo Iwata
+  Kashima Antlers           3-0  Shimizu S-Pulse
+  Kawasaki Frontale         3-1  Vegalta Sendai
+[Sat May/4]
+  Hokkaido Consadole Sapporo   2-1  Vissel Kobe
+  Matsumoto Yamaga          0-2  Cerezo Osaka
+  Shonan Bellmare           1-1  Nagoya Grampus
+  Gamba Osaka               0-0  FC Tokyo
+  Oita Trinita              2-0  Sagan Tosu
+
+
+Matchday 11
+[Sat May/11]
+  Sagan Tosu                3-1  Gamba Osaka
+  Cerezo Osaka              3-0  Yokohama F. Marinos
+[Sun May/12]
+  Matsumoto Yamaga          0-0  Hokkaido Consadole Sapporo
+  Vegalta Sendai            2-1  Sanfrecce Hiroshima
+  Shimizu S-Pulse           0-4  Kawasaki Frontale
+  Vissel Kobe               0-1  Kashima Antlers
+  FC Tokyo                  1-0  Júbilo Iwata
+  Nagoya Grampus            2-0  Urawa Red Diamonds
+  Shonan Bellmare           0-1  Oita Trinita
+
+
+Matchday 12
+[Fri May/17]
+  Sanfrecce Hiroshima       0-1  Sagan Tosu
+  Kawasaki Frontale         1-1  Nagoya Grampus
+  Urawa Red Diamonds        2-3  Shonan Bellmare
+[Sat May/18]
+  Júbilo Iwata              2-0  Vegalta Sendai
+  Yokohama F. Marinos       4-1  Vissel Kobe
+  FC Tokyo                  2-0  Hokkaido Consadole Sapporo
+  Kashima Antlers           5-0  Matsumoto Yamaga
+  Oita Trinita              1-1  Shimizu S-Pulse
+  Gamba Osaka               1-0  Cerezo Osaka
+
+
+Matchday 13
+[Sat May/25]
+  Shimizu S-Pulse           4-3  Vegalta Sendai
+  Hokkaido Consadole Sapporo   0-0  Gamba Osaka
+  Cerezo Osaka              1-0  FC Tokyo
+[Sun May/26]
+  Yokohama F. Marinos       4-0  Júbilo Iwata
+  Urawa Red Diamonds        0-4  Sanfrecce Hiroshima
+  Sagan Tosu                1-0  Kashima Antlers
+  Vissel Kobe               4-1  Shonan Bellmare
+  Nagoya Grampus            0-1  Matsumoto Yamaga
+  Oita Trinita              0-1  Kawasaki Frontale
+
+
+Matchday 14
+[Fri May/31]
+  Shonan Bellmare           1-2  Yokohama F. Marinos
+[Sat Jun/1]
+  Hokkaido Consadole Sapporo   1-0  Sanfrecce Hiroshima
+  Vegalta Sendai            3-1  Nagoya Grampus
+  FC Tokyo                  3-1  Oita Trinita
+  Júbilo Iwata              1-1  Vissel Kobe
+  Sagan Tosu                0-1  Cerezo Osaka
+  Matsumoto Yamaga          1-1  Shimizu S-Pulse
+  Kawasaki Frontale         1-1  Urawa Red Diamonds
+  Gamba Osaka               1-1  Kashima Antlers
+
+
+Matchday 15
+[Fri Jun/14]
+  Kawasaki Frontale         1-1  Hokkaido Consadole Sapporo
+  Kashima Antlers           2-0  Cerezo Osaka
+  Sanfrecce Hiroshima       2-0  Shonan Bellmare
+[Sat Jun/15]
+  Shimizu S-Pulse           3-2  Yokohama F. Marinos
+  Júbilo Iwata              0-0  Gamba Osaka
+  FC Tokyo                  0-1  Vissel Kobe
+  Matsumoto Yamaga          0-1  Vegalta Sendai
+  Oita Trinita              1-1  Nagoya Grampus
+  Urawa Red Diamonds        2-1  Sagan Tosu
+
+
+Matchday 16
+[Sat Jun/22]
+  Hokkaido Consadole Sapporo   3-1  Sagan Tosu
+  Yokohama F. Marinos       1-0  Matsumoto Yamaga
+  Vissel Kobe               2-2  Oita Trinita
+  Nagoya Grampus            1-2  Shimizu S-Pulse
+  Cerezo Osaka              2-0  Júbilo Iwata
+  Gamba Osaka               1-0  Shonan Bellmare
+[Sun Jun/23]
+  Vegalta Sendai            2-0  FC Tokyo
+
+
+Matchday 17
+[Sat Jun/29]
+  Matsumoto Yamaga          1-3  Gamba Osaka
+  FC Tokyo                  4-2  Yokohama F. Marinos
+[Sun Jun/30]
+  Vissel Kobe               5-3  Nagoya Grampus
+  Kashima Antlers           2-2  Sanfrecce Hiroshima
+  Shonan Bellmare           0-2  Cerezo Osaka
+  Oita Trinita              2-0  Urawa Red Diamonds
+  Vegalta Sendai            2-1  Hokkaido Consadole Sapporo
+  Júbilo Iwata              1-3  Kawasaki Frontale
+  Sagan Tosu                4-2  Shimizu S-Pulse
+
+
+Matchday 18
+[Sat Jul/6]
+  Shimizu S-Pulse           2-1  Vissel Kobe
+  Urawa Red Diamonds        1-0  Vegalta Sendai
+  Yokohama F. Marinos       1-0  Oita Trinita
+  Sanfrecce Hiroshima       1-1  Cerezo Osaka
+  Kashima Antlers           2-0  Júbilo Iwata
+[Sun Jul/7]
+  Hokkaido Consadole Sapporo   1-1  Matsumoto Yamaga
+  Nagoya Grampus            0-2  Shonan Bellmare
+  Kawasaki Frontale         0-0  Sagan Tosu
+  FC Tokyo                  3-1  Gamba Osaka
+
+
+Matchday 19
+[Sat Jul/13]
+  Matsumoto Yamaga          0-1  Júbilo Iwata
+  Cerezo Osaka              3-0  Nagoya Grampus
+  Gamba Osaka               1-0  Shimizu S-Pulse
+  Oita Trinita              2-1  Hokkaido Consadole Sapporo
+  Vegalta Sendai            0-4  Kashima Antlers
+  Yokohama F. Marinos       3-1  Urawa Red Diamonds
+  Sagan Tosu                0-2  Sanfrecce Hiroshima
+[Sun Jul/14]
+  Shonan Bellmare           3-1  Vissel Kobe
+  FC Tokyo                  0-3  Kawasaki Frontale
+
+
+Matchday 20
+[Sat Jul/20]
+  Hokkaido Consadole Sapporo   5-2  Shonan Bellmare
+  Matsumoto Yamaga          2-2  Sanfrecce Hiroshima
+  Nagoya Grampus            2-2  Gamba Osaka
+  Vissel Kobe               0-2  Yokohama F. Marinos
+  Kashima Antlers           2-1  Sagan Tosu
+  Júbilo Iwata              1-3  Urawa Red Diamonds
+  Shimizu S-Pulse           0-2  FC Tokyo
+  Cerezo Osaka              0-0  Vegalta Sendai
+[Sat Jul/27]
+  Kawasaki Frontale         3-1  Oita Trinita
+
+
+Matchday 16
+[Wed Jul/31]
+  Sanfrecce Hiroshima       3-2  Kawasaki Frontale
+  Urawa Red Diamonds        1-1  Kashima Antlers
+
+
+Matchday 21
+[Fri Aug/2]
+  Vissel Kobe               2-2  Gamba Osaka
+[Sat Aug/3]
+  FC Tokyo                  3-0  Cerezo Osaka
+  Yokohama F. Marinos       0-1  Shimizu S-Pulse
+  Sanfrecce Hiroshima       1-0  Hokkaido Consadole Sapporo
+  Shonan Bellmare           3-2  Kashima Antlers
+  Vegalta Sendai            2-1  Júbilo Iwata
+[Sun Aug/4]
+  Urawa Red Diamonds        2-2  Nagoya Grampus
+  Kawasaki Frontale         0-0  Matsumoto Yamaga
+  Sagan Tosu                2-2  Oita Trinita
+
+
+Matchday 22
+[Sat Aug/10]
+  Hokkaido Consadole Sapporo   1-1  Urawa Red Diamonds
+  Shimizu S-Pulse           1-0  Matsumoto Yamaga
+  Kashima Antlers           2-1  Yokohama F. Marinos
+  FC Tokyo                  1-0  Vegalta Sendai
+  Nagoya Grampus            3-0  Kawasaki Frontale
+  Gamba Osaka               1-1  Sanfrecce Hiroshima
+  Oita Trinita              1-1  Vissel Kobe
+[Sun Aug/11]
+  Cerezo Osaka              1-2  Sagan Tosu
+  Júbilo Iwata              2-3  Shonan Bellmare
+
+
+Matchday 23
+[Sat Aug/17]
+  Shimizu S-Pulse           0-8  Hokkaido Consadole Sapporo
+  Vissel Kobe               3-0  Urawa Red Diamonds
+  Vegalta Sendai            2-2  Kawasaki Frontale
+  Shonan Bellmare           2-3  Sagan Tosu
+  Yokohama F. Marinos       1-2  Cerezo Osaka
+  FC Tokyo                  0-1  Sanfrecce Hiroshima
+  Oita Trinita              0-1  Kashima Antlers
+[Sun Aug/18]
+  Matsumoto Yamaga          1-1  Nagoya Grampus
+  Gamba Osaka               1-1  Júbilo Iwata
+
+
+Matchday 24
+[Fri Aug/23]
+  Kashima Antlers           2-2  Gamba Osaka
+  Urawa Red Diamonds        1-2  Matsumoto Yamaga
+  Sagan Tosu                1-6  Vissel Kobe
+[Sat Aug/24]
+  Hokkaido Consadole Sapporo   1-1  FC Tokyo
+  Nagoya Grampus            1-5  Yokohama F. Marinos
+  Vegalta Sendai            1-1  Shonan Bellmare
+  Sanfrecce Hiroshima       0-0  Oita Trinita
+  Kawasaki Frontale         2-2  Shimizu S-Pulse
+  Júbilo Iwata              0-2  Cerezo Osaka
+
+
+Matchday 25
+[Fri Aug/30]
+  Nagoya Grampus            1-2  FC Tokyo
+[Sat Aug/31]
+  Vissel Kobe               2-3  Hokkaido Consadole Sapporo
+  Matsumoto Yamaga          0-0  Oita Trinita
+  Júbilo Iwata              0-2  Sanfrecce Hiroshima
+  Yokohama F. Marinos       3-1  Gamba Osaka
+  Sagan Tosu                2-1  Vegalta Sendai
+[Sun Sep/1]
+  Cerezo Osaka              2-1  Kawasaki Frontale
+  Shimizu S-Pulse           0-4  Kashima Antlers
+  Shonan Bellmare           1-1  Urawa Red Diamonds
+
+
+Matchday 26
+[Fri Sep/13]
+  Urawa Red Diamonds        1-2  Cerezo Osaka
+  Shimizu S-Pulse           3-2  Nagoya Grampus
+[Sat Sep/14]
+  Hokkaido Consadole Sapporo   1-3  Vegalta Sendai
+  Oita Trinita              2-1  Shonan Bellmare
+  Kashima Antlers           2-0  FC Tokyo
+  Vissel Kobe               2-1  Matsumoto Yamaga
+  Gamba Osaka               1-0  Sagan Tosu
+  Kawasaki Frontale         2-0  Júbilo Iwata
+  Yokohama F. Marinos       3-0  Sanfrecce Hiroshima
+
+
+Matchday 27
+[Sat Sep/28]
+  Cerezo Osaka              3-1  Gamba Osaka
+  Sagan Tosu                3-3  Urawa Red Diamonds
+  Kashima Antlers           1-1  Hokkaido Consadole Sapporo
+  Kawasaki Frontale         1-2  Vissel Kobe
+  Oita Trinita              1-2  Júbilo Iwata
+  Sanfrecce Hiroshima       1-1  Nagoya Grampus
+  Vegalta Sendai            1-1  Yokohama F. Marinos
+[Sun Sep/29]
+  Matsumoto Yamaga          0-0  FC Tokyo
+  Shonan Bellmare           0-6  Shimizu S-Pulse
+
+
+Matchday 28
+[Fri Oct/4]
+  Gamba Osaka               5-0  Hokkaido Consadole Sapporo
+[Sat Oct/5]
+  Vegalta Sendai            0-1  Matsumoto Yamaga
+  Sagan Tosu                2-1  FC Tokyo
+  Nagoya Grampus            1-1  Oita Trinita
+  Júbilo Iwata              0-2  Yokohama F. Marinos
+  Sanfrecce Hiroshima       6-2  Vissel Kobe
+[Sun Oct/6]
+  Cerezo Osaka              0-1  Kashima Antlers
+  Urawa Red Diamonds        2-1  Shimizu S-Pulse
+  Shonan Bellmare           0-5  Kawasaki Frontale
+
+
+Matchday 29
+[Fri Oct/18]
+  Hokkaido Consadole Sapporo   0-1  Cerezo Osaka
+  Matsumoto Yamaga          1-1  Kashima Antlers
+  Urawa Red Diamonds        0-1  Oita Trinita
+[Sat Oct/19]
+  Vissel Kobe               1-3  FC Tokyo
+  Nagoya Grampus            0-2  Vegalta Sendai
+  Shimizu S-Pulse           1-2  Sanfrecce Hiroshima
+  Gamba Osaka               2-2  Kawasaki Frontale
+  Yokohama F. Marinos       3-1  Shonan Bellmare
+  Júbilo Iwata              2-2  Sagan Tosu
+
+
+Matchday 31
+[Tue Oct/29]
+  Sanfrecce Hiroshima       1-1  Urawa Red Diamonds
+
+
+Matchday 30
+[Fri Nov/1]
+  Kashima Antlers           1-0  Urawa Red Diamonds
+[Sat Nov/2]
+  Vissel Kobe               2-0  Vegalta Sendai
+  Hokkaido Consadole Sapporo   3-0  Nagoya Grampus
+  Sagan Tosu                1-2  Yokohama F. Marinos
+  Shimizu S-Pulse           1-2  Júbilo Iwata
+  Cerezo Osaka              1-1  Matsumoto Yamaga
+  Oita Trinita              0-2  FC Tokyo
+  Kawasaki Frontale         2-1  Sanfrecce Hiroshima
+[Sun Nov/3]
+  Shonan Bellmare           0-3  Gamba Osaka
+
+
+Matchday 32
+[Tue Nov/5]
+  Urawa Red Diamonds        0-2  Kawasaki Frontale
+
+
+Matchday 31
+[Sat Nov/9]
+  Kashima Antlers           0-2  Kawasaki Frontale
+  Júbilo Iwata              0-1  FC Tokyo
+  Yokohama F. Marinos       4-2  Hokkaido Consadole Sapporo
+  Nagoya Grampus            3-0  Vissel Kobe
+  Cerezo Osaka              1-0  Shonan Bellmare
+[Sun Nov/10]
+  Vegalta Sendai            2-0  Shimizu S-Pulse
+  Oita Trinita              2-1  Gamba Osaka
+  Sagan Tosu                1-0  Matsumoto Yamaga
+
+
+Matchday 32
+[Sat Nov/23]
+  Vissel Kobe               1-0  Cerezo Osaka
+  Shimizu S-Pulse           1-1  Oita Trinita
+  Sanfrecce Hiroshima       0-0  Kashima Antlers
+  Hokkaido Consadole Sapporo   1-2  Júbilo Iwata
+  Matsumoto Yamaga          0-1  Yokohama F. Marinos
+  FC Tokyo                  1-1  Shonan Bellmare
+  Nagoya Grampus            0-0  Sagan Tosu
+  Gamba Osaka               2-0  Vegalta Sendai
+
+
+Matchday 33
+[Sat Nov/30]
+  Júbilo Iwata              2-1  Nagoya Grampus
+  FC Tokyo                  1-1  Urawa Red Diamonds
+  Sagan Tosu                0-2  Hokkaido Consadole Sapporo
+  Kawasaki Frontale         1-4  Yokohama F. Marinos
+  Shonan Bellmare           1-0  Sanfrecce Hiroshima
+  Cerezo Osaka              2-1  Shimizu S-Pulse
+  Vegalta Sendai            2-0  Oita Trinita
+  Kashima Antlers           1-3  Vissel Kobe
+  Gamba Osaka               4-1  Matsumoto Yamaga
+
+
+Matchday 34
+[Sat Dec/7]
+  Nagoya Grampus            0-1  Kashima Antlers
+  Hokkaido Consadole Sapporo   1-2  Kawasaki Frontale
+  Yokohama F. Marinos       3-0  FC Tokyo
+  Sanfrecce Hiroshima       1-0  Vegalta Sendai
+  Vissel Kobe               4-1  Júbilo Iwata
+  Urawa Red Diamonds        2-3  Gamba Osaka
+  Oita Trinita              0-2  Cerezo Osaka
+  Shimizu S-Pulse           1-0  Sagan Tosu
+  Matsumoto Yamaga          1-1  Shonan Bellmare
