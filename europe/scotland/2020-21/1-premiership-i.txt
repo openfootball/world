@@ -1,0 +1,338 @@
+= Scottish Premiership 2020/21, Regular Season
+
+
+Round 1
+[Sat Aug/1]
+  Aberdeen FC               0-1  Rangers FC
+  Dundee United             1-1  St Johnstone FC
+  Hibernian FC              2-1  Kilmarnock FC
+  Saint Mirren FC           1-0  Livingston FC
+[Sun Aug/2]
+  Celtic FC                 5-1  Hamilton Academical FC
+[Mon Aug/3]
+  Ross County FC           -  Motherwell FC
+
+
+Round 2
+[Sat Aug/8]
+  St Johnstone FC          -  Aberdeen FC
+  Hamilton Academical FC   -  Ross County FC
+  Livingston FC            -  Hibernian FC
+  Motherwell FC            -  Dundee United
+  Rangers FC               -  Saint Mirren FC
+[Sun Aug/9]
+  Kilmarnock FC            -  Celtic FC
+
+
+Round 3
+[Tue Aug/11]
+  Dundee United            -  Hibernian FC
+[Wed Aug/12]
+  Saint Mirren FC          -  Celtic FC
+  Aberdeen FC              -  Hamilton Academical FC
+  Motherwell FC            -  Livingston FC
+  Rangers FC               -  St Johnstone FC
+  Ross County FC           -  Kilmarnock FC
+
+
+Round 4
+[Sat Aug/15]
+  Celtic FC                -  Aberdeen FC
+  Hamilton Academical FC   -  Saint Mirren FC
+  Kilmarnock FC            -  St Johnstone FC
+  Ross County FC           -  Dundee United
+  Hibernian FC             -  Motherwell FC
+[Sun Aug/16]
+  Livingston FC            -  Rangers FC
+
+
+Round 5
+[Sat Aug/22]
+  Aberdeen FC              -  Livingston FC
+  Motherwell FC            -  Hamilton Academical FC
+  Rangers FC               -  Kilmarnock FC
+  Saint Mirren FC          -  Ross County FC
+  Dundee United            -  Celtic FC
+[Sun Aug/23]
+  St Johnstone FC          -  Hibernian FC
+
+
+Round 6
+[Sat Aug/29]
+  Celtic FC                -  Motherwell FC
+  Kilmarnock FC            -  Dundee United
+  Livingston FC            -  Ross County FC
+  St Johnstone FC          -  Saint Mirren FC
+  Hamilton Academical FC   -  Rangers FC
+[Sun Aug/30]
+  Hibernian FC             -  Aberdeen FC
+
+
+Round 7
+[Sat Sep/12]
+  Aberdeen FC              -  Kilmarnock FC
+  Livingston FC            -  Hamilton Academical FC
+  Motherwell FC            -  St Johnstone FC
+  Rangers FC               -  Dundee United
+  Ross County FC           -  Celtic FC
+  Saint Mirren FC          -  Hibernian FC
+
+
+Round 8
+[Sat Sep/19]
+  Aberdeen FC              -  Motherwell FC
+  Celtic FC                -  Livingston FC
+  Dundee United            -  Saint Mirren FC
+  Hibernian FC             -  Rangers FC
+  Kilmarnock FC            -  Hamilton Academical FC
+  St Johnstone FC          -  Ross County FC
+
+
+Round 9
+[Sat Sep/26]
+  Celtic FC                -  Hibernian FC
+  Hamilton Academical FC   -  Dundee United
+  Livingston FC            -  St Johnstone FC
+  Motherwell FC            -  Rangers FC
+  Ross County FC           -  Aberdeen FC
+  Saint Mirren FC          -  Kilmarnock FC
+
+
+Round 10
+[Fri Oct/2]
+  Aberdeen FC              -  Saint Mirren FC
+  Dundee United            -  Livingston FC
+  Hibernian FC             -  Hamilton Academical FC
+  Kilmarnock FC            -  Motherwell FC
+  Rangers FC               -  Ross County FC
+  St Johnstone FC          -  Celtic FC
+
+
+Round 11
+[Sat Oct/17]
+  Celtic FC                -  Rangers FC
+  Dundee United            -  Aberdeen FC
+  Hamilton Academical FC   -  St Johnstone FC
+  Livingston FC            -  Kilmarnock FC
+  Ross County FC           -  Hibernian FC
+  Saint Mirren FC          -  Motherwell FC
+
+
+Round 12
+[Sat Oct/24]
+  Aberdeen FC              -  Celtic FC
+  Kilmarnock FC            -  Hibernian FC
+  Motherwell FC            -  Ross County FC
+  Rangers FC               -  Livingston FC
+  St Johnstone FC          -  Dundee United
+  Saint Mirren FC          -  Hamilton Academical FC
+
+
+Round 13
+[Sat Oct/31]
+  Celtic FC                -  Saint Mirren FC
+  Dundee United            -  Ross County FC
+  Hamilton Academical FC   -  Aberdeen FC
+  Hibernian FC             -  St Johnstone FC
+  Kilmarnock FC            -  Rangers FC
+  Livingston FC            -  Motherwell FC
+
+
+Round 14
+[Fri Nov/6]
+  Aberdeen FC              -  Hibernian FC
+  Motherwell FC            -  Celtic FC
+  Rangers FC               -  Hamilton Academical FC
+  Ross County FC           -  Livingston FC
+  St Johnstone FC          -  Kilmarnock FC
+  Saint Mirren FC          -  Dundee United
+
+
+Round 15
+[Sat Nov/21]
+  Dundee United            -  Hamilton Academical FC
+  Hibernian FC             -  Celtic FC
+  Kilmarnock FC            -  Ross County FC
+  Livingston FC            -  Saint Mirren FC
+  Rangers FC               -  Aberdeen FC
+  St Johnstone FC          -  Motherwell FC
+
+
+Round 16
+[Sat Dec/5]
+  Celtic FC                -  St Johnstone FC
+  Hamilton Academical FC   -  Kilmarnock FC
+  Livingston FC            -  Dundee United
+  Motherwell FC            -  Hibernian FC
+  Ross County FC           -  Rangers FC
+  Saint Mirren FC          -  Aberdeen FC
+
+
+Round 17
+[Sat Dec/12]
+  Aberdeen FC              -  Ross County FC
+  Celtic FC                -  Kilmarnock FC
+  Dundee United            -  Rangers FC
+  Hamilton Academical FC   -  Hibernian FC
+  Motherwell FC            -  Saint Mirren FC
+  St Johnstone FC          -  Livingston FC
+
+
+Round 18
+[Sat Dec/19]
+  Hibernian FC             -  Dundee United
+  Kilmarnock FC            -  Aberdeen FC
+  Livingston FC            -  Celtic FC
+  Rangers FC               -  Motherwell FC
+  Ross County FC           -  Hamilton Academical FC
+  Saint Mirren FC          -  St Johnstone FC
+
+
+Round 19
+[Wed Dec/23]
+  Celtic FC                -  Ross County FC
+  Dundee United            -  Kilmarnock FC
+  Hamilton Academical FC   -  Livingston FC
+  Hibernian FC             -  Saint Mirren FC
+  Motherwell FC            -  Aberdeen FC
+  St Johnstone FC          -  Rangers FC
+
+
+Round 20
+[Sat Dec/26]
+  Aberdeen FC              -  St Johnstone FC
+  Dundee United            -  Motherwell FC
+  Hamilton Academical FC   -  Celtic FC
+  Kilmarnock FC            -  Livingston FC
+  Rangers FC               -  Hibernian FC
+  Ross County FC           -  Saint Mirren FC
+
+
+Round 21
+[Wed Dec/30]
+  Celtic FC                -  Dundee United
+  Hibernian FC             -  Ross County FC
+  Livingston FC            -  Aberdeen FC
+  Motherwell FC            -  Kilmarnock FC
+  St Johnstone FC          -  Hamilton Academical FC
+  Saint Mirren FC          -  Rangers FC
+
+
+Round 22
+[Sat Jan/2]
+  Aberdeen FC              -  Dundee United
+  Hamilton Academical FC   -  Motherwell FC
+  Hibernian FC             -  Livingston FC
+  Kilmarnock FC            -  Saint Mirren FC
+  Rangers FC               -  Celtic FC
+  Ross County FC           -  St Johnstone FC
+
+
+Round 23
+[Sat Jan/9]
+  Aberdeen FC              -  Rangers FC
+  Celtic FC                -  Hibernian FC
+  Dundee United            -  St Johnstone FC
+  Kilmarnock FC            -  Hamilton Academical FC
+  Livingston FC            -  Ross County FC
+  Saint Mirren FC          -  Motherwell FC
+
+
+Round 24
+[Sat Jan/16]
+  Celtic FC                -  Livingston FC
+  Hamilton Academical FC   -  Dundee United
+  Hibernian FC             -  Kilmarnock FC
+  Motherwell FC            -  Rangers FC
+  Ross County FC           -  Aberdeen FC
+  St Johnstone FC          -  Saint Mirren FC
+
+
+Round 25
+[Sat Jan/23]
+  Aberdeen FC              -  Motherwell FC
+  Dundee United            -  Hibernian FC
+  Kilmarnock FC            -  St Johnstone FC
+  Livingston FC            -  Hamilton Academical FC
+  Rangers FC               -  Ross County FC
+  Saint Mirren FC          -  Celtic FC
+
+
+Round 26
+[Wed Jan/27]
+  Celtic FC                -  Hamilton Academical FC
+  Dundee United            -  Saint Mirren FC
+  Hibernian FC             -  Rangers FC
+  Livingston FC            -  Kilmarnock FC
+  Ross County FC           -  Motherwell FC
+  St Johnstone FC          -  Aberdeen FC
+
+
+Round 27
+[Wed Feb/3]
+  Aberdeen FC              -  Livingston FC
+  Hamilton Academical FC   -  Ross County FC
+  Kilmarnock FC            -  Celtic FC
+  Motherwell FC            -  Dundee United
+  Rangers FC               -  St Johnstone FC
+  Saint Mirren FC          -  Hibernian FC
+
+
+Round 28
+[Sat Feb/6]
+  Celtic FC                -  Motherwell FC
+  Hamilton Academical FC   -  Rangers FC
+  Hibernian FC             -  Aberdeen FC
+  Livingston FC            -  St Johnstone FC
+  Ross County FC           -  Dundee United
+  Saint Mirren FC          -  Kilmarnock FC
+
+
+Round 29
+[Sat Feb/13]
+  Aberdeen FC              -  Saint Mirren FC
+  Dundee United            -  Livingston FC
+  Motherwell FC            -  Hamilton Academical FC
+  Rangers FC               -  Kilmarnock FC
+  Ross County FC           -  Hibernian FC
+  St Johnstone FC          -  Celtic FC
+
+
+Round 30
+[Sat Feb/27]
+  Celtic FC                -  Aberdeen FC
+  Hamilton Academical FC   -  St Johnstone FC
+  Hibernian FC             -  Motherwell FC
+  Kilmarnock FC            -  Dundee United
+  Livingston FC            -  Rangers FC
+  Saint Mirren FC          -  Ross County FC
+
+
+Round 31
+[Sat Mar/6]
+  Aberdeen FC              -  Hamilton Academical FC
+  Dundee United            -  Celtic FC
+  Motherwell FC            -  Livingston FC
+  Rangers FC               -  Saint Mirren FC
+  Ross County FC           -  Kilmarnock FC
+  St Johnstone FC          -  Hibernian FC
+
+
+Round 32
+[Sat Mar/20]
+  Celtic FC                -  Rangers FC
+  Dundee United            -  Aberdeen FC
+  Hamilton Academical FC   -  Saint Mirren FC
+  Kilmarnock FC            -  Motherwell FC
+  Livingston FC            -  Hibernian FC
+  St Johnstone FC          -  Ross County FC
+
+
+Round 33
+[Sat Apr/3]
+  Aberdeen FC              -  Kilmarnock FC
+  Hibernian FC             -  Hamilton Academical FC
+  Motherwell FC            -  St Johnstone FC
+  Rangers FC               -  Dundee United
+  Ross County FC           -  Celtic FC
+  Saint Mirren FC          -  Livingston FC
