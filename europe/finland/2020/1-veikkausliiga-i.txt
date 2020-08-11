@@ -1,0 +1,252 @@
+= Finland Veikkausliiga 2020, Regular Season
+
+
+Matchday 1
+[Wed Jul/1]
+  FC Haka Valkeakoski       1-1  FC Honka Espoo
+  FC Lahti                  0-4  HJK Helsinki
+  HIFK Helsinki             0-3  KuPS Kuopio
+  SJK Seinäjoki             1-0  TPS Turku
+  FC Ilves                  4-3  IFK Mariehamn
+[Thu Jul/2]
+  FC Inter Turku            3-1  Rovaniemen Palloseura
+
+
+Matchday 2
+[Tue Jul/7]
+  TPS Turku                 0-1  FC Ilves
+  KuPS Kuopio               1-0  FC Inter Turku
+[Wed Jul/8]
+  FC Lahti                  0-0  SJK Seinäjoki
+  HJK Helsinki              3-1  FC Haka Valkeakoski
+  Rovaniemen Palloseura     0-1  HIFK Helsinki
+  IFK Mariehamn             0-0  FC Honka Espoo
+
+
+Matchday 11
+[Sat Jul/11]
+  FC Inter Turku            5-1  FC Ilves
+[Sun Jul/12]
+  FC Honka Espoo            1-1  KuPS Kuopio
+
+
+Matchday 3
+[Fri Jul/17]
+  Rovaniemen Palloseura     2-2  FC Haka Valkeakoski
+  SJK Seinäjoki             1-2  IFK Mariehamn
+  FC Ilves                  0-0  KuPS Kuopio
+  FC Inter Turku            1-0  HJK Helsinki
+[Sat Jul/18]
+  FC Honka Espoo            3-1  TPS Turku
+  HIFK Helsinki             0-3  FC Lahti
+
+
+Matchday 4
+[Tue Jul/21]
+  Rovaniemen Palloseura     1-1  FC Ilves
+[Wed Jul/22]
+  IFK Mariehamn             2-2  FC Haka Valkeakoski
+  KuPS Kuopio               3-0  FC Lahti
+  TPS Turku                 0-2  HJK Helsinki
+  HIFK Helsinki             2-1  SJK Seinäjoki
+  FC Honka Espoo            1-1  FC Inter Turku
+
+
+Matchday 5
+[Sat Jul/25]
+  TPS Turku                 1-3  FC Lahti
+  HJK Helsinki              2-0  FC Ilves
+[Sun Jul/26]
+  FC Haka Valkeakoski       0-2  FC Inter Turku
+  KuPS Kuopio               2-1  SJK Seinäjoki
+  FC Honka Espoo            1-0  Rovaniemen Palloseura
+  IFK Mariehamn             0-3  HIFK Helsinki
+
+
+Matchday 6
+[Sat Aug/1]
+  HJK Helsinki              2-2  KuPS Kuopio
+  Rovaniemen Palloseura     2-3  TPS Turku
+  FC Inter Turku            2-1  IFK Mariehamn
+  FC Ilves                  2-2  HIFK Helsinki
+  SJK Seinäjoki             1-1  FC Haka Valkeakoski
+[Mon Aug/3]
+  FC Lahti                  0-0  FC Honka Espoo
+
+
+Matchday 7
+[Wed Aug/5]
+  FC Ilves                  1-0  Rovaniemen Palloseura
+  SJK Seinäjoki             1-1  KuPS Kuopio
+  FC Haka Valkeakoski       0-2  HIFK Helsinki
+  IFK Mariehamn             2-0  FC Inter Turku
+[Thu Aug/6]
+  HJK Helsinki              1-1  FC Lahti
+  TPS Turku                 0-2  FC Honka Espoo
+
+
+Matchday 8
+[Sun Aug/9]
+  KuPS Kuopio              -  HJK Helsinki
+  FC Lahti                 -  FC Ilves
+  FC Inter Turku           -  FC Haka Valkeakoski
+  Rovaniemen Palloseura    -  IFK Mariehamn
+[Mon Aug/10]
+  HIFK Helsinki            -  TPS Turku
+  FC Honka Espoo           -  SJK Seinäjoki
+
+
+Matchday 9
+[Fri Aug/14]
+  FC Inter Turku           -  HIFK Helsinki
+  FC Lahti                 -  Rovaniemen Palloseura
+  FC Haka Valkeakoski      -  KuPS Kuopio
+[Sat Aug/15]
+  HJK Helsinki             -  FC Honka Espoo
+  FC Ilves                 -  SJK Seinäjoki
+[Sun Aug/16]
+  IFK Mariehamn            -  TPS Turku
+
+
+Matchday 18
+[Tue Aug/18]
+  Rovaniemen Palloseura    -  FC Inter Turku
+  FC Haka Valkeakoski      -  HJK Helsinki
+
+
+Matchday 10
+[Fri Aug/21]
+  SJK Seinäjoki            -  FC Honka Espoo
+[Sat Aug/22]
+  TPS Turku                -  FC Inter Turku
+  KuPS Kuopio              -  IFK Mariehamn
+  Rovaniemen Palloseura    -  HJK Helsinki
+  FC Ilves                 -  FC Lahti
+[Sun Aug/23]
+  HIFK Helsinki            -  FC Haka Valkeakoski
+
+
+Matchday 11
+[Wed Aug/26]
+  HJK Helsinki             -  SJK Seinäjoki
+  TPS Turku                -  HIFK Helsinki
+  IFK Mariehamn            -  Rovaniemen Palloseura
+  FC Haka Valkeakoski      -  FC Lahti
+
+
+Matchday 12
+[Sat Aug/29]
+  KuPS Kuopio              -  TPS Turku
+  SJK Seinäjoki            -  Rovaniemen Palloseura
+[Sun Aug/30]
+  HJK Helsinki             -  IFK Mariehamn
+[Mon Aug/31]
+  FC Lahti                 -  FC Inter Turku
+[Tue Sep/1]
+  FC Haka Valkeakoski      -  FC Ilves
+  FC Honka Espoo           -  HIFK Helsinki
+
+
+Matchday 13
+[Wed Sep/9]
+  KuPS Kuopio              -  Rovaniemen Palloseura
+  SJK Seinäjoki            -  FC Inter Turku
+  TPS Turku                -  FC Haka Valkeakoski
+  FC Honka Espoo           -  FC Ilves
+  IFK Mariehamn            -  FC Lahti
+[Thu Sep/10]
+  HIFK Helsinki            -  HJK Helsinki
+
+
+Matchday 14
+[Sat Sep/12]
+  FC Haka Valkeakoski      -  SJK Seinäjoki
+  Rovaniemen Palloseura    -  FC Honka Espoo
+[Sun Sep/13]
+  FC Ilves                 -  HJK Helsinki
+[Mon Sep/14]
+  FC Lahti                 -  KuPS Kuopio
+  HIFK Helsinki            -  FC Inter Turku
+  TPS Turku                -  IFK Mariehamn
+
+
+Matchday 15
+[Thu Sep/17]
+  FC Lahti                 -  TPS Turku
+[Sat Sep/19]
+  Rovaniemen Palloseura    -  KuPS Kuopio
+  FC Ilves                 -  FC Haka Valkeakoski
+  FC Inter Turku           -  SJK Seinäjoki
+  HIFK Helsinki            -  IFK Mariehamn
+[Sun Sep/20]
+  FC Honka Espoo           -  HJK Helsinki
+
+
+Matchday 16
+[Wed Sep/23]
+  KuPS Kuopio              -  HIFK Helsinki
+  IFK Mariehamn            -  FC Ilves
+  HJK Helsinki             -  TPS Turku
+  FC Haka Valkeakoski      -  Rovaniemen Palloseura
+  FC Inter Turku           -  FC Honka Espoo
+  SJK Seinäjoki            -  FC Lahti
+
+
+Matchday 17
+[Sat Sep/26]
+  HJK Helsinki             -  Rovaniemen Palloseura
+[Sun Sep/27]
+  FC Ilves                 -  TPS Turku
+  IFK Mariehamn            -  KuPS Kuopio
+  FC Honka Espoo           -  FC Haka Valkeakoski
+[Mon Sep/28]
+  FC Inter Turku           -  FC Lahti
+  SJK Seinäjoki            -  HIFK Helsinki
+
+
+Matchday 18
+[Fri Oct/2]
+  FC Lahti                 -  IFK Mariehamn
+  HIFK Helsinki            -  FC Honka Espoo
+  KuPS Kuopio              -  FC Ilves
+  TPS Turku                -  SJK Seinäjoki
+
+
+Matchday 19
+[Wed Oct/7]
+  FC Haka Valkeakoski      -  TPS Turku
+  FC Honka Espoo           -  IFK Mariehamn
+  FC Inter Turku           -  KuPS Kuopio
+  SJK Seinäjoki            -  HJK Helsinki
+  Rovaniemen Palloseura    -  FC Lahti
+  HIFK Helsinki            -  FC Ilves
+
+
+Matchday 20
+[Sat Oct/17]
+  FC Lahti                 -  FC Haka Valkeakoski
+  HJK Helsinki             -  HIFK Helsinki
+  IFK Mariehamn            -  SJK Seinäjoki
+  FC Ilves                 -  FC Inter Turku
+  TPS Turku                -  Rovaniemen Palloseura
+  KuPS Kuopio              -  FC Honka Espoo
+
+
+Matchday 21
+[Wed Oct/21]
+  FC Honka Espoo           -  FC Lahti
+  FC Inter Turku           -  TPS Turku
+  HIFK Helsinki            -  Rovaniemen Palloseura
+  IFK Mariehamn            -  HJK Helsinki
+  KuPS Kuopio              -  FC Haka Valkeakoski
+  SJK Seinäjoki            -  FC Ilves
+
+
+Matchday 22
+[Sat Oct/24]
+  FC Haka Valkeakoski      -  IFK Mariehamn
+  FC Lahti                 -  HIFK Helsinki
+  HJK Helsinki             -  FC Inter Turku
+  FC Ilves                 -  FC Honka Espoo
+  Rovaniemen Palloseura    -  SJK Seinäjoki
+  TPS Turku                -  KuPS Kuopio
