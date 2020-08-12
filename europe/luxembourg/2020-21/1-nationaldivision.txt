@@ -1,0 +1,361 @@
+= Luxembourger First Division 2020/21
+
+
+Round 1
+[Sun Aug/23]
+  CS Fola Esch             -  Jeunesse d'Esch
+  FC Progrès Niederkorn    -  Racing FC Union Lëtzebuerg
+  RM Hamm Benfica          -  F91 Dudelange
+  FC Swift Hesperange      -  FC Differdange 03
+  US Mondorf-les-Bains     -  US Hostert
+  FC Union Titus Pétange   -  FC UNA Strassen
+  FC Victoria Rosport      -  FC Rodange 91
+  FC Wiltz 71              -  FC Etzella Ettelbruck
+
+
+Round 2
+[Sun Aug/30]
+  F91 Dudelange            -  FC Union Titus Pétange
+  FC Differdange 03        -  FC Victoria Rosport
+  US Hostert               -  FC Etzella Ettelbruck
+  Jeunesse d'Esch          -  FC Swift Hesperange
+  Racing FC Union Lëtzebuerg  -  CS Fola Esch
+  FC Rodange 91            -  US Mondorf-les-Bains
+  FC UNA Strassen          -  FC Progrès Niederkorn
+  FC Wiltz 71              -  RM Hamm Benfica
+
+
+Round 3
+[Sun Sep/13]
+  CS Fola Esch             -  FC UNA Strassen
+  FC Etzella Ettelbruck    -  FC Rodange 91
+  FC Progrès Niederkorn    -  F91 Dudelange
+  FC Swift Hesperange      -  Racing FC Union Lëtzebuerg
+  US Hostert               -  FC Wiltz 71
+  US Mondorf-les-Bains     -  FC Differdange 03
+  FC Union Titus Pétange   -  RM Hamm Benfica
+  FC Victoria Rosport      -  Jeunesse d'Esch
+
+
+Round 4
+[Sun Sep/20]
+  F91 Dudelange            -  CS Fola Esch
+  FC Differdange 03        -  FC Etzella Ettelbruck
+  RM Hamm Benfica          -  FC Progrès Niederkorn
+  Jeunesse d'Esch          -  US Mondorf-les-Bains
+  Racing FC Union Lëtzebuerg  -  FC Victoria Rosport
+  FC Rodange 91            -  US Hostert
+  FC UNA Strassen          -  FC Swift Hesperange
+  FC Wiltz 71              -  FC Union Titus Pétange
+
+
+Round 5
+[Wed Sep/23]
+  CS Fola Esch             -  RM Hamm Benfica
+  FC Etzella Ettelbruck    -  Jeunesse d'Esch
+  FC Progrès Niederkorn    -  FC Union Titus Pétange
+  FC Swift Hesperange      -  F91 Dudelange
+  US Hostert               -  FC Differdange 03
+  US Mondorf-les-Bains     -  Racing FC Union Lëtzebuerg
+  FC Rodange 91            -  FC Wiltz 71
+  FC Victoria Rosport      -  FC UNA Strassen
+
+
+Round 6
+[Sun Sep/27]
+  F91 Dudelange            -  FC Victoria Rosport
+  FC Differdange 03        -  FC Rodange 91
+  RM Hamm Benfica          -  FC Swift Hesperange
+  Jeunesse d'Esch          -  US Hostert
+  Racing FC Union Lëtzebuerg  -  FC Etzella Ettelbruck
+  FC UNA Strassen          -  US Mondorf-les-Bains
+  FC Union Titus Pétange   -  CS Fola Esch
+  FC Wiltz 71              -  FC Progrès Niederkorn
+
+
+Round 7
+[Sun Oct/4]
+  CS Fola Esch             -  FC Progrès Niederkorn
+  FC Etzella Ettelbruck    -  FC UNA Strassen
+  FC Differdange 03        -  FC Wiltz 71
+  FC Swift Hesperange      -  FC Union Titus Pétange
+  US Hostert               -  Racing FC Union Lëtzebuerg
+  US Mondorf-les-Bains     -  F91 Dudelange
+  FC Rodange 91            -  Jeunesse d'Esch
+  FC Victoria Rosport      -  RM Hamm Benfica
+
+
+Round 8
+[Wed Oct/21]
+  F91 Dudelange            -  FC Etzella Ettelbruck
+  FC Progrès Niederkorn    -  FC Swift Hesperange
+  RM Hamm Benfica          -  US Mondorf-les-Bains
+  Jeunesse d'Esch          -  FC Differdange 03
+  Racing FC Union Lëtzebuerg  -  FC Rodange 91
+  FC UNA Strassen          -  US Hostert
+  FC Union Titus Pétange   -  FC Victoria Rosport
+  FC Wiltz 71              -  CS Fola Esch
+
+
+Round 9
+[Sun Oct/25]
+  FC Etzella Ettelbruck    -  RM Hamm Benfica
+  FC Differdange 03        -  Racing FC Union Lëtzebuerg
+  FC Swift Hesperange      -  CS Fola Esch
+  US Hostert               -  F91 Dudelange
+  Jeunesse d'Esch          -  FC Wiltz 71
+  US Mondorf-les-Bains     -  FC Union Titus Pétange
+  FC Rodange 91            -  FC UNA Strassen
+  FC Victoria Rosport      -  FC Progrès Niederkorn
+
+
+Round 10
+[Sat Oct/31]
+  CS Fola Esch             -  FC Victoria Rosport
+  F91 Dudelange            -  FC Rodange 91
+  FC Progrès Niederkorn    -  US Mondorf-les-Bains
+  RM Hamm Benfica          -  US Hostert
+  Racing FC Union Lëtzebuerg  -  Jeunesse d'Esch
+  FC UNA Strassen          -  FC Differdange 03
+  FC Union Titus Pétange   -  FC Etzella Ettelbruck
+  FC Wiltz 71              -  FC Swift Hesperange
+
+
+Round 11
+[Sun Nov/8]
+  FC Etzella Ettelbruck    -  FC Progrès Niederkorn
+  FC Differdange 03        -  F91 Dudelange
+  US Hostert               -  FC Union Titus Pétange
+  Jeunesse d'Esch          -  FC UNA Strassen
+  US Mondorf-les-Bains     -  CS Fola Esch
+  Racing FC Union Lëtzebuerg  -  FC Wiltz 71
+  FC Rodange 91            -  RM Hamm Benfica
+  FC Victoria Rosport      -  FC Swift Hesperange
+
+
+Round 12
+[Sun Nov/22]
+  CS Fola Esch             -  FC Etzella Ettelbruck
+  F91 Dudelange            -  Jeunesse d'Esch
+  FC Progrès Niederkorn    -  US Hostert
+  RM Hamm Benfica          -  FC Differdange 03
+  FC Swift Hesperange      -  US Mondorf-les-Bains
+  FC UNA Strassen          -  Racing FC Union Lëtzebuerg
+  FC Union Titus Pétange   -  FC Rodange 91
+  FC Wiltz 71              -  FC Victoria Rosport
+
+
+Round 13
+[Sun Nov/29]
+  FC Etzella Ettelbruck    -  FC Swift Hesperange
+  FC Differdange 03        -  FC Union Titus Pétange
+  US Hostert               -  CS Fola Esch
+  Jeunesse d'Esch          -  RM Hamm Benfica
+  US Mondorf-les-Bains     -  FC Victoria Rosport
+  Racing FC Union Lëtzebuerg  -  F91 Dudelange
+  FC Rodange 91            -  FC Progrès Niederkorn
+  FC UNA Strassen          -  FC Wiltz 71
+
+
+Round 14
+[Sun Dec/6]
+  CS Fola Esch             -  FC Rodange 91
+  F91 Dudelange            -  FC UNA Strassen
+  FC Progrès Niederkorn    -  FC Differdange 03
+  RM Hamm Benfica          -  Racing FC Union Lëtzebuerg
+  FC Swift Hesperange      -  US Hostert
+  FC Union Titus Pétange   -  Jeunesse d'Esch
+  FC Victoria Rosport      -  FC Etzella Ettelbruck
+  FC Wiltz 71              -  US Mondorf-les-Bains
+
+
+Round 15
+[Sun Dec/13]
+  FC Etzella Ettelbruck    -  US Mondorf-les-Bains
+  F91 Dudelange            -  FC Wiltz 71
+  FC Differdange 03        -  CS Fola Esch
+  US Hostert               -  FC Victoria Rosport
+  Jeunesse d'Esch          -  FC Progrès Niederkorn
+  Racing FC Union Lëtzebuerg  -  FC Union Titus Pétange
+  FC Rodange 91            -  FC Swift Hesperange
+  FC UNA Strassen          -  RM Hamm Benfica
+
+
+Round 16
+[Sun Feb/7]
+  CS Fola Esch             -  Racing FC Union Lëtzebuerg
+  FC Etzella Ettelbruck    -  US Hostert
+  FC Progrès Niederkorn    -  FC UNA Strassen
+  RM Hamm Benfica          -  FC Wiltz 71
+  FC Swift Hesperange      -  Jeunesse d'Esch
+  US Mondorf-les-Bains     -  FC Rodange 91
+  FC Union Titus Pétange   -  F91 Dudelange
+  FC Victoria Rosport      -  FC Differdange 03
+
+
+Round 17
+[Sat Feb/13]
+  F91 Dudelange            -  FC Progrès Niederkorn
+  FC Differdange 03        -  US Mondorf-les-Bains
+  RM Hamm Benfica          -  FC Union Titus Pétange
+  Jeunesse d'Esch          -  FC Victoria Rosport
+  Racing FC Union Lëtzebuerg  -  FC Swift Hesperange
+  FC Rodange 91            -  FC Etzella Ettelbruck
+  FC UNA Strassen          -  CS Fola Esch
+  FC Wiltz 71              -  US Hostert
+
+
+Round 18
+[Sun Feb/21]
+  CS Fola Esch             -  F91 Dudelange
+  FC Etzella Ettelbruck    -  FC Differdange 03
+  FC Progrès Niederkorn    -  RM Hamm Benfica
+  FC Swift Hesperange      -  FC UNA Strassen
+  US Hostert               -  FC Rodange 91
+  US Mondorf-les-Bains     -  Jeunesse d'Esch
+  FC Union Titus Pétange   -  FC Wiltz 71
+  FC Victoria Rosport      -  Racing FC Union Lëtzebuerg
+
+
+Round 19
+[Sun Feb/28]
+  F91 Dudelange            -  FC Swift Hesperange
+  FC Differdange 03        -  US Hostert
+  RM Hamm Benfica          -  CS Fola Esch
+  Jeunesse d'Esch          -  FC Etzella Ettelbruck
+  Racing FC Union Lëtzebuerg  -  US Mondorf-les-Bains
+  FC UNA Strassen          -  FC Victoria Rosport
+  FC Union Titus Pétange   -  FC Progrès Niederkorn
+  FC Wiltz 71              -  FC Rodange 91
+
+
+Round 20
+[Wed Mar/3]
+  CS Fola Esch             -  FC Union Titus Pétange
+  FC Etzella Ettelbruck    -  Racing FC Union Lëtzebuerg
+  FC Progrès Niederkorn    -  FC Wiltz 71
+  FC Swift Hesperange      -  RM Hamm Benfica
+  US Hostert               -  Jeunesse d'Esch
+  US Mondorf-les-Bains     -  FC UNA Strassen
+  FC Rodange 91            -  FC Differdange 03
+  FC Victoria Rosport      -  F91 Dudelange
+
+
+Round 21
+[Sun Mar/14]
+  F91 Dudelange            -  US Mondorf-les-Bains
+  FC Progrès Niederkorn    -  CS Fola Esch
+  RM Hamm Benfica          -  FC Victoria Rosport
+  Jeunesse d'Esch          -  FC Rodange 91
+  Racing FC Union Lëtzebuerg  -  US Hostert
+  FC UNA Strassen          -  FC Etzella Ettelbruck
+  FC Union Titus Pétange   -  FC Swift Hesperange
+  FC Wiltz 71              -  FC Differdange 03
+
+
+Round 22
+[Sun Mar/21]
+  CS Fola Esch             -  FC Wiltz 71
+  FC Etzella Ettelbruck    -  F91 Dudelange
+  FC Differdange 03        -  Jeunesse d'Esch
+  FC Swift Hesperange      -  FC Progrès Niederkorn
+  US Hostert               -  FC UNA Strassen
+  US Mondorf-les-Bains     -  RM Hamm Benfica
+  FC Rodange 91            -  Racing FC Union Lëtzebuerg
+  FC Victoria Rosport      -  FC Union Titus Pétange
+
+
+Round 23
+[Fri Apr/2]
+  CS Fola Esch             -  FC Swift Hesperange
+  F91 Dudelange            -  US Hostert
+  FC Progrès Niederkorn    -  FC Victoria Rosport
+  RM Hamm Benfica          -  FC Etzella Ettelbruck
+  Racing FC Union Lëtzebuerg  -  FC Differdange 03
+  FC UNA Strassen          -  FC Rodange 91
+  FC Union Titus Pétange   -  US Mondorf-les-Bains
+  FC Wiltz 71              -  Jeunesse d'Esch
+
+
+Round 24
+[Sun Apr/11]
+  FC Etzella Ettelbruck    -  FC Union Titus Pétange
+  FC Differdange 03        -  FC UNA Strassen
+  FC Swift Hesperange      -  FC Wiltz 71
+  US Hostert               -  RM Hamm Benfica
+  Jeunesse d'Esch          -  Racing FC Union Lëtzebuerg
+  US Mondorf-les-Bains     -  FC Progrès Niederkorn
+  FC Rodange 91            -  F91 Dudelange
+  FC Victoria Rosport      -  CS Fola Esch
+
+
+Round 25
+[Sun Apr/18]
+  CS Fola Esch             -  US Mondorf-les-Bains
+  F91 Dudelange            -  FC Differdange 03
+  FC Progrès Niederkorn    -  FC Etzella Ettelbruck
+  RM Hamm Benfica          -  FC Rodange 91
+  FC Swift Hesperange      -  FC Victoria Rosport
+  FC UNA Strassen          -  Jeunesse d'Esch
+  FC Union Titus Pétange   -  US Hostert
+  FC Wiltz 71              -  Racing FC Union Lëtzebuerg
+
+
+Round 26
+[Sun Apr/25]
+  FC Etzella Ettelbruck    -  CS Fola Esch
+  FC Differdange 03        -  RM Hamm Benfica
+  US Hostert               -  FC Progrès Niederkorn
+  Jeunesse d'Esch          -  F91 Dudelange
+  US Mondorf-les-Bains     -  FC Swift Hesperange
+  Racing FC Union Lëtzebuerg  -  FC UNA Strassen
+  FC Rodange 91            -  FC Union Titus Pétange
+  FC Victoria Rosport      -  FC Wiltz 71
+
+
+Round 27
+[Sun May/2]
+  CS Fola Esch             -  US Hostert
+  F91 Dudelange            -  Racing FC Union Lëtzebuerg
+  FC Progrès Niederkorn    -  FC Rodange 91
+  RM Hamm Benfica          -  Jeunesse d'Esch
+  FC Swift Hesperange      -  FC Etzella Ettelbruck
+  FC Union Titus Pétange   -  FC Differdange 03
+  FC Victoria Rosport      -  US Mondorf-les-Bains
+  FC Wiltz 71              -  FC UNA Strassen
+
+
+Round 28
+[Sun May/9]
+  FC Etzella Ettelbruck    -  FC Victoria Rosport
+  FC Differdange 03        -  FC Progrès Niederkorn
+  US Hostert               -  FC Swift Hesperange
+  Jeunesse d'Esch          -  FC Union Titus Pétange
+  US Mondorf-les-Bains     -  FC Wiltz 71
+  Racing FC Union Lëtzebuerg  -  RM Hamm Benfica
+  FC Rodange 91            -  CS Fola Esch
+  FC UNA Strassen          -  F91 Dudelange
+
+
+Round 29
+[Sun May/16]
+  CS Fola Esch             -  FC Differdange 03
+  FC Progrès Niederkorn    -  Jeunesse d'Esch
+  RM Hamm Benfica          -  FC UNA Strassen
+  FC Swift Hesperange      -  FC Rodange 91
+  US Mondorf-les-Bains     -  FC Etzella Ettelbruck
+  FC Union Titus Pétange   -  Racing FC Union Lëtzebuerg
+  FC Victoria Rosport      -  US Hostert
+  FC Wiltz 71              -  F91 Dudelange
+
+
+Round 30
+[Sat May/22]
+  FC Etzella Ettelbruck    -  FC Wiltz 71
+  F91 Dudelange            -  RM Hamm Benfica
+  FC Differdange 03        -  FC Swift Hesperange
+  US Hostert               -  US Mondorf-les-Bains
+  Jeunesse d'Esch          -  CS Fola Esch
+  Racing FC Union Lëtzebuerg  -  FC Progrès Niederkorn
+  FC Rodange 91            -  FC Victoria Rosport
+  FC UNA Strassen          -  FC Union Titus Pétange

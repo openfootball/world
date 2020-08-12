@@ -1,0 +1,384 @@
+= Sweden Allsvenskan 2020
+
+
+Round 1
+[Sun Jun/14]
+  IK Sirius                 0-2  Djurgårdens IF
+  IFK Göteborg              0-1  IF Elfsborg
+  IFK Norrköping            2-1  Kalmar FF
+  Örebro SK                 0-2  AIK
+  Hammarby IF               2-0  Östersunds FK
+[Mon Jun/15]
+  Helsingborgs IF           0-3  Varbergs BoIS
+  Falkenbergs FF            1-1  BK Häcken
+  Malmö FF                  2-0  Mjällby AIF
+
+
+Round 2
+[Wed Jun/17]
+  IF Elfsborg               2-2  Hammarby IF
+  AIK                       1-4  IFK Norrköping
+  Djurgårdens IF            1-2  Örebro SK
+[Thu Jun/18]
+  Mjällby AIF               0-1  Falkenbergs FF
+  Östersunds FK             0-2  IK Sirius
+  Kalmar FF                 4-0  Helsingborgs IF
+  Varbergs BoIS             1-2  IFK Göteborg
+  BK Häcken                 1-1  Malmö FF
+
+
+Round 3
+[Sun Jun/21]
+  Falkenbergs FF            0-2  Kalmar FF
+  Malmö FF                  2-2  Varbergs BoIS
+  IFK Norrköping            3-0  Djurgårdens IF
+  Hammarby IF               0-2  AIK
+  Örebro SK                 0-0  Östersunds FK
+[Mon Jun/22]
+  Helsingborgs IF           0-0  IF Elfsborg
+  IK Sirius                 2-2  BK Häcken
+  IFK Göteborg              2-2  Mjällby AIF
+
+
+Round 4
+[Sat Jun/27]
+  Östersunds FK             2-4  IFK Norrköping
+[Sun Jun/28]
+  IK Sirius                 2-2  IFK Göteborg
+  Djurgårdens IF            5-0  Kalmar FF
+  Mjällby AIF               2-1  Hammarby IF
+  IF Elfsborg               1-1  Örebro SK
+  AIK                       2-2  Malmö FF
+[Mon Jun/29]
+  BK Häcken                 1-0  Helsingborgs IF
+  Varbergs BoIS             3-1  Falkenbergs FF
+
+
+Round 5
+[Wed Jul/1]
+  IFK Norrköping            1-1  IF Elfsborg
+  Kalmar FF                 1-2  Östersunds FK
+  Malmö FF                  1-0  Djurgårdens IF
+[Thu Jul/2]
+  Hammarby IF               1-0  Varbergs BoIS
+  IFK Göteborg              1-0  AIK
+  Falkenbergs FF            1-2  IK Sirius
+  Örebro SK                 0-0  BK Häcken
+  Helsingborgs IF           0-1  Mjällby AIF
+
+
+Round 6
+[Sun Jul/5]
+  IF Elfsborg               1-0  Malmö FF
+  AIK                       1-1  Falkenbergs FF
+  IK Sirius                 2-1  Örebro SK
+  BK Häcken                 3-0  Hammarby IF
+[Mon Jul/6]
+  IFK Norrköping            3-1  IFK Göteborg
+  Djurgårdens IF            2-2  Helsingborgs IF
+  Östersunds FK             0-1  Mjällby AIF
+  Varbergs BoIS             1-0  Kalmar FF
+
+
+Round 7
+[Sat Jul/11]
+  Falkenbergs FF            0-1  Östersunds FK
+  Hammarby IF               0-0  IK Sirius
+[Sun Jul/12]
+  Helsingborgs IF           2-0  AIK
+  Örebro SK                 1-0  Varbergs BoIS
+  IFK Göteborg              1-2  Djurgårdens IF
+  Mjällby AIF               3-1  BK Häcken
+[Mon Jul/13]
+  Kalmar FF                 1-2  IF Elfsborg
+  Malmö FF                  1-1  IFK Norrköping
+
+
+Round 8
+[Wed Jul/15]
+  IFK Göteborg              1-1  Helsingborgs IF
+  AIK                       1-0  IK Sirius
+  Djurgårdens IF            1-0  Falkenbergs FF
+[Thu Jul/16]
+  BK Häcken                 6-0  IF Elfsborg
+  IFK Norrköping            2-0  Örebro SK
+  Kalmar FF                 1-2  Hammarby IF
+  Östersunds FK             1-2  Malmö FF
+  Varbergs BoIS             1-0  Mjällby AIF
+
+
+Round 9
+[Sun Jul/19]
+  IK Sirius                 4-2  IFK Norrköping
+  Malmö FF                  2-1  Kalmar FF
+  Varbergs BoIS             2-2  AIK
+  Falkenbergs FF            2-2  Helsingborgs IF
+  IF Elfsborg               1-0  Djurgårdens IF
+  Östersunds FK             2-2  BK Häcken
+[Mon Jul/20]
+  Hammarby IF               1-1  IFK Göteborg
+  Örebro SK                 3-1  Mjällby AIF
+
+
+Round 10
+[Wed Jul/22]
+  BK Häcken                 4-0  AIK
+  Djurgårdens IF            0-0  Östersunds FK
+  IFK Norrköping            2-0  Varbergs BoIS
+[Thu Jul/23]
+  Helsingborgs IF           1-1  Örebro SK
+  IFK Göteborg              2-2  Falkenbergs FF
+  Kalmar FF                 1-1  IK Sirius
+  Malmö FF                  3-0  Hammarby IF
+  Mjällby AIF               0-5  IF Elfsborg
+
+
+Round 11
+[Sun Jul/26]
+  BK Häcken                 0-0  IFK Göteborg
+  Falkenbergs FF            3-3  IFK Norrköping
+  IF Elfsborg               3-3  Varbergs BoIS
+  AIK                       0-1  Djurgårdens IF
+  IK Sirius                 2-5  Malmö FF
+[Mon Jul/27]
+  Hammarby IF               3-0  Örebro SK
+  Mjällby AIF               2-2  Kalmar FF
+  Östersunds FK             0-0  Helsingborgs IF
+
+
+Round 12
+[Sat Aug/1]
+  Djurgårdens IF            3-1  BK Häcken
+  Örebro SK                 1-2  Falkenbergs FF
+[Sun Aug/2]
+  Helsingborgs IF           1-1  Hammarby IF
+  IFK Göteborg              0-3  Malmö FF
+  Varbergs BoIS             1-1  Östersunds FK
+  Kalmar FF                 0-0  AIK
+[Mon Aug/3]
+  IF Elfsborg               3-3  IK Sirius
+  IFK Norrköping            1-1  Mjällby AIF
+
+
+Round 13
+[Wed Aug/5]
+  Hammarby IF               1-1  Falkenbergs FF
+  Malmö FF                  4-1  Helsingborgs IF
+  Varbergs BoIS             1-2  Djurgårdens IF
+[Thu Aug/6]
+  AIK                       1-2  IF Elfsborg
+  BK Häcken                 2-1  IFK Norrköping
+  IFK Göteborg              2-2  Östersunds FK
+  Kalmar FF                 0-3  Örebro SK
+  Mjällby AIF               1-1  IK Sirius
+
+
+Round 14
+[Sun Aug/9]
+  BK Häcken                -  Kalmar FF
+  Falkenbergs FF           -  Malmö FF
+  Örebro SK                -  IFK Göteborg
+  Djurgårdens IF           -  Hammarby IF
+  Mjällby AIF              -  AIK
+  Östersunds FK            -  IF Elfsborg
+[Mon Aug/10]
+  Helsingborgs IF          -  IFK Norrköping
+  IK Sirius                -  Varbergs BoIS
+
+
+Round 15
+[Wed Aug/12]
+  Djurgårdens IF           -  Mjällby AIF
+  Malmö FF                 -  Örebro SK
+[Thu Aug/13]
+  AIK                      -  Östersunds FK
+  IF Elfsborg              -  Falkenbergs FF
+  IFK Norrköping           -  Hammarby IF
+  IK Sirius                -  Helsingborgs IF
+  Kalmar FF                -  IFK Göteborg
+  Varbergs BoIS            -  BK Häcken
+
+
+Round 16
+[Sat Aug/15]
+  Örebro SK                -  Djurgårdens IF
+[Sun Aug/16]
+  Falkenbergs FF           -  AIK
+  Hammarby IF              -  IF Elfsborg
+  Mjällby AIF              -  Malmö FF
+[Mon Aug/17]
+  BK Häcken                -  Varbergs BoIS
+  Helsingborgs IF          -  IK Sirius
+  IFK Göteborg             -  IFK Norrköping
+  Östersunds FK            -  Kalmar FF
+
+
+Round 17
+[Sat Aug/22]
+  Djurgårdens IF           -  IFK Göteborg
+  IK Sirius                -  Hammarby IF
+[Sun Aug/23]
+  IF Elfsborg              -  Östersunds FK
+  Malmö FF                 -  Falkenbergs FF
+  AIK                      -  Helsingborgs IF
+  Varbergs BoIS            -  Örebro SK
+[Mon Aug/24]
+  IFK Norrköping           -  BK Häcken
+  Kalmar FF                -  Mjällby AIF
+
+
+Round 18
+[Sat Aug/29]
+  Östersunds FK            -  Falkenbergs FF
+  Varbergs BoIS            -  IK Sirius
+[Sun Aug/30]
+  AIK                      -  BK Häcken
+  Helsingborgs IF          -  Djurgårdens IF
+  Mjällby AIF              -  IFK Göteborg
+  Malmö FF                 -  IF Elfsborg
+  Örebro SK                -  IFK Norrköping
+  Hammarby IF              -  Kalmar FF
+
+
+Round 19
+[Thu Sep/10]
+  BK Häcken                -  Djurgårdens IF
+  Falkenbergs FF           -  Varbergs BoIS
+  Helsingborgs IF          -  Kalmar FF
+  IF Elfsborg              -  Mjällby AIF
+  IFK Göteborg             -  Hammarby IF
+  IFK Norrköping           -  Östersunds FK
+  IK Sirius                -  AIK
+  Örebro SK                -  Malmö FF
+
+
+Round 20
+[Sun Sep/13]
+  BK Häcken                -  IK Sirius
+  Djurgårdens IF           -  IF Elfsborg
+  Falkenbergs FF           -  IFK Göteborg
+  Hammarby IF              -  Helsingborgs IF
+  Kalmar FF                -  IFK Norrköping
+  Malmö FF                 -  AIK
+  Mjällby AIF              -  Varbergs BoIS
+  Östersunds FK            -  Örebro SK
+
+
+Round 21
+[Sun Sep/20]
+  AIK                      -  Hammarby IF
+  IF Elfsborg              -  BK Häcken
+  IFK Göteborg             -  Kalmar FF
+  IFK Norrköping           -  Malmö FF
+  IK Sirius                -  Falkenbergs FF
+  Mjällby AIF              -  Örebro SK
+  Östersunds FK            -  Djurgårdens IF
+  Varbergs BoIS            -  Helsingborgs IF
+
+
+Round 22
+[Sun Sep/27]
+  AIK                      -  Mjällby AIF
+  Djurgårdens IF           -  IFK Norrköping
+  Falkenbergs FF           -  Hammarby IF
+  Helsingborgs IF          -  Östersunds FK
+  IF Elfsborg              -  IFK Göteborg
+  Kalmar FF                -  Varbergs BoIS
+  Malmö FF                 -  BK Häcken
+  Örebro SK                -  IK Sirius
+
+
+Round 23
+[Sun Oct/4]
+  BK Häcken                -  Falkenbergs FF
+  Hammarby IF              -  Djurgårdens IF
+  IFK Göteborg             -  Varbergs BoIS
+  Kalmar FF                -  Malmö FF
+  Mjällby AIF              -  Helsingborgs IF
+  Örebro SK                -  IF Elfsborg
+  Östersunds FK            -  AIK
+  IFK Norrköping           -  IK Sirius
+
+
+Round 24
+[Sun Oct/18]
+  AIK                      -  IFK Göteborg
+  Djurgårdens IF           -  Malmö FF
+  Falkenbergs FF           -  Örebro SK
+  Hammarby IF              -  Mjällby AIF
+  Helsingborgs IF          -  BK Häcken
+  IF Elfsborg              -  Kalmar FF
+  IK Sirius                -  Östersunds FK
+  Varbergs BoIS            -  IFK Norrköping
+
+
+Round 25
+[Sun Oct/25]
+  BK Häcken                -  Mjällby AIF
+  Djurgårdens IF           -  IK Sirius
+  IFK Norrköping           -  AIK
+  Kalmar FF                -  Falkenbergs FF
+  Malmö FF                 -  IFK Göteborg
+  Örebro SK                -  Helsingborgs IF
+  Östersunds FK            -  Hammarby IF
+  Varbergs BoIS            -  IF Elfsborg
+
+
+Round 26
+[Sun Nov/1]
+  AIK                      -  Varbergs BoIS
+  Falkenbergs FF           -  Djurgårdens IF
+  Hammarby IF              -  BK Häcken
+  Helsingborgs IF          -  Malmö FF
+  IF Elfsborg              -  IFK Norrköping
+  IFK Göteborg             -  Örebro SK
+  IK Sirius                -  Kalmar FF
+  Mjällby AIF              -  Östersunds FK
+
+
+Round 27
+[Sun Nov/8]
+  BK Häcken                -  Östersunds FK
+  Djurgårdens IF           -  AIK
+  Falkenbergs FF           -  IF Elfsborg
+  Helsingborgs IF          -  IFK Göteborg
+  Malmö FF                 -  IK Sirius
+  Mjällby AIF              -  IFK Norrköping
+  Örebro SK                -  Kalmar FF
+  Varbergs BoIS            -  Hammarby IF
+
+
+Round 28
+[Sun Nov/22]
+  AIK                      -  Örebro SK
+  Hammarby IF              -  Malmö FF
+  IF Elfsborg              -  Helsingborgs IF
+  IFK Göteborg             -  BK Häcken
+  IFK Norrköping           -  Falkenbergs FF
+  IK Sirius                -  Mjällby AIF
+  Kalmar FF                -  Djurgårdens IF
+  Östersunds FK            -  Varbergs BoIS
+
+
+Round 29
+[Sun Nov/29]
+  AIK                      -  Kalmar FF
+  BK Häcken                -  Örebro SK
+  Hammarby IF              -  IFK Norrköping
+  Helsingborgs IF          -  Falkenbergs FF
+  IK Sirius                -  IF Elfsborg
+  Mjällby AIF              -  Djurgårdens IF
+  Östersunds FK            -  IFK Göteborg
+  Varbergs BoIS            -  Malmö FF
+
+
+Round 30
+[Sun Dec/6]
+  Djurgårdens IF           -  Varbergs BoIS
+  Falkenbergs FF           -  Mjällby AIF
+  IF Elfsborg              -  AIK
+  IFK Göteborg             -  IK Sirius
+  IFK Norrköping           -  Helsingborgs IF
+  Kalmar FF                -  BK Häcken
+  Malmö FF                 -  Östersunds FK
+  Örebro SK                -  Hammarby IF

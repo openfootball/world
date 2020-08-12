@@ -1,7 +1,7 @@
 = Iceland Urvalsdeild 2020
 
 
-Matchday 1
+Round 1
 [Sat Jun/13]
   Valur Reykjavík           0-1  KR Reykjavík
 [Sun Jun/14]
@@ -13,7 +13,7 @@ Matchday 1
   Víkingur Reykjavík        1-1  Fjölnir Reykjavík
 
 
-Matchday 2
+Round 2
 [Sat Jun/20]
   KA Akureyri               0-0  Víkingur Reykjavík
   Grótta                    0-3  Valur Reykjavík
@@ -24,7 +24,7 @@ Matchday 2
   Fylkir Reykjavik          0-1  Breiðablik
 
 
-Matchday 3
+Round 3
 [Sun Jun/28]
   ÍA Akranes                1-2  KR Reykjavík
   HK Kópavogs               0-4  Valur Reykjavík
@@ -34,7 +34,7 @@ Matchday 3
   Víkingur Reykjavík        4-1  FH Hafnarfjörður
 
 
-Matchday 4
+Round 4
 [Fri Jul/3]
   Valur Reykjavík           1-4  ÍA Akranes
 [Sat Jul/4]
@@ -45,7 +45,7 @@ Matchday 4
   KA Akureyri               2-2  Breiðablik
 
 
-Matchday 5
+Round 5
 [Wed Jul/8]
   Víkingur Reykjavík        1-5  Valur Reykjavík
   Breiðablik                3-3  FH Hafnarfjörður
@@ -55,7 +55,7 @@ Matchday 5
   Fylkir Reykjavik          4-1  KA Akureyri
 
 
-Matchday 6
+Round 6
 [Sun Jul/12]
   Grótta                    0-4  ÍA Akranes
   HK Kópavogs               0-2  Víkingur Reykjavík
@@ -66,7 +66,7 @@ Matchday 6
   KA Akureyri               1-1  Fjölnir Reykjavík
 
 
-Matchday 7
+Round 7
 [Fri Jul/17]
   Stjarnan                  4-1  HK Kópavogs
 [Sat Jul/18]
@@ -78,7 +78,7 @@ Matchday 7
   Breiðablik                1-2  Valur Reykjavík
 
 
-Matchday 8
+Round 8
 [Wed Jul/22]
   KR Reykjavík              2-2  Fjölnir Reykjavík
   FH Hafnarfjörður          0-0  KA Akureyri
@@ -89,7 +89,7 @@ Matchday 8
   ÍA Akranes                1-2  Stjarnan
 
 
-Matchday 9
+Round 9
 [Sun Jul/26]
   KA Akureyri               0-0  KR Reykjavík
   Breiðablik                5-3  ÍA Akranes
@@ -100,7 +100,7 @@ Matchday 9
   FH Hafnarfjörður          2-1  Grótta
 
 
-Matchday 10
+Round 10
 [Tue Aug/4]
   Grótta                   -  KR Reykjavík
   Breiðablik               -  Stjarnan
@@ -111,7 +111,7 @@ Matchday 10
   FH Hafnarfjörður         -  Valur Reykjavík
 
 
-Matchday 11
+Round 11
 [Sun Aug/9]
   ÍA Akranes               -  FH Hafnarfjörður
   Stjarnan                 -  Fjölnir Reykjavík
@@ -122,7 +122,7 @@ Matchday 11
   Breiðablik               -  Fylkir Reykjavik
 
 
-Matchday 12
+Round 12
 [Thu Aug/13]
   KR Reykjavík             -  FH Hafnarfjörður
   Stjarnan                 -  Grótta
@@ -135,12 +135,12 @@ Matchday 12
   Víkingur Reykjavík       -  Breiðablik
 
 
-Matchday 4
+Round 4
 [Mon Aug/17]
   FH Hafnarfjörður         -  Stjarnan
 
 
-Matchday 13
+Round 13
 [Thu Aug/20]
   Fjölnir Reykjavík        -  Víkingur Reykjavík
 [Fri Aug/21]
@@ -152,23 +152,23 @@ Matchday 13
   KR Reykjavík             -  Valur Reykjavík
 
 
-Matchday 14
+Round 14
 [Tue Aug/25]
   Fylkir Reykjavik         -  Fjölnir Reykjavík
 
 
-Matchday 3
+Round 3
 [Tue Aug/25]
   Stjarnan                 -  KA Akureyri
 
 
-Matchday 14
+Round 14
 [Wed Aug/26]
   HK Kópavogs              -  Grótta
   ÍA Akranes               -  Valur Reykjavík
 
 
-Matchday 15
+Round 15
 [Sun Aug/30]
   Fjölnir Reykjavík        -  Breiðablik
   Grótta                   -  Fylkir Reykjavik
@@ -178,7 +178,7 @@ Matchday 15
   KA Akureyri              -  Stjarnan
 
 
-Matchday 16
+Round 16
 [Sun Sep/13]
   Valur Reykjavík          -  Víkingur Reykjavík
   KR Reykjavík             -  Stjarnan
@@ -189,7 +189,7 @@ Matchday 16
   Grótta                   -  Fjölnir Reykjavík
 
 
-Matchday 17
+Round 17
 [Sun Sep/20]
   Víkingur Reykjavík       -  HK Kópavogs
   Fylkir Reykjavik         -  FH Hafnarfjörður
@@ -199,14 +199,14 @@ Matchday 17
   ÍA Akranes               -  Grótta
 
 
-Matchday 14
+Round 14
 [Thu Sep/24]
   Breiðablik               -  KA Akureyri
   Stjarnan                 -  FH Hafnarfjörður
   Víkingur Reykjavík       -  KR Reykjavík
 
 
-Matchday 18
+Round 18
 [Sun Sep/27]
   ÍA Akranes               -  Víkingur Reykjavík
   Grótta                   -  KA Akureyri
@@ -216,12 +216,12 @@ Matchday 18
   HK Kópavogs              -  Stjarnan
 
 
-Matchday 5
+Round 5
 [Thu Oct/1]
   Stjarnan                 -  KR Reykjavík
 
 
-Matchday 19
+Round 19
 [Sun Oct/4]
   Fylkir Reykjavik         -  Valur Reykjavík
   KA Akureyri              -  FH Hafnarfjörður
@@ -231,7 +231,7 @@ Matchday 19
   Breiðablik               -  HK Kópavogs
 
 
-Matchday 20
+Round 20
 [Sun Oct/18]
   KR Reykjavík             -  KA Akureyri
   ÍA Akranes               -  Breiðablik
@@ -241,7 +241,7 @@ Matchday 20
   Grótta                   -  FH Hafnarfjörður
 
 
-Matchday 21
+Round 21
 [Sat Oct/24]
   Breiðablik               -  Víkingur Reykjavík
   Grótta                   -  Stjarnan
@@ -251,7 +251,7 @@ Matchday 21
   FH Hafnarfjörður         -  KR Reykjavík
 
 
-Matchday 22
+Round 22
 [Sat Oct/31]
   KR Reykjavík             -  Grótta
   HK Kópavogs              -  KA Akureyri

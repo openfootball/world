@@ -1,0 +1,366 @@
+= Poland Ekstraklasa 2020/21, Regular Season
+
+
+Round 1
+[Fri Aug/21]
+  Zagłębie Lubin           -  KKS Lech Poznań
+[Sat Aug/22]
+  KS Cracovia              -  Pogoń Szczecin
+  WKS Śląsk Wrocław        -  Piast Gliwice
+  Raków Częstochowa        -  Legia Warszawa
+[Sun Aug/23]
+  Wisła Płock              -  Stal Mielec
+  Warta Poznań             -  Lechia Gdańsk
+  Górnik Zabrze            -  Podbeskidzie Bielsko-Biała
+[Mon Aug/24]
+  Jagiellonia Białystok    -  Wisła Kraków
+
+
+Round 2
+[Fri Aug/28]
+  Zagłębie Lubin           -  Warta Poznań
+  Stal Mielec              -  Górnik Zabrze
+[Sat Aug/29]
+  Lechia Gdańsk            -  Raków Częstochowa
+  Wisła Kraków             -  WKS Śląsk Wrocław
+  Legia Warszawa           -  Jagiellonia Białystok
+[Sun Aug/30]
+  Piast Gliwice            -  Pogoń Szczecin
+  Podbeskidzie Bielsko-Biała  -  KS Cracovia
+  KKS Lech Poznań          -  Wisła Płock
+
+
+Round 3
+[Sat Sep/12]
+  Górnik Zabrze            -  Lechia Gdańsk
+  Jagiellonia Białystok    -  Podbeskidzie Bielsko-Biała
+  KS Cracovia              -  Stal Mielec
+  Pogoń Szczecin           -  Wisła Kraków
+  Raków Częstochowa        -  Zagłębie Lubin
+  WKS Śląsk Wrocław        -  KKS Lech Poznań
+  Wisła Płock              -  Legia Warszawa
+  Warta Poznań             -  Piast Gliwice
+
+
+Round 4
+[Sat Sep/19]
+  Lechia Gdańsk            -  Stal Mielec
+  Legia Warszawa           -  Górnik Zabrze
+  Piast Gliwice            -  Jagiellonia Białystok
+  Podbeskidzie Bielsko-Biała  -  Raków Częstochowa
+  Pogoń Szczecin           -  WKS Śląsk Wrocław
+  Wisła Kraków             -  Wisła Płock
+  Zagłębie Lubin           -  KS Cracovia
+  KKS Lech Poznań          -  Warta Poznań
+
+
+Round 5
+[Sat Sep/26]
+  Stal Mielec              -  Piast Gliwice
+  Górnik Zabrze            -  Wisła Kraków
+  Jagiellonia Białystok    -  Zagłębie Lubin
+  KS Cracovia              -  Raków Częstochowa
+  KKS Lech Poznań          -  Pogoń Szczecin
+  Lechia Gdańsk            -  Podbeskidzie Bielsko-Biała
+  Legia Warszawa           -  WKS Śląsk Wrocław
+  Wisła Płock              -  Warta Poznań
+
+
+Round 6
+[Sat Oct/3]
+  Piast Gliwice            -  KKS Lech Poznań
+  Podbeskidzie Bielsko-Biała  -  Stal Mielec
+  Pogoń Szczecin           -  Jagiellonia Białystok
+  Raków Częstochowa        -  Wisła Płock
+  WKS Śląsk Wrocław        -  KS Cracovia
+  Wisła Kraków             -  Lechia Gdańsk
+  Zagłębie Lubin           -  Górnik Zabrze
+  Warta Poznań             -  Legia Warszawa
+
+
+Round 7
+[Sat Oct/17]
+  Stal Mielec              -  Wisła Kraków
+  Górnik Zabrze            -  Raków Częstochowa
+  Jagiellonia Białystok    -  KKS Lech Poznań
+  KS Cracovia              -  Piast Gliwice
+  Lechia Gdańsk            -  Pogoń Szczecin
+  Legia Warszawa           -  Zagłębie Lubin
+  Wisła Płock              -  WKS Śląsk Wrocław
+  Podbeskidzie Bielsko-Biała  -  Warta Poznań
+
+
+Round 8
+[Sat Oct/24]
+  KKS Lech Poznań          -  KS Cracovia
+  Piast Gliwice            -  Wisła Płock
+  Pogoń Szczecin           -  Legia Warszawa
+  Raków Częstochowa        -  Stal Mielec
+  WKS Śląsk Wrocław        -  Jagiellonia Białystok
+  Wisła Kraków             -  Podbeskidzie Bielsko-Biała
+  Zagłębie Lubin           -  Lechia Gdańsk
+  Warta Poznań             -  Górnik Zabrze
+
+
+Round 9
+[Sat Nov/7]
+  Górnik Zabrze            -  Piast Gliwice
+  KS Cracovia              -  Jagiellonia Białystok
+  Lechia Gdańsk            -  WKS Śląsk Wrocław
+  Legia Warszawa           -  KKS Lech Poznań
+  Podbeskidzie Bielsko-Biała  -  Zagłębie Lubin
+  Raków Częstochowa        -  Wisła Kraków
+  Wisła Płock              -  Pogoń Szczecin
+  Stal Mielec              -  Warta Poznań
+
+
+Round 10
+[Sat Nov/21]
+  Jagiellonia Białystok    -  Wisła Płock
+  KS Cracovia              -  Legia Warszawa
+  KKS Lech Poznań          -  Raków Częstochowa
+  Piast Gliwice            -  Lechia Gdańsk
+  Pogoń Szczecin           -  Podbeskidzie Bielsko-Biała
+  WKS Śląsk Wrocław        -  Górnik Zabrze
+  Zagłębie Lubin           -  Stal Mielec
+  Warta Poznań             -  Wisła Kraków
+
+
+Round 11
+[Sat Nov/28]
+  Stal Mielec              -  Jagiellonia Białystok
+  Górnik Zabrze            -  Pogoń Szczecin
+  Lechia Gdańsk            -  KKS Lech Poznań
+  Legia Warszawa           -  Piast Gliwice
+  Podbeskidzie Bielsko-Biała  -  WKS Śląsk Wrocław
+  Wisła Kraków             -  Zagłębie Lubin
+  Wisła Płock              -  KS Cracovia
+  Raków Częstochowa        -  Warta Poznań
+
+
+Round 12
+[Sat Dec/5]
+  KS Cracovia              -  Wisła Kraków
+  KKS Lech Poznań          -  Podbeskidzie Bielsko-Biała
+  Legia Warszawa           -  Lechia Gdańsk
+  Piast Gliwice            -  Zagłębie Lubin
+  Pogoń Szczecin           -  Stal Mielec
+  WKS Śląsk Wrocław        -  Raków Częstochowa
+  Wisła Płock              -  Górnik Zabrze
+  Jagiellonia Białystok    -  Warta Poznań
+
+
+Round 13
+[Sat Dec/12]
+  Stal Mielec              -  KKS Lech Poznań
+  Górnik Zabrze            -  KS Cracovia
+  Lechia Gdańsk            -  Wisła Płock
+  Podbeskidzie Bielsko-Biała  -  Piast Gliwice
+  Raków Częstochowa        -  Jagiellonia Białystok
+  Wisła Kraków             -  Legia Warszawa
+  Zagłębie Lubin           -  WKS Śląsk Wrocław
+  Warta Poznań             -  Pogoń Szczecin
+
+
+Round 14
+[Sat Dec/19]
+  Jagiellonia Białystok    -  Górnik Zabrze
+  KS Cracovia              -  Lechia Gdańsk
+  KKS Lech Poznań          -  Wisła Kraków
+  Legia Warszawa           -  Stal Mielec
+  Piast Gliwice            -  Raków Częstochowa
+  Pogoń Szczecin           -  Zagłębie Lubin
+  Wisła Płock              -  Podbeskidzie Bielsko-Biała
+  WKS Śląsk Wrocław        -  Warta Poznań
+
+
+Round 15
+[Sat Feb/6]
+  Stal Mielec              -  WKS Śląsk Wrocław
+  Górnik Zabrze            -  KKS Lech Poznań
+  Lechia Gdańsk            -  Jagiellonia Białystok
+  Podbeskidzie Bielsko-Biała  -  Legia Warszawa
+  Raków Częstochowa        -  Pogoń Szczecin
+  Wisła Kraków             -  Piast Gliwice
+  Zagłębie Lubin           -  Wisła Płock
+  Warta Poznań             -  KS Cracovia
+
+
+Round 16
+[Sat Feb/13]
+  Stal Mielec              -  Wisła Płock
+  KKS Lech Poznań          -  Zagłębie Lubin
+  Legia Warszawa           -  Raków Częstochowa
+  Piast Gliwice            -  WKS Śląsk Wrocław
+  Podbeskidzie Bielsko-Biała  -  Górnik Zabrze
+  Pogoń Szczecin           -  KS Cracovia
+  Wisła Kraków             -  Jagiellonia Białystok
+  Lechia Gdańsk            -  Warta Poznań
+
+
+Round 17
+[Sat Feb/20]
+  Górnik Zabrze            -  Stal Mielec
+  Jagiellonia Białystok    -  Legia Warszawa
+  KS Cracovia              -  Podbeskidzie Bielsko-Biała
+  Pogoń Szczecin           -  Piast Gliwice
+  Raków Częstochowa        -  Lechia Gdańsk
+  WKS Śląsk Wrocław        -  Wisła Kraków
+  Wisła Płock              -  KKS Lech Poznań
+  Warta Poznań             -  Zagłębie Lubin
+
+
+Round 18
+[Sat Feb/27]
+  Stal Mielec              -  KS Cracovia
+  KKS Lech Poznań          -  WKS Śląsk Wrocław
+  Lechia Gdańsk            -  Górnik Zabrze
+  Legia Warszawa           -  Wisła Płock
+  Podbeskidzie Bielsko-Biała  -  Jagiellonia Białystok
+  Wisła Kraków             -  Pogoń Szczecin
+  Zagłębie Lubin           -  Raków Częstochowa
+  Piast Gliwice            -  Warta Poznań
+
+
+Round 19
+[Sat Mar/6]
+  Stal Mielec              -  Lechia Gdańsk
+  Górnik Zabrze            -  Legia Warszawa
+  Jagiellonia Białystok    -  Piast Gliwice
+  KS Cracovia              -  Zagłębie Lubin
+  Raków Częstochowa        -  Podbeskidzie Bielsko-Biała
+  WKS Śląsk Wrocław        -  Pogoń Szczecin
+  Wisła Płock              -  Wisła Kraków
+  Warta Poznań             -  KKS Lech Poznań
+
+
+Round 20
+[Sat Mar/13]
+  Piast Gliwice            -  Stal Mielec
+  Podbeskidzie Bielsko-Biała  -  Lechia Gdańsk
+  Pogoń Szczecin           -  KKS Lech Poznań
+  Raków Częstochowa        -  KS Cracovia
+  WKS Śląsk Wrocław        -  Legia Warszawa
+  Wisła Kraków             -  Górnik Zabrze
+  Zagłębie Lubin           -  Jagiellonia Białystok
+  Warta Poznań             -  Wisła Płock
+
+
+Round 21
+[Sat Mar/20]
+  Stal Mielec              -  Podbeskidzie Bielsko-Biała
+  Górnik Zabrze            -  Zagłębie Lubin
+  Jagiellonia Białystok    -  Pogoń Szczecin
+  KS Cracovia              -  WKS Śląsk Wrocław
+  KKS Lech Poznań          -  Piast Gliwice
+  Lechia Gdańsk            -  Wisła Kraków
+  Wisła Płock              -  Raków Częstochowa
+  Legia Warszawa           -  Warta Poznań
+
+
+Round 22
+[Sat Apr/3]
+  KKS Lech Poznań          -  Jagiellonia Białystok
+  Piast Gliwice            -  KS Cracovia
+  Pogoń Szczecin           -  Lechia Gdańsk
+  Raków Częstochowa        -  Górnik Zabrze
+  WKS Śląsk Wrocław        -  Wisła Płock
+  Wisła Kraków             -  Stal Mielec
+  Zagłębie Lubin           -  Legia Warszawa
+  Warta Poznań             -  Podbeskidzie Bielsko-Biała
+
+
+Round 23
+[Sat Apr/10]
+  Stal Mielec              -  Raków Częstochowa
+  Jagiellonia Białystok    -  WKS Śląsk Wrocław
+  KS Cracovia              -  KKS Lech Poznań
+  Lechia Gdańsk            -  Zagłębie Lubin
+  Legia Warszawa           -  Pogoń Szczecin
+  Podbeskidzie Bielsko-Biała  -  Wisła Kraków
+  Wisła Płock              -  Piast Gliwice
+  Górnik Zabrze            -  Warta Poznań
+
+
+Round 24
+[Sat Apr/17]
+  Jagiellonia Białystok    -  KS Cracovia
+  KKS Lech Poznań          -  Legia Warszawa
+  Piast Gliwice            -  Górnik Zabrze
+  Pogoń Szczecin           -  Wisła Płock
+  WKS Śląsk Wrocław        -  Lechia Gdańsk
+  Wisła Kraków             -  Raków Częstochowa
+  Zagłębie Lubin           -  Podbeskidzie Bielsko-Biała
+  Warta Poznań             -  Stal Mielec
+
+
+Round 25
+[Wed Apr/21]
+  Stal Mielec              -  Zagłębie Lubin
+  Górnik Zabrze            -  WKS Śląsk Wrocław
+  Lechia Gdańsk            -  Piast Gliwice
+  Legia Warszawa           -  KS Cracovia
+  Podbeskidzie Bielsko-Biała  -  Pogoń Szczecin
+  Raków Częstochowa        -  KKS Lech Poznań
+  Wisła Płock              -  Jagiellonia Białystok
+  Wisła Kraków             -  Warta Poznań
+
+
+Round 26
+[Sat Apr/24]
+  Jagiellonia Białystok    -  Stal Mielec
+  KS Cracovia              -  Wisła Płock
+  KKS Lech Poznań          -  Lechia Gdańsk
+  Piast Gliwice            -  Legia Warszawa
+  Pogoń Szczecin           -  Górnik Zabrze
+  WKS Śląsk Wrocław        -  Podbeskidzie Bielsko-Biała
+  Zagłębie Lubin           -  Wisła Kraków
+  Warta Poznań             -  Raków Częstochowa
+
+
+Round 27
+[Sat May/1]
+  Stal Mielec              -  Pogoń Szczecin
+  Górnik Zabrze            -  Wisła Płock
+  Lechia Gdańsk            -  Legia Warszawa
+  Podbeskidzie Bielsko-Biała  -  KKS Lech Poznań
+  Raków Częstochowa        -  WKS Śląsk Wrocław
+  Wisła Kraków             -  KS Cracovia
+  Zagłębie Lubin           -  Piast Gliwice
+  Warta Poznań             -  Jagiellonia Białystok
+
+
+Round 28
+[Sat May/8]
+  Jagiellonia Białystok    -  Raków Częstochowa
+  KS Cracovia              -  Górnik Zabrze
+  KKS Lech Poznań          -  Stal Mielec
+  Legia Warszawa           -  Wisła Kraków
+  Piast Gliwice            -  Podbeskidzie Bielsko-Biała
+  WKS Śląsk Wrocław        -  Zagłębie Lubin
+  Wisła Płock              -  Lechia Gdańsk
+  Pogoń Szczecin           -  Warta Poznań
+
+
+Round 29
+[Wed May/12]
+  Stal Mielec              -  Legia Warszawa
+  Górnik Zabrze            -  Jagiellonia Białystok
+  Lechia Gdańsk            -  KS Cracovia
+  Podbeskidzie Bielsko-Biała  -  Wisła Płock
+  Raków Częstochowa        -  Piast Gliwice
+  Wisła Kraków             -  KKS Lech Poznań
+  Zagłębie Lubin           -  Pogoń Szczecin
+  Warta Poznań             -  WKS Śląsk Wrocław
+
+
+Round 30
+[Sun May/16]
+  Jagiellonia Białystok    -  Lechia Gdańsk
+  KKS Lech Poznań          -  Górnik Zabrze
+  Legia Warszawa           -  Podbeskidzie Bielsko-Biała
+  Piast Gliwice            -  Wisła Kraków
+  Pogoń Szczecin           -  Raków Częstochowa
+  WKS Śląsk Wrocław        -  Stal Mielec
+  Wisła Płock              -  Zagłębie Lubin
+  KS Cracovia              -  Warta Poznań

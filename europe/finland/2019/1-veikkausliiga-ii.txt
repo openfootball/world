@@ -1,14 +1,14 @@
 = Finland Veikkausliiga 2019, Playoffs - Championship
 
 
-Matchday 1
+Round 1
 [Sun Sep/15]
   FC Ilves                  0-2  FC Honka Espoo
   KuPS Kuopio               1-0  HJK Helsinki
   FC Inter Turku            2-0  IFK Mariehamn
 
 
-Matchday 2
+Round 2
 [Sat Sep/21]
   FC Honka Espoo            3-1  HJK Helsinki
 [Sun Sep/22]
@@ -16,7 +16,7 @@ Matchday 2
   IFK Mariehamn             0-1  KuPS Kuopio
 
 
-Matchday 3
+Round 3
 [Fri Sep/27]
   KuPS Kuopio               2-0  FC Ilves
 [Sat Sep/28]
@@ -24,14 +24,14 @@ Matchday 3
   HJK Helsinki              3-0  IFK Mariehamn
 
 
-Matchday 4
+Round 4
 [Sun Oct/6]
   HJK Helsinki              0-1  FC Inter Turku
   KuPS Kuopio               1-1  FC Honka Espoo
   IFK Mariehamn             2-2  FC Ilves
 
 
-Matchday 5
+Round 5
 [Sat Oct/19]
   FC Ilves                  2-1  HJK Helsinki
   FC Inter Turku            0-2  KuPS Kuopio
@@ -41,7 +41,7 @@ Matchday 5
 = Finland Veikkausliiga 2019, Playoffs - Challenger
 
 
-Matchday 1
+Round 1
 [Fri Sep/13]
   HIFK Helsinki             3-1  KPV Kokkola
   SJK Seinäjoki             1-1  Vaasan Palloseura
@@ -49,7 +49,7 @@ Matchday 1
   FC Lahti                  3-0  Rovaniemen Palloseura
 
 
-Matchday 2
+Round 2
 [Fri Sep/20]
   Vaasan Palloseura         1-2  FC Lahti
 [Sat Sep/21]
@@ -57,7 +57,7 @@ Matchday 2
   KPV Kokkola               4-1  Rovaniemen Palloseura
 
 
-Matchday 3
+Round 3
 [Fri Sep/27]
   SJK Seinäjoki             0-2  KPV Kokkola
 [Sat Sep/28]
@@ -65,14 +65,14 @@ Matchday 3
   FC Lahti                  2-2  HIFK Helsinki
 
 
-Matchday 4
+Round 4
 [Sun Oct/6]
   Rovaniemen Palloseura     1-0  SJK Seinäjoki
   Vaasan Palloseura         2-3  HIFK Helsinki
   FC Lahti                  1-4  KPV Kokkola
 
 
-Matchday 5
+Round 5
 [Sat Oct/19]
   KPV Kokkola               2-3  Vaasan Palloseura
   SJK Seinäjoki             0-0  FC Lahti

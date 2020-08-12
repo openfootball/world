@@ -1,7 +1,7 @@
 = Irish Premier Division 2020
 
 
-Matchday 1
+Round 1
 [Fri Feb/14]
   Cork City FC              0-1  Shelbourne FC
   Dundalk FC                1-0  Derry City FC
@@ -11,7 +11,7 @@ Matchday 1
   Bohemian FC               0-1  Shamrock Rovers FC
 
 
-Matchday 2
+Round 2
 [Fri Feb/21]
   Derry City FC             1-1  Finn Harps FC
   Shamrock Rovers FC        6-0  Cork City FC
@@ -20,14 +20,14 @@ Matchday 2
   Waterford FC              0-2  Bohemian FC
 
 
-Matchday 3
+Round 3
 [Mon Feb/24]
   Waterford FC              0-2  Shamrock Rovers FC
   Bohemian FC               2-0  Sligo Rovers FC
   Dundalk FC                3-0  Cork City FC
 
 
-Matchday 4
+Round 4
 [Fri Feb/28]
   Shamrock Rovers FC        3-2  Dundalk FC
   Derry City FC             2-0  Bohemian FC
@@ -35,7 +35,7 @@ Matchday 4
   Shelbourne FC             1-0  St Patrick's Athletic FC
 
 
-Matchday 5
+Round 5
 [Fri Mar/6]
   Bohemian FC               2-0  Shelbourne FC
   St Patrick's Athletic FC   1-0  Cork City FC
@@ -45,13 +45,13 @@ Matchday 5
   Sligo Rovers FC           2-3  Shamrock Rovers FC
 
 
-Matchday 25
+Round 25
 [Mon May/25]
   Bohemian FC              -  Dundalk FC               [cancelled]
   Derry City FC            -  Shamrock Rovers FC       [cancelled]
 
 
-Matchday 19
+Round 19
 [Fri May/29]
   Cork City FC             -  Shelbourne FC            [cancelled]
   Finn Harps FC            -  Sligo Rovers FC          [cancelled]
@@ -60,7 +60,7 @@ Matchday 19
   St Patrick's Athletic FC  -  Waterford FC             [cancelled]
 
 
-Matchday 20
+Round 20
 [Fri Jun/5]
   Shamrock Rovers FC       -  Cork City FC             [cancelled]
   Derry City FC            -  Finn Harps FC            [cancelled]
@@ -70,7 +70,7 @@ Matchday 20
   Sligo Rovers FC          -  St Patrick's Athletic FC  [cancelled]
 
 
-Matchday 21
+Round 21
 [Fri Jun/12]
   Waterford FC             -  Shamrock Rovers FC       [cancelled]
   Bohemian FC              -  Sligo Rovers FC          [cancelled]
@@ -79,7 +79,7 @@ Matchday 21
   Finn Harps FC            -  Shelbourne FC            [cancelled]
 
 
-Matchday 22
+Round 22
 [Fri Jun/26]
   Sligo Rovers FC          -  Waterford FC             [cancelled]
   Cork City FC             -  Finn Harps FC            [cancelled]
@@ -88,7 +88,7 @@ Matchday 22
   Shamrock Rovers FC       -  Dundalk FC               [cancelled]
 
 
-Matchday 23
+Round 23
 [Mon Jun/29]
   Sligo Rovers FC          -  Shamrock Rovers FC       [cancelled]
   St Patrick's Athletic FC  -  Cork City FC             [cancelled]
@@ -97,7 +97,7 @@ Matchday 23
   Bohemian FC              -  Shelbourne FC            [cancelled]
 
 
-Matchday 24
+Round 24
 [Fri Jul/3]
   Cork City FC             -  Bohemian FC              [cancelled]
   Derry City FC            -  Sligo Rovers FC          [cancelled]
@@ -106,7 +106,7 @@ Matchday 24
   Shelbourne FC            -  Waterford FC             [cancelled]
 
 
-Matchday 25
+Round 25
 [Fri Jul/10]
   St Patrick's Athletic FC  -  Finn Harps FC            [cancelled]
   Waterford FC             -  Cork City FC             [cancelled]
@@ -114,7 +114,7 @@ Matchday 25
   Sligo Rovers FC          -  Shelbourne FC            [cancelled]
 
 
-Matchday 26
+Round 26
 [Fri Jul/17]
   St Patrick's Athletic FC  -  Shamrock Rovers FC       [cancelled]
   Shelbourne FC            -  Derry City FC            [cancelled]
@@ -123,7 +123,7 @@ Matchday 26
   Dundalk FC               -  Waterford FC             [cancelled]
 
 
-Matchday 27
+Round 27
 [Fri Jul/24]
   Shamrock Rovers FC       -  Shelbourne FC            [cancelled]
   Bohemian FC              -  St Patrick's Athletic FC  [cancelled]
@@ -133,7 +133,7 @@ Matchday 27
   Sligo Rovers FC          -  Dundalk FC               [cancelled]
 
 
-Matchday 28
+Round 28
 [Fri Jul/31]
   Shamrock Rovers FC       -  Bohemian FC              [cancelled]
   Shelbourne FC            -  Cork City FC             [cancelled]
@@ -141,18 +141,18 @@ Matchday 28
   Waterford FC             -  St Patrick's Athletic FC  [cancelled]
 
 
-Matchday 6
+Round 6
 [Fri Jul/31]
   Derry City FC             0-2  Sligo Rovers FC
   Dundalk FC                1-1  St Patrick's Athletic FC
 
 
-Matchday 28
+Round 28
 [Sat Aug/1]
   Sligo Rovers FC          -  Finn Harps FC            [cancelled]
 
 
-Matchday 6
+Round 6
 [Sat Aug/1]
   Shamrock Rovers FC        3-1  Finn Harps FC
   Shelbourne FC             0-1  Waterford FC
@@ -160,19 +160,19 @@ Matchday 6
   Cork City FC              0-1  Bohemian FC
 
 
-Matchday 3
+Round 3
 [Mon Aug/3]
   St Patrick's Athletic FC   0-2  Derry City FC
 [Tue Aug/4]
   Finn Harps FC             0-1  Shelbourne FC
 
 
-Matchday 4
+Round 4
 [Tue Aug/4]
   Sligo Rovers FC          -  Waterford FC
 
 
-Matchday 7
+Round 7
 [Fri Aug/7]
   Bohemian FC               2-1  Dundalk FC
   St Patrick's Athletic FC   2-0  Finn Harps FC
@@ -183,7 +183,7 @@ Matchday 7
   Derry City FC            -  Shamrock Rovers FC
 
 
-Matchday 29
+Round 29
 [Fri Aug/14]
   Finn Harps FC            -  Derry City FC            [cancelled]
   Cork City FC             -  Shamrock Rovers FC       [cancelled]
@@ -192,7 +192,7 @@ Matchday 29
   St Patrick's Athletic FC  -  Sligo Rovers FC          [cancelled]
 
 
-Matchday 8
+Round 8
 [Fri Aug/14]
   Cork City FC             -  Sligo Rovers FC
   Dundalk FC               -  Waterford FC
@@ -203,7 +203,7 @@ Matchday 8
   St Patrick's Athletic FC  -  Shamrock Rovers FC
 
 
-Matchday 9
+Round 9
 [Fri Aug/21]
   Shamrock Rovers FC       -  Shelbourne FC
   Derry City FC            -  Cork City FC
@@ -214,7 +214,7 @@ Matchday 9
   Waterford FC             -  Finn Harps FC
 
 
-Matchday 30
+Round 30
 [Fri Aug/28]
   Shamrock Rovers FC       -  Waterford FC             [cancelled]
   Shelbourne FC            -  Finn Harps FC            [cancelled]
@@ -224,7 +224,7 @@ Matchday 30
   Sligo Rovers FC          -  Bohemian FC              [cancelled]
 
 
-Matchday 10
+Round 10
 [Fri Sep/4]
   Derry City FC            -  Dundalk FC
   Waterford FC             -  St Patrick's Athletic FC
@@ -235,13 +235,13 @@ Matchday 10
   Sligo Rovers FC          -  Finn Harps FC
 
 
-Matchday 11
+Round 11
 [Fri Sep/11]
   Bohemian FC              -  Waterford FC
   Dundalk FC               -  Shelbourne FC
 
 
-Matchday 31
+Round 31
 [Fri Sep/11]
   St Patrick's Athletic FC  -  Shelbourne FC            [cancelled]
   Dundalk FC               -  Shamrock Rovers FC       [cancelled]
@@ -250,7 +250,7 @@ Matchday 31
   Waterford FC             -  Sligo Rovers FC          [cancelled]
 
 
-Matchday 11
+Round 11
 [Sat Sep/12]
   Cork City FC             -  Shamrock Rovers FC
   St Patrick's Athletic FC  -  Sligo Rovers FC
@@ -258,7 +258,7 @@ Matchday 11
   Finn Harps FC            -  Derry City FC
 
 
-Matchday 12
+Round 12
 [Fri Sep/18]
   Cork City FC             -  Dundalk FC
   Derry City FC            -  St Patrick's Athletic FC
@@ -266,7 +266,7 @@ Matchday 12
   Shamrock Rovers FC       -  Waterford FC
 
 
-Matchday 32
+Round 32
 [Fri Sep/18]
   Dundalk FC               -  Finn Harps FC            [cancelled]
   Derry City FC            -  Waterford FC             [cancelled]
@@ -275,12 +275,12 @@ Matchday 32
   Cork City FC             -  St Patrick's Athletic FC  [cancelled]
 
 
-Matchday 12
+Round 12
 [Sat Sep/19]
   Sligo Rovers FC          -  Bohemian FC
 
 
-Matchday 13
+Round 13
 [Fri Sep/25]
   St Patrick's Athletic FC  -  Shelbourne FC
   Waterford FC             -  Sligo Rovers FC
@@ -289,7 +289,7 @@ Matchday 13
   Dundalk FC               -  Shamrock Rovers FC
 
 
-Matchday 14
+Round 14
 [Fri Oct/2]
   Cork City FC             -  St Patrick's Athletic FC
   Dundalk FC               -  Finn Harps FC
@@ -298,7 +298,7 @@ Matchday 14
   Shamrock Rovers FC       -  Sligo Rovers FC
 
 
-Matchday 33
+Round 33
 [Fri Oct/2]
   Bohemian FC              -  Cork City FC             [cancelled]
   Waterford FC             -  Shelbourne FC            [cancelled]
@@ -308,7 +308,7 @@ Matchday 33
   Sligo Rovers FC          -  Derry City FC            [cancelled]
 
 
-Matchday 15
+Round 15
 [Fri Oct/9]
   St Patrick's Athletic FC  -  Dundalk FC
   Finn Harps FC            -  Shamrock Rovers FC
@@ -316,7 +316,7 @@ Matchday 15
   Bohemian FC              -  Cork City FC
 
 
-Matchday 34
+Round 34
 [Fri Oct/9]
   Cork City FC             -  Waterford FC             [cancelled]
   Shelbourne FC            -  Sligo Rovers FC          [cancelled]
@@ -325,12 +325,12 @@ Matchday 34
   Dundalk FC               -  Bohemian FC              [cancelled]
 
 
-Matchday 15
+Round 15
 [Sat Oct/10]
   Sligo Rovers FC          -  Derry City FC
 
 
-Matchday 16
+Round 16
 [Fri Oct/16]
   Dundalk FC               -  Bohemian FC
   Cork City FC             -  Waterford FC
@@ -339,7 +339,7 @@ Matchday 16
   Finn Harps FC            -  St Patrick's Athletic FC
 
 
-Matchday 35
+Round 35
 [Fri Oct/16]
   Derry City FC            -  Shelbourne FC            [cancelled]
   Shamrock Rovers FC       -  St Patrick's Athletic FC  [cancelled]
@@ -349,7 +349,7 @@ Matchday 35
   Sligo Rovers FC          -  Cork City FC             [cancelled]
 
 
-Matchday 17
+Round 17
 [Fri Oct/23]
   Waterford FC             -  Dundalk FC
   Bohemian FC              -  Finn Harps FC
@@ -357,7 +357,7 @@ Matchday 17
   Derry City FC            -  Shelbourne FC
 
 
-Matchday 36
+Round 36
 [Fri Oct/23]
   Finn Harps FC            -  Waterford FC             [cancelled]
   Shelbourne FC            -  Shamrock Rovers FC       [cancelled]
@@ -366,12 +366,12 @@ Matchday 36
   Dundalk FC               -  Sligo Rovers FC          [cancelled]
 
 
-Matchday 17
+Round 17
 [Sat Oct/24]
   Sligo Rovers FC          -  Cork City FC
 
 
-Matchday 18
+Round 18
 [Fri Oct/30]
   St Patrick's Athletic FC  -  Bohemian FC
   Dundalk FC               -  Sligo Rovers FC

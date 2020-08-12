@@ -37,6 +37,16 @@ Europe
 - [**Turkey**](europe/turkey) - Süper Lig, 1. Lig
 - and others
 
+todo: add
+ europe/croatia/
+        europe/denmark/
+        europe/luxembourg/
+        europe/norway/
+        europe/poland/
+        europe/slovakia/
+        europe/sweden/
+        europe/ukraine/
+
 Asia
 
 - [**China**](asia/china) - Super League
