@@ -1,0 +1,425 @@
+= Russian Premier League 2019/20
+
+
+Matchday 1
+[Fri Jul/12]
+  Arsenal Tula             1-1  Dynamo Moskva
+[Sat Jul/13]
+  Ural Yekaterinburg       3-2  FC Ufa
+  FC Spartak Moskva        1-0  PFC Sochi
+  FC Rostov                2-1  FC Orenburg
+[Sun Jul/14]
+  PFC Krylya Sovetov Samara  2-0  PFC CSKA Moskva
+  Zenit St. Petersburg     2-1  FC Tambov
+  Akhmat Grozny            1-0  FC Krasnodar
+[Mon Jul/15]
+  Lokomotiv Moskva         1-1  FC Rubin Kazan
+
+
+Matchday 2
+[Sat Jul/20]
+  FC Ufa                   2-3  FC Krasnodar
+  PFC Krylya Sovetov Samara  2-3  Arsenal Tula
+  PFC CSKA Moskva          2-1  FC Orenburg
+  FC Rostov                2-2  FC Spartak Moskva
+[Sun Jul/21]
+  Ural Yekaterinburg       3-0  Akhmat Grozny
+  Lokomotiv Moskva         2-1  FC Tambov
+  Dynamo Moskva            0-1  FC Rubin Kazan
+  PFC Sochi                0-2  Zenit St. Petersburg
+
+
+Matchday 3
+[Fri Jul/26]
+  Dynamo Moskva            2-0  Ural Yekaterinburg
+[Sat Jul/27]
+  FC Ufa                   2-1  PFC Krylya Sovetov Samara
+  FC Tambov                2-0  FC Spartak Moskva
+  FC Krasnodar             3-0  PFC Sochi
+[Sun Jul/28]
+  FC Orenburg              0-2  Zenit St. Petersburg
+  Arsenal Tula             2-3  FC Rostov
+  PFC CSKA Moskva          1-0  Lokomotiv Moskva
+[Mon Jul/29]
+  FC Rubin Kazan           1-0  Akhmat Grozny
+
+
+Matchday 4
+[Sat Aug/3]
+  Ural Yekaterinburg       2-2  FC Rostov
+  PFC Krylya Sovetov Samara  1-2  Lokomotiv Moskva
+  FC Spartak Moskva        0-0  Dynamo Moskva
+  Zenit St. Petersburg     1-1  FC Krasnodar
+[Sun Aug/4]
+  FC Tambov                0-1  Arsenal Tula
+  FC Rubin Kazan           0-1  PFC CSKA Moskva
+  PFC Sochi                0-0  FC Ufa
+[Mon Aug/5]
+  Akhmat Grozny            2-1  FC Orenburg
+
+
+Matchday 5
+[Sat Aug/10]
+  FC Orenburg              2-2  FC Tambov
+  FC Krasnodar             1-0  FC Rubin Kazan
+  Dynamo Moskva            0-2  Zenit St. Petersburg
+[Sun Aug/11]
+  Arsenal Tula             1-0  FC Ufa
+  Lokomotiv Moskva         4-0  Ural Yekaterinburg
+  PFC CSKA Moskva          0-0  PFC Sochi
+  Akhmat Grozny            1-3  FC Spartak Moskva
+[Mon Aug/12]
+  FC Rostov                1-0  PFC Krylya Sovetov Samara
+
+
+Matchday 6
+[Fri Aug/16]
+  FC Orenburg              1-1  PFC Sochi
+[Sat Aug/17]
+  Ural Yekaterinburg       1-3  PFC Krylya Sovetov Samara
+  Zenit St. Petersburg     0-0  Akhmat Grozny
+  FC Tambov                0-2  FC Krasnodar
+[Sun Aug/18]
+  FC Rubin Kazan           1-0  Arsenal Tula
+  Dynamo Moskva            1-2  Lokomotiv Moskva
+  FC Ufa                   2-0  FC Rostov
+[Mon Aug/19]
+  FC Spartak Moskva        2-1  PFC CSKA Moskva
+
+
+Matchday 7
+[Sat Aug/24]
+  FC Tambov                0-2  Dynamo Moskva
+  FC Ufa                   1-0  Zenit St. Petersburg
+  FC Krasnodar             1-1  Lokomotiv Moskva
+[Sun Aug/25]
+  PFC CSKA Moskva          3-0  Akhmat Grozny
+  FC Rostov                2-1  FC Rubin Kazan
+  Arsenal Tula             2-1  FC Orenburg
+  PFC Krylya Sovetov Samara  1-2  FC Spartak Moskva
+[Mon Aug/26]
+  Ural Yekaterinburg       3-1  PFC Sochi
+
+
+Matchday 8
+[Fri Aug/30]
+  PFC Krylya Sovetov Samara  0-0  Dynamo Moskva
+[Sat Aug/31]
+  FC Ufa                   1-2  FC Orenburg
+  FC Rubin Kazan           0-3  PFC Sochi
+  Lokomotiv Moskva         1-2  FC Rostov
+  Akhmat Grozny            1-1  FC Tambov
+[Sun Sep/1]
+  Ural Yekaterinburg       2-4  FC Krasnodar
+  Arsenal Tula             1-2  PFC CSKA Moskva
+  FC Spartak Moskva        0-1  Zenit St. Petersburg
+
+
+Matchday 9
+[Fri Sep/13]
+  Zenit St. Petersburg     3-1  Arsenal Tula
+[Sat Sep/14]
+  FC Spartak Moskva        1-2  Ural Yekaterinburg
+  PFC Sochi                0-1  Lokomotiv Moskva
+[Sun Sep/15]
+  FC Orenburg              2-1  FC Rubin Kazan
+  FC Tambov                0-2  PFC CSKA Moskva
+  FC Krasnodar             4-2  PFC Krylya Sovetov Samara
+[Mon Sep/16]
+  FC Rostov                2-1  Akhmat Grozny
+  Dynamo Moskva            0-0  FC Ufa
+
+
+Matchday 10
+[Fri Sep/20]
+  FC Ufa                   1-0  FC Spartak Moskva
+[Sat Sep/21]
+  Akhmat Grozny            1-1  PFC Krylya Sovetov Samara
+  Zenit St. Petersburg     5-0  FC Rubin Kazan
+  FC Tambov                2-1  FC Rostov
+[Sun Sep/22]
+  PFC CSKA Moskva          3-2  FC Krasnodar
+  Dynamo Moskva            2-3  PFC Sochi
+  Arsenal Tula             1-1  Ural Yekaterinburg
+  FC Orenburg              2-3  Lokomotiv Moskva
+
+
+Matchday 11
+[Sat Sep/28]
+  PFC Krylya Sovetov Samara  2-0  FC Tambov
+  FC Rostov                3-0  Dynamo Moskva
+  Lokomotiv Moskva         1-0  Zenit St. Petersburg
+[Sun Sep/29]
+  Ural Yekaterinburg       0-3  PFC CSKA Moskva
+  FC Rubin Kazan           0-0  FC Ufa
+  FC Krasnodar             2-0  Arsenal Tula
+  FC Spartak Moskva        1-2  FC Orenburg
+[Mon Sep/30]
+  PFC Sochi                2-0  Akhmat Grozny
+
+
+Matchday 12
+[Sat Oct/5]
+  FC Orenburg              2-0  Dynamo Moskva
+  FC Ufa                   0-1  Akhmat Grozny
+  PFC Sochi                0-2  PFC Krylya Sovetov Samara
+  FC Rubin Kazan           2-1  FC Tambov
+[Sun Oct/6]
+  Ural Yekaterinburg       1-3  Zenit St. Petersburg
+  Lokomotiv Moskva         2-1  Arsenal Tula
+  PFC CSKA Moskva          1-3  FC Rostov
+  FC Krasnodar             2-1  FC Spartak Moskva
+
+
+Matchday 13
+[Fri Oct/18]
+  Akhmat Grozny            0-2  Lokomotiv Moskva
+[Sat Oct/19]
+  FC Tambov                1-2  Ural Yekaterinburg
+  FC Spartak Moskva        0-0  FC Rubin Kazan
+  Zenit St. Petersburg     6-1  FC Rostov
+[Sun Oct/20]
+  FC Orenburg              0-1  PFC Krylya Sovetov Samara
+  FC Ufa                   1-1  PFC CSKA Moskva
+  Arsenal Tula             1-1  PFC Sochi
+  Dynamo Moskva            1-1  FC Krasnodar
+
+
+Matchday 14
+[Fri Oct/25]
+  FC Rubin Kazan           0-0  Ural Yekaterinburg
+[Sat Oct/26]
+  FC Tambov                3-0  FC Ufa
+  FC Rostov                2-0  PFC Sochi
+  Akhmat Grozny            1-1  Arsenal Tula
+[Sun Oct/27]
+  PFC Krylya Sovetov Samara  0-2  Zenit St. Petersburg
+  PFC CSKA Moskva          0-1  Dynamo Moskva
+  Lokomotiv Moskva         0-3  FC Spartak Moskva
+  FC Krasnodar             1-1  FC Orenburg
+
+
+Matchday 15
+[Sat Nov/2]
+  Dynamo Moskva            1-1  Akhmat Grozny
+  FC Ufa                   1-1  Lokomotiv Moskva
+  Zenit St. Petersburg     1-1  PFC CSKA Moskva
+  PFC Sochi                1-2  FC Tambov
+[Sun Nov/3]
+  FC Krasnodar             2-2  FC Rostov
+[Mon Nov/4]
+  PFC Krylya Sovetov Samara  0-0  FC Rubin Kazan
+  Ural Yekaterinburg       1-2  FC Orenburg
+  FC Spartak Moskva        0-1  Arsenal Tula
+
+
+Matchday 16
+[Fri Nov/8]
+  Akhmat Grozny            0-0  Ural Yekaterinburg
+[Sat Nov/9]
+  FC Rubin Kazan           0-1  Dynamo Moskva
+  FC Rostov                1-2  FC Tambov
+  FC Spartak Moskva        2-0  PFC Krylya Sovetov Samara
+[Sun Nov/10]
+  FC Orenburg              0-0  FC Ufa
+  Arsenal Tula             0-1  Zenit St. Petersburg
+  PFC Sochi                2-3  PFC CSKA Moskva
+  Lokomotiv Moskva         1-1  FC Krasnodar
+
+
+Matchday 17
+[Fri Nov/22]
+  FC Tambov                2-3  Lokomotiv Moskva
+[Sat Nov/23]
+  FC Orenburg              1-2  Akhmat Grozny
+  FC Rubin Kazan           1-2  Zenit St. Petersburg
+  Dynamo Moskva            2-1  FC Rostov
+[Sun Nov/24]
+  FC Ufa                   1-1  PFC Sochi
+  Ural Yekaterinburg       0-0  FC Spartak Moskva
+  Arsenal Tula             1-2  FC Krasnodar
+  PFC CSKA Moskva          1-0  PFC Krylya Sovetov Samara
+
+
+Matchday 18
+[Sat Nov/30]
+  PFC Krylya Sovetov Samara  0-1  FC Ufa
+  FC Rostov                0-0  Ural Yekaterinburg
+  Akhmat Grozny            1-1  FC Rubin Kazan
+[Sun Dec/1]
+  Zenit St. Petersburg     1-0  FC Spartak Moskva
+  Lokomotiv Moskva         1-2  Dynamo Moskva
+[Mon Dec/2]
+  FC Krasnodar             0-0  FC Tambov
+  PFC CSKA Moskva          0-1  Arsenal Tula
+
+
+Matchday 19
+[Fri Dec/6]
+  Arsenal Tula             4-0  Lokomotiv Moskva
+  Zenit St. Petersburg     3-0  Dynamo Moskva
+[Sat Dec/7]
+  Akhmat Grozny            0-1  FC Ufa
+  FC Tambov                3-0  FC Orenburg
+  FC Krasnodar             1-1  PFC CSKA Moskva
+[Sun Dec/8]
+  FC Spartak Moskva        1-4  FC Rostov
+  PFC Krylya Sovetov Samara  2-3  Ural Yekaterinburg
+  PFC Sochi                1-1  FC Rubin Kazan
+
+
+Matchday 20
+[Fri Feb/28]
+  PFC Krylya Sovetov Samara  1-1  FC Orenburg
+[Sat Feb/29]
+  PFC CSKA Moskva          1-1  Ural Yekaterinburg
+  Dynamo Moskva            0-2  FC Spartak Moskva
+  Akhmat Grozny            1-1  FC Rostov
+  Zenit St. Petersburg     0-0  Lokomotiv Moskva
+[Sun Mar/1]
+  PFC Sochi                1-2  Arsenal Tula
+  FC Krasnodar             2-0  FC Ufa
+  FC Tambov                0-0  FC Rubin Kazan
+
+
+Matchday 21
+[Sat Mar/7]
+  Dynamo Moskva            1-0  FC Tambov
+  FC Orenburg              2-0  Arsenal Tula
+[Sun Mar/8]
+  Lokomotiv Moskva         1-0  Akhmat Grozny
+  FC Rubin Kazan           0-1  PFC Krylya Sovetov Samara
+  PFC Sochi                2-0  Ural Yekaterinburg
+[Mon Mar/9]
+  FC Rostov                3-2  PFC CSKA Moskva
+  Zenit St. Petersburg     0-0  FC Ufa
+  FC Spartak Moskva        0-1  FC Krasnodar
+
+
+Matchday 18
+[Wed Mar/11]
+  PFC Sochi                5-1  FC Orenburg
+
+
+Matchday 22
+[Fri Mar/13]
+  Akhmat Grozny            2-3  Dynamo Moskva
+[Sat Mar/14]
+  FC Orenburg              1-3  FC Spartak Moskva
+  Zenit St. Petersburg     7-1  Ural Yekaterinburg
+  Arsenal Tula             0-1  FC Rubin Kazan
+[Sun Mar/15]
+  PFC Sochi                2-0  FC Krasnodar
+  PFC CSKA Moskva          0-0  FC Ufa
+  FC Rostov                1-3  Lokomotiv Moskva
+[Mon Mar/16]
+  FC Tambov                3-0  PFC Krylya Sovetov Samara
+
+
+Matchday 23
+[Fri Jun/19]
+  PFC Krylya Sovetov Samara  2-4  Akhmat Grozny
+  PFC Sochi                10-1  FC Rostov
+[Sat Jun/20]
+  Ural Yekaterinburg       1-2  FC Rubin Kazan
+  Arsenal Tula             2-3  FC Spartak Moskva
+  PFC CSKA Moskva          0-4  Zenit St. Petersburg
+[Sun Jun/21]
+  FC Ufa                   2-1  FC Tambov
+  Lokomotiv Moskva         1-0  FC Orenburg
+
+
+Matchday 24
+[Fri Jun/26]
+  Akhmat Grozny            1-1  PFC Sochi
+  Zenit St. Petersburg     2-1  PFC Krylya Sovetov Samara
+[Sat Jun/27]
+  FC Rostov                2-1  Arsenal Tula
+  FC Orenburg              -  FC Krasnodar
+  FC Spartak Moskva        0-0  FC Ufa
+  FC Rubin Kazan           0-2  Lokomotiv Moskva
+  Dynamo Moskva            0-0  PFC CSKA Moskva
+[Sun Jun/28]
+  Ural Yekaterinburg       2-1  FC Tambov
+
+
+Matchday 25
+[Tue Jun/30]
+  PFC CSKA Moskva          2-0  FC Spartak Moskva
+  Lokomotiv Moskva         1-1  PFC Krylya Sovetov Samara
+[Wed Jul/1]
+  FC Ufa                   0-0  FC Rubin Kazan
+  PFC Sochi                1-1  Dynamo Moskva
+  FC Orenburg              -  Ural Yekaterinburg
+  FC Rostov                1-1  FC Krasnodar
+  Arsenal Tula             1-3  Akhmat Grozny
+  FC Tambov                1-2  Zenit St. Petersburg
+
+
+Matchday 26
+[Sat Jul/4]
+  Akhmat Grozny            0-4  PFC CSKA Moskva
+  Dynamo Moskva            0-1  Arsenal Tula
+  FC Spartak Moskva        2-3  FC Tambov
+  PFC Krylya Sovetov Samara  0-0  FC Rostov
+  Lokomotiv Moskva         0-0  PFC Sochi
+[Sun Jul/5]
+  FC Ufa                   1-1  Ural Yekaterinburg
+  FC Krasnodar             2-4  Zenit St. Petersburg
+  FC Rubin Kazan           1-0  FC Orenburg
+
+
+Matchday 27
+[Tue Jul/7]
+  Arsenal Tula             -  PFC Krylya Sovetov Samara
+  FC Tambov                -  Akhmat Grozny
+[Wed Jul/8]
+  FC Rostov                -  FC Ufa
+  FC Spartak Moskva        -  Lokomotiv Moskva
+  Zenit St. Petersburg     -  PFC Sochi
+  FC Orenburg              -  PFC CSKA Moskva
+[Thu Jul/9]
+  FC Rubin Kazan           -  FC Krasnodar
+  Ural Yekaterinburg       -  Dynamo Moskva
+
+
+Matchday 28
+[Sat Jul/11]
+  PFC Sochi                -  FC Spartak Moskva
+  Arsenal Tula             -  FC Tambov
+  Akhmat Grozny            -  Zenit St. Petersburg
+[Sun Jul/12]
+  Dynamo Moskva            -  PFC Krylya Sovetov Samara
+  FC Orenburg              -  FC Rostov
+  Lokomotiv Moskva         -  FC Ufa
+  PFC CSKA Moskva          -  FC Rubin Kazan
+  FC Krasnodar             -  Ural Yekaterinburg
+
+
+Matchday 29
+[Wed Jul/15]
+  FC Tambov                -  PFC Sochi
+  Zenit St. Petersburg     -  FC Orenburg
+  FC Spartak Moskva        -  Akhmat Grozny
+  Ural Yekaterinburg       -  Arsenal Tula
+  Lokomotiv Moskva         -  PFC CSKA Moskva
+  FC Rubin Kazan           -  FC Rostov
+  PFC Krylya Sovetov Samara  -  FC Krasnodar
+  FC Ufa                   -  Dynamo Moskva
+
+
+Matchday 23
+[Sun Jul/19]
+  FC Krasnodar             -  Dynamo Moskva
+
+
+Matchday 30
+[Wed Jul/22]
+  FC Rostov                -  Zenit St. Petersburg
+  FC Krasnodar             -  Akhmat Grozny
+  PFC CSKA Moskva          -  FC Tambov
+  Dynamo Moskva            -  FC Orenburg
+  FC Rubin Kazan           -  FC Spartak Moskva
+  PFC Krylya Sovetov Samara  -  PFC Sochi
+  FC Ufa                   -  Arsenal Tula
+  Ural Yekaterinburg       -  Lokomotiv Moskva

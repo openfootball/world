@@ -1,0 +1,29 @@
+################################
+# Russian Premier League 2006
+
+league: ru
+season: 2014/15
+start_at: 2006-03-17
+
+fixtures:
+- rfpl-i
+- rfpl-ii
+
+
+16 Teams:
+- Torpedo             
+- Tom
+- Moskva              
+- Amkar
+- Dinamo              
+- Shinnik
+- Spartak             
+- Luch
+- Rubin               
+- Rostov
+- Zenit               
+- Saturn
+- Spartak Nalchik     
+- CSKA
+- Lokomotiv           
+- Krylia Sovetov

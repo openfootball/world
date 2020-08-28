@@ -1,0 +1,29 @@
+################################
+# Russian Premier League 2005
+
+league: ru
+season: 2005
+start_at: 2005-03-12
+
+fixtures:
+- rfpl-i
+- rfpl-ii
+
+
+16 Teams:
+- Krylia Sovetov       
+- Alania
+- Zenit               
+- Dinamo
+- Shinnik             
+- Amkar
+- Lokomotiv           
+- Tom
+- Spartak             
+- Moskva
+- CSKA                
+- Terek
+- Torpedo             
+- Rostov
+- Saturn              
+- Rubin

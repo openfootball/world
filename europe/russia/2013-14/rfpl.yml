@@ -1,0 +1,30 @@
+################################
+# Russian Premier League 2013/14
+
+league: ru
+season: 2013/14
+start_at: 2013-07-14
+
+fixtures:
+- rfpl-i
+- rfpl-ii
+
+18 Teams:
+ - Amkar               
+ - Krasnodar
+ - Anzhi               
+ - Krylia Sovetov
+ - Spartak             
+ - Dinamo
+ - Kuban               
+ - Zenit
+ - Rubin               
+ - Terek
+ - CSKA                
+ - Lokomotiv
+ - Tom                 
+ - Rostov
+ - Volga               
+ - Ural
+ - Ufa
+ - Torpedo

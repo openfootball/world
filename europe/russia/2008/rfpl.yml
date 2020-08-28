@@ -1,0 +1,29 @@
+################################
+# Russian Premier League 2008
+
+league: ru
+season: 2008
+start_at: 2014-03-14
+
+fixtures:
+- rfpl-i
+- rfpl-ii
+
+
+16 Teams:
+- Terek               
+- Krylia Sovetov
+- CSKA                
+- Shinnik
+- Khimki              
+- Amkar
+- Spartak Nalchik             
+- Saturn
+- Luch                
+- Moskva
+- Tom                 
+- Dinamo
+- Zenit               
+- Spartak
+- Lokomotiv           
+- Rubin

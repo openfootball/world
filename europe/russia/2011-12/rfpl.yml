@@ -1,0 +1,31 @@
+################################
+# Russian Premier League 2011/12
+
+league: ru
+season: 2011/12
+start_at: 2011-03-12
+
+fixtures:
+- rfpl-i
+- rfpl-ii
+- rfpl-iii
+
+18 Teams:
+- Anzhi               
+- Krasnodar
+- Nalchik             
+- Krylia Sovetov
+- Lokomotiv           
+- Dinamo
+- Kuban               
+- Rubin
+- CSKA                
+- Amkar
+- Terek               
+- Zenit
+- Volga               
+- Tom
+- Rostov              
+- Spartak
+- Nizhnii Novgorod
+- Shinnik

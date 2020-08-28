@@ -1,0 +1,29 @@
+################################
+# Russian Premier League 2010
+
+league: ru
+season: 2010
+start_at: 2010-03-12
+
+fixtures:
+- rfpl-i
+- rfpl-ii
+
+
+16 Teams:
+- CSKA                
+- Amkar
+- Krylia Sovetov      
+- Zenit
+- Anzhi               
+- Spartak Nalchik
+- Rostov              
+- Tom
+- Sibir               
+- Terek
+- Rubin               
+- Lokomotiv
+- Alania              
+- Saturn
+- Spartak             
+- Dinamo

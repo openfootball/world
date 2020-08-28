@@ -1,0 +1,28 @@
+################################
+# Russian Premier League 2007
+league: ru
+season: 2007
+start_at: 2007-03-10
+
+fixtures:
+- rfpl-i
+- rfpl-ii
+
+
+16 Teams:
+ - Luch                 
+ - Moskva
+ - Tom                  
+ - Spartak Nalchik
+ - Krylia Sovetov       
+ - Khimki
+ - Zenit                
+ - Saturn
+ - CSKA                 
+ - Rubin
+ - Dinamo               
+ - Spartak
+ - Amkar                
+ - Rostov
+ - Kuban                
+ - Lokomotiv

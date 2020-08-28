@@ -1,0 +1,29 @@
+################################
+# Russian Premier League 2009
+
+league: ru
+season: 2009
+start_at: 2009-03-14
+
+fixtures:
+- rfpl-i
+- rfpl-ii
+
+
+16 Teams:
+- Amkar               
+- Rostov
+- Dinamo              
+- Moskva
+- Lokomotiv           
+- Khimki
+- Rubin               
+- Kuban
+- Spartak             
+- Zenit
+- Tom                 
+- Krylia Sovetov
+- Saturn              
+- CSKA
+- Terek               
+- Spartak Nalchik
