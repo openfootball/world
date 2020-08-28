@@ -19,7 +19,7 @@ North America
 
 South America
 
-- [**Argentina**](south-america/argentian) - Primera Division
+- [**Argentina**](south-america/argentina) - Primera Division
 
 Europe
 
