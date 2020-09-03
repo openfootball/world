@@ -58,6 +58,22 @@ Pacific
 
 
 
+## Build Your Own `world.db` Copy
+
+Try in your working folder (that is, `/world`):
+
+```
+$ sportdb build
+$ sportdb --verbose build     # or for more (verbose) details incl. debug info
+```
+
+This will
+
+- setup a new single-file SQLite database e.g. `./sport.db`
+- read in all datasets in plain text (`.txt`)
+
+That's it.
+
 
 
 ## License
