@@ -1,510 +1,510 @@
 = Dutch Eredivisie 2018/19
 
 
-Matchday 1
+Round 1
 [Fri Aug/10]
-  PEC Zwolle               2-3  SC Heerenveen
+  20.00  PEC Zwolle               2-3 (1-3)  SC Heerenveen
 [Sat Aug/11]
-  Ajax Amsterdam           1-1  Heracles Almelo
-  Willem II Tilburg        0-1  VVV Venlo
-  PSV Eindhoven            4-0  FC Utrecht
-  SBV Excelsior Rotterdam  1-1  Fortuna Sittard
+  18.30  Willem II Tilburg        0-1 (0-1)  VVV Venlo
+         Ajax Amsterdam           1-1 (0-0)  Heracles Almelo
+  20.45  PSV Eindhoven            4-0 (1-0)  FC Utrecht
+         SBV Excelsior Rotterdam  1-1 (1-0)  Fortuna Sittard
 [Sun Aug/12]
-  ADO Den Haag             1-2  FC Emmen
-  Vitesse Arnhem           5-1  FC Groningen
-  BV De Graafschap         2-0  Feyenoord Rotterdam
-  AZ Alkmaar               5-0  NAC Breda
+  12.15  ADO Den Haag             1-2 (0-2)  FC Emmen
+  14.30  BV De Graafschap         2-0 (1-0)  Feyenoord Rotterdam
+         Vitesse Arnhem           5-1 (2-1)  FC Groningen
+  16.45  AZ Alkmaar               5-0 (3-0)  NAC Breda
 
 
-Matchday 2
+Round 2
 [Fri Aug/17]
-  FC Groningen             0-1  Willem II Tilburg
+  20.00  FC Groningen             0-1 (0-1)  Willem II Tilburg
 [Sat Aug/18]
-  NAC Breda                3-0  BV De Graafschap
-  VVV Venlo                0-1  Ajax Amsterdam
-  Heracles Almelo          4-2  ADO Den Haag
-  Fortuna Sittard          1-2  PSV Eindhoven
+  18.30  VVV Venlo                0-1 (0-0)  Ajax Amsterdam
+         NAC Breda                3-0 (1-0)  BV De Graafschap
+  20.45  Fortuna Sittard          1-2 (0-1)  PSV Eindhoven
+         Heracles Almelo          4-2 (3-2)  ADO Den Haag
 [Sun Aug/19]
-  FC Utrecht               2-0  PEC Zwolle
-  Feyenoord Rotterdam      3-0  SBV Excelsior Rotterdam
-  FC Emmen                 1-4  AZ Alkmaar
-  SC Heerenveen            1-1  Vitesse Arnhem
+  12.15  FC Utrecht               2-0 (2-0)  PEC Zwolle
+  14.30  Feyenoord Rotterdam      3-0 (1-0)  SBV Excelsior Rotterdam
+         FC Emmen                 1-4 (1-3)  AZ Alkmaar
+  16.45  SC Heerenveen            1-1 (1-0)  Vitesse Arnhem
 
 
-Matchday 3
+Round 3
 [Fri Aug/24]
-  ADO Den Haag             3-1  Fortuna Sittard
+  20.00  ADO Den Haag             3-1 (2-0)  Fortuna Sittard
 [Sat Aug/25]
-  Ajax Amsterdam           5-0  FC Emmen
-  BV De Graafschap         0-1  FC Groningen
-  NAC Breda                0-2  SBV Excelsior Rotterdam
-  PEC Zwolle               1-2  PSV Eindhoven
+  18.30  Ajax Amsterdam           5-0 (2-0)  FC Emmen
+         BV De Graafschap         0-1 (0-1)  FC Groningen
+  20.45  NAC Breda                0-2 (0-1)  SBV Excelsior Rotterdam
+         PEC Zwolle               1-2 (0-1)  PSV Eindhoven
 [Sun Aug/26]
-  Willem II Tilburg        5-0  Heracles Almelo
-  SC Heerenveen            3-5  Feyenoord Rotterdam
-  FC Utrecht               1-1  VVV Venlo
-  AZ Alkmaar               0-0  Vitesse Arnhem
+  12.15  Willem II Tilburg        5-0 (3-0)  Heracles Almelo
+  14.30  SC Heerenveen            3-5 (0-3)  Feyenoord Rotterdam
+         FC Utrecht               1-1 (1-0)  VVV Venlo
+  16.45  AZ Alkmaar               0-0  Vitesse Arnhem
 
 
-Matchday 4
+Round 4
 [Fri Aug/31]
-  FC Emmen                 1-1  BV De Graafschap
+  20.00  FC Emmen                 1-1 (0-0)  BV De Graafschap
 [Sat Sep/1]
-  VVV Venlo                1-1  SC Heerenveen
-  PSV Eindhoven            6-1  Willem II Tilburg
-  SBV Excelsior Rotterdam  2-4  ADO Den Haag
-  Fortuna Sittard          1-1  FC Utrecht
+  18.30  VVV Venlo                1-1 (0-1)  SC Heerenveen
+  19.45  PSV Eindhoven            6-1 (4-0)  Willem II Tilburg
+         SBV Excelsior Rotterdam  2-4 (0-2)  ADO Den Haag
+  20.45  Fortuna Sittard          1-1 (0-0)  FC Utrecht
 [Sun Sep/2]
-  FC Groningen             0-1  PEC Zwolle
-  Vitesse Arnhem           0-4  Ajax Amsterdam
-  Heracles Almelo          3-2  AZ Alkmaar
-  Feyenoord Rotterdam      4-2  NAC Breda
+  12.15  FC Groningen             0-1 (0-0)  PEC Zwolle
+  14.30  Heracles Almelo          3-2 (1-1)  AZ Alkmaar
+         Vitesse Arnhem           0-4 (0-3)  Ajax Amsterdam
+  16.45  Feyenoord Rotterdam      4-2 (1-1)  NAC Breda
 
 
-Matchday 5
+Round 5
 [Sat Sep/15]
-  ADO Den Haag             0-7  PSV Eindhoven
-  BV De Graafschap         1-2  VVV Venlo
-  Ajax Amsterdam           3-0  FC Groningen
-  Willem II Tilburg        2-2  SBV Excelsior Rotterdam
+  18.30  BV De Graafschap         1-2 (0-2)  VVV Venlo
+         ADO Den Haag             0-7 (0-2)  PSV Eindhoven
+  20.45  Willem II Tilburg        2-2 (0-1)  SBV Excelsior Rotterdam
+         Ajax Amsterdam           3-0 (1-0)  FC Groningen
 [Sun Sep/16]
-  AZ Alkmaar               1-1  Feyenoord Rotterdam
-  SC Heerenveen            3-5  Heracles Almelo
-  FC Utrecht               1-2  FC Emmen
-  NAC Breda                2-3  Fortuna Sittard
-  PEC Zwolle               0-2  Vitesse Arnhem
+  12.15  AZ Alkmaar               1-1 (1-1)  Feyenoord Rotterdam
+  14.30  SC Heerenveen            3-5 (1-1)  Heracles Almelo
+         FC Utrecht               1-2 (1-0)  FC Emmen
+         NAC Breda                2-3 (1-1)  Fortuna Sittard
+  16.45  PEC Zwolle               0-2 (0-2)  Vitesse Arnhem
 
 
-Matchday 6
+Round 6
 [Fri Sep/21]
-  Heracles Almelo          4-0  BV De Graafschap
+  20.00  Heracles Almelo          4-0 (1-0)  BV De Graafschap
 [Sat Sep/22]
-  Fortuna Sittard          4-4  Willem II Tilburg
-  VVV Venlo                3-0  NAC Breda
-  SBV Excelsior Rotterdam  3-3  SC Heerenveen
-  Vitesse Arnhem           1-1  ADO Den Haag
+  18.30  Fortuna Sittard          4-4 (2-2)  Willem II Tilburg
+  19.45  SBV Excelsior Rotterdam  3-3 (2-0)  SC Heerenveen
+         VVV Venlo                3-0 (2-0)  NAC Breda
+  20.45  Vitesse Arnhem           1-1 (1-0)  ADO Den Haag
 [Sun Sep/23]
-  Feyenoord Rotterdam      1-0  FC Utrecht
-  FC Emmen                 0-1  PEC Zwolle
-  FC Groningen             1-3  AZ Alkmaar
-  PSV Eindhoven            3-0  Ajax Amsterdam
+  12.15  Feyenoord Rotterdam      1-0 (0-0)  FC Utrecht
+  14.30  FC Emmen                 0-1 (0-1)  PEC Zwolle
+         FC Groningen             1-3 (1-1)  AZ Alkmaar
+  16.45  PSV Eindhoven            3-0 (3-0)  Ajax Amsterdam
 
 
-Matchday 7
+Round 7
 [Sat Sep/29]
-  SC Heerenveen            1-1  ADO Den Haag
-  NAC Breda                0-2  PSV Eindhoven
-  Fortuna Sittard          0-2  Ajax Amsterdam
-  SBV Excelsior Rotterdam  1-0  VVV Venlo
+  18.30  SC Heerenveen            1-1 (1-1)  ADO Den Haag
+         NAC Breda                0-2 (0-0)  PSV Eindhoven
+  20.45  Fortuna Sittard          0-2 (0-0)  Ajax Amsterdam
+         SBV Excelsior Rotterdam  1-0 (1-0)  VVV Venlo
 [Sun Sep/30]
-  Heracles Almelo          2-1  FC Emmen
-  BV De Graafschap         2-1  Willem II Tilburg
-  AZ Alkmaar               2-2  PEC Zwolle
-  FC Groningen             1-1  FC Utrecht
-  Feyenoord Rotterdam      2-1  Vitesse Arnhem
+  12.15  Heracles Almelo          2-1 (2-0)  FC Emmen
+  14.30  BV De Graafschap         2-1 (1-0)  Willem II Tilburg
+         AZ Alkmaar               2-2 (1-1)  PEC Zwolle
+         FC Groningen             1-1 (0-1)  FC Utrecht
+  16.45  Feyenoord Rotterdam      2-1 (0-1)  Vitesse Arnhem
 
 
-Matchday 8
+Round 8
 [Fri Oct/5]
-  FC Utrecht               2-1  NAC Breda
+  20.00  FC Utrecht               2-1 (1-0)  NAC Breda
 [Sat Oct/6]
-  ADO Den Haag             1-0  FC Groningen
-  PSV Eindhoven            4-0  VVV Venlo
-  PEC Zwolle               2-0  SBV Excelsior Rotterdam
-  BV De Graafschap         0-5  SC Heerenveen
+  18.30  ADO Den Haag             1-0 (1-0)  FC Groningen
+  19.45  PEC Zwolle               2-0 (1-0)  SBV Excelsior Rotterdam
+         PSV Eindhoven            4-0 (1-0)  VVV Venlo
+  20.45  BV De Graafschap         0-5 (0-4)  SC Heerenveen
 [Sun Oct/7]
-  FC Emmen                 3-3  Fortuna Sittard
-  Vitesse Arnhem           4-0  Heracles Almelo
-  Willem II Tilburg        1-1  Feyenoord Rotterdam
-  Ajax Amsterdam           5-0  AZ Alkmaar
+  12.15  FC Emmen                 3-3 (1-0)  Fortuna Sittard
+  14.30  Willem II Tilburg        1-1 (0-0)  Feyenoord Rotterdam
+         Vitesse Arnhem           4-0 (2-0)  Heracles Almelo
+  16.45  Ajax Amsterdam           5-0 (1-0)  AZ Alkmaar
 
 
-Matchday 9
+Round 9
 [Sat Oct/20]
-  PSV Eindhoven            6-0  FC Emmen
-  SBV Excelsior Rotterdam  2-0  Vitesse Arnhem
-  SC Heerenveen            0-4  Ajax Amsterdam
-  FC Utrecht               2-1  AZ Alkmaar
+  18.30  PSV Eindhoven            6-0 (4-0)  FC Emmen
+         SBV Excelsior Rotterdam  2-0 (1-0)  Vitesse Arnhem
+  20.45  SC Heerenveen            0-4 (0-2)  Ajax Amsterdam
+         FC Utrecht               2-1 (1-1)  AZ Alkmaar
 [Sun Oct/21]
-  NAC Breda                2-2  Willem II Tilburg
-  Feyenoord Rotterdam      3-0  PEC Zwolle
-  Heracles Almelo          4-1  FC Groningen
-  VVV Venlo                2-0  ADO Den Haag
-  Fortuna Sittard          3-1  BV De Graafschap
+  12.15  NAC Breda                2-2 (1-2)  Willem II Tilburg
+  14.30  Heracles Almelo          4-1 (1-1)  FC Groningen
+         Feyenoord Rotterdam      3-0 (2-0)  PEC Zwolle
+         VVV Venlo                2-0 (1-0)  ADO Den Haag
+  16.45  Fortuna Sittard          3-1 (1-0)  BV De Graafschap
 
 
-Matchday 10
+Round 10
 [Fri Oct/26]
-  FC Emmen                 1-1  VVV Venlo
+  20.00  FC Emmen                 1-1 (0-1)  VVV Venlo
 [Sat Oct/27]
-  ADO Den Haag             1-1  NAC Breda
-  FC Groningen             1-2  PSV Eindhoven
-  BV De Graafschap         4-1  SBV Excelsior Rotterdam
-  PEC Zwolle               1-1  Heracles Almelo
+  18.30  ADO Den Haag             1-1 (1-1)  NAC Breda
+  19.45  FC Groningen             1-2 (1-1)  PSV Eindhoven
+         BV De Graafschap         4-1 (1-1)  SBV Excelsior Rotterdam
+  20.45  PEC Zwolle               1-1 (0-1)  Heracles Almelo
 [Sun Oct/28]
-  Vitesse Arnhem           2-1  Fortuna Sittard
-  Ajax Amsterdam           3-0  Feyenoord Rotterdam
-  Willem II Tilburg        0-1  FC Utrecht
-  AZ Alkmaar               2-3  SC Heerenveen
+  12.15  Vitesse Arnhem           2-1 (1-1)  Fortuna Sittard
+  14.30  Willem II Tilburg        0-1 (0-0)  FC Utrecht
+         Ajax Amsterdam           3-0 (2-0)  Feyenoord Rotterdam
+  16.45  AZ Alkmaar               2-3 (1-1)  SC Heerenveen
 
 
-Matchday 11
+Round 11
 [Fri Nov/2]
-  SBV Excelsior Rotterdam  2-4  FC Groningen
+  20.00  SBV Excelsior Rotterdam  2-4 (1-2)  FC Groningen
 [Sat Nov/3]
-  NAC Breda                2-1  Heracles Almelo
-  PSV Eindhoven            1-0  Vitesse Arnhem
-  Ajax Amsterdam           2-0  Willem II Tilburg
-  AZ Alkmaar               1-0  BV De Graafschap
+  18.30  PSV Eindhoven            1-0 (0-0)  Vitesse Arnhem
+         NAC Breda                2-1 (1-0)  Heracles Almelo
+  20.45  AZ Alkmaar               1-0 (0-0)  BV De Graafschap
+         Ajax Amsterdam           2-0 (2-0)  Willem II Tilburg
 [Sun Nov/4]
-  SC Heerenveen            1-1  FC Emmen
-  FC Utrecht               3-0  ADO Den Haag
-  Fortuna Sittard          3-0  PEC Zwolle
+  12.15  SC Heerenveen            1-1 (1-0)  FC Emmen
+  14.30  Fortuna Sittard          3-0 (1-0)  PEC Zwolle
+         FC Utrecht               3-0 (1-0)  ADO Den Haag
 
 
-Matchday 12
+Round 12
 [Fri Nov/9]
-  PEC Zwolle               2-3  Willem II Tilburg
+  20.00  PEC Zwolle               2-3 (0-2)  Willem II Tilburg
 [Sat Nov/10]
-  FC Emmen                 2-0  NAC Breda
-  Vitesse Arnhem           2-1  FC Utrecht
-  BV De Graafschap         1-4  PSV Eindhoven
-  VVV Venlo                3-2  Fortuna Sittard
+  18.30  FC Emmen                 2-0 (0-0)  NAC Breda
+  19.45  BV De Graafschap         1-4 (1-2)  PSV Eindhoven
+         Vitesse Arnhem           2-1 (0-0)  FC Utrecht
+  20.45  VVV Venlo                3-2 (2-1)  Fortuna Sittard
 [Sun Nov/11]
-  FC Groningen             2-0  SC Heerenveen
-  ADO Den Haag             0-1  AZ Alkmaar
-  SBV Excelsior Rotterdam  1-7  Ajax Amsterdam
-  Heracles Almelo          0-2  Feyenoord Rotterdam
+  12.15  FC Groningen             2-0 (2-0)  SC Heerenveen
+  14.30  ADO Den Haag             0-1 (0-0)  AZ Alkmaar
+         SBV Excelsior Rotterdam  1-7 (0-2)  Ajax Amsterdam
+  16.45  Heracles Almelo          0-2 (0-0)  Feyenoord Rotterdam
 
 
-Matchday 13
+Round 13
 [Sat Nov/24]
-  PEC Zwolle               2-3  ADO Den Haag
-  NAC Breda                0-3  Ajax Amsterdam
-  PSV Eindhoven            3-0  SC Heerenveen
-  Fortuna Sittard          3-0  Heracles Almelo
+  18.30  NAC Breda                0-3 (0-1)  Ajax Amsterdam
+         PEC Zwolle               2-3 (2-2)  ADO Den Haag
+  20.45  Fortuna Sittard          3-0 (2-0)  Heracles Almelo
+         PSV Eindhoven            3-0 (1-0)  SC Heerenveen
 [Sun Nov/25]
-  FC Emmen                 1-2  SBV Excelsior Rotterdam
-  Feyenoord Rotterdam      1-0  FC Groningen
-  FC Utrecht               5-0  BV De Graafschap
-  Willem II Tilburg        1-3  Vitesse Arnhem
-  VVV Venlo                2-2  AZ Alkmaar
+  12.15  FC Emmen                 1-2 (0-0)  SBV Excelsior Rotterdam
+  14.30  Willem II Tilburg        1-3 (0-3)  Vitesse Arnhem
+         FC Utrecht               5-0 (3-0)  BV De Graafschap
+         Feyenoord Rotterdam      1-0 (1-0)  FC Groningen
+  16.45  VVV Venlo                2-2 (1-2)  AZ Alkmaar
 
 
-Matchday 14
+Round 14
 [Fri Nov/30]
-  SBV Excelsior Rotterdam  3-3  FC Utrecht
+  20.00  SBV Excelsior Rotterdam  3-3 (3-0)  FC Utrecht
 [Sat Dec/1]
-  Vitesse Arnhem           1-1  FC Emmen
-  AZ Alkmaar               0-2  Willem II Tilburg
-  BV De Graafschap         0-2  PEC Zwolle
-  SC Heerenveen            3-1  Fortuna Sittard
+  18.30  Vitesse Arnhem           1-1 (1-0)  FC Emmen
+  19.45  BV De Graafschap         0-2 (0-1)  PEC Zwolle
+         AZ Alkmaar               0-2 (0-2)  Willem II Tilburg
+  20.45  SC Heerenveen            3-1 (1-0)  Fortuna Sittard
 [Sun Dec/2]
-  Ajax Amsterdam           5-1  ADO Den Haag
-  Feyenoord Rotterdam      2-1  PSV Eindhoven
-  Heracles Almelo          4-1  VVV Venlo
-  FC Groningen             5-2  NAC Breda
+  12.15  Ajax Amsterdam           5-1 (3-1)  ADO Den Haag
+  14.30  Feyenoord Rotterdam      2-1 (2-0)  PSV Eindhoven
+         Heracles Almelo          4-1 (1-0)  VVV Venlo
+  16.45  FC Groningen             5-2 (1-1)  NAC Breda
 
 
-Matchday 11
+Round 11
 [Thu Dec/6]
-  Feyenoord Rotterdam      4-1  VVV Venlo
+  20.00  Feyenoord Rotterdam      4-1 (2-0)  VVV Venlo
 
 
-Matchday 15
+Round 15
 [Fri Dec/7]
-  Fortuna Sittard          0-3  AZ Alkmaar
-  PSV Eindhoven            6-0  SBV Excelsior Rotterdam
+  18.30  Fortuna Sittard          0-3 (0-1)  AZ Alkmaar
+  20.45  PSV Eindhoven            6-0 (2-0)  SBV Excelsior Rotterdam
 [Sat Dec/8]
-  Willem II Tilburg        1-5  SC Heerenveen
-  PEC Zwolle               1-4  Ajax Amsterdam
-  ADO Den Haag             0-0  BV De Graafschap
+  18.30  Willem II Tilburg        1-5 (1-2)  SC Heerenveen
+  19.45  PEC Zwolle               1-4 (1-2)  Ajax Amsterdam
+  20.45  ADO Den Haag             0-0  BV De Graafschap
 [Sun Dec/9]
-  FC Utrecht               3-1  Heracles Almelo
-  VVV Venlo                0-0  FC Groningen
-  FC Emmen                 1-4  Feyenoord Rotterdam
-  NAC Breda                2-1  Vitesse Arnhem
+  12.15  FC Utrecht               3-1 (3-0)  Heracles Almelo
+  14.30  VVV Venlo                0-0  FC Groningen
+         FC Emmen                 1-4 (0-0)  Feyenoord Rotterdam
+  16.45  NAC Breda                2-1 (1-0)  Vitesse Arnhem
 
 
-Matchday 16
+Round 16
 [Fri Dec/14]
-  Willem II Tilburg        0-3  ADO Den Haag
+  20.00  Willem II Tilburg        0-3 (0-1)  ADO Den Haag
 [Sat Dec/15]
-  PEC Zwolle               0-0  NAC Breda
-  AZ Alkmaar               2-1  SBV Excelsior Rotterdam
-  Heracles Almelo          0-4  PSV Eindhoven
-  Vitesse Arnhem           2-1  VVV Venlo
+  18.30  PEC Zwolle               0-0  NAC Breda
+  19.45  Heracles Almelo          0-4 (0-2)  PSV Eindhoven
+         AZ Alkmaar               2-1 (1-1)  SBV Excelsior Rotterdam
+  20.45  Vitesse Arnhem           2-1 (1-0)  VVV Venlo
 [Sun Dec/16]
-  SC Heerenveen            2-3  FC Utrecht
-  Ajax Amsterdam           8-0  BV De Graafschap
-  FC Groningen             1-2  FC Emmen
-  Feyenoord Rotterdam      0-2  Fortuna Sittard
+  12.15  SC Heerenveen            2-3 (0-3)  FC Utrecht
+  14.30  Ajax Amsterdam           8-0 (3-0)  BV De Graafschap
+         FC Groningen             1-2 (0-0)  FC Emmen
+  16.45  Feyenoord Rotterdam      0-2 (0-0)  Fortuna Sittard
 
 
-Matchday 17
+Round 17
 [Fri Dec/21]
-  VVV Venlo                2-0  PEC Zwolle
+  20.00  VVV Venlo                2-0 (1-0)  PEC Zwolle
 [Sat Dec/22]
-  Fortuna Sittard          0-0  FC Groningen
-  PSV Eindhoven            3-1  AZ Alkmaar
-  NAC Breda                4-2  SC Heerenveen
-  SBV Excelsior Rotterdam  0-3  Heracles Almelo
+  18.30  Fortuna Sittard          0-0  FC Groningen
+  19.45  PSV Eindhoven            3-1 (1-1)  AZ Alkmaar
+         NAC Breda                4-2 (1-2)  SC Heerenveen
+  20.45  SBV Excelsior Rotterdam  0-3 (0-2)  Heracles Almelo
 [Sun Dec/23]
-  FC Utrecht               1-3  Ajax Amsterdam
-  ADO Den Haag             2-2  Feyenoord Rotterdam
-  BV De Graafschap         2-2  Vitesse Arnhem
-  FC Emmen                 0-2  Willem II Tilburg
+  12.15  FC Utrecht               1-3 (0-1)  Ajax Amsterdam
+  14.30  ADO Den Haag             2-2 (1-1)  Feyenoord Rotterdam
+         BV De Graafschap         2-2 (1-1)  Vitesse Arnhem
+  16.45  FC Emmen                 0-2 (0-1)  Willem II Tilburg
 
 
-Matchday 18
+Round 18
 [Fri Jan/18]
-  Vitesse Arnhem           3-2  SBV Excelsior Rotterdam
+  20.00  Vitesse Arnhem           3-2 (2-0)  SBV Excelsior Rotterdam
 [Sat Jan/19]
-  AZ Alkmaar               3-0  FC Utrecht
-  ADO Den Haag             2-4  VVV Venlo
-  PEC Zwolle               3-1  Feyenoord Rotterdam
-  FC Groningen             3-0  Heracles Almelo
+  18.30  AZ Alkmaar               3-0 (2-0)  FC Utrecht
+  19.45  PEC Zwolle               3-1 (1-1)  Feyenoord Rotterdam
+         ADO Den Haag             2-4 (1-1)  VVV Venlo
+  20.45  FC Groningen             3-0 (1-0)  Heracles Almelo
 [Sun Jan/20]
-  Willem II Tilburg        2-0  NAC Breda
-  BV De Graafschap         5-1  Fortuna Sittard
-  FC Emmen                 2-2  PSV Eindhoven
-  Ajax Amsterdam           4-4  SC Heerenveen
+  12.15  Willem II Tilburg        2-0 (1-0)  NAC Breda
+  14.30  BV De Graafschap         5-1 (3-0)  Fortuna Sittard
+         FC Emmen                 2-2 (0-1)  PSV Eindhoven
+  16.45  Ajax Amsterdam           4-4 (3-1)  SC Heerenveen
 
 
-Matchday 19
+Round 19
 [Fri Jan/25]
-  NAC Breda                1-1  ADO Den Haag
+  20.00  NAC Breda                1-1 (0-1)  ADO Den Haag
 [Sat Jan/26]
-  Heracles Almelo          0-2  PEC Zwolle
-  SBV Excelsior Rotterdam  2-0  BV De Graafschap
-  PSV Eindhoven            2-1  FC Groningen
-  VVV Venlo                2-3  FC Emmen
+  18.30  Heracles Almelo          0-2 (0-1)  PEC Zwolle
+  19.45  SBV Excelsior Rotterdam  2-0 (0-0)  BV De Graafschap
+         PSV Eindhoven            2-1 (2-1)  FC Groningen
+  20.45  VVV Venlo                2-3 (1-1)  FC Emmen
 [Sun Jan/27]
-  Fortuna Sittard          2-1  Vitesse Arnhem
-  Feyenoord Rotterdam      6-2  Ajax Amsterdam
-  FC Utrecht               0-1  Willem II Tilburg
-  SC Heerenveen            0-2  AZ Alkmaar
+  12.15  Fortuna Sittard          2-1 (0-1)  Vitesse Arnhem
+  14.30  FC Utrecht               0-1 (0-0)  Willem II Tilburg
+         Feyenoord Rotterdam      6-2 (3-2)  Ajax Amsterdam
+  16.45  SC Heerenveen            0-2 (0-0)  AZ Alkmaar
 
 
-Matchday 20
+Round 20
 [Fri Feb/1]
-  BV De Graafschap         3-0  NAC Breda
+  20.00  BV De Graafschap         3-0 (1-0)  NAC Breda
 [Sat Feb/2]
-  Vitesse Arnhem           2-2  SC Heerenveen
-  Ajax Amsterdam           6-0  VVV Venlo
-  Willem II Tilburg        1-2  FC Groningen
-  AZ Alkmaar               5-0  FC Emmen
+  18.30  Vitesse Arnhem           2-2 (1-1)  SC Heerenveen
+  19.45  Willem II Tilburg        1-2 (0-2)  FC Groningen
+         Ajax Amsterdam           6-0 (1-0)  VVV Venlo
+  20.45  AZ Alkmaar               5-0 (3-0)  FC Emmen
 [Sun Feb/3]
-  SBV Excelsior Rotterdam  2-1  Feyenoord Rotterdam
-  PSV Eindhoven            5-0  Fortuna Sittard
-  PEC Zwolle               4-3  FC Utrecht
-  ADO Den Haag             2-0  Heracles Almelo
+  12.15  SBV Excelsior Rotterdam  2-1 (0-0)  Feyenoord Rotterdam
+  14.30  PEC Zwolle               4-3 (1-1)  FC Utrecht
+         PSV Eindhoven            5-0 (1-0)  Fortuna Sittard
+  16.45  ADO Den Haag             2-0 (0-0)  Heracles Almelo
 
 
-Matchday 21
+Round 21
 [Fri Feb/8]
-  NAC Breda                0-3  AZ Alkmaar
+  20.00  NAC Breda                0-3 (0-1)  AZ Alkmaar
 [Sat Feb/9]
-  SC Heerenveen            1-1  PEC Zwolle
-  Heracles Almelo          1-0  Ajax Amsterdam
-  Feyenoord Rotterdam      4-0  BV De Graafschap
-  VVV Venlo                2-1  Willem II Tilburg
+  18.30  Heracles Almelo          1-0 (1-0)  Ajax Amsterdam
+         SC Heerenveen            1-1 (1-1)  PEC Zwolle
+  20.45  VVV Venlo                2-1 (1-0)  Willem II Tilburg
+         Feyenoord Rotterdam      4-0 (1-0)  BV De Graafschap
 [Sun Feb/10]
-  Fortuna Sittard          4-1  SBV Excelsior Rotterdam
-  FC Groningen             2-1  Vitesse Arnhem
-  FC Emmen                 3-2  ADO Den Haag
-  FC Utrecht               2-2  PSV Eindhoven
+  12.15  Fortuna Sittard          4-1 (2-0)  SBV Excelsior Rotterdam
+  14.30  FC Groningen             2-1 (1-1)  Vitesse Arnhem
+         FC Emmen                 3-2 (2-0)  ADO Den Haag
+  16.45  FC Utrecht               2-2 (2-0)  PSV Eindhoven
 
 
-Matchday 22
+Round 22
 [Fri Feb/15]
-  ADO Den Haag             1-0  PEC Zwolle
+  20.00  ADO Den Haag             1-0 (1-0)  PEC Zwolle
 [Sat Feb/16]
-  AZ Alkmaar               3-0  VVV Venlo
-  SC Heerenveen            2-2  PSV Eindhoven
-  Heracles Almelo          6-0  Fortuna Sittard
-  Vitesse Arnhem           3-2  Willem II Tilburg
+  18.30  AZ Alkmaar               3-0 (2-0)  VVV Venlo
+  19.45  SC Heerenveen            2-2 (2-0)  PSV Eindhoven
+         Heracles Almelo          6-0 (1-0)  Fortuna Sittard
+  20.45  Vitesse Arnhem           3-2 (1-0)  Willem II Tilburg
 [Sun Feb/17]
-  Ajax Amsterdam           5-0  NAC Breda
-  FC Groningen             1-0  Feyenoord Rotterdam
-  SBV Excelsior Rotterdam  2-1  FC Emmen
-  BV De Graafschap         0-1  FC Utrecht
+  12.15  Ajax Amsterdam           5-0 (1-0)  NAC Breda
+  14.30  SBV Excelsior Rotterdam  2-1 (0-0)  FC Emmen
+         FC Groningen             1-0 (1-0)  Feyenoord Rotterdam
+  16.45  BV De Graafschap         0-1 (0-0)  FC Utrecht
 
 
-Matchday 23
+Round 23
 [Fri Feb/22]
-  VVV Venlo                0-1  Heracles Almelo
+  20.00  VVV Venlo                0-1 (0-0)  Heracles Almelo
 [Sat Feb/23]
-  FC Utrecht               0-0  SBV Excelsior Rotterdam
-  PEC Zwolle               0-3  BV De Graafschap
-  Fortuna Sittard          2-4  SC Heerenveen
-  NAC Breda                0-0  FC Groningen
+  18.30  FC Utrecht               0-0  SBV Excelsior Rotterdam
+  19.45  PEC Zwolle               0-3 (0-1)  BV De Graafschap
+         Fortuna Sittard          2-4 (2-1)  SC Heerenveen
+  20.45  NAC Breda                0-0  FC Groningen
 [Sun Feb/24]
-  ADO Den Haag             1-5  Ajax Amsterdam
-  PSV Eindhoven            1-1  Feyenoord Rotterdam
-  FC Emmen                 0-3  Vitesse Arnhem
-  Willem II Tilburg        2-1  AZ Alkmaar
+  12.15  ADO Den Haag             1-5 (1-2)  Ajax Amsterdam
+  14.30  PSV Eindhoven            1-1 (0-0)  Feyenoord Rotterdam
+         FC Emmen                 0-3 (0-1)  Vitesse Arnhem
+  16.45  Willem II Tilburg        2-1 (2-0)  AZ Alkmaar
 
 
-Matchday 24
+Round 24
 [Fri Mar/1]
-  BV De Graafschap         1-1  ADO Den Haag
+  20.00  BV De Graafschap         1-1 (0-1)  ADO Den Haag
 [Sat Mar/2]
-  Heracles Almelo          1-5  FC Utrecht
-  SBV Excelsior Rotterdam  0-2  PSV Eindhoven
-  Vitesse Arnhem           4-1  NAC Breda
+  18.30  Heracles Almelo          1-5 (0-1)  FC Utrecht
+  19.45  SBV Excelsior Rotterdam  0-2 (0-1)  PSV Eindhoven
+  20.45  Vitesse Arnhem           4-1 (0-1)  NAC Breda
 [Sun Mar/3]
-  SC Heerenveen            4-2  Willem II Tilburg
-  FC Groningen             3-2  VVV Venlo
-  AZ Alkmaar               4-2  Fortuna Sittard
-  Feyenoord Rotterdam      4-0  FC Emmen
+  14.30  SC Heerenveen            4-2 (3-0)  Willem II Tilburg
+         FC Groningen             3-2 (2-1)  VVV Venlo
+  16.45  AZ Alkmaar               4-2 (1-2)  Fortuna Sittard
+         Feyenoord Rotterdam      4-0 (1-0)  FC Emmen
 
 
-Matchday 25
+Round 25
 [Fri Mar/8]
-  FC Utrecht               0-0  FC Groningen
+  20.00  FC Utrecht               0-0  FC Groningen
 [Sat Mar/9]
-  VVV Venlo                1-0  SBV Excelsior Rotterdam
-  PSV Eindhoven            2-0  NAC Breda
-  ADO Den Haag             2-3  SC Heerenveen
-  Willem II Tilburg        3-2  BV De Graafschap
+  18.30  VVV Venlo                1-0 (1-0)  SBV Excelsior Rotterdam
+  19.45  ADO Den Haag             2-3 (0-1)  SC Heerenveen
+         PSV Eindhoven            2-0 (1-0)  NAC Breda
+  20.45  Willem II Tilburg        3-2 (2-1)  BV De Graafschap
 [Sun Mar/10]
-  PEC Zwolle               0-0  AZ Alkmaar
-  Vitesse Arnhem           1-1  Feyenoord Rotterdam
-  FC Emmen                 1-1  Heracles Almelo
-  Ajax Amsterdam           4-0  Fortuna Sittard
+  12.15  PEC Zwolle               0-0  AZ Alkmaar
+  14.30  FC Emmen                 1-1 (0-1)  Heracles Almelo
+         Vitesse Arnhem           1-1 (0-1)  Feyenoord Rotterdam
+  16.45  Ajax Amsterdam           4-0 (2-0)  Fortuna Sittard
 
 
-Matchday 24
+Round 24
 [Wed Mar/13]
-  Ajax Amsterdam           2-1  PEC Zwolle
+  18.30  Ajax Amsterdam           2-1 (1-0)  PEC Zwolle
 
 
-Matchday 26
+Round 26
 [Fri Mar/15]
-  Fortuna Sittard          3-1  FC Emmen
+  20.00  Fortuna Sittard          3-1 (3-0)  FC Emmen
 [Sat Mar/16]
-  SC Heerenveen            0-3  BV De Graafschap
-  Feyenoord Rotterdam      2-3  Willem II Tilburg
-  NAC Breda                0-4  FC Utrecht
-  Heracles Almelo          3-2  Vitesse Arnhem
+  18.30  SC Heerenveen            0-3 (0-1)  BV De Graafschap
+  19.45  Feyenoord Rotterdam      2-3 (1-1)  Willem II Tilburg
+         NAC Breda                0-4 (0-2)  FC Utrecht
+  20.45  Heracles Almelo          3-2 (2-2)  Vitesse Arnhem
 [Sun Mar/17]
-  VVV Venlo                0-1  PSV Eindhoven
-  AZ Alkmaar               1-0  Ajax Amsterdam
-  FC Groningen             1-0  ADO Den Haag
-  SBV Excelsior Rotterdam  0-2  PEC Zwolle
+  12.15  VVV Venlo                0-1 (0-0)  PSV Eindhoven
+  14.30  AZ Alkmaar               1-0 (0-0)  Ajax Amsterdam
+         FC Groningen             1-0 (1-0)  ADO Den Haag
+  16.45  SBV Excelsior Rotterdam  0-2 (0-0)  PEC Zwolle
 
 
-Matchday 27
+Round 27
 [Sat Mar/30]
-  ADO Den Haag             3-3  Vitesse Arnhem
-  Willem II Tilburg        3-2  Fortuna Sittard
-  BV De Graafschap         1-2  Heracles Almelo
-  AZ Alkmaar               1-0  FC Groningen
-  SC Heerenveen            1-0  SBV Excelsior Rotterdam
+  18.30  Willem II Tilburg        3-2 (1-1)  Fortuna Sittard
+         ADO Den Haag             3-3 (2-3)  Vitesse Arnhem
+  19.45  BV De Graafschap         1-2 (1-0)  Heracles Almelo
+  20.45  SC Heerenveen            1-0 (0-0)  SBV Excelsior Rotterdam
+         AZ Alkmaar               1-0 (0-0)  FC Groningen
 [Sun Mar/31]
-  NAC Breda                1-1  VVV Venlo
-  FC Utrecht               3-2  Feyenoord Rotterdam
-  PEC Zwolle               3-0  FC Emmen
-  Ajax Amsterdam           3-1  PSV Eindhoven
+  12.15  NAC Breda                1-1 (0-1)  VVV Venlo
+  14.30  FC Utrecht               3-2 (1-0)  Feyenoord Rotterdam
+         PEC Zwolle               3-0 (2-0)  FC Emmen
+  16.45  Ajax Amsterdam           3-1 (1-0)  PSV Eindhoven
 
 
-Matchday 28
+Round 28
 [Tue Apr/2]
-  Vitesse Arnhem           2-2  AZ Alkmaar
-  Heracles Almelo          3-4  Willem II Tilburg
-  FC Groningen             1-0  BV De Graafschap
+  18.30  Vitesse Arnhem           2-2 (0-2)  AZ Alkmaar
+  19.45  Heracles Almelo          3-4 (0-1)  Willem II Tilburg
+  20.45  FC Groningen             1-0 (0-0)  BV De Graafschap
 [Wed Apr/3]
-  VVV Venlo                2-6  FC Utrecht
-  Fortuna Sittard          0-0  ADO Den Haag
-  SBV Excelsior Rotterdam  1-2  NAC Breda
-  FC Emmen                 2-5  Ajax Amsterdam
+  18.30  VVV Venlo                2-6 (2-1)  FC Utrecht
+  19.45  SBV Excelsior Rotterdam  1-2 (1-0)  NAC Breda
+         Fortuna Sittard          0-0  ADO Den Haag
+  20.45  FC Emmen                 2-5 (0-2)  Ajax Amsterdam
 [Thu Apr/4]
-  PSV Eindhoven            4-0  PEC Zwolle
-  Feyenoord Rotterdam      3-0  SC Heerenveen
+  18.30  PSV Eindhoven            4-0 (1-0)  PEC Zwolle
+  20.45  Feyenoord Rotterdam      3-0 (1-0)  SC Heerenveen
 
 
-Matchday 29
+Round 29
 [Sat Apr/6]
-  Willem II Tilburg        1-4  Ajax Amsterdam
-  ADO Den Haag             5-0  FC Utrecht
-  FC Groningen             1-0  SBV Excelsior Rotterdam
-  BV De Graafschap         1-1  AZ Alkmaar
-  Heracles Almelo          1-0  NAC Breda
+  18.30  Willem II Tilburg        1-4 (1-2)  Ajax Amsterdam
+         ADO Den Haag             5-0 (3-0)  FC Utrecht
+  19.45  FC Groningen             1-0 (0-0)  SBV Excelsior Rotterdam
+  20.45  BV De Graafschap         1-1 (0-0)  AZ Alkmaar
+         Heracles Almelo          1-0 (0-0)  NAC Breda
 [Sun Apr/7]
-  FC Emmen                 2-0  SC Heerenveen
-  VVV Venlo                0-3  Feyenoord Rotterdam
-  PEC Zwolle               5-0  Fortuna Sittard
-  Vitesse Arnhem           3-3  PSV Eindhoven
+  12.15  FC Emmen                 2-0 (1-0)  SC Heerenveen
+  14.30  PEC Zwolle               5-0 (1-0)  Fortuna Sittard
+         VVV Venlo                0-3 (0-1)  Feyenoord Rotterdam
+  16.45  Vitesse Arnhem           3-3 (1-1)  PSV Eindhoven
 
 
-Matchday 30
+Round 30
 [Fri Apr/12]
-  NAC Breda                1-1  FC Emmen
+  20.00  NAC Breda                1-1 (0-1)  FC Emmen
 [Sat Apr/13]
-  AZ Alkmaar               2-3  ADO Den Haag
-  Ajax Amsterdam           6-2  SBV Excelsior Rotterdam
-  Feyenoord Rotterdam      2-1  Heracles Almelo
-  Fortuna Sittard          1-1  VVV Venlo
+  18.30  AZ Alkmaar               2-3 (0-1)  ADO Den Haag
+         Ajax Amsterdam           6-2 (3-1)  SBV Excelsior Rotterdam
+  20.45  Feyenoord Rotterdam      2-1 (1-0)  Heracles Almelo
+         Fortuna Sittard          1-1 (1-0)  VVV Venlo
 [Sun Apr/14]
-  PSV Eindhoven            2-1  BV De Graafschap
-  Willem II Tilburg        2-0  PEC Zwolle
-  SC Heerenveen            1-1  FC Groningen
-  FC Utrecht               0-0  Vitesse Arnhem
+  12.15  PSV Eindhoven            2-1 (0-1)  BV De Graafschap
+  14.30  Willem II Tilburg        2-0 (1-0)  PEC Zwolle
+         SC Heerenveen            1-1 (1-0)  FC Groningen
+  16.45  FC Utrecht               0-0  Vitesse Arnhem
 
 
-Matchday 31
+Round 31
 [Fri Apr/19]
-  Heracles Almelo          2-1  SC Heerenveen
+  20.00  Heracles Almelo          2-1 (1-1)  SC Heerenveen
 [Sat Apr/20]
-  FC Emmen                 2-0  FC Utrecht
-  FC Groningen             0-1  Ajax Amsterdam
-  Vitesse Arnhem           4-1  PEC Zwolle
-  Feyenoord Rotterdam      2-1  AZ Alkmaar
-  VVV Venlo                4-1  BV De Graafschap
+  18.30  FC Emmen                 2-0 (2-0)  FC Utrecht
+         FC Groningen             0-1 (0-0)  Ajax Amsterdam
+  19.45  Vitesse Arnhem           4-1 (1-1)  PEC Zwolle
+  20.45  Feyenoord Rotterdam      2-1 (0-1)  AZ Alkmaar
+         VVV Venlo                4-1 (1-1)  BV De Graafschap
 [Sun Apr/21]
-  SBV Excelsior Rotterdam  1-1  Willem II Tilburg
-  Fortuna Sittard          2-1  NAC Breda
-  PSV Eindhoven            3-1  ADO Den Haag
+  12.15  SBV Excelsior Rotterdam  1-1 (0-1)  Willem II Tilburg
+  14.30  Fortuna Sittard          2-1 (1-0)  NAC Breda
+  16.45  PSV Eindhoven            3-1 (1-0)  ADO Den Haag
 
 
-Matchday 32
+Round 32
 [Tue Apr/23]
-  BV De Graafschap         1-0  FC Emmen
-  SC Heerenveen            2-2  VVV Venlo
-  AZ Alkmaar               2-1  Heracles Almelo
-  Ajax Amsterdam           4-2  Vitesse Arnhem
+  18.30  BV De Graafschap         1-0 (1-0)  FC Emmen
+  19.45  SC Heerenveen            2-2 (1-0)  VVV Venlo
+         AZ Alkmaar               2-1 (1-1)  Heracles Almelo
+  20.45  Ajax Amsterdam           4-2 (1-0)  Vitesse Arnhem
 [Wed Apr/24]
-  FC Utrecht               2-1  Fortuna Sittard
-  NAC Breda                0-4  Feyenoord Rotterdam
+  19.45  FC Utrecht               2-1 (1-1)  Fortuna Sittard
+  20.45  NAC Breda                0-4 (0-2)  Feyenoord Rotterdam
 [Thu Apr/25]
-  ADO Den Haag             3-1  SBV Excelsior Rotterdam
-  Willem II Tilburg        0-3  PSV Eindhoven
+  18.30  ADO Den Haag             3-1 (2-1)  SBV Excelsior Rotterdam
+  20.45  Willem II Tilburg        0-3 (0-2)  PSV Eindhoven
 [Mon Apr/29]
-  PEC Zwolle               3-2  FC Groningen
+  20.00  PEC Zwolle               3-2 (0-1)  FC Groningen
 
 
-Matchday 34
+Round 34
 [Sun May/12]
-  Ajax Amsterdam           4-1  FC Utrecht
-  Feyenoord Rotterdam      0-2  ADO Den Haag
-  AZ Alkmaar               1-0  PSV Eindhoven
-  SC Heerenveen            2-1  NAC Breda
-  Vitesse Arnhem           6-1  BV De Graafschap
-  Heracles Almelo          4-5  SBV Excelsior Rotterdam
-  FC Groningen             3-0  Fortuna Sittard
-  PEC Zwolle               2-4  VVV Venlo
-  Willem II Tilburg        2-3  FC Emmen
+  14.30  SC Heerenveen            2-1 (0-0)  NAC Breda
+         Vitesse Arnhem           6-1 (2-0)  BV De Graafschap
+         FC Groningen             3-0 (1-0)  Fortuna Sittard
+         Ajax Amsterdam           4-1 (2-1)  FC Utrecht
+         PEC Zwolle               2-4 (1-0)  VVV Venlo
+         Willem II Tilburg        2-3 (2-1)  FC Emmen
+         AZ Alkmaar               1-0 (0-0)  PSV Eindhoven
+         Feyenoord Rotterdam      0-2 (0-1)  ADO Den Haag
+         Heracles Almelo          4-5 (1-2)  SBV Excelsior Rotterdam
 
 
-Matchday 33
+Round 33
 [Wed May/15]
-  PSV Eindhoven            3-1  Heracles Almelo
-  FC Utrecht               3-1  SC Heerenveen
-  NAC Breda                0-0  PEC Zwolle
-  ADO Den Haag             6-2  Willem II Tilburg
-  VVV Venlo                1-3  Vitesse Arnhem
-  Fortuna Sittard          1-4  Feyenoord Rotterdam
-  BV De Graafschap         1-4  Ajax Amsterdam
-  SBV Excelsior Rotterdam  4-2  AZ Alkmaar
-  FC Emmen                 1-0  FC Groningen
+  19.30  FC Emmen                 1-0 (1-0)  FC Groningen
+         ADO Den Haag             6-2 (1-1)  Willem II Tilburg
+         VVV Venlo                1-3 (0-2)  Vitesse Arnhem
+         BV De Graafschap         1-4 (1-2)  Ajax Amsterdam
+         SBV Excelsior Rotterdam  4-2 (1-1)  AZ Alkmaar
+         Fortuna Sittard          1-4 (1-1)  Feyenoord Rotterdam
+         PSV Eindhoven            3-1 (1-1)  Heracles Almelo
+         NAC Breda                0-0  PEC Zwolle
+         FC Utrecht               3-1 (1-1)  SC Heerenveen
