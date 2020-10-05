@@ -13,22 +13,22 @@ Spieltag 1
 
 Spieltag 2
 [Sa 26.9.]
-  19.00  FC Sion                  -  BSC Young Boys
-         FC Zürich                -  FC Lugano
+  19.00  FC Sion                  0:0  BSC Young Boys
+         FC Zürich                2:2 (1:1)  FC Lugano
 [So 27.9.]
-  16.00  FC Luzern                -  FC Lausanne
-         FC Vaduz                 -  FC St. Gallen
-         Servette FC              -  FC Basel
+  16.00  FC Luzern                2:2 (1:1)  FC Lausanne
+         FC Vaduz                 0:1 (0:0)  FC St. Gallen
+         Servette FC              1:0 (0:0)  FC Basel
 
 
 Spieltag 3
 [Sa 3.10.]
-  19.00  FC Lausanne              -  FC Zürich
-         FC Lugano                -  FC Sion
+  19.00  FC Lausanne              4:0 (2:0)  FC Zürich
+         FC Lugano                2:2 (0:1)  FC Sion
 [So 4.10.]
-  16.00  FC Basel                 -  FC Luzern
-         FC St. Gallen            -  Servette FC
-         BSC Young Boys           -  FC Vaduz
+  16.00  FC Basel                 3:2 (2:1)  FC Luzern
+         FC St. Gallen            1:0 (1:0)  Servette FC
+         BSC Young Boys           1:0 (0:0)  FC Vaduz
 
 
 Spieltag 4
@@ -44,21 +44,21 @@ Spieltag 4
 Spieltag 5
 [Sa 24.10.]
   19.00  FC Vaduz                 -  FC Zürich
-         BSC Young Boys           -  FC Luzern
-[So 25.10.]
-  16.00  FC Basel                 -  FC Lausanne
          FC Lugano                -  FC St. Gallen
+[So 25.10.]
+  16.00  BSC Young Boys           -  FC Luzern
+         FC Basel                 -  FC Lausanne
          FC Sion                  -  Servette FC
 
 
 Spieltag 6
 [Sa 31.10.]
   19.00  FC Lausanne              -  FC Vaduz
-         FC Luzern                -  FC Sion
-[So 1.11.]
-  16.00  FC Lugano                -  BSC Young Boys
-         FC St. Gallen            -  FC Basel
          Servette FC              -  FC Zürich
+[So 1.11.]
+  16.00  FC Luzern                -  FC Sion
+         FC Lugano                -  BSC Young Boys
+         FC St. Gallen            -  FC Basel
 
 
 Spieltag 7

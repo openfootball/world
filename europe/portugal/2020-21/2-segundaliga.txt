@@ -22,8 +22,8 @@ Jornada 2
   18.00  UD Vilafranquense        0-4 (0-2)  CD Feirense
 [Sáb, 19/Set]
   11.00  Casa Pia                 0-6 (0-3)  SL Benfica B
-  15.30  FC Arouca                0-0  Leixões SC
-         CD Mafra                 1-0 (0-0)  Académico Viseu
+  15.30  CD Mafra                 1-0 (0-0)  Académico Viseu
+         FC Arouca                0-0  Leixões SC
   17.00  FC Porto B               4-1 (3-0)  FC Vizela
   18.00  SC Covilhã               1-3 (0-2)  CD Cova Piedade
 [Dom, 20/Set]
@@ -32,13 +32,13 @@ Jornada 2
 
 Jornada 3
 [Ter, 22/Set]
-  18.00  FC Vizela                2-1 (0-1)  SC Covilhã
-         CD Feirense              2-1 (0-1)  Casa Pia
+  18.00  CD Feirense              2-1 (0-1)  Casa Pia
+         FC Vizela                2-1 (0-1)  SC Covilhã
   20.00  Varzim SC                0-0  FC Arouca
 [Qua, 23/Set]
-  16.00  SL Benfica B             3-4 (0-3)  GD Chaves
-         CD Cova Piedade          0-0  Académica de Coimbra
+  16.00  CD Cova Piedade          0-0  Académica de Coimbra
          UD Oliveirense           2-2 (1-0)  FC Porto B
+         SL Benfica B             3-4 (0-3)  GD Chaves
   18.30  FC Penafiel              1-2 (1-2)  UD Vilafranquense
   20.00  Leixões SC               0-2 (0-1)  CD Mafra
 [Qui, 24/Set]
@@ -49,31 +49,32 @@ Jornada 4
 [Sáb, 26/Set]
   11.00  SC Covilhã               2-1 (0-1)  Varzim SC
 [Dom, 27/Set]
-  11.15  CD Mafra                 -  SL Benfica B
-  15.30  Casa Pia                 -  FC Vizela
-         FC Arouca                -  Académico Viseu
-  17.00  FC Porto B               -  FC Penafiel
-  18.00  UD Vilafranquense        -  UD Oliveirense
-         GD Chaves                -  CD Cova Piedade
+  11.15  CD Mafra                 2-1 (1-1)  SL Benfica B
+  15.30  FC Arouca                1-1 (1-1)  Académico Viseu
+         Casa Pia                 1-1 (0-0)  FC Vizela
+  17.00  FC Porto B               1-2 (1-1)  FC Penafiel
+  18.00  UD Vilafranquense        0-0  UD Oliveirense
+         GD Chaves                1-0 (1-0)  CD Cova Piedade
 [Seg, 28/Set]
-  19.45  Estoril Praia            -  Leixões SC
+  19.45  Estoril Praia            1-0 (1-0)  Leixões SC
 [Ter, 29/Set]
-  20.00  Académica de Coimbra     -  CD Feirense
+  20.00  Académica de Coimbra     0-1 (0-1)  CD Feirense
 
 
 Jornada 5
 [Sex, 2/Out]
-  17.00  FC Penafiel              -  CD Mafra
+  17.00  FC Penafiel              3-1 (1-0)  CD Mafra
 [Sáb, 3/Out]
-  11.00  CD Feirense              -  SC Covilhã
-  15.30  UD Oliveirense           -  Casa Pia
-         CD Cova Piedade          -  FC Arouca
+  11.00  CD Feirense              0-0  SC Covilhã
+  15.30  CD Cova Piedade          0-2 (0-1)  FC Arouca
+         UD Oliveirense           0-1 (0-0)  Casa Pia
 [Dom, 4/Out]
-  11.15  SL Benfica B             -  Estoril Praia
-         Varzim SC                -  Académica de Coimbra
-  15.30  Académico Viseu          -  Leixões SC
-  17.00  FC Porto B               -  UD Vilafranquense
-  18.00  FC Vizela                -  GD Chaves
+  11.15  SL Benfica B             0-1 (0-0)  Estoril Praia
+         Varzim SC                0-1 (0-0)  Académica de Coimbra
+  15.30  Académico Viseu          1-1 (0-0)  Leixões SC
+  17.00  FC Porto B               2-1 (0-0)  UD Vilafranquense
+[Seg, 5/Out]
+  19.45  FC Vizela                -  GD Chaves
 
 
 Jornada 1
@@ -85,10 +86,10 @@ Jornada 1
 
 Jornada 6
 [Dom, 18/Out]
-  Casa Pia                 -  FC Porto B
   Académico Viseu          -  CD Cova Piedade
-  SC Covilhã               -  UD Vilafranquense
+  Casa Pia                 -  FC Porto B
   Académica de Coimbra     -  FC Penafiel
+  SC Covilhã               -  UD Vilafranquense
   FC Arouca                -  SL Benfica B
   GD Chaves                -  UD Oliveirense
   Leixões SC               -  Varzim SC

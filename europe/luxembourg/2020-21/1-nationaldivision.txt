@@ -69,27 +69,28 @@ Round 5
 
 Round 6
 [Sun Sep/27]
-  16.00  F91 Dudelange            -  FC Victoria Rosport
-         FC Differdange 03        -  FC Rodange 91
-         RM Hamm Benfica          -  FC Swift Hesperange
-         Jeunesse d'Esch          -  US Hostert
-         Racing FC Union Lëtzebuerg  -  FC Etzella Ettelbruck
-         FC UNA Strassen          -  US Mondorf-les-Bains
-         FC Wiltz 71              -  FC Progrès Niederkorn
+  16.00  F91 Dudelange            2-0  FC Victoria Rosport
+         FC Differdange 03        1-0  FC Rodange 91
+         RM Hamm Benfica          1-1  FC Swift Hesperange
+         Jeunesse d'Esch          1-0  US Hostert
+         Racing FC Union Lëtzebuerg  3-1  FC Etzella Ettelbruck
+         FC UNA Strassen          3-0  US Mondorf-les-Bains
+         FC Wiltz 71              3-0  FC Progrès Niederkorn
 [Mon Sep/28]
-  20.00  FC Union Titus Pétange   -  CS Fola Esch
+  20.00  FC Union Titus Pétange   1-2  CS Fola Esch
 
 
 Round 7
+[Sat Oct/3]
+  18.00  CS Fola Esch             4-3  FC Progrès Niederkorn
+         FC Swift Hesperange      1-0  FC Union Titus Pétange
+         US Mondorf-les-Bains     0-3  F91 Dudelange
+  19.30  FC Differdange 03        1-1  FC Wiltz 71
 [Sun Oct/4]
-  CS Fola Esch             -  FC Progrès Niederkorn
-  FC Etzella Ettelbruck    -  FC UNA Strassen
-  FC Differdange 03        -  FC Wiltz 71
-  FC Swift Hesperange      -  FC Union Titus Pétange
-  US Hostert               -  Racing FC Union Lëtzebuerg
-  US Mondorf-les-Bains     -  F91 Dudelange
-  FC Rodange 91            -  Jeunesse d'Esch
-  FC Victoria Rosport      -  RM Hamm Benfica
+  16.00  FC Etzella Ettelbruck    2-4  FC UNA Strassen
+         US Hostert               0-5  Racing FC Union Lëtzebuerg
+         FC Rodange 91            2-1  Jeunesse d'Esch
+         FC Victoria Rosport      2-2  RM Hamm Benfica
 
 
 Round 8

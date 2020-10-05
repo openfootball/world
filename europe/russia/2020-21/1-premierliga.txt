@@ -126,15 +126,15 @@ Round 9
 
 Round 10
 [Sat Oct/3]
-  13.00  FC Ufa                   -  Rotor
-  15.30  FC Tambov                -  Arsenal Tula
-         Ural Yekaterinburg       -  PFC CSKA Moskva
-  18.00  FC Spartak Moskva        -  Zenit St. Petersburg
+  13.00  FC Ufa                   0-0  Rotor
+  15.30  FC Tambov                1-1 (0-1)  Arsenal Tula
+         Ural Yekaterinburg       0-2 (0-0)  PFC CSKA Moskva
+  18.00  FC Spartak Moskva        1-1 (0-0)  Zenit St. Petersburg
 [Sun Oct/4]
-  13.00  Lokomotiv Moskva         -  FC Khimki
-  15.30  FC Rubin Kazan           -  Akhmat Grozny
-         PFC Sochi                -  FC Rostov
-  19.00  Dynamo Moskva            -  FC Krasnodar
+  13.00  Lokomotiv Moskva         2-1 (1-0)  FC Khimki
+  15.30  FC Rubin Kazan           1-1 (0-0)  Akhmat Grozny
+         PFC Sochi                4-2 (1-0)  FC Rostov
+  19.00  Dynamo Moskva            2-0 (1-0)  FC Krasnodar
 
 
 Round 11

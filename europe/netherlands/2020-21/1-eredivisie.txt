@@ -34,29 +34,29 @@ Round 3
   20.00  FC Twente                3-1 (2-0)  FC Groningen
 [Sat Sep/26]
   16.30  PEC Zwolle               4-0 (1-0)  Sparta Rotterdam
-  18.45  Fortuna Sittard          -  AZ Alkmaar
-  20.00  SC Heerenveen            -  VVV Venlo
-  21.00  Ajax Amsterdam           -  Vitesse Arnhem
+  18.45  Fortuna Sittard          3-3 (1-1)  AZ Alkmaar
+  20.00  SC Heerenveen            1-0 (1-0)  VVV Venlo
+  21.00  Ajax Amsterdam           2-1 (1-0)  Vitesse Arnhem
 [Sun Sep/27]
-  12.15  Feyenoord Rotterdam      -  ADO Den Haag
-  14.30  FC Utrecht               -  RKC Waalwijk
-  16.45  Heracles Almelo          -  PSV Eindhoven
-         FC Emmen                 -  Willem II Tilburg
+  12.15  Feyenoord Rotterdam      4-2 (1-1)  ADO Den Haag
+  14.30  FC Utrecht               3-1 (1-0)  RKC Waalwijk
+  16.45  Heracles Almelo          1-1 (1-0)  PSV Eindhoven
+         FC Emmen                 1-1 (1-1)  Willem II Tilburg
 
 
 Round 4
 [Fri Oct/2]
-  20.00  FC Utrecht               -  SC Heerenveen
+  20.00  FC Utrecht               1-1 (1-1)  SC Heerenveen
 [Sat Oct/3]
-  16.30  Vitesse Arnhem           -  Heracles Almelo
-  18.45  RKC Waalwijk             -  PEC Zwolle
-  20.00  VVV Venlo                -  ADO Den Haag
-  21.00  FC Twente                -  FC Emmen
+  20.00  VVV Venlo                1-2 (1-1)  ADO Den Haag
+  21.00  FC Twente                1-1 (0-0)  FC Emmen
+  16.30  Vitesse Arnhem           3-0 (2-0)  Heracles Almelo
+  RKC Waalwijk             -  PEC Zwolle
 [Sun Oct/4]
-  12.15  FC Groningen             -  Ajax Amsterdam
-  14.30  Willem II Tilburg        -  Feyenoord Rotterdam
-         Sparta Rotterdam         -  AZ Alkmaar
-  16.45  PSV Eindhoven            -  Fortuna Sittard
+  12.15  FC Groningen             1-0 (0-0)  Ajax Amsterdam
+  14.30  Willem II Tilburg        1-4 (1-1)  Feyenoord Rotterdam
+         Sparta Rotterdam         4-4 (0-4)  AZ Alkmaar
+  16.45  PSV Eindhoven            2-0 (1-0)  Fortuna Sittard
 
 
 Round 5

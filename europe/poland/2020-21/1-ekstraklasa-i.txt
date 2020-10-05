@@ -72,33 +72,35 @@ Round 5
   KKS Lech Poznań          -  Pogoń Szczecin
   Legia Warszawa           -  WKS Śląsk Wrocław
 [Mon Sep/28]
-  18.00  Stal Mielec              -  Piast Gliwice
+  18.00  Stal Mielec              3-2 (1-0)  Piast Gliwice
 
 
 Round 6
 [Fri Oct/2]
-  18.00  Raków Częstochowa        -  Wisła Płock
-  20.30  WKS Śląsk Wrocław        -  KS Cracovia
+  18.00  Raków Częstochowa        3-0 (1-0)  Wisła Płock
+  20.30  WKS Śląsk Wrocław        3-1 (2-0)  KS Cracovia
 [Sat Oct/3]
-  15.00  Podbeskidzie Bielsko-Biała  -  Stal Mielec
-  17.30  Pogoń Szczecin           -  Jagiellonia Białystok
-  20.00  Zagłębie Lubin           -  Górnik Zabrze
+  Pogoń Szczecin           -  Jagiellonia Białystok
+  15.00  Podbeskidzie Bielsko-Biała  1-0 (1-0)  Stal Mielec
+  20.00  Zagłębie Lubin           2-0 (2-0)  Górnik Zabrze
 [Sun Oct/4]
-  12.30  Wisła Kraków             -  Lechia Gdańsk
-  15.00  Warta Poznań             -  Legia Warszawa
-  17.30  Piast Gliwice            -  KKS Lech Poznań
+  Wisła Kraków             -  Lechia Gdańsk
+  Warta Poznań             -  Legia Warszawa
+  17.30  Piast Gliwice            1-4 (0-2)  KKS Lech Poznań
 
 
 Round 7
 [Sat Oct/17]
-  Stal Mielec              -  Wisła Kraków
-  Górnik Zabrze            -  Raków Częstochowa
-  Jagiellonia Białystok    -  KKS Lech Poznań
-  KS Cracovia              -  Piast Gliwice
-  Lechia Gdańsk            -  Pogoń Szczecin
-  Legia Warszawa           -  Zagłębie Lubin
-  Wisła Płock              -  WKS Śląsk Wrocław
-  Podbeskidzie Bielsko-Biała  -  Warta Poznań
+  15.00  KS Cracovia              -  Piast Gliwice
+  17.30  Górnik Zabrze            -  Raków Częstochowa
+  20.00  Jagiellonia Białystok    -  KKS Lech Poznań
+[Sun Oct/18]
+  12.30  Wisła Płock              -  WKS Śląsk Wrocław
+  15.00  Stal Mielec              -  Wisła Kraków
+  17.30  Legia Warszawa           -  Zagłębie Lubin
+[Mon Oct/19]
+  18.00  Podbeskidzie Bielsko-Biała  -  Warta Poznań
+  20.30  Lechia Gdańsk            -  Pogoń Szczecin
 
 
 Round 8

@@ -194,21 +194,22 @@ Round 16
 
 Round 17
 [Sun Sep/27]
-  17.30  IFK Mariehamn            -  KuPS Kuopio
-         FC Ilves                 -  TPS Turku
-         FC Honka Espoo           -  FC Haka Valkeakoski
+  17.30  IFK Mariehamn            0-2 (0-1)  KuPS Kuopio
+         FC Ilves                 4-0 (2-0)  TPS Turku
+         FC Honka Espoo           1-2 (1-1)  FC Haka Valkeakoski
 [Mon Sep/28]
-  17.30  FC Inter Turku           -  FC Lahti
-         HJK Helsinki             -  Rovaniemen Palloseura
-         SJK Seinäjoki            -  HIFK Helsinki
+  17.30  FC Inter Turku           3-0 (1-0)  FC Lahti
+         HJK Helsinki             4-0 (3-0)  Rovaniemen Palloseura
+         SJK Seinäjoki            3-2 (2-0)  HIFK Helsinki
 
 
 Round 18
 [Fri Oct/2]
-  17.30  TPS Turku                -  SJK Seinäjoki
-         FC Lahti                 -  IFK Mariehamn
-         KuPS Kuopio              -  FC Ilves
-         HIFK Helsinki            -  FC Honka Espoo
+  17.30  FC Lahti                 3-1 (0-1)  IFK Mariehamn
+  TPS Turku                -  SJK Seinäjoki
+  17.30  HIFK Helsinki            1-1 (1-0)  FC Honka Espoo
+[Mon Oct/5]
+  17.30  KuPS Kuopio              -  FC Ilves
 
 
 Round 16
@@ -218,12 +219,12 @@ Round 16
 
 Round 19
 [Thu Oct/15]
+  17.00  Rovaniemen Palloseura    -  FC Lahti
   17.30  FC Haka Valkeakoski      -  TPS Turku
          FC Honka Espoo           -  IFK Mariehamn
-         FC Inter Turku           -  KuPS Kuopio
          SJK Seinäjoki            -  HJK Helsinki
-         Rovaniemen Palloseura    -  FC Lahti
          HIFK Helsinki            -  FC Ilves
+         FC Inter Turku           -  KuPS Kuopio
 
 
 Round 20
@@ -247,8 +248,8 @@ Round 21
 
 
 Round 22
-[Sat Oct/24]
-  14.00  FC Haka Valkeakoski      -  IFK Mariehamn
+[Sun Oct/25]
+  13.00  FC Haka Valkeakoski      -  IFK Mariehamn
          FC Lahti                 -  HIFK Helsinki
          HJK Helsinki             -  FC Inter Turku
          FC Ilves                 -  FC Honka Espoo

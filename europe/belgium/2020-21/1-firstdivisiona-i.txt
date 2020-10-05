@@ -21,8 +21,8 @@ Round 2
   19.00  Royal Excel Mouscron     0-1 (0-1)  KV Mechelen
 [Sat Aug/15]
   16.30  KRC Genk                 1-1 (0-0)  Oud-Heverlee Leuven
-  19.00  KAA Gent                 1-2 (0-1)  KV Kortrijk
-         Sporting Charleroi       1-0 (0-0)  KV Oostende
+  19.00  Sporting Charleroi       1-0 (0-0)  KV Oostende
+         KAA Gent                 1-2 (0-1)  KV Kortrijk
 [Sun Aug/16]
   13.30  Cercle Brugge            2-1 (0-1)  Royal Antwerp FC
   16.00  K. Beerschot VA          3-1 (1-0)  SV Zulte Waregem
@@ -36,10 +36,10 @@ Round 3
 [Fri Aug/21]
   19.00  KV Kortrijk              0-0  KAS Eupen
 [Sat Aug/22]
-  16.15  SV Zulte Waregem         4-1 (1-0)  Waasland-Beveren
   18.30  KV Mechelen              2-3 (1-0)  Cercle Brugge
-         Oud-Heverlee Leuven      1-3 (1-1)  Sporting Charleroi
+  16.15  SV Zulte Waregem         4-1 (1-0)  Waasland-Beveren
   20.45  Royal Antwerp FC         1-0 (1-0)  KAA Gent
+  18.30  Oud-Heverlee Leuven      1-3 (1-1)  Sporting Charleroi
 [Sun Aug/23]
   13.30  Standard Liège           0-0  KRC Genk
   16.00  Club Brugge              0-1 (0-1)  K. Beerschot VA
@@ -53,14 +53,14 @@ Round 4
   20.45  KV Oostende              2-2 (2-1)  RSC Anderlecht
 [Sat Aug/29]
   16.15  KAS Eupen                1-1 (1-0)  Sint-Truidense VV
-  18.30  Cercle Brugge            0-1 (0-0)  KV Kortrijk
-         Waasland-Beveren         1-3 (0-1)  Oud-Heverlee Leuven
   20.45  Royal Excel Mouscron     0-1 (0-0)  SV Zulte Waregem
+  18.30  Waasland-Beveren         1-3 (0-1)  Oud-Heverlee Leuven
+         Cercle Brugge            0-1 (0-0)  KV Kortrijk
 [Sun Aug/30]
   13.30  KRC Genk                 1-2 (0-1)  Club Brugge
-  16.00  K. Beerschot VA          0-3 (0-1)  Standard Liège
-  18.15  Sporting Charleroi       2-0 (1-0)  Royal Antwerp FC
   20.45  KAA Gent                 1-0 (1-0)  KV Mechelen
+  18.15  Sporting Charleroi       2-0 (1-0)  Royal Antwerp FC
+  16.00  K. Beerschot VA          0-3 (0-1)  Standard Liège
 
 
 Round 5
@@ -71,10 +71,10 @@ Round 5
   18.30  Oud-Heverlee Leuven      1-0 (0-0)  Standard Liège
   20.45  Club Brugge              4-1 (2-1)  Waasland-Beveren
 [Sun Sep/13]
-  13.30  RSC Anderlecht           2-0 (1-0)  Cercle Brugge
+  20.45  KV Kortrijk              3-0 (0-0)  Royal Excel Mouscron
   16.00  Sint-Truidense VV        2-3 (2-2)  Royal Antwerp FC
   18.15  SV Zulte Waregem         0-2 (0-0)  Sporting Charleroi
-  20.45  KV Kortrijk              3-0 (0-0)  Royal Excel Mouscron
+  13.30  RSC Anderlecht           2-0 (1-0)  Cercle Brugge
 [Mon Sep/14]
   20.45  K. Beerschot VA          5-2 (1-1)  KRC Genk
 
@@ -99,45 +99,46 @@ Round 7
 [Fri Sep/25]
   20.45  KV Kortrijk              1-3 (1-0)  Royal Antwerp FC
 [Sat Sep/26]
+  18.30  KV Mechelen              2-0 (0-0)  Sint-Truidense VV
   16.15  K. Beerschot VA          3-2 (1-2)  Waasland-Beveren
-  18.30  KV Mechelen              -  Sint-Truidense VV
-  20.45  KAA Gent                 -  Oud-Heverlee Leuven
+  20.45  KAA Gent                 2-3 (0-2)  Oud-Heverlee Leuven
 [Sun Sep/27]
-  13.30  Standard Liège           -  SV Zulte Waregem
-  16.00  RSC Anderlecht           -  KAS Eupen
-  18.15  Club Brugge              -  Cercle Brugge
-  20.45  Royal Excel Mouscron     -  Sporting Charleroi
+  13.30  Standard Liège           2-2 (0-1)  SV Zulte Waregem
+  16.00  RSC Anderlecht           1-1 (0-0)  KAS Eupen
+  18.15  Club Brugge              2-1 (1-0)  Cercle Brugge
+  20.45  Royal Excel Mouscron     1-1 (1-1)  Sporting Charleroi
 [Mon Sep/28]
-  20.45  KRC Genk                 -  KV Oostende
+  20.45  KRC Genk                 2-2 (1-1)  KV Oostende
 
 
 Round 8
 [Fri Oct/2]
-  20.45  Royal Antwerp FC         -  KV Mechelen
+  20.45  Royal Antwerp FC         4-1 (3-0)  KV Mechelen
 [Sat Oct/3]
-  16.15  Waasland-Beveren         -  KRC Genk
-  18.30  KAS Eupen                -  Cercle Brugge
-         Oud-Heverlee Leuven      -  SV Zulte Waregem
-  20.45  Sint-Truidense VV        -  KV Kortrijk
+  16.15  Waasland-Beveren         1-1 (0-0)  KRC Genk
+  18.30  KAS Eupen                1-2 (1-1)  Cercle Brugge
+         Oud-Heverlee Leuven      2-1 (1-0)  SV Zulte Waregem
+  20.45  Sint-Truidense VV        0-0  KV Kortrijk
 [Sun Oct/4]
-  13.30  Club Brugge              -  RSC Anderlecht
-  16.00  KAA Gent                 -  K. Beerschot VA
-  18.15  Sporting Charleroi       -  Standard Liège
-  20.45  KV Oostende              -  Royal Excel Mouscron
+  13.30  Club Brugge              3-0 (1-0)  RSC Anderlecht
+  16.00  KAA Gent                 5-1 (3-0)  K. Beerschot VA
+  18.15  Sporting Charleroi       1-2 (0-0)  Standard Liège
+  20.45  KV Oostende              3-0 (0-0)  Royal Excel Mouscron
 
 
 Round 9
 [Sat Oct/17]
-  KRC Genk                 -  Sporting Charleroi
+  16.15  Cercle Brugge            -  KAA Gent
+  18.30  K. Beerschot VA          -  Sint-Truidense VV
+         KV Mechelen              -  KV Kortrijk
+  20.45  Standard Liège           -  Club Brugge
 [Sun Oct/18]
-  K. Beerschot VA          -  Sint-Truidense VV
-  Cercle Brugge            -  KAA Gent
-  KV Mechelen              -  KV Kortrijk
-  Royal Excel Mouscron     -  KAS Eupen
-  RSC Anderlecht           -  Oud-Heverlee Leuven
-  Standard Liège           -  Club Brugge
-  SV Zulte Waregem         -  Royal Antwerp FC
-  Waasland-Beveren         -  KV Oostende
+  13.30  SV Zulte Waregem         -  Royal Antwerp FC
+  16.00  Royal Excel Mouscron     -  KAS Eupen
+  18.15  KRC Genk                 -  Sporting Charleroi
+  20.45  RSC Anderlecht           -  Oud-Heverlee Leuven
+[Mon Oct/19]
+  20.45  Waasland-Beveren         -  KV Oostende
 
 
 Round 10
@@ -158,12 +159,12 @@ Round 11
   K. Beerschot VA          -  Oud-Heverlee Leuven
   Club Brugge              -  KV Mechelen
   KRC Genk                 -  KAS Eupen
-  Royal Excel Mouscron     -  Sint-Truidense VV
+  Waasland-Beveren         -  KAA Gent
   RSC Anderlecht           -  Royal Antwerp FC
   Sporting Charleroi       -  Cercle Brugge
   Standard Liège           -  KV Oostende
   SV Zulte Waregem         -  KV Kortrijk
-  Waasland-Beveren         -  KAA Gent
+  Royal Excel Mouscron     -  Sint-Truidense VV
 
 
 Round 12
@@ -171,45 +172,44 @@ Round 12
   Cercle Brugge            -  SV Zulte Waregem
   Royal Antwerp FC         -  Standard Liège
   KAS Eupen                -  Waasland-Beveren
-  KV Kortrijk              -  K. Beerschot VA
+  Sint-Truidense VV        -  KRC Genk
   KV Mechelen              -  Sporting Charleroi
   KV Oostende              -  Club Brugge
   Oud-Heverlee Leuven      -  Royal Excel Mouscron
-  Sint-Truidense VV        -  KRC Genk
-[Sat Nov/21]
-  Sporting Charleroi       -  KAA Gent
+  KV Kortrijk              -  K. Beerschot VA
 
 
 Round 13
+[Sat Nov/21]
+  Sporting Charleroi       -  KAA Gent
 [Sun Nov/22]
+  KRC Genk                 -  Royal Excel Mouscron
   K. Beerschot VA          -  RSC Anderlecht
   Club Brugge              -  KV Kortrijk
-  KRC Genk                 -  Royal Excel Mouscron
+  SV Zulte Waregem         -  KV Mechelen
   KV Oostende              -  Royal Antwerp FC
   Oud-Heverlee Leuven      -  Sint-Truidense VV
   Standard Liège           -  KAS Eupen
-  SV Zulte Waregem         -  KV Mechelen
   Waasland-Beveren         -  Cercle Brugge
-[Sat Nov/28]
-  Cercle Brugge            -  KRC Genk
 
 
 Round 14
 [Sat Nov/28]
+  Sint-Truidense VV        -  Waasland-Beveren
+  Cercle Brugge            -  KRC Genk
   Royal Antwerp FC         -  Oud-Heverlee Leuven
   KAA Gent                 -  SV Zulte Waregem
   KAS Eupen                -  Sporting Charleroi
-  KV Kortrijk              -  KV Oostende
+  RSC Anderlecht           -  Standard Liège
   KV Mechelen              -  K. Beerschot VA
   Royal Excel Mouscron     -  Club Brugge
-  RSC Anderlecht           -  Standard Liège
-  Sint-Truidense VV        -  Waasland-Beveren
-[Sat Dec/5]
-  K. Beerschot VA          -  KAS Eupen
+  KV Kortrijk              -  KV Oostende
 
 
 Round 15
 [Sat Dec/5]
+  Waasland-Beveren         -  Royal Excel Mouscron
+  K. Beerschot VA          -  KAS Eupen
   Club Brugge              -  Sint-Truidense VV
   KRC Genk                 -  Royal Antwerp FC
   KV Oostende              -  KAA Gent
@@ -217,7 +217,9 @@ Round 15
   Sporting Charleroi       -  KV Kortrijk
   Standard Liège           -  KV Mechelen
   SV Zulte Waregem         -  RSC Anderlecht
-  Waasland-Beveren         -  Royal Excel Mouscron
+
+
+Round 12
 [Mon Dec/7]
   KAA Gent                 -  RSC Anderlecht
 
@@ -250,7 +252,7 @@ Round 17
 
 Round 18
 [Wed Dec/23]
-  Cercle Brugge            -  Sporting Charleroi
+  KV Mechelen              -  Club Brugge
   Royal Antwerp FC         -  SV Zulte Waregem
   KAA Gent                 -  Waasland-Beveren
   KAS Eupen                -  KRC Genk
@@ -258,7 +260,7 @@ Round 18
   Royal Excel Mouscron     -  Oud-Heverlee Leuven
   RSC Anderlecht           -  KV Oostende
   Sint-Truidense VV        -  K. Beerschot VA
-  KV Mechelen              -  Club Brugge
+  Cercle Brugge            -  Sporting Charleroi
 
 
 Round 19
@@ -280,11 +282,11 @@ Round 20
   Cercle Brugge            -  Standard Liège
   KAA Gent                 -  Royal Antwerp FC
   KAS Eupen                -  RSC Anderlecht
-  KV Oostende              -  KV Kortrijk
+  Waasland-Beveren         -  SV Zulte Waregem
   Royal Excel Mouscron     -  KRC Genk
   Sporting Charleroi       -  KV Mechelen
   Sint-Truidense VV        -  Oud-Heverlee Leuven
-  Waasland-Beveren         -  SV Zulte Waregem
+  KV Oostende              -  KV Kortrijk
 
 
 Round 21
@@ -293,11 +295,11 @@ Round 21
   Club Brugge              -  KRC Genk
   KV Kortrijk              -  Cercle Brugge
   KV Mechelen              -  KAS Eupen
-  Oud-Heverlee Leuven      -  KAA Gent
+  Sint-Truidense VV        -  Royal Excel Mouscron
   RSC Anderlecht           -  Waasland-Beveren
   Standard Liège           -  Sporting Charleroi
   SV Zulte Waregem         -  K. Beerschot VA
-  Sint-Truidense VV        -  Royal Excel Mouscron
+  Oud-Heverlee Leuven      -  KAA Gent
 
 
 Round 22
@@ -319,11 +321,11 @@ Round 23
   Club Brugge              -  Standard Liège
   KAS Eupen                -  Royal Excel Mouscron
   KV Kortrijk              -  Sporting Charleroi
-  KV Mechelen              -  KRC Genk
+  Sint-Truidense VV        -  Cercle Brugge
   Oud-Heverlee Leuven      -  K. Beerschot VA
   RSC Anderlecht           -  KAA Gent
   SV Zulte Waregem         -  KV Oostende
-  Sint-Truidense VV        -  Cercle Brugge
+  KV Mechelen              -  KRC Genk
 
 
 Round 24
@@ -367,7 +369,7 @@ Round 26
 
 Round 27
 [Sat Feb/20]
-  Royal Antwerp FC         -  Sint-Truidense VV
+  Waasland-Beveren         -  Sporting Charleroi
   Club Brugge              -  Oud-Heverlee Leuven
   KAS Eupen                -  KV Oostende
   KRC Genk                 -  K. Beerschot VA
@@ -375,7 +377,7 @@ Round 27
   Royal Excel Mouscron     -  Cercle Brugge
   RSC Anderlecht           -  KV Kortrijk
   SV Zulte Waregem         -  Standard Liège
-  Waasland-Beveren         -  Sporting Charleroi
+  Royal Antwerp FC         -  Sint-Truidense VV
 
 
 Round 28
@@ -423,11 +425,11 @@ Round 31
   K. Beerschot VA          -  Sporting Charleroi
   Club Brugge              -  Royal Antwerp FC
   KAA Gent                 -  Cercle Brugge
-  KAS Eupen                -  KV Kortrijk
+  Waasland-Beveren         -  Sint-Truidense VV
   KV Mechelen              -  Oud-Heverlee Leuven
   Royal Excel Mouscron     -  KV Oostende
   RSC Anderlecht           -  SV Zulte Waregem
-  Waasland-Beveren         -  Sint-Truidense VV
+  KAS Eupen                -  KV Kortrijk
 
 
 Round 32
@@ -449,11 +451,11 @@ Round 33
   K. Beerschot VA          -  KV Oostende
   Cercle Brugge            -  Oud-Heverlee Leuven
   KAA Gent                 -  Sporting Charleroi
-  KAS Eupen                -  Standard Liège
+  Waasland-Beveren         -  KV Kortrijk
   KRC Genk                 -  Sint-Truidense VV
   Royal Excel Mouscron     -  Royal Antwerp FC
   RSC Anderlecht           -  Club Brugge
-  Waasland-Beveren         -  KV Kortrijk
+  KAS Eupen                -  Standard Liège
 
 
 Round 34

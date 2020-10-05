@@ -103,19 +103,20 @@ Round 9
          Livingston FC            2-0 (2-0)  St Johnstone FC
          Saint Mirren FC          0-1 (0-1)  Kilmarnock FC
 [Sun Sep/27]
-  13.00  Motherwell FC            -  Rangers FC
-  16.00  Celtic FC                -  Hibernian FC
-         Ross County FC           -  Aberdeen FC
+  13.00  Motherwell FC            1-5 (0-3)  Rangers FC
+  16.00  Celtic FC                3-0 (2-0)  Hibernian FC
+         Ross County FC           0-3 (0-1)  Aberdeen FC
 
 
 Round 10
 [Fri Oct/2]
-  20.45  Dundee United            -  Livingston FC
-         Aberdeen FC              -  Saint Mirren FC
-         Hibernian FC             -  Hamilton Academical FC
-         Kilmarnock FC            -  Motherwell FC
-  21.15  St Johnstone FC          -  Celtic FC
-  20.45  Rangers FC               -  Ross County FC
+  Kilmarnock FC            -  Motherwell FC
+  20.45  Hibernian FC             3-2 (2-0)  Hamilton Academical FC
+         Dundee United            1-2 (1-0)  Livingston FC
+         Aberdeen FC              2-1 (0-0)  Saint Mirren FC
+[Sun Oct/4]
+  16.00  Rangers FC               2-0 (1-0)  Ross County FC
+  13.00  St Johnstone FC          0-2 (0-0)  Celtic FC
 
 
 Round 11

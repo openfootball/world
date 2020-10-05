@@ -281,37 +281,37 @@ Round 19
   11.00  Urawa Red Diamonds       0-2 (0-2)  Yokohama FC
   12.00  Vissel Kobe              4-0 (2-0)  Hokkaido Consadole Sapporo
 [Sun Sep/27]
-  06.00  Vegalta Sendai           -  Cerezo Osaka
-  09.00  Sagan Tosu               -  FC Tokyo
-  10.00  Kashima Antlers          -  Oita Trinita
-  11.00  Sanfrecce Hiroshima      -  Gamba Osaka
-  12.00  Shonan Bellmare          -  Kawasaki Frontale
-         Kashiwa Reysol           -  Yokohama F. Marinos
+  06.00  Vegalta Sendai           2-3 (0-1)  Cerezo Osaka
+  09.00  Sagan Tosu               3-0 (1-0)  FC Tokyo
+  10.00  Kashima Antlers          0-2 (0-0)  Oita Trinita
+  11.00  Sanfrecce Hiroshima      1-2 (0-2)  Gamba Osaka
+  12.00  Shonan Bellmare          0-1 (0-1)  Kawasaki Frontale
+         Kashiwa Reysol           1-3 (1-0)  Yokohama F. Marinos
 
 
 Round 25
 [Wed Sep/30]
-  12.00  Yokohama F. Marinos      -  Sagan Tosu
+  12.00  Yokohama F. Marinos      1-1 (0-0)  Sagan Tosu
 
 
 Round 29
 [Wed Sep/30]
-  12.00  Vissel Kobe              -  Nagoya Grampus
-  12.30  Urawa Red Diamonds       -  FC Tokyo
+  12.00  Vissel Kobe              1-0 (0-0)  Nagoya Grampus
+  12.30  Urawa Red Diamonds       0-1 (0-1)  FC Tokyo
 
 
 Round 20
 [Sat Oct/3]
-  07.00  Hokkaido Consadole Sapporo  -  Vegalta Sendai
-  08.00  Cerezo Osaka             -  Kawasaki Frontale
-  09.00  Yokohama FC              -  Kashiwa Reysol
-  10.00  Sanfrecce Hiroshima      -  Sagan Tosu
-  12.00  Oita Trinita             -  Shimizu S-Pulse
-         Gamba Osaka              -  Kashima Antlers
+  07.00  Hokkaido Consadole Sapporo  3-3 (1-0)  Vegalta Sendai
+  08.00  Cerezo Osaka             1-3 (0-1)  Kawasaki Frontale
+  09.00  Yokohama FC              0-3 (0-1)  Kashiwa Reysol
+  10.00  Sanfrecce Hiroshima      3-0 (2-0)  Sagan Tosu
+  12.00  Oita Trinita             2-1 (1-1)  Shimizu S-Pulse
+         Gamba Osaka              2-0 (0-0)  Kashima Antlers
 [Sun Oct/4]
-  08.00  Shonan Bellmare          -  FC Tokyo
-  09.00  Yokohama F. Marinos      -  Vissel Kobe
-  10.00  Urawa Red Diamonds       -  Nagoya Grampus
+  08.00  Shonan Bellmare          0-1 (0-0)  FC Tokyo
+  09.00  Yokohama F. Marinos      2-3 (1-2)  Vissel Kobe
+  10.00  Urawa Red Diamonds       0-1 (0-0)  Nagoya Grampus
 
 
 Round 10

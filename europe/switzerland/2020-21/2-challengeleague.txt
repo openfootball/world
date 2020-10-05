@@ -16,21 +16,21 @@ Spieltag 2
   19.00  Xamax Neuchâtel          0:3 (0:2)  FC Schaffhausen
   20.00  FC Winterthur            5:2 (3:1)  FC Aarau
 [Sa 26.9.]
-  17.30  FC Wil                   -  FC Thun
-  18.00  Stade Lausanne-Ouchy     -  SC Kriens
+  17.30  FC Wil                   3:1 (0:1)  FC Thun
+  18.00  Stade Lausanne-Ouchy     2:1 (0:0)  SC Kriens
 [So 27.9.]
-  16.00  FC Chiasso               -  Grasshoppers Zürich
+  16.00  FC Chiasso               0:2 (0:0)  Grasshoppers Zürich
 
 
 Spieltag 3
 [Fr 2.10.]
-  20.00  FC Thun                  -  Xamax Neuchâtel
+  20.00  FC Thun                  1:3 (0:1)  Xamax Neuchâtel
 [Sa 3.10.]
-  17.30  SC Kriens                -  FC Winterthur
-  18.30  FC Aarau                 -  FC Chiasso
-  19.00  Grasshoppers Zürich      -  FC Wil
+  17.30  SC Kriens                0:2 (0:2)  FC Winterthur
+  18.30  FC Aarau                 2:1 (2:0)  FC Chiasso
+  19.00  Grasshoppers Zürich      3:0 (1:0)  FC Wil
 [So 4.10.]
-  14.45  FC Schaffhausen          -  Stade Lausanne-Ouchy
+  14.45  FC Schaffhausen          1:3 (0:0)  Stade Lausanne-Ouchy
 
 
 Spieltag 4
@@ -63,9 +63,10 @@ Spieltag 6
 
 
 Spieltag 7
+[Do 29.10.]
+  20.00  Stade Lausanne-Ouchy     -  Grasshoppers Zürich
 [Fr 30.10.]
   19.00  FC Thun                  -  FC Aarau
-         Stade Lausanne-Ouchy     -  Grasshoppers Zürich
   20.00  Xamax Neuchâtel          -  FC Winterthur
 [Sa 31.10.]
   17.30  FC Chiasso               -  FC Wil

@@ -29,63 +29,72 @@ Round 3
 [Sat Sep/26]
   17.00  FC Midtjylland           1-0 (1-0)  Randers FC
 [Sun Sep/27]
-  14.00  AGF Aarhus               -  Odense BK
-         Sønderjysk Elitesport    -  Aalborg BK
-  16.00  Brøndby IF               -  AC Horsens
-  18.00  Vejle                    -  FC København
+  14.00  AGF Aarhus               4-2 (2-1)  Odense BK
+         Sønderjysk Elitesport    3-1 (1-0)  Aalborg BK
+  16.00  Brøndby IF               2-1 (2-0)  AC Horsens
+  18.00  Vejle                    2-2 (0-1)  FC København
 [Mon Sep/28]
-  19.00  FC Nordsjælland          -  Lyngby BK
+  19.00  FC Nordsjælland          4-1 (0-1)  Lyngby BK
 
 
 Round 4
 [Fri Oct/2]
-  19.00  Randers FC               -  Brøndby IF
+  19.00  Randers FC               1-2 (0-1)  Brøndby IF
 [Sun Oct/4]
-  14.00  Lyngby BK                -  Sønderjysk Elitesport
-         Odense BK                -  Vejle
-  16.00  Aalborg BK               -  AGF Aarhus
-  18.00  AC Horsens               -  FC Midtjylland
-  20.00  FC København             -  FC Nordsjælland
+  14.00  Lyngby BK                2-2 (1-1)  Sønderjysk Elitesport
+         Odense BK                0-1 (0-0)  Vejle
+  16.00  Aalborg BK               1-1 (0-1)  AGF Aarhus
+  18.00  AC Horsens               2-2 (2-2)  FC Midtjylland
+  20.00  FC København             3-2 (2-1)  FC Nordsjælland
 
 
 Round 5
+[Sat Oct/17]
+  16.00  FC Midtjylland           -  Odense BK
 [Sun Oct/18]
-  AGF Aarhus               -  AC Horsens
-  FC København             -  Aalborg BK
-  FC Midtjylland           -  Odense BK
-  FC Nordsjælland          -  Randers FC
-  Sønderjysk Elitesport    -  Brøndby IF
-  Vejle                    -  Lyngby BK
+  14.00  AGF Aarhus               -  AC Horsens
+         Vejle                    -  Lyngby BK
+  16.00  Sønderjysk Elitesport    -  Brøndby IF
+  18.00  FC København             -  Aalborg BK
+[Mon Oct/19]
+  19.00  FC Nordsjælland          -  Randers FC
 
 
 Round 6
+[Fri Oct/23]
+  19.00  Lyngby BK                -  Odense BK
+[Sat Oct/24]
+  18.00  Brøndby IF               -  FC Midtjylland
 [Sun Oct/25]
-  Aalborg BK               -  Vejle
-  AGF Aarhus               -  FC København
-  AC Horsens               -  FC Nordsjælland
-  Brøndby IF               -  FC Midtjylland
-  Lyngby BK                -  Odense BK
-  Randers FC               -  Sønderjysk Elitesport
+  14.00  AC Horsens               -  FC Nordsjælland
+  16.00  Randers FC               -  Sønderjysk Elitesport
+  18.00  AGF Aarhus               -  FC København
+[Mon Oct/26]
+  19.00  Aalborg BK               -  Vejle
 
 
 Round 7
+[Fri Oct/30]
+  19.00  Vejle                    -  Randers FC
+[Sat Oct/31]
+  16.00  FC Nordsjælland          -  FC Midtjylland
 [Sun Nov/1]
-  Aalborg BK               -  Brøndby IF
-  FC København             -  Lyngby BK
-  FC Nordsjælland          -  FC Midtjylland
-  Odense BK                -  AC Horsens
-  Sønderjysk Elitesport    -  AGF Aarhus
-  Vejle                    -  Randers FC
+  14.00  Odense BK                -  AC Horsens
+  16.00  FC København             -  Lyngby BK
+  18.00  Aalborg BK               -  Brøndby IF
+[Mon Nov/2]
+  19.00  Sønderjysk Elitesport    -  AGF Aarhus
 
 
 Round 8
+[Fri Nov/6]
+  19.00  Randers FC               -  Aalborg BK
 [Sun Nov/8]
-  AC Horsens               -  Sønderjysk Elitesport
-  Brøndby IF               -  Odense BK
-  FC Midtjylland           -  FC København
-  FC Nordsjælland          -  Vejle
-  Lyngby BK                -  AGF Aarhus
-  Randers FC               -  Aalborg BK
+  14.00  FC Nordsjælland          -  Vejle
+         Lyngby BK                -  AGF Aarhus
+  16.00  Brøndby IF               -  Odense BK
+  18.00  FC Midtjylland           -  FC København
+  20.00  AC Horsens               -  Sønderjysk Elitesport
 
 
 Round 9
