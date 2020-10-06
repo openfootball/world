@@ -17,36 +17,6 @@ North America
 
 - [**United States & Canada**](north-america/major-league-soccer) - Major League Soccer (MLS)
 
-South America
-
-- [**Argentina**](south-america/argentina) - Primera Division
-
-Europe
-
-- [**Belgium**](europe/belgium) - First Division A
-- [**Netherlands**](europe/netherlands) - Eredivisie
-- [**Switzerland (Schweiz • Suisse • Svizzera • Svizra) incl. Liechtenstein**](europe/switzerland) - Super League, Challenge League
-- [**Hungary**](europe/hungary) - NB I
-- [**Czech Republic**](europe/czech-republic) - First League
-- [**Finland**](europe/finland) - Veikkausliiga
-- [**Iceland**](europe/iceland) - Urvalsdeild
-- [**Ireland**](europe/ireland) - Premier Division
-- [**Scotland**](europe/scotland) - Premiership
-- [**Portugal**](europe/portugal) - Primeira Liga
-- [**Greece**](europe/greece) - Super League
-- [**Turkey**](europe/turkey) - Süper Lig, 1. Lig
-- and others
-
-todo: add
- europe/croatia/
-        europe/denmark/
-        europe/luxembourg/
-        europe/norway/
-        europe/poland/
-        europe/slovakia/
-        europe/sweden/
-        europe/ukraine/
-
 Asia
 
 - [**China**](asia/china) - Super League
