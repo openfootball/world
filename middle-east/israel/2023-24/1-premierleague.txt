@@ -1,0 +1,487 @@
+= Israeli Premier League 2023/24
+
+# Date       Sat Aug/26 2023 - Sat May/25 2024 (273d)
+# Teams      14
+# Matches    240
+# Stages     Regular Season (182)  Championship (30)  Playoffs - Relegation (28)
+
+
+# Regular Season
+
+Matchday 1
+[Sat Aug/26]
+  19.15  Maccabi Petach-Tikva     1-1 (0-1)  Hapoel Jerusalem
+  20.00  Hapoel Be'er Sheva       3-0 (2-0)  Hapoel Hadera
+         Maccabi Netanya          1-1 (1-0)  Maccabi Bnei Raina
+  19.00  Bnei Sachnin FC          1-1 (0-1)  Hapoel Tel Aviv
+[Sun Aug/27]
+  20.15  Maccabi Tel Aviv         4-1 (0-0)  FC Ashdod
+[Mon Aug/28]
+  20.00  Beitar Jerusalem         1-2 (1-0)  Hapoel Haifa
+
+
+Matchday 2
+[Sat Sep/2]
+  20.00  Hapoel Tel Aviv          2-0 (1-0)  Maccabi Netanya
+  19.00  Hapoel Petach-Tikva      1-1 (1-0)  Bnei Sachnin FC
+         Maccabi Bnei Raina       1-1 (1-1)  Hapoel Be'er Sheva
+  20.00  Hapoel Haifa             2-2 (0-1)  Maccabi Petach-Tikva
+[Sun Sep/3]
+  20.00  Hapoel Jerusalem         1-2 (1-2)  Maccabi Haifa
+  20.30  Hapoel Hadera            0-3 (0-1)  Maccabi Tel Aviv
+[Mon Sep/4]
+  20.00  FC Ashdod                1-2 (1-1)  Beitar Jerusalem
+
+
+Matchday 3
+[Sun Sep/17]
+  20.00  Maccabi Petach-Tikva     3-2 (1-1)  Maccabi Haifa
+  19.30  Bnei Sachnin FC          2-1 (1-0)  Hapoel Jerusalem
+  19.45  Hapoel Haifa             2-0 (0-0)  FC Ashdod
+         Maccabi Tel Aviv         1-1 (1-0)  Maccabi Bnei Raina
+  20.00  Maccabi Netanya          4-1 (2-0)  Hapoel Petach-Tikva
+[Mon Sep/18]
+  20.00  Beitar Jerusalem         2-0 (0-0)  Hapoel Hadera
+  20.30  Hapoel Be'er Sheva       0-0  Hapoel Tel Aviv
+
+
+Matchday 4
+[Sat Sep/23]
+  19.45  FC Ashdod                1-1 (0-0)  Maccabi Petach-Tikva
+  18.00  Hapoel Petach-Tikva      1-0 (0-0)  Hapoel Be'er Sheva
+  19.30  Hapoel Hadera            1-2 (1-2)  Hapoel Haifa
+  20.00  Maccabi Bnei Raina       2-1 (0-1)  Beitar Jerusalem
+  19.45  Hapoel Jerusalem         1-1 (0-0)  Maccabi Netanya
+[Tue Sep/26]
+  20.30  Hapoel Tel Aviv          0-5 (0-3)  Maccabi Tel Aviv
+[Wed Sep/27]
+  20.00  Maccabi Haifa            1-1 (1-1)  Bnei Sachnin FC
+
+
+Matchday 5
+[Sat Sep/30]
+  20.00  Hapoel Be'er Sheva       3-0 (2-0)  Hapoel Jerusalem
+  17.45  Maccabi Tel Aviv         2-0 (0-0)  Hapoel Petach-Tikva
+  19.30  Maccabi Petach-Tikva     5-1 (3-1)  Bnei Sachnin FC
+  19.45  FC Ashdod                0-1 (0-0)  Hapoel Hadera
+         Hapoel Haifa             1-2 (1-2)  Maccabi Bnei Raina
+[Sun Oct/1]
+  20.15  Maccabi Netanya          2-3 (2-2)  Maccabi Haifa
+[Mon Oct/2]
+  20.30  Beitar Jerusalem         0-3 (0-1)  Hapoel Tel Aviv
+
+
+Matchday 1
+[Sat Nov/25]
+  20.00  Maccabi Haifa            2-1 (2-0)  Hapoel Petach-Tikva
+
+
+Matchday 6
+[Sat Dec/2]
+  15.00  Hapoel Tel Aviv          0-1 (0-1)  Hapoel Haifa
+  16.45  Hapoel Hadera            3-0 (1-0)  Maccabi Petach-Tikva
+  17.30  Bnei Sachnin FC          1-1 (0-1)  Maccabi Netanya
+  19.00  Maccabi Bnei Raina       0-0  FC Ashdod
+  19.30  Hapoel Petach-Tikva      1-0 (1-0)  Beitar Jerusalem
+[Sun Dec/3]
+  20.30  Maccabi Haifa            1-0 (0-0)  Hapoel Be'er Sheva
+  20.00  Hapoel Jerusalem         1-2 (1-0)  Maccabi Tel Aviv
+
+
+Matchday 7
+[Tue Dec/5]
+  19.00  Hapoel Hadera            0-2 (0-1)  Maccabi Bnei Raina
+         Maccabi Petach-Tikva     1-0 (1-0)  Maccabi Netanya
+  19.45  Hapoel Haifa             1-1 (1-0)  Hapoel Petach-Tikva
+  20.00  FC Ashdod                2-1 (1-0)  Hapoel Tel Aviv
+[Wed Dec/6]
+  20.00  Beitar Jerusalem         1-0 (0-0)  Hapoel Jerusalem
+  19.45  Hapoel Be'er Sheva       1-2 (1-0)  Bnei Sachnin FC
+
+
+Matchday 8
+[Sat Dec/9]
+  19.30  Hapoel Tel Aviv          1-1 (1-0)  Hapoel Hadera
+  15.00  Hapoel Petach-Tikva      1-1 (0-0)  FC Ashdod
+  17.30  Maccabi Bnei Raina       3-0 (2-0)  Maccabi Petach-Tikva
+[Sun Dec/10]
+  19.30  Hapoel Jerusalem         0-1 (0-0)  Hapoel Haifa
+  20.00  Bnei Sachnin FC          2-3 (0-1)  Maccabi Tel Aviv
+  20.30  Maccabi Haifa            1-1 (0-1)  Beitar Jerusalem
+[Mon Dec/11]
+  20.00  Maccabi Netanya          1-0 (0-0)  Hapoel Be'er Sheva
+
+
+Matchday 9
+[Sat Dec/16]
+  19.30  Beitar Jerusalem         1-1 (0-1)  Bnei Sachnin FC
+  15.00  Maccabi Bnei Raina       1-2 (0-2)  Hapoel Tel Aviv
+  18.00  FC Ashdod                2-0 (0-0)  Hapoel Jerusalem
+         Hapoel Hadera            1-0 (0-0)  Hapoel Petach-Tikva
+         Maccabi Petach-Tikva     1-4 (1-0)  Hapoel Be'er Sheva
+[Sun Dec/17]
+  20.00  Maccabi Tel Aviv         2-1 (1-1)  Maccabi Netanya
+  20.30  Hapoel Haifa             0-3 (0-1)  Maccabi Haifa
+
+
+Matchday 10
+[Tue Dec/19]
+  19.00  Hapoel Petach-Tikva      0-1 (0-1)  Maccabi Bnei Raina
+  19.30  Hapoel Jerusalem         1-0 (1-0)  Hapoel Hadera
+  20.00  Hapoel Tel Aviv          2-0 (1-0)  Maccabi Petach-Tikva
+[Wed Dec/20]
+  20.30  Hapoel Be'er Sheva       0-1 (0-1)  Maccabi Tel Aviv
+  19.00  Bnei Sachnin FC          1-1 (0-0)  Hapoel Haifa
+  19.45  Maccabi Netanya          0-3 (0-1)  Beitar Jerusalem
+  20.00  Maccabi Haifa            4-0 (0-0)  FC Ashdod
+
+
+Matchday 11
+[Sat Dec/23]
+  19.30  Beitar Jerusalem         4-4 (3-1)  Hapoel Be'er Sheva
+  15.00  Hapoel Tel Aviv          4-1 (2-0)  Hapoel Petach-Tikva
+  18.00  FC Ashdod                0-1 (0-1)  Bnei Sachnin FC
+         Hapoel Haifa             2-1 (0-0)  Maccabi Netanya
+         Maccabi Bnei Raina       1-1 (0-0)  Hapoel Jerusalem
+[Sun Dec/24]
+  20.00  Maccabi Petach-Tikva     1-2 (1-0)  Maccabi Tel Aviv
+  20.30  Hapoel Hadera            1-5 (1-3)  Maccabi Haifa
+
+
+Matchday 12
+[Tue Dec/26]
+  19.00  Maccabi Netanya          1-0 (0-0)  FC Ashdod
+  19.45  Hapoel Jerusalem         2-1 (1-0)  Hapoel Tel Aviv
+  20.00  Hapoel Be'er Sheva       4-0 (0-0)  Hapoel Haifa
+[Wed Dec/27]
+  20.00  Maccabi Haifa            1-0 (0-0)  Maccabi Bnei Raina
+  19.00  Bnei Sachnin FC          0-1 (0-0)  Hapoel Hadera
+  19.45  Maccabi Petach-Tikva     2-0 (1-0)  Hapoel Petach-Tikva
+  20.30  Maccabi Tel Aviv         1-0 (0-0)  Beitar Jerusalem
+
+
+Matchday 13
+[Sat Dec/30]
+  15.00  Hapoel Petach-Tikva      1-2 (0-2)  Hapoel Jerusalem
+  18.00  Hapoel Hadera            1-4 (0-2)  Maccabi Netanya
+         Maccabi Bnei Raina       0-1 (0-0)  Bnei Sachnin FC
+  19.30  FC Ashdod                1-3 (1-1)  Hapoel Be'er Sheva
+[Sun Dec/31]
+  20.00  Hapoel Haifa             0-1 (0-1)  Maccabi Tel Aviv
+  19.45  Beitar Jerusalem         3-2 (3-1)  Maccabi Petach-Tikva
+  20.30  Hapoel Tel Aviv          0-0  Maccabi Haifa
+
+
+Matchday 14
+[Tue Jan/2]
+  19.00  Maccabi Bnei Raina       1-3 (0-1)  Maccabi Netanya
+  20.00  Hapoel Hadera            0-2 (0-0)  Hapoel Be'er Sheva
+[Wed Jan/3]
+  19.00  Hapoel Jerusalem         3-1 (2-0)  Maccabi Petach-Tikva
+  19.45  Hapoel Tel Aviv          3-3 (0-2)  Bnei Sachnin FC
+  20.00  FC Ashdod                1-4 (0-1)  Maccabi Tel Aviv
+  20.15  Hapoel Petach-Tikva      2-2 (1-1)  Maccabi Haifa
+[Thu Jan/4]
+  20.30  Hapoel Haifa             3-2 (0-2)  Beitar Jerusalem
+
+
+Matchday 15
+[Sat Jan/6]
+  15.00  Hapoel Be'er Sheva       4-2 (2-1)  Maccabi Bnei Raina
+  18.00  Bnei Sachnin FC          0-0  Hapoel Petach-Tikva
+  19.30  Maccabi Netanya          2-1 (2-1)  Hapoel Tel Aviv
+[Sun Jan/7]
+  20.00  Maccabi Tel Aviv         1-1 (0-1)  Hapoel Hadera
+  20.30  Maccabi Haifa            2-1 (2-1)  Hapoel Jerusalem
+[Mon Jan/8]
+  20.00  Beitar Jerusalem         1-1 (0-0)  FC Ashdod
+  19.00  Maccabi Petach-Tikva     0-3 (0-1)  Hapoel Haifa
+
+
+Matchday 7
+[Wed Jan/10]
+  20.30  Maccabi Tel Aviv         0-1 (0-1)  Maccabi Haifa
+
+
+Matchday 16
+[Sat Jan/13]
+  18.00  FC Ashdod                0-1 (0-1)  Hapoel Haifa
+         Hapoel Jerusalem         0-0  Bnei Sachnin FC
+         Hapoel Petach-Tikva      2-0 (2-0)  Maccabi Netanya
+  19.30  Hapoel Tel Aviv          0-4 (0-1)  Hapoel Be'er Sheva
+  15.00  Hapoel Hadera            0-3 (0-1)  Beitar Jerusalem
+[Sun Jan/14]
+  20.30  Maccabi Haifa            5-0 (2-0)  Maccabi Petach-Tikva
+  20.00  Maccabi Bnei Raina       2-2 (1-1)  Maccabi Tel Aviv
+
+
+Matchday 17
+[Tue Jan/16]
+  19.00  Hapoel Haifa             2-0 (1-0)  Hapoel Hadera
+  19.45  Maccabi Netanya          2-1 (1-1)  Hapoel Jerusalem
+  20.00  Hapoel Be'er Sheva       2-0 (0-0)  Hapoel Petach-Tikva
+[Wed Jan/17]
+  19.45  Beitar Jerusalem         1-2 (0-1)  Maccabi Bnei Raina
+  20.00  Bnei Sachnin FC          0-3 (0-1)  Maccabi Haifa
+  20.30  Maccabi Tel Aviv         4-2 (3-2)  Hapoel Tel Aviv
+  19.00  Maccabi Petach-Tikva     1-2 (1-0)  FC Ashdod
+
+
+Matchday 18
+[Sat Jan/20]
+  15.00  Hapoel Hadera            1-1 (1-1)  FC Ashdod
+  17.30  Maccabi Bnei Raina       0-0  Hapoel Haifa
+  19.30  Hapoel Jerusalem         0-1 (0-0)  Hapoel Be'er Sheva
+[Sun Jan/21]
+  20.00  Hapoel Petach-Tikva      0-0  Maccabi Tel Aviv
+  20.30  Maccabi Haifa            4-0 (2-0)  Maccabi Netanya
+  19.00  Bnei Sachnin FC          1-1 (0-0)  Maccabi Petach-Tikva
+[Mon Jan/22]
+  20.00  Hapoel Tel Aviv          0-1 (0-0)  Beitar Jerusalem
+
+
+Matchday 19
+[Tue Jan/30]
+  19.00  FC Ashdod                1-0 (1-0)  Maccabi Bnei Raina
+  19.45  Maccabi Netanya          0-1 (0-0)  Bnei Sachnin FC
+  20.00  Beitar Jerusalem         2-2 (2-1)  Hapoel Petach-Tikva
+[Wed Jan/31]
+  19.45  Hapoel Haifa             4-3 (4-0)  Hapoel Tel Aviv
+  20.00  Maccabi Tel Aviv         2-1 (1-1)  Hapoel Jerusalem
+  20.30  Hapoel Be'er Sheva       2-1 (0-0)  Maccabi Haifa
+  19.00  Maccabi Petach-Tikva     1-0 (1-0)  Hapoel Hadera
+
+
+Matchday 20
+[Sat Feb/3]
+  15.00  Maccabi Netanya          0-1 (0-0)  Maccabi Petach-Tikva
+  17.30  Bnei Sachnin FC          0-2 (0-0)  Hapoel Be'er Sheva
+  18.00  Hapoel Petach-Tikva      0-2 (0-0)  Hapoel Haifa
+  19.30  Hapoel Tel Aviv          3-1 (0-0)  FC Ashdod
+[Sun Feb/4]
+  20.00  Hapoel Jerusalem         2-1 (0-1)  Beitar Jerusalem
+  19.00  Maccabi Bnei Raina       2-1 (0-0)  Hapoel Hadera
+[Mon Feb/5]
+  20.30  Maccabi Haifa            2-0 (2-0)  Maccabi Tel Aviv
+
+
+Matchday 21
+[Sat Feb/10]
+  15.00  Maccabi Tel Aviv         1-1 (0-1)  Bnei Sachnin FC
+  17.30  Hapoel Hadera            1-0 (0-0)  Hapoel Tel Aviv
+  18.00  FC Ashdod                2-0 (2-0)  Hapoel Petach-Tikva
+         Maccabi Petach-Tikva     1-0 (0-0)  Maccabi Bnei Raina
+  20.00  Beitar Jerusalem         0-2 (0-1)  Maccabi Haifa
+[Sun Feb/11]
+  20.00  Hapoel Be'er Sheva       2-0 (1-0)  Maccabi Netanya
+[Mon Feb/12]
+  20.00  Hapoel Haifa             2-3 (2-0)  Hapoel Jerusalem
+
+
+Matchday 22
+[Sat Feb/17]
+  15.00  Hapoel Tel Aviv          0-0  Maccabi Bnei Raina
+  17.30  Hapoel Be'er Sheva       1-1 (0-0)  Maccabi Petach-Tikva
+  18.30  Hapoel Jerusalem         1-1 (0-1)  FC Ashdod
+         Hapoel Petach-Tikva      0-2 (0-1)  Hapoel Hadera
+  19.30  Bnei Sachnin FC          2-1 (1-0)  Beitar Jerusalem
+[Sun Feb/18]
+  20.30  Maccabi Haifa            1-1 (1-0)  Hapoel Haifa
+[Mon Feb/19]
+  20.00  Maccabi Netanya          1-5 (1-2)  Maccabi Tel Aviv
+
+
+Matchday 23
+[Sat Feb/24]
+  17.30  Hapoel Haifa             1-2 (0-2)  Bnei Sachnin FC
+  18.30  Hapoel Hadera            1-1 (1-1)  Hapoel Jerusalem
+  19.30  Beitar Jerusalem         0-0  Maccabi Netanya
+  20.00  Maccabi Tel Aviv         1-0 (1-0)  Hapoel Be'er Sheva
+  15.00  Maccabi Petach-Tikva     3-0 (2-0)  Hapoel Tel Aviv
+[Sun Feb/25]
+  20.00  FC Ashdod                0-5 (0-5)  Maccabi Haifa
+[Mon Feb/26]
+  20.00  Maccabi Bnei Raina       1-1 (1-0)  Hapoel Petach-Tikva
+
+
+Matchday 24
+[Sat Mar/2]
+  18.30  Bnei Sachnin FC          1-1 (1-1)  FC Ashdod
+         Hapoel Jerusalem         1-0 (1-0)  Maccabi Bnei Raina
+  19.30  Maccabi Tel Aviv         4-0 (2-0)  Maccabi Petach-Tikva
+  15.00  Maccabi Netanya          1-2 (1-0)  Hapoel Haifa
+[Sun Mar/3]
+  20.00  Maccabi Haifa            1-0 (0-0)  Hapoel Hadera
+[Mon Mar/4]
+  20.00  Hapoel Petach-Tikva      0-0  Hapoel Tel Aviv
+  20.30  Hapoel Be'er Sheva       1-0 (1-0)  Beitar Jerusalem
+
+
+Matchday 25
+[Sat Mar/9]
+  17.30  Hapoel Hadera            1-0 (0-0)  Bnei Sachnin FC
+  18.30  FC Ashdod                0-2 (0-0)  Maccabi Netanya
+  19.30  Hapoel Tel Aviv          0-0  Hapoel Jerusalem
+  15.00  Hapoel Petach-Tikva      2-2 (1-1)  Maccabi Petach-Tikva
+[Sun Mar/10]
+  20.30  Beitar Jerusalem         0-1 (0-1)  Maccabi Tel Aviv
+  20.00  Maccabi Bnei Raina       2-1 (0-1)  Maccabi Haifa
+[Mon Mar/11]
+  20.00  Hapoel Haifa             1-0 (0-0)  Hapoel Be'er Sheva
+
+
+Matchday 26
+[Sat Mar/16]
+  17.30  Hapoel Be'er Sheva       1-0 (1-0)  FC Ashdod
+  18.30  Maccabi Netanya          1-3 (0-3)  Hapoel Hadera
+  19.30  Bnei Sachnin FC          0-0  Maccabi Bnei Raina
+         Maccabi Petach-Tikva     0-3 (0-1)  Beitar Jerusalem
+  15.00  Hapoel Jerusalem         3-2 (1-0)  Hapoel Petach-Tikva
+[Sun Mar/17]
+  20.00  Maccabi Tel Aviv         3-1 (2-1)  Hapoel Haifa
+  20.30  Maccabi Haifa            0-0  Hapoel Tel Aviv
+
+
+== Championship
+
+Matchday 1
+[Sat Mar/30]
+  16.00  Hapoel Be'er Sheva       2-1 (1-0)  Hapoel Haifa
+  20.00  Maccabi Tel Aviv         2-0 (0-0)  Bnei Sachnin FC
+[Sun Mar/31]
+  20.30  Maccabi Haifa            1-2 (0-2)  Maccabi Bnei Raina
+
+
+Matchday 2
+[Sat Apr/6]
+  20.00  Bnei Sachnin FC          2-1 (0-1)  Hapoel Haifa
+[Sun Apr/7]
+  20.15  Maccabi Bnei Raina       1-0 (1-0)  Hapoel Be'er Sheva
+[Mon Apr/8]
+  20.30  Maccabi Tel Aviv         1-1 (1-0)  Maccabi Haifa
+
+
+Matchday 3
+[Sat Apr/13]
+  17.45  Maccabi Haifa            1-0 (1-0)  Bnei Sachnin FC
+[Sun Apr/14]
+  19.45  Hapoel Haifa             2-0 (2-0)  Maccabi Bnei Raina
+[Mon Apr/15]
+  20.30  Hapoel Be'er Sheva       1-0 (0-0)  Maccabi Tel Aviv
+
+
+Matchday 4
+[Sat Apr/20]
+  18.00  Bnei Sachnin FC          0-2 (0-0)  Maccabi Bnei Raina
+  20.00  Maccabi Haifa            4-1 (2-0)  Hapoel Be'er Sheva
+  17.00  Maccabi Tel Aviv         4-0 (2-0)  Hapoel Haifa
+
+
+Matchday 5
+[Sat Apr/27]
+  17.00  Maccabi Bnei Raina       2-3 (1-3)  Maccabi Tel Aviv
+[Mon Apr/29]
+  20.00  Hapoel Be'er Sheva       2-1 (0-0)  Bnei Sachnin FC
+  20.30  Hapoel Haifa             0-2 (0-0)  Maccabi Haifa
+
+
+Matchday 6
+[Sat May/4]
+  18.00  Hapoel Haifa             2-0 (2-0)  Hapoel Be'er Sheva
+  20.00  Maccabi Bnei Raina       1-5 (1-2)  Maccabi Haifa
+[Mon May/6]
+  20.30  Bnei Sachnin FC          1-1 (0-0)  Maccabi Tel Aviv
+
+
+Matchday 7
+[Thu May/9]
+  19.30  Hapoel Haifa             1-2 (0-1)  Bnei Sachnin FC
+         Hapoel Be'er Sheva       2-1 (2-1)  Maccabi Bnei Raina
+[Sat May/11]
+  20.30  Maccabi Haifa            0-1 (0-1)  Maccabi Tel Aviv
+
+
+Matchday 8
+[Sat May/18]
+  20.30  Bnei Sachnin FC          1-2 (0-0)  Maccabi Haifa
+         Maccabi Bnei Raina       0-1 (0-1)  Hapoel Haifa
+         Maccabi Tel Aviv         3-0 (2-0)  Hapoel Be'er Sheva
+
+
+Matchday 9
+[Tue May/21]
+  20.30  Hapoel Haifa             0-3 (0-0)  Maccabi Tel Aviv
+         Hapoel Be'er Sheva       1-4 (1-3)  Maccabi Haifa
+         Maccabi Bnei Raina       2-2 (1-1)  Bnei Sachnin FC
+
+
+Matchday 10
+[Sat May/25]
+  18.30  Bnei Sachnin FC          4-1 (1-0)  Hapoel Be'er Sheva
+         Maccabi Tel Aviv         2-0 (2-0)  Maccabi Bnei Raina
+         Maccabi Haifa            0-2 (0-1)  Hapoel Haifa
+
+
+== Playoffs - Relegation
+
+Matchday 1
+[Sat Mar/30]
+  19.30  Maccabi Petach-Tikva     0-1 (0-1)  FC Ashdod
+  17.00  Hapoel Hadera            1-1 (0-0)  Hapoel Petach-Tikva
+[Sun Mar/31]
+  20.00  Maccabi Netanya          0-3 (0-3)  Beitar Jerusalem
+[Mon Apr/1]
+  20.00  Hapoel Jerusalem         2-0 (1-0)  Hapoel Tel Aviv
+
+
+Matchday 2
+[Sat Apr/13]
+  15.30  Beitar Jerusalem         0-1 (0-1)  Hapoel Hadera
+  20.00  Hapoel Tel Aviv          1-1 (0-0)  Hapoel Petach-Tikva
+[Sun Apr/14]
+  19.00  Hapoel Jerusalem         2-0 (0-0)  Maccabi Petach-Tikva
+  20.00  FC Ashdod                0-0  Maccabi Netanya
+
+
+Matchday 3
+[Sat Apr/20]
+  18.00  Maccabi Netanya          1-0 (1-0)  Hapoel Jerusalem
+  20.00  Maccabi Petach-Tikva     4-2 (2-0)  Hapoel Tel Aviv
+[Sun Apr/21]
+  19.00  Hapoel Hadera            2-2 (1-2)  FC Ashdod
+  20.15  Hapoel Petach-Tikva      0-2 (0-1)  Beitar Jerusalem
+
+
+Matchday 4
+[Sat Apr/27]
+  18.00  Maccabi Petach-Tikva     0-2 (0-1)  Maccabi Netanya
+  17.30  Hapoel Jerusalem         2-1 (0-1)  Hapoel Hadera
+  20.00  Hapoel Tel Aviv          1-5 (0-1)  Beitar Jerusalem
+         FC Ashdod                1-0 (1-0)  Hapoel Petach-Tikva
+
+
+Matchday 5
+[Sat May/4]
+  17.00  Maccabi Netanya          0-1 (0-1)  Hapoel Tel Aviv
+  20.00  Hapoel Petach-Tikva      1-0 (0-0)  Hapoel Jerusalem
+[Mon May/6]
+  20.30  Hapoel Hadera            0-4 (0-3)  Maccabi Petach-Tikva
+         Beitar Jerusalem         0-0  FC Ashdod
+
+
+Matchday 6
+[Sat May/11]
+  18.00  Hapoel Tel Aviv          0-2 (0-0)  FC Ashdod
+         Hapoel Jerusalem         3-0 (0-0)  Beitar Jerusalem
+         Maccabi Netanya          1-2 (1-1)  Hapoel Hadera
+         Maccabi Petach-Tikva     4-1 (4-1)  Hapoel Petach-Tikva
+
+
+Matchday 7
+[Sat May/18]
+  18.00  FC Ashdod                3-1 (0-0)  Hapoel Jerusalem
+         Hapoel Hadera            0-1 (0-1)  Hapoel Tel Aviv
+[Sun May/19]
+  20.00  Hapoel Petach-Tikva      1-3 (0-2)  Maccabi Netanya
+[Mon May/20]
+  20.00  Beitar Jerusalem         1-1 (1-0)  Maccabi Petach-Tikva
