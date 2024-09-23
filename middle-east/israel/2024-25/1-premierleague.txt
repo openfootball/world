@@ -1,0 +1,306 @@
+= Israeli Premier League 2024/25
+
+# Date       Sat Aug/24 2024 - Sat Mar/8 2025 (196d)
+# Teams      14
+# Matches    182
+
+
+
+Matchday 1
+[Sat Aug/24]
+  19.00  Bnei Sachnin FC          2-0 (2-0)  Maccabi Petach-Tikva
+  20.00  Maccabi Haifa            4-0 (1-0)  Ironi Tiberias
+         Hapoel Hadera            0-0  Hapoel Haifa
+  19.00  Maccabi Bnei Raina       4-3 (4-1)  Maccabi Netanya
+[Sun Aug/25]
+  20.15  Beitar Jerusalem         3-2 (1-0)  FC Ashdod
+[Mon Aug/26]
+  20.00  Ironi Kiryat Shmona      0-1 (0-0)  Hapoel Be'er Sheva
+
+
+Matchday 2
+[Sat Aug/31]
+  20.30  Maccabi Netanya          0-2 (0-1)  Maccabi Haifa
+  19.00  Hapoel Haifa             1-3 (1-0)  Maccabi Bnei Raina
+         FC Ashdod                2-1 (2-1)  Ironi Kiryat Shmona
+  20.00  Hapoel Jerusalem         1-1 (0-1)  Hapoel Hadera
+         Ironi Tiberias           1-0 (0-0)  Beitar Jerusalem
+[Sun Sep/1]
+  20.00  Hapoel Be'er Sheva       -  Bnei Sachnin FC          [abandoned]
+  20.15  Maccabi Petach-Tikva     0-3 (0-2)  Maccabi Tel Aviv
+
+
+Matchday 3
+[Sat Sep/14]
+  20.00  Maccabi Bnei Raina       2-2 (0-1)  Maccabi Haifa
+  19.30  Bnei Sachnin FC          2-2 (1-0)  FC Ashdod
+         Hapoel Haifa             4-0 (3-0)  Hapoel Jerusalem
+  20.30  Maccabi Tel Aviv         1-0 (1-0)  Hapoel Be'er Sheva
+  20.00  Ironi Kiryat Shmona      2-0 (1-0)  Ironi Tiberias
+[Sun Sep/15]
+  20.15  Beitar Jerusalem         2-0 (1-0)  Maccabi Netanya
+[Mon Sep/16]
+  20.00  Hapoel Hadera            0-1 (0-1)  Maccabi Petach-Tikva
+
+
+Matchday 1
+[Wed Sep/18]
+  17.30  Maccabi Tel Aviv         2-1 (1-0)  Hapoel Jerusalem
+
+
+Matchday 4
+[Sat Sep/21]
+  19.30  Hapoel Jerusalem         0-1 (0-1)  Maccabi Bnei Raina
+         Ironi Tiberias           1-0 (0-0)  Bnei Sachnin FC
+  20.00  Maccabi Petach-Tikva     0-0  Hapoel Haifa
+         Maccabi Netanya          2-0 (1-0)  Ironi Kiryat Shmona
+  20.30  Hapoel Be'er Sheva       2-1 (0-1)  Hapoel Hadera
+[Sun Sep/22]
+  20.15  FC Ashdod                0-2 (0-2)  Maccabi Tel Aviv
+[Mon Sep/23]
+  20.30  Maccabi Haifa            -  Beitar Jerusalem
+
+
+Matchday 5
+[Sat Sep/28]
+  19.30  Hapoel Hadera            -  FC Ashdod
+  20.00  Maccabi Bnei Raina       -  Beitar Jerusalem
+         Hapoel Jerusalem         -  Maccabi Petach-Tikva
+  19.15  Ironi Kiryat Shmona      -  Maccabi Haifa
+[Sun Sep/29]
+  20.30  Maccabi Tel Aviv         -  Ironi Tiberias
+  20.00  Hapoel Haifa             -  Hapoel Be'er Sheva
+[Mon Sep/30]
+  20.00  Bnei Sachnin FC          -  Maccabi Netanya
+
+
+Matchday 6
+[Sat Oct/5]
+  19.30  Maccabi Haifa            -  Bnei Sachnin FC
+  19.45  Maccabi Petach-Tikva     -  Maccabi Bnei Raina
+  20.00  Ironi Tiberias           -  Hapoel Hadera
+         Beitar Jerusalem         -  Ironi Kiryat Shmona
+  19.00  FC Ashdod                -  Hapoel Haifa
+[Sun Oct/6]
+  20.30  Maccabi Netanya          -  Maccabi Tel Aviv
+  20.15  Hapoel Be'er Sheva       -  Hapoel Jerusalem
+
+
+Matchday 7
+[Sat Oct/19]
+  Maccabi Bnei Raina       -  Ironi Kiryat Shmona
+  Bnei Sachnin FC          -  Beitar Jerusalem
+  Maccabi Tel Aviv         -  Maccabi Haifa
+  Hapoel Hadera            -  Maccabi Netanya
+  Hapoel Haifa             -  Ironi Tiberias
+  Hapoel Jerusalem         -  FC Ashdod
+  Maccabi Petach-Tikva     -  Hapoel Be'er Sheva
+
+
+Matchday 8
+[Sat Oct/26]
+  FC Ashdod                -  Maccabi Petach-Tikva
+  Ironi Tiberias           -  Hapoel Jerusalem
+  Maccabi Netanya          -  Hapoel Haifa
+  Maccabi Haifa            -  Hapoel Hadera
+  Beitar Jerusalem         -  Maccabi Tel Aviv
+  Ironi Kiryat Shmona      -  Bnei Sachnin FC
+  Hapoel Be'er Sheva       -  Maccabi Bnei Raina
+
+
+Matchday 9
+[Sat Nov/2]
+  Maccabi Bnei Raina       -  Bnei Sachnin FC
+  Maccabi Tel Aviv         -  Ironi Kiryat Shmona
+  Hapoel Hadera            -  Beitar Jerusalem
+  Hapoel Haifa             -  Maccabi Haifa
+  Hapoel Jerusalem         -  Maccabi Netanya
+  Maccabi Petach-Tikva     -  Ironi Tiberias
+  Hapoel Be'er Sheva       -  FC Ashdod
+
+
+Matchday 10
+[Sat Nov/9]
+  Ironi Tiberias           -  Hapoel Be'er Sheva
+  Maccabi Netanya          -  Maccabi Petach-Tikva
+  Maccabi Haifa            -  Hapoel Jerusalem
+  Beitar Jerusalem         -  Hapoel Haifa
+  Ironi Kiryat Shmona      -  Hapoel Hadera
+  Bnei Sachnin FC          -  Maccabi Tel Aviv
+  FC Ashdod                -  Maccabi Bnei Raina
+
+
+Matchday 11
+[Sat Nov/30]
+  Maccabi Bnei Raina       -  Maccabi Tel Aviv
+  Hapoel Hadera            -  Bnei Sachnin FC
+  Hapoel Haifa             -  Ironi Kiryat Shmona
+  Hapoel Jerusalem         -  Beitar Jerusalem
+  Maccabi Petach-Tikva     -  Maccabi Haifa
+  Hapoel Be'er Sheva       -  Maccabi Netanya
+  FC Ashdod                -  Ironi Tiberias
+
+
+Matchday 12
+[Tue Dec/3]
+  Maccabi Netanya          -  FC Ashdod
+  Maccabi Haifa            -  Hapoel Be'er Sheva
+  Beitar Jerusalem         -  Maccabi Petach-Tikva
+  Ironi Kiryat Shmona      -  Hapoel Jerusalem
+  Bnei Sachnin FC          -  Hapoel Haifa
+  Maccabi Tel Aviv         -  Hapoel Hadera
+  Maccabi Bnei Raina       -  Ironi Tiberias
+
+
+Matchday 13
+[Sat Dec/7]
+  Hapoel Hadera            -  Maccabi Bnei Raina
+  Hapoel Haifa             -  Maccabi Tel Aviv
+  Hapoel Jerusalem         -  Bnei Sachnin FC
+  Maccabi Petach-Tikva     -  Ironi Kiryat Shmona
+  Hapoel Be'er Sheva       -  Beitar Jerusalem
+  FC Ashdod                -  Maccabi Haifa
+  Ironi Tiberias           -  Maccabi Netanya
+
+
+Matchday 14
+[Sat Dec/14]
+  Maccabi Netanya          -  Maccabi Bnei Raina
+  Ironi Tiberias           -  Maccabi Haifa
+  FC Ashdod                -  Beitar Jerusalem
+  Hapoel Be'er Sheva       -  Ironi Kiryat Shmona
+  Maccabi Petach-Tikva     -  Bnei Sachnin FC
+  Hapoel Jerusalem         -  Maccabi Tel Aviv
+  Hapoel Haifa             -  Hapoel Hadera
+
+
+Matchday 15
+[Sat Dec/21]
+  Hapoel Hadera            -  Hapoel Jerusalem
+  Maccabi Tel Aviv         -  Maccabi Petach-Tikva
+  Bnei Sachnin FC          -  Hapoel Be'er Sheva
+  Ironi Kiryat Shmona      -  FC Ashdod
+  Beitar Jerusalem         -  Ironi Tiberias
+  Maccabi Haifa            -  Maccabi Netanya
+  Maccabi Bnei Raina       -  Hapoel Haifa
+
+
+Matchday 16
+[Tue Dec/31]
+  Maccabi Haifa            -  Maccabi Bnei Raina
+  Maccabi Netanya          -  Beitar Jerusalem
+  Ironi Tiberias           -  Ironi Kiryat Shmona
+  FC Ashdod                -  Bnei Sachnin FC
+  Hapoel Be'er Sheva       -  Maccabi Tel Aviv
+  Maccabi Petach-Tikva     -  Hapoel Hadera
+  Hapoel Jerusalem         -  Hapoel Haifa
+
+
+Matchday 17
+[Sat Jan/4]
+  Hapoel Haifa             -  Maccabi Petach-Tikva
+  Hapoel Hadera            -  Hapoel Be'er Sheva
+  Maccabi Tel Aviv         -  FC Ashdod
+  Bnei Sachnin FC          -  Ironi Tiberias
+  Ironi Kiryat Shmona      -  Maccabi Netanya
+  Beitar Jerusalem         -  Maccabi Haifa
+  Maccabi Bnei Raina       -  Hapoel Jerusalem
+
+
+Matchday 18
+[Sat Jan/11]
+  Beitar Jerusalem         -  Maccabi Bnei Raina
+  Maccabi Haifa            -  Ironi Kiryat Shmona
+  Maccabi Netanya          -  Bnei Sachnin FC
+  Ironi Tiberias           -  Maccabi Tel Aviv
+  FC Ashdod                -  Hapoel Hadera
+  Hapoel Be'er Sheva       -  Hapoel Haifa
+  Maccabi Petach-Tikva     -  Hapoel Jerusalem
+
+
+Matchday 19
+[Sat Jan/18]
+  Hapoel Jerusalem         -  Hapoel Be'er Sheva
+  Hapoel Haifa             -  FC Ashdod
+  Hapoel Hadera            -  Ironi Tiberias
+  Maccabi Tel Aviv         -  Maccabi Netanya
+  Bnei Sachnin FC          -  Maccabi Haifa
+  Ironi Kiryat Shmona      -  Beitar Jerusalem
+  Maccabi Bnei Raina       -  Maccabi Petach-Tikva
+
+
+Matchday 20
+[Sat Jan/25]
+  Ironi Kiryat Shmona      -  Maccabi Bnei Raina
+  Beitar Jerusalem         -  Bnei Sachnin FC
+  Maccabi Haifa            -  Maccabi Tel Aviv
+  Maccabi Netanya          -  Hapoel Hadera
+  Ironi Tiberias           -  Hapoel Haifa
+  FC Ashdod                -  Hapoel Jerusalem
+  Hapoel Be'er Sheva       -  Maccabi Petach-Tikva
+
+
+Matchday 21
+[Sat Feb/1]
+  Maccabi Bnei Raina       -  Hapoel Be'er Sheva
+  Maccabi Petach-Tikva     -  FC Ashdod
+  Hapoel Jerusalem         -  Ironi Tiberias
+  Hapoel Haifa             -  Maccabi Netanya
+  Hapoel Hadera            -  Maccabi Haifa
+  Maccabi Tel Aviv         -  Beitar Jerusalem
+  Bnei Sachnin FC          -  Ironi Kiryat Shmona
+
+
+Matchday 22
+[Sat Feb/8]
+  Ironi Kiryat Shmona      -  Maccabi Tel Aviv
+  Beitar Jerusalem         -  Hapoel Hadera
+  Maccabi Haifa            -  Hapoel Haifa
+  Maccabi Netanya          -  Hapoel Jerusalem
+  Ironi Tiberias           -  Maccabi Petach-Tikva
+  FC Ashdod                -  Hapoel Be'er Sheva
+  Bnei Sachnin FC          -  Maccabi Bnei Raina
+
+
+Matchday 23
+[Sat Feb/15]
+  Maccabi Bnei Raina       -  FC Ashdod
+  Hapoel Be'er Sheva       -  Ironi Tiberias
+  Maccabi Petach-Tikva     -  Maccabi Netanya
+  Hapoel Jerusalem         -  Maccabi Haifa
+  Hapoel Haifa             -  Beitar Jerusalem
+  Hapoel Hadera            -  Ironi Kiryat Shmona
+  Maccabi Tel Aviv         -  Bnei Sachnin FC
+
+
+Matchday 24
+[Sat Feb/22]
+  Maccabi Tel Aviv         -  Maccabi Bnei Raina
+  Bnei Sachnin FC          -  Hapoel Hadera
+  Ironi Kiryat Shmona      -  Hapoel Haifa
+  Beitar Jerusalem         -  Hapoel Jerusalem
+  Maccabi Haifa            -  Maccabi Petach-Tikva
+  Maccabi Netanya          -  Hapoel Be'er Sheva
+  Ironi Tiberias           -  FC Ashdod
+
+
+Matchday 25
+[Sat Mar/1]
+  FC Ashdod                -  Maccabi Netanya
+  Hapoel Be'er Sheva       -  Maccabi Haifa
+  Maccabi Petach-Tikva     -  Beitar Jerusalem
+  Hapoel Jerusalem         -  Ironi Kiryat Shmona
+  Hapoel Haifa             -  Bnei Sachnin FC
+  Hapoel Hadera            -  Maccabi Tel Aviv
+  Ironi Tiberias           -  Maccabi Bnei Raina
+
+
+Matchday 26
+[Sat Mar/8]
+  Maccabi Bnei Raina       -  Hapoel Hadera
+  Maccabi Tel Aviv         -  Hapoel Haifa
+  Bnei Sachnin FC          -  Hapoel Jerusalem
+  Ironi Kiryat Shmona      -  Maccabi Petach-Tikva
+  Beitar Jerusalem         -  Hapoel Be'er Sheva
+  Maccabi Haifa            -  FC Ashdod
+  Maccabi Netanya          -  Ironi Tiberias
