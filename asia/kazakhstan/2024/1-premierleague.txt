@@ -244,27 +244,29 @@ Matchday 21
 
 Matchday 14
 [Fri Sep/27]
-  19.00  FK Ordabasy              -  FK Turan
+  19.00  FK Ordabasy              2-0 (0-0)  FK Turan
 
 
 Matchday 16
 [Sat Sep/28]
-  18.00  Tobyl Kostanay           -  Shakter Karaganda
+  18.00  Tobyl Kostanay           1-0 (0-0)  Shakter Karaganda
 
 
 Matchday 18
 [Sun Sep/29]
-  14.00  FK Zhenis                -  FK Astana
+  18.00  FK Zhenis                1-1 (0-0)  FK Astana
 
 
 Matchday 22
-[Sat Oct/5]
-  FK Zhenis                -  Tobyl Kostanay
-  FK Atyrau                -  FK Turan
-  FK Astana                -  Shakter Karaganda
-  FK Aktobe                -  FK Kairat
-  FK Kyzylzhar             -  FK Ordabasy
-  Zhetysu Taldykorgan      -  FK Yelimay
+[Thu Oct/3]
+  14.00  FK Kyzylzhar             0-1 (0-0)  FK Ordabasy
+  16.00  Zhetysu Taldykorgan      2-0 (1-0)  FK Yelimay
+[Fri Oct/4]
+  16.00  FK Zhenis                2-1 (2-0)  Tobyl Kostanay
+         FK Atyrau                3-0 (2-0)  FK Turan
+         FK Aktobe                2-1 (0-0)  FK Kairat
+[Wed Oct/16]
+  18.00  FK Astana                -  Shakter Karaganda
 
 
 Matchday 23

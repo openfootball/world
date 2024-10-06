@@ -26,7 +26,7 @@ Matchday 2
   20.00  Hapoel Jerusalem         1-1 (0-1)  Hapoel Hadera
          Ironi Tiberias           1-0 (0-0)  Beitar Jerusalem
 [Sun Sep/1]
-  20.00  Hapoel Be'er Sheva       -  Bnei Sachnin FC          [abandoned]
+  20.00  Hapoel Be'er Sheva       0-0  Bnei Sachnin FC
   20.15  Maccabi Petach-Tikva     0-3 (0-2)  Maccabi Tel Aviv
 
 
@@ -57,30 +57,33 @@ Matchday 4
   20.30  Hapoel Be'er Sheva       2-1 (0-1)  Hapoel Hadera
 [Sun Sep/22]
   20.15  FC Ashdod                0-2 (0-2)  Maccabi Tel Aviv
-[Mon Sep/23]
-  20.30  Maccabi Haifa            -  Beitar Jerusalem
 
 
 Matchday 5
 [Sat Sep/28]
-  19.30  Hapoel Hadera            -  FC Ashdod
-  20.00  Maccabi Bnei Raina       -  Beitar Jerusalem
-         Hapoel Jerusalem         -  Maccabi Petach-Tikva
-  19.15  Ironi Kiryat Shmona      -  Maccabi Haifa
+  19.15  Ironi Kiryat Shmona      0-4 (0-1)  Maccabi Haifa
+  20.00  Maccabi Bnei Raina       0-2 (0-0)  Beitar Jerusalem
+         Hapoel Jerusalem         4-1 (1-0)  Maccabi Petach-Tikva
 [Sun Sep/29]
-  20.30  Maccabi Tel Aviv         -  Ironi Tiberias
-  20.00  Hapoel Haifa             -  Hapoel Be'er Sheva
+  20.00  Hapoel Be'er Sheva       3-0 (1-0)  Hapoel Haifa
+  20.30  Maccabi Tel Aviv         1-1 (1-0)  Ironi Tiberias
 [Mon Sep/30]
-  20.00  Bnei Sachnin FC          -  Maccabi Netanya
+  20.00  Hapoel Hadera            0-3 (0-3)  FC Ashdod
+         Bnei Sachnin FC          1-0 (1-0)  Maccabi Netanya
+
+
+Matchday 4
+[Tue Oct/1]
+  Maccabi Haifa            -  Beitar Jerusalem
 
 
 Matchday 6
 [Sat Oct/5]
-  19.30  Maccabi Haifa            -  Bnei Sachnin FC
-  19.45  Maccabi Petach-Tikva     -  Maccabi Bnei Raina
-  20.00  Ironi Tiberias           -  Hapoel Hadera
-         Beitar Jerusalem         -  Ironi Kiryat Shmona
-  19.00  FC Ashdod                -  Hapoel Haifa
+  19.30  Maccabi Haifa            3-0 (1-0)  Bnei Sachnin FC
+  19.45  Maccabi Petach-Tikva     2-1 (1-1)  Maccabi Bnei Raina
+  20.00  Ironi Tiberias           1-1 (0-1)  Hapoel Hadera
+         Beitar Jerusalem         1-1 (0-1)  Ironi Kiryat Shmona
+  19.00  FC Ashdod                0-1 (0-0)  Hapoel Haifa
 [Sun Oct/6]
   20.30  Maccabi Netanya          -  Maccabi Tel Aviv
   20.15  Hapoel Be'er Sheva       -  Hapoel Jerusalem
@@ -88,24 +91,24 @@ Matchday 6
 
 Matchday 7
 [Sat Oct/19]
-  Maccabi Bnei Raina       -  Ironi Kiryat Shmona
   Bnei Sachnin FC          -  Beitar Jerusalem
-  Maccabi Tel Aviv         -  Maccabi Haifa
-  Hapoel Hadera            -  Maccabi Netanya
-  Hapoel Haifa             -  Ironi Tiberias
-  Hapoel Jerusalem         -  FC Ashdod
   Maccabi Petach-Tikva     -  Hapoel Be'er Sheva
+  18.45  Maccabi Bnei Raina       -  Ironi Kiryat Shmona
+  19.00  Hapoel Hadera            -  Maccabi Netanya
+         Hapoel Jerusalem         -  FC Ashdod
+  19.30  Hapoel Haifa             -  Ironi Tiberias
+  20.00  Maccabi Tel Aviv         -  Maccabi Haifa
 
 
 Matchday 8
 [Sat Oct/26]
-  FC Ashdod                -  Maccabi Petach-Tikva
-  Ironi Tiberias           -  Hapoel Jerusalem
-  Maccabi Netanya          -  Hapoel Haifa
-  Maccabi Haifa            -  Hapoel Hadera
   Beitar Jerusalem         -  Maccabi Tel Aviv
-  Ironi Kiryat Shmona      -  Bnei Sachnin FC
-  Hapoel Be'er Sheva       -  Maccabi Bnei Raina
+  18.45  Ironi Kiryat Shmona      -  Bnei Sachnin FC
+  19.00  FC Ashdod                -  Maccabi Petach-Tikva
+         Ironi Tiberias           -  Hapoel Jerusalem
+  19.30  Hapoel Be'er Sheva       -  Maccabi Bnei Raina
+  20.00  Maccabi Haifa            -  Hapoel Hadera
+  Maccabi Netanya          -  Hapoel Haifa
 
 
 Matchday 9
@@ -214,7 +217,7 @@ Matchday 18
   Maccabi Netanya          -  Bnei Sachnin FC
   Ironi Tiberias           -  Maccabi Tel Aviv
   FC Ashdod                -  Hapoel Hadera
-  Hapoel Be'er Sheva       -  Hapoel Haifa
+  Hapoel Haifa             -  Hapoel Be'er Sheva
   Maccabi Petach-Tikva     -  Hapoel Jerusalem
 
 
