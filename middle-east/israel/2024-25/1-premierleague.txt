@@ -85,16 +85,16 @@ Matchday 6
          Beitar Jerusalem         1-1 (0-1)  Ironi Kiryat Shmona
   19.00  FC Ashdod                0-1 (0-0)  Hapoel Haifa
 [Sun Oct/6]
-  20.30  Maccabi Netanya          -  Maccabi Tel Aviv
-  20.15  Hapoel Be'er Sheva       -  Hapoel Jerusalem
+  20.30  Maccabi Netanya          1-2 (0-1)  Maccabi Tel Aviv
+  20.15  Hapoel Be'er Sheva       3-1 (0-1)  Hapoel Jerusalem
 
 
 Matchday 7
 [Sat Oct/19]
-  Bnei Sachnin FC          -  Beitar Jerusalem
   Maccabi Petach-Tikva     -  Hapoel Be'er Sheva
   18.45  Maccabi Bnei Raina       -  Ironi Kiryat Shmona
-  19.00  Hapoel Hadera            -  Maccabi Netanya
+  19.00  Bnei Sachnin FC          -  Beitar Jerusalem
+         Hapoel Hadera            -  Maccabi Netanya
          Hapoel Jerusalem         -  FC Ashdod
   19.30  Hapoel Haifa             -  Ironi Tiberias
   20.00  Maccabi Tel Aviv         -  Maccabi Haifa
