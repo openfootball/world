@@ -1,5 +1,8 @@
-= Australian A-League 2018/19, Regular Season
+= Australian A-League 2018/19
 
+
+# Stages     Regular Season     Finals
+# Regular Season
 
 Round 1
 [Fri Oct/19]
@@ -316,8 +319,8 @@ Round 27
   Perth Glory               5-0  Wellington Phoenix
 
 
-= Australian A-League 2018/19, Finals
 
+== Finals
 
 Elimination finals
 [Fri May/3]

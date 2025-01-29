@@ -1,3 +1,5 @@
+= Major League Soccer 2014
+
 
 # Qualifying
 
@@ -393,7 +395,7 @@ Fri Oct/10 22:30 Sporting Kansas City          2-0 Chicago Fire
 Sat Oct/11 00:00 Seattle Sounders           0-1 Vancouver Whitecaps FC
 Sat Oct/11 02:00 Philadelphia Union           2-3 Columbus Crew
 Sat Oct/11 21:00 New York Red Bulls           3-1 Toronto FC
-Sat Oct/11 23:30 Real Salt Lake           20- San Jose Earthquakes
+Sat Oct/11 23:30 Real Salt Lake           2-0 San Jose Earthquakes
 
 Week 32
 
