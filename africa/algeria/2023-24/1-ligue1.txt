@@ -1,0 +1,478 @@
+= Algeria Ligue 1 2023/24
+
+# Date       Fri Sep/15 2023 - Fri Jun/14 2024 (273d)
+# Teams      16
+# Matches    240
+
+
+
+Matchday 1
+[Fri Sep/15]
+  16.00  MC El Bayadh             1-0 (1-0)  CS Constantine
+  19.00  ASO Chlef                2-0 (0-0)  MC Oran
+  16.00  USM Khenchela            1-0 (0-0)  ES Sétif
+[Sat Sep/16]
+  16.00  MC Alger                 4-0 (2-0)  ES Ben Aknoun
+         NC Magra                 0-1 (0-1)  JS Kabylie
+[Sun Sep/17]
+  20.00  JS Saoura                1-0 (1-0)  US Biskra
+
+
+Matchday 2
+[Fri Sep/22]
+  16.00  CS Constantine           2-1 (1-1)  MC Alger
+         ES Ben Aknoun            2-2 (1-1)  ASO Chlef
+  19.00  JS Kabylie               0-0  Paradou AC
+[Sat Sep/23]
+  19.00  MC Oran                  1-1 (1-1)  JS Saoura
+         ES Sétif                 2-1 (0-0)  MC El Bayadh
+  16.00  CR Bélouizdad            1-0 (0-0)  NC Magra
+  19.00  US Biskra                3-1 (3-1)  US Souf
+
+
+Matchday 1
+[Wed Sep/27]
+  16.00  Paradou AC               1-0 (0-0)  USM Alger
+
+
+Matchday 3
+[Fri Sep/29]
+  15.45  NC Magra                 2-1 (0-1)  US Biskra
+         USM Khenchela            2-1 (0-0)  JS Kabylie
+         US Souf                  0-0  MC Oran
+[Sat Sep/30]
+  19.00  JS Saoura                1-0 (0-0)  ES Ben Aknoun
+  15.45  MC Alger                 2-0 (1-0)  MC El Bayadh
+  19.00  ASO Chlef                1-0 (1-0)  CS Constantine
+
+
+Matchday 4
+[Fri Oct/6]
+  19.00  MC Oran                  0-0  NC Magra
+         US Biskra                0-5 (0-3)  Paradou AC
+  15.45  CS Constantine           3-0 (2-0)  JS Saoura
+         MC Alger                 5-3 (2-2)  ES Sétif
+[Sat Oct/7]
+  15.45  ES Ben Aknoun            0-1 (0-1)  US Souf
+         MC El Bayadh             1-0 (1-0)  ASO Chlef
+  19.00  JS Kabylie               1-0 (0-0)  USM Alger
+  15.45  CR Bélouizdad            2-3 (2-2)  USM Khenchela
+
+
+Matchday 1
+[Fri Oct/13]
+  15.30  US Souf                  0-3 (0-3)  CR Bélouizdad
+
+
+Matchday 2
+[Sat Oct/14]
+  15.30  USM Alger                3-0 (0-0)  USM Khenchela
+
+
+Matchday 5
+[Fri Nov/10]
+  17.00  USM Alger                2-1 (0-0)  CR Bélouizdad
+  15.30  Paradou AC               1-0 (1-0)  MC Oran
+         US Souf                  3-4 (1-1)  CS Constantine
+  15.45  ES Sétif                 1-0 (0-0)  JS Kabylie
+[Sat Nov/11]
+  18.00  JS Saoura                0-0  MC El Bayadh
+  17.00  ASO Chlef                0-1 (0-1)  MC Alger
+  15.00  USM Khenchela            0-1 (0-0)  US Biskra
+         NC Magra                 3-1 (1-1)  ES Ben Aknoun
+
+
+Matchday 3
+[Tue Nov/14]
+  19.00  ES Sétif                 2-1 (1-1)  USM Alger
+  15.00  Paradou AC               0-1 (0-1)  CR Bélouizdad
+
+
+Matchday 6
+[Fri Nov/17]
+  15.25  CS Constantine           0-1 (0-0)  NC Magra
+  15.30  MC El Bayadh             4-0 (1-0)  US Souf
+  16.45  MC Oran                  1-0 (1-0)  USM Khenchela
+  18.00  MC Alger                 4-0 (1-0)  JS Saoura
+[Sat Nov/18]
+  17.00  ASO Chlef                2-1 (1-1)  ES Sétif
+  18.00  US Biskra                1-0 (1-0)  USM Alger
+  15.00  ES Ben Aknoun            0-1 (0-0)  Paradou AC
+[Sun Nov/19]
+  19.00  CR Bélouizdad            1-0 (0-0)  JS Kabylie
+
+
+Matchday 7
+[Fri Nov/24]
+  15.15  NC Magra                 1-1 (0-0)  MC El Bayadh
+         Paradou AC               0-0  CS Constantine
+[Sat Nov/25]
+  15.00  USM Khenchela            0-0  ES Ben Aknoun
+         US Souf                  3-4 (1-3)  MC Alger
+  16.45  JS Kabylie               1-1 (1-1)  US Biskra
+  17.45  JS Saoura                3-2 (1-2)  ASO Chlef
+
+
+Matchday 8
+[Fri Dec/1]
+  16.45  MC Alger                 4-0 (3-0)  NC Magra
+  15.15  MC El Bayadh             1-0 (0-0)  Paradou AC
+  18.00  CS Constantine           2-0 (1-0)  USM Khenchela
+[Sat Dec/2]
+  16.45  JS Saoura                0-0  ES Sétif
+  18.00  MC Oran                  1-3 (0-0)  JS Kabylie
+  16.45  ASO Chlef                2-0 (1-0)  US Souf
+
+
+Matchday 9
+[Thu Dec/7]
+  19.00  Paradou AC               0-1 (0-0)  MC Alger
+[Fri Dec/8]
+  15.15  USM Khenchela            2-0 (1-0)  MC El Bayadh
+  18.00  JS Kabylie               1-0 (1-0)  ES Ben Aknoun
+[Sat Dec/9]
+  15.00  US Souf                  0-1 (0-0)  JS Saoura
+         NC Magra                 1-1 (1-0)  ASO Chlef
+  18.00  ES Sétif                 2-2 (0-2)  US Biskra
+
+
+Matchday 10
+[Fri Dec/15]
+  15.15  MC El Bayadh             1-1 (0-0)  USM Alger
+  16.45  CS Constantine           2-0 (1-0)  JS Kabylie
+  18.00  ASO Chlef                1-1 (0-0)  Paradou AC
+  15.15  ES Ben Aknoun            1-1 (0-1)  CR Bélouizdad
+[Sat Dec/16]
+  18.00  MC Alger                 3-0 (1-0)  USM Khenchela
+  17.00  JS Saoura                2-1 (1-0)  NC Magra
+  15.00  US Souf                  1-3 (1-1)  ES Sétif
+  19.00  MC Oran                  0-1 (0-1)  US Biskra
+
+
+Matchday 11
+[Thu Dec/28]
+  19.00  CR Bélouizdad            2-1 (1-0)  CS Constantine
+[Fri Dec/29]
+  16.00  ES Sétif                 1-0 (0-0)  MC Oran
+  15.15  NC Magra                 1-0 (0-0)  US Souf
+         Paradou AC               0-0  JS Saoura
+         USM Khenchela            2-1 (0-0)  ASO Chlef
+  18.00  US Biskra                1-1 (1-1)  ES Ben Aknoun
+         USM Alger                0-0  MC Alger
+
+
+Matchday 12
+[Fri Jan/5]
+  15.45  ASO Chlef                0-1 (0-1)  USM Alger
+  15.15  NC Magra                 0-1 (0-0)  ES Sétif
+         US Souf                  1-4 (0-2)  Paradou AC
+  18.30  CS Constantine           1-1 (1-1)  US Biskra
+  15.15  ES Ben Aknoun            2-1 (1-1)  MC Oran
+[Sat Jan/6]
+  16.00  JS Saoura                0-1 (0-0)  USM Khenchela
+  18.00  MC Alger                 1-1 (1-0)  JS Kabylie
+
+
+Matchday 7
+[Tue Jan/9]
+  19.00  ES Sétif                 1-3 (0-2)  CR Bélouizdad
+
+
+Matchday 13
+[Thu Jan/11]
+  16.45  MC Oran                  1-4 (0-1)  CS Constantine
+  19.00  USM Alger                2-1 (0-1)  JS Saoura
+[Fri Jan/12]
+  15.15  Paradou AC               0-0  NC Magra
+[Sat Jan/13]
+  18.00  ES Sétif                 1-1 (0-1)  ES Ben Aknoun
+  16.45  JS Kabylie               2-1 (1-0)  ASO Chlef
+  16.00  US Biskra                0-0  MC El Bayadh
+  15.00  USM Khenchela            2-0 (0-0)  US Souf
+[Sun Jan/14]
+  19.00  CR Bélouizdad            0-0  MC Alger
+
+
+Matchday 7
+[Mon Jan/15]
+  18.00  USM Alger                2-0 (0-0)  MC Oran
+
+
+Matchday 14
+[Fri Jan/19]
+  16.00  JS Saoura                3-2 (0-0)  JS Kabylie
+  18.00  MC Alger                 1-0 (0-0)  US Biskra
+  16.45  CS Constantine           1-1 (0-0)  ES Ben Aknoun
+  15.45  ASO Chlef                0-0  CR Bélouizdad
+  15.30  MC El Bayadh             0-1 (0-0)  MC Oran
+         US Souf                  1-3 (1-1)  USM Alger
+         NC Magra                 1-1 (0-0)  USM Khenchela
+         Paradou AC               1-0 (0-0)  ES Sétif
+
+
+Matchday 8
+[Tue Jan/23]
+  15.30  ES Ben Aknoun            1-2 (0-0)  USM Alger
+  17.00  US Biskra                0-0  CR Bélouizdad
+
+
+Matchday 11
+[Tue Jan/23]
+  17.00  JS Kabylie               0-0  MC El Bayadh
+
+
+Matchday 15
+[Fri Jan/26]
+  16.45  ES Sétif                 2-1 (2-1)  CS Constantine
+  15.30  USM Khenchela            1-2 (1-0)  Paradou AC
+  17.00  MC Oran                  0-2 (0-0)  MC Alger
+[Sat Jan/27]
+  16.00  US Biskra                2-0 (1-0)  ASO Chlef
+  18.00  CR Bélouizdad            3-1 (1-1)  JS Saoura
+  15.30  ES Ben Aknoun            1-1 (1-0)  MC El Bayadh
+  16.00  JS Kabylie               3-2 (3-1)  US Souf
+[Sun Jan/28]
+  18.00  USM Alger                3-1 (1-0)  NC Magra
+
+
+Matchday 9
+[Tue Jan/30]
+  18.00  CR Bélouizdad            2-0 (1-0)  MC Oran
+[Wed Jan/31]
+  19.00  USM Alger                1-2 (0-0)  CS Constantine
+
+
+Matchday 12
+[Sun Feb/4]
+  15.30  MC El Bayadh             2-1 (2-0)  CR Bélouizdad
+
+
+Matchday 16
+[Fri Feb/9]
+  15.45  MC Oran                  1-1 (1-0)  ASO Chlef
+  16.45  ES Sétif                 2-1 (1-0)  USM Khenchela
+[Sat Feb/10]
+  16.00  JS Kabylie               1-0 (0-0)  NC Magra
+         US Biskra                2-1 (0-1)  JS Saoura
+  18.00  CR Bélouizdad            2-0 (1-0)  US Souf
+  16.00  CS Constantine           2-1 (0-1)  MC El Bayadh
+[Sun Feb/11]
+  18.00  USM Alger                1-5 (0-2)  Paradou AC
+
+
+Matchday 17
+[Thu Feb/15]
+  15.30  MC El Bayadh             3-0 (2-0)  ES Sétif
+[Fri Feb/16]
+  16.45  ASO Chlef                2-1 (1-1)  ES Ben Aknoun
+  15.30  Paradou AC               0-0  JS Kabylie
+         USM Khenchela            1-0 (1-0)  USM Alger
+[Sat Feb/17]
+  18.00  MC Alger                 2-0 (1-0)  CS Constantine
+  15.30  US Souf                  2-0 (1-0)  US Biskra
+  16.45  JS Saoura                1-1 (0-0)  MC Oran
+
+
+Matchday 18
+[Fri Feb/23]
+  16.00  US Biskra                0-1 (0-1)  NC Magra
+         ES Ben Aknoun            2-0 (1-0)  JS Saoura
+[Sat Feb/24]
+  16.45  CS Constantine           3-1 (1-1)  ASO Chlef
+  16.00  JS Kabylie               0-0  USM Khenchela
+  16.45  MC Oran                  2-1 (0-1)  US Souf
+  16.00  MC El Bayadh             0-0  MC Alger
+
+
+Matchday 19
+[Fri Mar/1]
+  16.00  NC Magra                 1-1 (1-0)  MC Oran
+[Sat Mar/2]
+  17.00  JS Saoura                2-2 (1-1)  CS Constantine
+  16.45  ASO Chlef                2-1 (1-0)  MC El Bayadh
+  18.00  ES Sétif                 1-0 (1-0)  MC Alger
+  17.00  Paradou AC               0-0  US Biskra
+  16.00  US Souf                  0-3 (0-0)  ES Ben Aknoun
+
+
+Matchday 20
+[Thu Mar/14]
+  22.00  MC Alger                 6-3 (1-3)  ASO Chlef
+[Fri Mar/15]
+  22.00  JS Kabylie               0-1 (0-1)  ES Sétif
+         CS Constantine           3-0 (2-0)  US Souf
+         MC Oran                  2-0 (1-0)  Paradou AC
+  15.30  ES Ben Aknoun            3-1 (1-1)  NC Magra
+  22.00  CR Bélouizdad            0-1 (0-1)  USM Alger
+[Sat Mar/16]
+  22.00  US Biskra                2-1 (1-1)  USM Khenchela
+  15.30  MC El Bayadh             0-1 (0-0)  JS Saoura
+
+
+Matchday 17
+[Tue Mar/19]
+  15.30  NC Magra                 0-0  CR Bélouizdad
+
+
+Matchday 18
+[Tue Mar/19]
+  22.00  USM Alger                2-0 (1-0)  ES Sétif
+
+
+Matchday 16
+[Wed Mar/20]
+  15.30  ES Ben Aknoun            2-3 (0-1)  MC Alger
+
+
+Matchday 21
+[Sat Mar/23]
+  15.30  US Souf                  4-5 (0-5)  MC El Bayadh
+         USM Khenchela            0-0  MC Oran
+[Sun Mar/24]
+  22.00  ES Sétif                 0-0  ASO Chlef
+         JS Kabylie               0-1 (0-0)  CR Bélouizdad
+  15.30  NC Magra                 2-3 (1-3)  CS Constantine
+  22.00  USM Alger                1-0 (0-0)  US Biskra
+[Mon Mar/25]
+  15.30  Paradou AC               0-0  ES Ben Aknoun
+         JS Saoura                0-1 (0-1)  MC Alger
+
+
+Matchday 22
+[Thu Apr/4]
+  22.00  CR Bélouizdad            2-1 (0-0)  ES Sétif
+[Fri Apr/5]
+  22.00  US Biskra                1-0 (0-0)  JS Kabylie
+         ASO Chlef                1-2 (0-2)  JS Saoura
+         MC Alger                 3-0 (1-0)  US Souf
+  15.45  MC El Bayadh             0-2 (0-0)  NC Magra
+[Sat Apr/6]
+  22.00  CS Constantine           2-1 (2-1)  Paradou AC
+  15.45  ES Ben Aknoun            3-2 (1-1)  USM Khenchela
+
+
+Matchday 18
+[Tue Apr/16]
+  18.00  CR Bélouizdad            1-1 (0-0)  Paradou AC
+
+
+Matchday 23
+[Tue Apr/16]
+  18.00  JS Kabylie               3-1 (2-0)  MC Oran
+[Fri Apr/19]
+  16.00  US Souf                  0-2 (0-1)  ASO Chlef
+  18.00  CR Bélouizdad            4-0 (1-0)  US Biskra
+  16.00  ES Sétif                 2-1 (1-1)  JS Saoura
+         USM Khenchela            1-2 (1-1)  CS Constantine
+         NC Magra                 0-0  MC Alger
+[Sat Apr/20]
+  16.00  Paradou AC               1-0 (1-0)  MC El Bayadh
+
+
+Matchday 24
+[Fri Apr/26]
+  16.00  MC El Bayadh             1-0 (1-0)  USM Khenchela
+         US Biskra                2-2 (1-2)  ES Sétif
+         JS Saoura                6-0 (3-0)  US Souf
+[Sat Apr/27]
+  16.00  ASO Chlef                2-2 (2-1)  NC Magra
+         ES Ben Aknoun            2-3 (1-1)  JS Kabylie
+  20.00  MC Alger                 1-0 (0-0)  Paradou AC
+[Sun Apr/28]
+  19.00  MC Oran                  1-0 (0-0)  CR Bélouizdad
+
+
+Matchday 19
+[Sat May/4]
+  16.00  USM Khenchela            2-1 (0-0)  CR Bélouizdad
+[Mon May/6]
+  19.00  USM Alger                2-2 (2-1)  JS Kabylie
+
+
+Matchday 25
+[Fri May/10]
+  17.00  USM Alger                2-1 (2-1)  MC El Bayadh
+  18.00  ES Sétif                 3-0 (3-0)  US Souf
+[Sat May/11]
+  17.00  JS Kabylie               0-0  CS Constantine
+         Paradou AC               2-3 (0-3)  ASO Chlef
+         NC Magra                 1-0 (0-0)  JS Saoura
+         USM Khenchela            1-1 (1-1)  MC Alger
+         CR Bélouizdad            1-0 (0-0)  ES Ben Aknoun
+         US Biskra                0-0  MC Oran
+
+
+Matchday 26
+[Fri May/17]
+  17.00  JS Saoura                2-1 (1-0)  Paradou AC
+         ES Ben Aknoun            2-1 (2-0)  US Biskra
+  18.00  MC Alger                 1-0 (1-0)  USM Alger
+  17.00  ASO Chlef                4-1 (2-1)  USM Khenchela
+         CS Constantine           1-1 (1-0)  CR Bélouizdad
+         US Souf                  0-2 (0-0)  NC Magra
+         MC Oran                  4-1 (1-1)  ES Sétif
+         MC El Bayadh             1-1 (0-0)  JS Kabylie
+
+
+Matchday 22
+[Tue May/21]
+  19.00  MC Oran                  1-0 (1-0)  USM Alger
+
+
+Matchday 27
+[Sat May/25]
+  17.00  USM Alger                2-1 (0-1)  ASO Chlef
+[Sun May/26]
+  16.45  MC Oran                  1-0 (1-0)  ES Ben Aknoun
+         US Biskra                0-1 (0-1)  CS Constantine
+         USM Khenchela            1-0 (0-0)  JS Saoura
+         Paradou AC               6-0 (3-0)  US Souf
+         ES Sétif                 0-0  NC Magra
+         JS Kabylie               1-1 (1-0)  MC Alger
+         CR Bélouizdad            1-0 (0-0)  MC El Bayadh
+
+
+Matchday 23
+[Thu May/30]
+  17.00  USM Alger                0-2 (0-1)  ES Ben Aknoun
+
+
+Matchday 24
+[Mon Jun/3]
+  18.00  CS Constantine           1-1 (0-0)  USM Alger
+
+
+Matchday 28
+[Fri Jun/7]
+  16.45  US Souf                  2-5 (0-3)  USM Khenchela
+         NC Magra                 2-0 (2-0)  Paradou AC
+         ES Ben Aknoun            1-0 (0-0)  ES Sétif
+         JS Saoura                2-1 (1-1)  USM Alger
+         ASO Chlef                1-1 (1-0)  JS Kabylie
+         MC Alger                 0-0  CR Bélouizdad
+         MC El Bayadh             2-1 (1-0)  US Biskra
+         CS Constantine           1-1 (1-1)  MC Oran
+
+
+Matchday 29
+[Tue Jun/11]
+  16.45  USM Khenchela            2-2 (1-0)  NC Magra
+         ES Sétif                 2-1 (0-1)  Paradou AC
+         USM Alger                3-0 (2-0)  US Souf
+         JS Kabylie               1-1 (1-0)  JS Saoura
+         CR Bélouizdad            0-1 (0-0)  ASO Chlef
+         US Biskra                1-0 (1-0)  MC Alger
+         MC Oran                  2-0 (1-0)  MC El Bayadh
+         ES Ben Aknoun            0-1 (0-0)  CS Constantine
+
+
+Matchday 30
+[Fri Jun/14]
+  16.45  NC Magra                 2-3 (1-0)  USM Alger
+         US Souf                  0-4 (0-1)  JS Kabylie
+         JS Saoura                1-2 (1-1)  CR Bélouizdad
+         ASO Chlef                2-1 (1-0)  US Biskra
+         MC El Bayadh             1-0 (1-0)  ES Ben Aknoun
+         CS Constantine           1-2 (0-0)  ES Sétif
+  18.00  MC Alger                 3-2 (1-1)  MC Oran
+  16.45  Paradou AC               2-0 (2-0)  USM Khenchela

@@ -1,0 +1,38 @@
+= African Football League 2023
+
+# Date       Fri Oct/20 - Sun Nov/12 2023 (23d)
+# Teams      8
+# Matches    14
+
+
+
+Quarterfinals
+[Fri Oct/20]
+  18.00  Simba SC (TAN)           2-2  Al Ahly SC (EGY)
+[Sat Oct/21]
+  18.30  Petro Atlético (ANG)     0-2  Mamelodi Sundowns (RSA)
+[Sun Oct/22]
+  21.00  Enyimba Aba (NGA)        0-1  Wydad AC (MAR)
+  18.00  TP Mazembe (COD)         1-0  Espérance de Tunis (TUN)
+[Tue Oct/24]
+  20.00  Mamelodi Sundowns (RSA)  0-0  Petro Atlético (ANG)
+  17.00  Al Ahly SC (EGY)         1-1  Simba SC (TAN)
+[Thu Oct/26]
+  18.00  Espérance de Tunis (TUN)  3-0  TP Mazembe (COD)
+  21.00  Wydad AC (MAR)           3-0  Enyimba Aba (NGA)
+
+
+Semifinals
+[Sun Oct/29]
+  20.00  Wydad AC (MAR)           1-0  Espérance de Tunis (TUN)
+  15.00  Mamelodi Sundowns (RSA)  1-0  Al Ahly SC (EGY)
+[Wed Nov/1]
+  20.00  Al Ahly SC (EGY)         0-0  Mamelodi Sundowns (RSA)
+  17.00  Espérance de Tunis (TUN)  -  Wydad AC (MAR)
+
+
+Final
+[Sun Nov/5]
+  20.00  Wydad AC (MAR)           2-1  Mamelodi Sundowns (RSA)
+[Sun Nov/12]
+  15.00  Mamelodi Sundowns (RSA)  2-0  Wydad AC (MAR)
