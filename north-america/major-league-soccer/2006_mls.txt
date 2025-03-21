@@ -1,282 +1,305 @@
 = Major League Soccer 2006
 
-# Qualifying
+# Date       Sat Apr/1 - Sun Nov/12 2006 (225d)
+# Teams      12
+# Matches    203
+# Stages     Regular Season (192)  Playoffs (11)
 
 
-Week 1
 
-Sat Apr/1 18:00 FC Dallas           3-2 Chicago Fire
-Sat Apr/1 22:30 Kansas City Wizards           3-1 Columbus Crew
+» Matchday 1
+  Sat Apr/1 2006
+    16.00  FC Dallas               v Chicago Fire             3-2 (1-1)
+    19.30  Kansas City Wizards     v Columbus Crew            3-1 (2-1)
+    23.00  Los Angeles Galaxy      v New England Revolution   0-1 (0-1)
+  Sun Apr/2
+    17.00  D.C. United             v New York RB              2-2 (0-2)
+    19.00  CD Chivas               v Real Salt Lake           3-0 (2-0)
+    19.30  Houston Dynamo          v Colorado Rapids          5-2 (3-1)
+  Sat Apr/8
+    16.00  D.C. United             v CD Chivas                2-0 (0-0)
+    19.30  New York RB             v New England Revolution   0-0
+    20.30  Houston Dynamo          v Kansas City Wizards      1-2 (0-0)
+           FC Dallas               v Real Salt Lake           2-1 (1-1)
+    21.00  Colorado Rapids         v Columbus Crew            3-1 (1-1)
+    22.30  Los Angeles Galaxy      v Chicago Fire             1-1 (0-0)
+  Sat Apr/15
+    16.00  Columbus Crew           v Chicago Fire             1-1 (0-0)
+    19.30  D.C. United             v Houston Dynamo           2-0 (1-0)
+    20.30  Kansas City Wizards     v New England Revolution   1-0 (1-0)
+    21.00  Colorado Rapids         v FC Dallas                2-2 (1-2)
+           Real Salt Lake          v New York RB              1-1 (0-0)
+    23.00  CD Chivas               v Los Angeles Galaxy       1-2 (0-0)
+  Sat Apr/22
+    16.00  New York RB             v D.C. United              1-4 (0-1)
+    20.30  Houston Dynamo          v Real Salt Lake           2-1 (0-0)
+    22.30  Los Angeles Galaxy      v Columbus Crew            0-1 (0-0)
+  Sun Apr/23
+    17.00  FC Dallas               v Kansas City Wizards      2-1 (1-0)
+  Sat Apr/29
+    16.00  Real Salt Lake          v Los Angeles Galaxy       2-3 (1-2)
+    19.30  D.C. United             v FC Dallas                1-1 (1-1)
+           Columbus Crew           v Kansas City Wizards      0-1 (0-0)
+    21.00  Colorado Rapids         v Houston Dynamo           0-1 (0-1)
+    22.00  CD Chivas               v New York RB              0-0
+  Sun Apr/30
+    15.00  New England Revolution  v Chicago Fire             1-2 (0-0)
 
-Week 2
 
-Sun Apr/2 01:00 Los Angeles Galaxy           0-1 N.E. Revolution
-Sun Apr/2 19:00 Washington D.C. United           2-2 New York Metrostars
-Sun Apr/2 21:00 CD Chivas USA           3-0 Real Salt Lake
-Sun Apr/2 21:30 Houston Dynamo           5-2 Colorado Rapids
-Sat Apr/8 18:10 Washington D.C. United           2-0 CD Chivas USA
-Sat Apr/8 21:30 New York Metrostars           0-0 N.E. Revolution
-Sat Apr/8 22:30 FC Dallas           2-1 Real Salt Lake
-Sat Apr/8 22:30 Houston Dynamo           1-2 Kansas City Wizards
-Sat Apr/8 23:00 Colorado Rapids           3-1 Columbus Crew
+» Matchday 2
+  Sat May/6
+    16.00  New England Revolution  v Los Angeles Galaxy       4-0 (3-0)
+    20.30  Kansas City Wizards     v Chicago Fire             1-1 (0-1)
+           Houston Dynamo          v FC Dallas                4-3 (3-0)
+    21.00  Real Salt Lake          v Columbus Crew            0-1 (0-0)
+           Colorado Rapids         v D.C. United              2-1 (0-0)
+  Wed May/10
+    20.30  FC Dallas               v Los Angeles Galaxy       1-0 (1-0)
+  Sat May/13
+    16.00  FC Dallas               v Houston Dynamo           1-1 (1-0)
+    19.00  New England Revolution  v CD Chivas                3-1 (1-1)
+    19.30  New York RB             v Chicago Fire             1-1 (1-0)
+           Columbus Crew           v Colorado Rapids          1-0 (0-0)
+           D.C. United             v Kansas City Wizards      2-1 (2-1)
+    22.30  Los Angeles Galaxy      v Real Salt Lake           0-3 (0-1)
+  Sat May/20
+    16.00  Houston Dynamo          v Chicago Fire             0-1 (0-0)
+    19.30  New York RB             v CD Chivas                5-4 (2-0)
+           Columbus Crew           v D.C. United              1-1 (1-1)
+    20.30  FC Dallas               v New England Revolution   4-0 (4-0)
+    21.00  Real Salt Lake          v Kansas City Wizards      2-1 (0-1)
+    22.30  Los Angeles Galaxy      v Colorado Rapids          0-1 (0-1)
+  Wed May/24
+    18.30  New York RB             v FC Dallas                1-2 (1-0)
+  Sat May/27
+    16.00  Real Salt Lake          v Colorado Rapids          2-2 (0-1)
+    19.30  New England Revolution  v Houston Dynamo           1-1 (0-0)
+    20.30  Kansas City Wizards     v D.C. United              1-3 (1-3)
+    22.00  CD Chivas               v Chicago Fire             1-0 (1-0)
 
-Week 3
 
-Sun Apr/9 00:30 Los Angeles Galaxy           1-1 Chicago Fire
-Sat Apr/15 18:00 Columbus Crew           1-1 Chicago Fire
-Sat Apr/15 21:35 Washington D.C. United           2-0 Houston Dynamo
-Sat Apr/15 22:30 Kansas City Wizards           1-0 N.E. Revolution
-Sat Apr/15 23:00 Colorado Rapids           2-2 FC Dallas
-Sat Apr/15 23:01 Real Salt Lake           1-1 New York Metrostars
+» Matchday 3
+  Wed May/31
+    19.30  D.C. United             v Columbus Crew            5-1 (1-1)
+    21.30  Colorado Rapids         v Los Angeles Galaxy       1-0 (1-0)
+  Sat Jun/3
+    19.30  D.C. United             v New England Revolution   1-0 (1-0)
+    20.30  FC Dallas               v Columbus Crew            1-2 (0-0)
+           Houston Dynamo          v Los Angeles Galaxy       2-1 (1-1)
+           Kansas City Wizards     v New York RB              1-1 (0-1)
+    21.00  Real Salt Lake          v Chicago Fire             3-1 (0-0)
+    22.00  CD Chivas               v Colorado Rapids          4-1 (2-1)
+  Thu Jun/8
+    22.00  Los Angeles Galaxy      v CD Chivas                1-2 (1-2)
+  Fri Jun/9
+    21.30  Colorado Rapids         v Real Salt Lake           1-0 (1-0)
+  Sat Jun/10
+    19.30  New York RB             v Houston Dynamo           1-1 (1-1)
+           Columbus Crew           v Kansas City Wizards      0-1 (0-0)
+  Sun Jun/11
+    18.00  FC Dallas               v CD Chivas                2-1 (1-0)
+    19.00  Chicago Fire            v New England Revolution   3-3 (1-0)
+    20.00  Los Angeles Galaxy      v D.C. United              1-1 (0-1)
+  Sat Jun/17
+    18.00  New England Revolution  v D.C. United              1-1 (0-1)
+    19.30  New York RB             v Los Angeles Galaxy       2-1 (2-1)
+    20.30  Kansas City Wizards     v Chicago Fire             3-2 (2-2)
+           Houston Dynamo          v Real Salt Lake           2-1 (1-0)
+  Sun Jun/18
+    22.00  CD Chivas               v Columbus Crew            2-0 (1-0)
+  Wed Jun/21
+    19.30  D.C. United             v Chicago Fire             1-0 (1-0)
+           Columbus Crew           v New England Revolution   1-1 (0-0)
+    21.30  Colorado Rapids         v CD Chivas                1-1 (0-1)
+  Sat Jun/24
+    19.30  Columbus Crew           v CD Chivas                1-1 (1-0)
+           D.C. United             v Kansas City Wizards      1-0 (0-0)
+    20.30  FC Dallas               v Colorado Rapids          1-0 (1-0)
+    21.00  Real Salt Lake          v New England Revolution   0-0
+    22.30  Los Angeles Galaxy      v Houston Dynamo           0-0
+  Sun Jun/25
+    19.00  Chicago Fire            v New York RB              2-0 (1-0)
+  Wed Jun/28
+    19.30  New England Revolution  v FC Dallas                1-0 (1-0)
+           New York RB             v Columbus Crew            0-0
+    20.30  Kansas City Wizards     v D.C. United              2-3 (1-2)
+    21.00  Chicago Fire            v Real Salt Lake           2-1 (0-1)
+    22.30  CD Chivas               v Houston Dynamo           1-1 (0-0)
 
-Week 4
 
-Sun Apr/16 01:10 CD Chivas USA           1-2 Los Angeles Galaxy
-Sat Apr/22 18:00 New York Metrostars           1-4 Washington D.C. United
-Sat Apr/22 22:30 Houston Dynamo           2-1 Real Salt Lake
+» Matchday 4
+  Sat Jul/1
+    18.00  New England Revolution  v New York RB              3-2 (2-1)
+    20.30  Kansas City Wizards     v Los Angeles Galaxy       0-2 (0-1)
+    22.00  CD Chivas               v FC Dallas                3-0 (3-0)
+  Tue Jul/4
+    18.00  FC Dallas               v D.C. United              0-1 (0-1)
+    20.00  Chicago Fire            v Kansas City Wizards      1-0 (0-0)
+    20.30  Houston Dynamo          v Columbus Crew            1-1 (1-0)
+    21.30  Colorado Rapids         v New England Revolution   3-2 (2-1)
+    22.00  Real Salt Lake          v CD Chivas                0-0
+    22.30  Los Angeles Galaxy      v New York RB              1-0 (0-0)
+  Sat Jul/8
+    17.00  Houston Dynamo          v CD Chivas                3-1 (1-1)
+    19.30  Columbus Crew           v D.C. United              0-1 (0-1)
+    20.30  FC Dallas               v New York RB              2-1 (2-0)
+           Chicago Fire            v New England Revolution   1-2 (0-2)
+    21.00  Colorado Rapids         v Kansas City Wizards      1-0 (0-0)
+    22.30  Los Angeles Galaxy      v Real Salt Lake           2-0 (0-0)
+  Fri Jul/14
+    14.00  New York RB             v Colorado Rapids          1-0 (1-0)
+    19.30  New England Revolution  v Real Salt Lake           1-3 (0-1)
+  Sat Jul/15
+    16.00  Chicago Fire            v FC Dallas                2-3 (0-1)
+    19.30  D.C. United             v Columbus Crew            3-2 (1-1)
+    20.30  Kansas City Wizards     v Houston Dynamo           2-3 (1-1)
+    22.00  CD Chivas               v Los Angeles Galaxy       0-0
+  Wed Jul/19
+    19.30  Columbus Crew           v New York RB              0-2 (0-0)
+  Thu Jul/20
+    20.00  Colorado Rapids         v CD Chivas                3-3 (1-1)
+  Sat Jul/22
+    16.00  Columbus Crew           v Los Angeles Galaxy       1-1 (1-1)
+    19.30  New York RB             v Kansas City Wizards      1-0 (1-0)
+    20.30  Chicago Fire            v D.C. United              1-1 (1-0)
+           Houston Dynamo          v New England Revolution   1-1 (0-0)
+    22.00  Real Salt Lake          v FC Dallas                0-1 (0-0)
+  Wed Jul/26
+    21.00  Real Salt Lake          v CD Chivas                3-3 (1-1)
+    21.30  Colorado Rapids         v Houston Dynamo           1-0 (1-0)
+  Sat Jul/29
+    19.00  FC Dallas               v Colorado Rapids          4-1 (1-1)
+    20.30  Kansas City Wizards     v New England Revolution   1-1 (1-0)
+           Chicago Fire            v Columbus Crew            0-0
+           Houston Dynamo          v New York RB              1-1 (0-0)
+    21.00  Real Salt Lake          v D.C. United              2-1 (0-1)
 
-Week 5
 
-Sun Apr/23 00:30 Los Angeles Galaxy           0-1 Columbus Crew
-Sun Apr/23 19:00 FC Dallas           2-1 Kansas City Wizards
-Sat Apr/29 18:00 Real Salt Lake           2-3 Los Angeles Galaxy
-Sat Apr/29 21:30 Columbus Crew           0-1 Kansas City Wizards
-Sat Apr/29 21:30 Washington D.C. United           1-1 FC Dallas
-Sat Apr/29 23:00 Colorado Rapids           0-1 Houston Dynamo
+» Matchday 5
+  Sun Aug/6
+    19.00  CD Chivas               v New England Revolution   1-1 (1-1)
+  Wed Aug/9
+    19.30  New England Revolution  v Kansas City Wizards      0-0
+    20.00  Houston Dynamo          v Los Angeles Galaxy       0-1 (0-0)
+    21.30  Colorado Rapids         v Real Salt Lake           1-4 (0-1)
+  Sat Aug/12
+    20.30  Chicago Fire            v CD Chivas                1-2 (0-0)
+           Kansas City Wizards     v Columbus Crew            4-0 (2-0)
+           Houston Dynamo          v FC Dallas                1-0 (1-0)
+    21.00  Colorado Rapids         v Los Angeles Galaxy       1-0 (1-0)
+  Wed Aug/16
+    19.30  Columbus Crew           v Real Salt Lake           1-2 (1-0)
+           New York RB             v D.C. United              0-0
+    21.00  Chicago Fire            v Kansas City Wizards      3-0 (1-0)
+  Sat Aug/19
+    16.00  D.C. United             v Colorado Rapids          1-1 (0-1)
+    19.30  Columbus Crew           v New York RB              1-0 (0-0)
+    21.00  Real Salt Lake          v Houston Dynamo           3-1 (1-0)
+    22.00  CD Chivas               v Kansas City Wizards      1-1 (0-1)
+  Sun Aug/20
+    15.00  New England Revolution  v Chicago Fire             0-1 (0-1)
+    20.00  Los Angeles Galaxy      v FC Dallas                2-0 (2-0)
+  Sat Aug/26
+    19.30  D.C. United             v Los Angeles Galaxy       2-5 (1-1)
+           New York RB             v Real Salt Lake           6-0 (0-0)
+    20.30  Chicago Fire            v Colorado Rapids          1-0 (1-0)
+    23.00  CD Chivas               v Houston Dynamo           3-2 (2-1)
+  Sun Aug/27
+    19.00  New England Revolution  v Columbus Crew            1-0 (1-0)
+    20.30  Kansas City Wizards     v FC Dallas                1-0 (0-0)
+  Wed Aug/30
+    20.30  Kansas City Wizards     v New York RB              2-2 (1-1)
+    21.00  Chicago Fire            v Houston Dynamo           2-2 (1-1)
+           Real Salt Lake          v Los Angeles Galaxy       1-0 (0-0)
+    21.30  Colorado Rapids         v FC Dallas                0-2 (0-1)
 
-Week 6
 
-Sun Apr/30 00:10 CD Chivas USA           0-0 New York Metrostars
-Sun Apr/30 17:00 N.E. Revolution           1-2 Chicago Fire
-Sat May/6 18:00 N.E. Revolution           4-0 Los Angeles Galaxy
-Sat May/6 22:30 Houston Dynamo           4-3 FC Dallas
-Sat May/6 22:30 Kansas City Wizards           1-1 Chicago Fire
-Sat May/6 23:00 Real Salt Lake           0-1 Columbus Crew
-Sat May/6 23:00 Colorado Rapids           2-1 Washington D.C. United
+» Matchday 6
+  Sat Sep/2
+    19.30  Columbus Crew           v New England Revolution   3-0 (2-0)
+    20.30  FC Dallas               v Houston Dynamo           1-0 (0-0)
+    21.00  Real Salt Lake          v Colorado Rapids          0-1 (0-0)
+    22.30  Los Angeles Galaxy      v Kansas City Wizards      2-1 (0-0)
+  Sun Sep/3
+    19.00  CD Chivas               v D.C. United              1-2 (1-2)
+           Chicago Fire            v New York RB              2-1 (1-0)
+  Sat Sep/9
+    18.00  Columbus Crew           v Chicago Fire             1-2 (0-2)
+    19.30  New England Revolution  v New York RB              1-0 (1-0)
+           D.C. United             v Real Salt Lake           1-1 (1-0)
+    20.30  Kansas City Wizards     v Colorado Rapids          4-1 (1-1)
+    22.00  CD Chivas               v FC Dallas                1-1 (0-0)
+  Sun Sep/10
+    20.00  Los Angeles Galaxy      v Houston Dynamo           1-2 (1-1)
+  Wed Sep/13
+    19.30  New England Revolution  v D.C. United              1-1 (0-1)
+    20.30  FC Dallas               v CD Chivas                0-1 (0-1)
+    21.30  Colorado Rapids         v Chicago Fire             1-0 (1-0)
+  Sat Sep/16
+    19.30  New York RB             v Columbus Crew            1-0 (0-0)
+    21.00  Real Salt Lake          v FC Dallas                3-2 (1-2)
+    22.30  Los Angeles Galaxy      v Colorado Rapids          0-0
+  Sun Sep/17
+    16.00  Chicago Fire            v D.C. United              1-0 (0-0)
+    20.30  Houston Dynamo          v CD Chivas                0-0
+  Wed Sep/20
+    19.30  New York RB             v New England Revolution   0-2 (0-1)
+  Sat Sep/23
+    19.30  New England Revolution  v Kansas City Wizards      1-1 (1-0)
+           Columbus Crew           v Houston Dynamo           1-1 (0-0)
+           D.C. United             v New York RB              4-3 (1-1)
+    20.30  Chicago Fire            v Los Angeles Galaxy       2-1 (1-0)
+           FC Dallas               v Real Salt Lake           2-1 (2-0)
+    22.00  CD Chivas               v Colorado Rapids          1-0 (1-0)
+  Sat Sep/30
+    19.30  New England Revolution  v Colorado Rapids          3-1 (1-0)
 
-Week 7
 
-Wed May/10 22:30 FC Dallas           1-0 Los Angeles Galaxy
-Sat May/13 18:00 FC Dallas           1-1 Houston Dynamo
-Sat May/13 21:00 N.E. Revolution           3-1 CD Chivas USA
-Sat May/13 21:30 Columbus Crew           1-0 Colorado Rapids
-Sat May/13 21:30 New York Metrostars           1-1 Chicago Fire
-Sat May/13 21:30 Washington D.C. United           2-1 Kansas City Wizards
+» Matchday 7
+  Sat Sep/30
+    19.30  New York RB             v Chicago Fire             1-0 (0-0)
+           Columbus Crew           v FC Dallas                3-1 (1-0)
+    20.30  Houston Dynamo          v D.C. United              1-0 (0-0)
+           Kansas City Wizards     v Real Salt Lake           3-3 (1-2)
+    22.30  Los Angeles Galaxy      v CD Chivas                3-0 (1-0)
+  Sat Oct/7
+    19.30  D.C. United             v New England Revolution   1-2 (1-1)
+    20.30  Kansas City Wizards     v CD Chivas                2-1 (0-0)
+           Chicago Fire            v Columbus Crew            1-4 (1-2)
+           FC Dallas               v Los Angeles Galaxy       2-1 (1-0)
+    21.00  Real Salt Lake          v Houston Dynamo           1-1 (0-1)
+           Colorado Rapids         v New York RB              1-1 (1-0)
+  Sat Oct/14
+    19.30  New England Revolution  v Columbus Crew            1-0 (0-0)
+           New York RB             v Kansas City Wizards      3-2 (1-1)
+    20.30  Houston Dynamo          v Colorado Rapids          3-3 (2-1)
+    22.30  Los Angeles Galaxy      v FC Dallas                5-2 (3-1)
+  Sun Oct/15
+    17.00  D.C. United             v Chicago Fire             2-3 (1-2)
+    19.00  CD Chivas               v Real Salt Lake           1-1 (1-0)
 
-Week 8
 
-Sun May/14 00:30 Los Angeles Galaxy           0-3 Real Salt Lake
-Sat May/20 18:00 Houston Dynamo           0-1 Chicago Fire
-Sat May/20 21:30 Columbus Crew           1-1 Washington D.C. United
-Sat May/20 21:30 New York Metrostars           5-4 CD Chivas USA
-Sat May/20 22:30 FC Dallas           4-0 N.E. Revolution
-Sat May/20 23:00 Real Salt Lake           2-1 Kansas City Wizards
+» Playoffs, Quarterfinals
+  Sat Oct/21
+    14.00  New York RB             v D.C. United              0-1 (0-0)
+    21.00  Colorado Rapids         v FC Dallas                1-2 (1-1)
+  Sun Oct/22
+    13.00  Chicago Fire            v New England Revolution   1-0 (1-0)
+    16.00  CD Chivas               v Houston Dynamo           2-1 (1-0)
+  Sat Oct/28
+    19.30  New England Revolution  v Chicago Fire             4-2 pen. 2-1 a.e.t. (2-1, 1-1)
+    20.30  FC Dallas               v Colorado Rapids          4-5 pen. 2-3 a.e.t. (1-2, 0-0)
+  Sun Oct/29
+    18.00  D.C. United             v New York RB              1-1 (0-0)
+    20.00  Houston Dynamo          v CD Chivas                2-0 (0-0)
 
-Week 9
 
-Sun May/21 00:30 Los Angeles Galaxy           0-1 Colorado Rapids
-Wed May/24 20:30 New York Metrostars           1-2 FC Dallas
-Sat May/27 18:00 Real Salt Lake           2-2 Colorado Rapids
-Sat May/27 21:30 N.E. Revolution           1-1 Houston Dynamo
-Sat May/27 22:30 Kansas City Wizards           1-3 Washington D.C. United
+» Playoffs, Semifinals
+  Sun Nov/5
+    16.00  D.C. United             v New England Revolution   0-1 (0-1)
+    19.00  Houston Dynamo          v Colorado Rapids          3-1 (2-1)
 
-Week 10
 
-Sun May/28 01:00 CD Chivas USA           1-0 Chicago Fire
-
-Week 11
-
-Thu Jun/29 00:30 CD Chivas USA           1-1 Houston Dynamo
-Wed May/31 21:30 Washington D.C. United           5-1 Columbus Crew
-Wed May/31 23:30 Colorado Rapids           1-0 Los Angeles Galaxy
-Sat Jun/3 21:30 Washington D.C. United           1-0 N.E. Revolution
-Sat Jun/3 22:30 FC Dallas           1-2 Columbus Crew
-Sat Jun/3 22:30 Houston Dynamo           2-1 Los Angeles Galaxy
-Sat Jun/3 22:30 Kansas City Wizards           1-1 New York Metrostars
-Sat Jun/3 23:00 Real Salt Lake           3-1 Chicago Fire
-Sun Jun/4 00:00 CD Chivas USA           4-1 Colorado Rapids
-Fri Jun/9 00:00 Los Angeles Galaxy           1-2 CD Chivas USA
-Fri Jun/9 23:30 Colorado Rapids           1-0 Real Salt Lake
-Sat Jun/10 21:30 Columbus Crew           0-1 Kansas City Wizards
-Sat Jun/10 21:30 New York Metrostars           1-1 Houston Dynamo
-Sun Jun/11 20:00 FC Dallas           2-1 CD Chivas USA
-Sun Jun/11 21:00 Chicago Fire           3-3 N.E. Revolution
-Sun Jun/11 22:00 Los Angeles Galaxy           1-1 Washington D.C. United
-Sat Jun/17 20:00 N.E. Revolution           1-1 Washington D.C. United
-Sat Jun/17 21:30 New York Metrostars           2-1 Los Angeles Galaxy
-Sat Jun/17 22:30 Houston Dynamo           2-1 Real Salt Lake
-Sat Jun/17 22:30 Kansas City Wizards           3-2 Chicago Fire
-Mon Jun/19 00:00 CD Chivas USA           2-0 Columbus Crew
-Wed Jun/21 21:30 Columbus Crew           1-1 N.E. Revolution
-Wed Jun/21 21:30 Washington D.C. United           1-0 Chicago Fire
-Wed Jun/21 23:30 Colorado Rapids           1-1 CD Chivas USA
-Sat Jun/24 21:30 Columbus Crew           1-1 CD Chivas USA
-Sat Jun/24 21:30 Washington D.C. United           1-0 Kansas City Wizards
-Sat Jun/24 22:30 FC Dallas           1-0 Colorado Rapids
-Sat Jun/24 23:00 Real Salt Lake           0-0 N.E. Revolution
-Sun Jun/25 00:30 Los Angeles Galaxy           0-0 Houston Dynamo
-Sun Jun/25 21:00 Chicago Fire           2-0 New York Metrostars
-Wed Jun/28 21:30 N.E. Revolution           1-0 FC Dallas
-Wed Jun/28 21:30 New York Metrostars           0-0 Columbus Crew
-Wed Jun/28 22:30 Kansas City Wizards           2-3 Washington D.C. United
-Wed Jun/28 23:00 Chicago Fire           2-1 Real Salt Lake
-Sat Jul/1 20:00 N.E. Revolution           3-2 New York Metrostars
-Sat Jul/1 22:30 Kansas City Wizards           0-2 Los Angeles Galaxy
-
-Week 12
-
-Sun Jul/2 00:00 CD Chivas USA           3-0 FC Dallas
-Tue Jul/4 20:00 FC Dallas           0-1 Washington D.C. United
-Tue Jul/4 22:00 Chicago Fire           1-0 Kansas City Wizards
-Tue Jul/4 22:30 Houston Dynamo           1-1 Columbus Crew
-Tue Jul/4 23:30 Colorado Rapids           3-2 N.E. Revolution
-Wed Jul/5 00:00 Real Salt Lake           0-0 CD Chivas USA
-Wed Jul/5 00:00 Los Angeles Galaxy           1-0 New York Metrostars
-Sat Jul/8 19:45 Houston Dynamo           3-1 CD Chivas USA
-Sat Jul/8 21:30 Columbus Crew           0-1 Washington D.C. United
-Sat Jul/8 22:30 Chicago Fire           1-2 N.E. Revolution
-Sat Jul/8 22:30 FC Dallas           2-1 New York Metrostars
-Sat Jul/8 23:00 Colorado Rapids           1-0 Kansas City Wizards
-
-Week 13
-
-Sun Jul/9 00:30 Los Angeles Galaxy           2-0 Real Salt Lake
-Fri Jul/14 16:00 New York Metrostars           1-0 Colorado Rapids
-Fri Jul/14 21:30 N.E. Revolution           1-3 Real Salt Lake
-Sat Jul/15 18:00 Chicago Fire           2-3 FC Dallas
-Sat Jul/15 21:30 Washington D.C. United           3-2 Columbus Crew
-Sat Jul/15 22:30 Kansas City Wizards           2-3 Houston Dynamo
-
-Week 14
-
-Sun Jul/16 00:00 CD Chivas USA           0-0 Los Angeles Galaxy
-Wed Jul/19 21:30 Columbus Crew           0-2 New York Metrostars
-Thu Jul/20 22:00 Colorado Rapids           3-3 CD Chivas USA
-Sat Jul/22 18:00 Columbus Crew           1-1 Los Angeles Galaxy
-Sat Jul/22 21:30 New York Metrostars           1-0 Kansas City Wizards
-Sat Jul/22 22:30 Chicago Fire           1-1 Washington D.C. United
-Sat Jul/22 22:30 Houston Dynamo           1-1 N.E. Revolution
-
-Week 15
-
-Sun Jul/23 00:00 Real Salt Lake           0-1 FC Dallas
-Wed Jul/26 23:00 Real Salt Lake           3-3 CD Chivas USA
-Wed Jul/26 23:30 Colorado Rapids           1-0 Houston Dynamo
-Sat Jul/29 22:30 Kansas City Wizards           1-1 N.E. Revolution
-
-Week 16
-
-Wed Sep/13 21:30 N.E. Revolution           1-1 Washington D.C. United
-Sat Jul/29 21:00 FC Dallas           4-1 Colorado Rapids
-Sat Jul/29 22:30 Chicago Fire           0-0 Columbus Crew
-Sat Jul/29 22:30 Houston Dynamo           1-1 New York Metrostars
-Sat Jul/29 23:00 Real Salt Lake           2-1 Washington D.C. United
-Sun Aug/6 21:00 CD Chivas USA           1-1 N.E. Revolution
-Wed Aug/9 21:30 N.E. Revolution           0-0 Kansas City Wizards
-Wed Aug/9 22:00 Houston Dynamo           0-1 Los Angeles Galaxy
-Wed Aug/9 23:30 Colorado Rapids           1-4 Real Salt Lake
-Sat Aug/12 22:30 Chicago Fire           1-2 CD Chivas USA
-Sat Aug/12 22:30 Houston Dynamo           1-0 FC Dallas
-Sat Aug/12 22:30 Kansas City Wizards           4-0 Columbus Crew
-Sat Aug/12 23:00 Colorado Rapids           1-0 Los Angeles Galaxy
-Wed Aug/16 21:30 New York Metrostars           0-0 Washington D.C. United
-Wed Aug/16 21:30 Columbus Crew           1-2 Real Salt Lake
-Wed Aug/16 23:00 Chicago Fire           3-0 Kansas City Wizards
-Sat Aug/19 18:00 Washington D.C. United           1-1 Colorado Rapids
-Sat Aug/19 21:30 Columbus Crew           1-0 New York Metrostars
-Sat Aug/19 23:00 Real Salt Lake           3-1 Houston Dynamo
-Sun Aug/20 00:00 CD Chivas USA           1-1 Kansas City Wizards
-Sun Aug/20 17:00 N.E. Revolution           0-1 Chicago Fire
-Sun Aug/20 22:00 Los Angeles Galaxy           2-0 FC Dallas
-Sat Aug/26 21:30 New York Metrostars           6-0 Real Salt Lake
-Sat Aug/26 21:30 Washington D.C. United           2-5 Los Angeles Galaxy
-Sat Aug/26 22:30 Chicago Fire           1-0 Colorado Rapids
-Sun Aug/27 01:00 CD Chivas USA           3-2 Houston Dynamo
-Sun Aug/27 21:00 N.E. Revolution           1-0 Columbus Crew
-Sun Aug/27 22:30 Kansas City Wizards           1-0 FC Dallas
-Wed Aug/30 22:30 Kansas City Wizards           2-2 New York Metrostars
-Wed Aug/30 23:00 Chicago Fire           2-2 Houston Dynamo
-Wed Aug/30 23:00 Real Salt Lake           1-0 Los Angeles Galaxy
-Wed Aug/30 23:30 Colorado Rapids           0-2 FC Dallas
-Wed Sep/13 22:30 FC Dallas           0-1 CD Chivas USA
-Sat Sep/2 21:30 Columbus Crew           3-0 N.E. Revolution
-Sat Sep/2 22:30 FC Dallas           1-0 Houston Dynamo
-Sat Sep/2 23:00 Real Salt Lake           0-1 Colorado Rapids
-Sun Sep/3 00:30 Los Angeles Galaxy           2-1 Kansas City Wizards
-Sun Sep/3 21:00 CD Chivas USA           1-2 Washington D.C. United
-Sun Sep/3 21:00 Chicago Fire           2-1 New York Metrostars
-Sat Sep/9 20:00 Columbus Crew           1-2 Chicago Fire
-Sat Sep/9 21:30 N.E. Revolution           1-0 New York Metrostars
-Sat Sep/9 21:30 Washington D.C. United           1-1 Real Salt Lake
-Sat Sep/9 22:30 Kansas City Wizards           4-1 Colorado Rapids
-Sun Sep/10 00:00 CD Chivas USA           1-1 FC Dallas
-Sun Sep/10 22:00 Los Angeles Galaxy           1-2 Houston Dynamo
-Wed Sep/13 23:30 Colorado Rapids           1-0 Chicago Fire
-Sat Sep/16 21:30 New York Metrostars           1-0 Columbus Crew
-Sat Sep/16 23:00 Real Salt Lake           3-2 FC Dallas
-
-Week 17
-
-Sun Sep/17 00:30 Los Angeles Galaxy           0-0 Colorado Rapids
-Sun Sep/17 18:00 Chicago Fire           1-0 Washington D.C. United
-Sun Sep/17 22:30 Houston Dynamo           0-0 CD Chivas USA
-Wed Sep/20 21:30 New York Metrostars           0-2 N.E. Revolution
-Sat Sep/23 21:30 N.E. Revolution           1-1 Kansas City Wizards
-Sat Sep/23 21:30 Columbus Crew           1-1 Houston Dynamo
-Sat Sep/23 21:30 Washington D.C. United           4-3 New York Metrostars
-Sat Sep/23 22:30 Chicago Fire           2-1 Los Angeles Galaxy
-Sat Sep/23 22:30 FC Dallas           2-1 Real Salt Lake
-
-Week 18
-
-Sun Sep/24 00:00 CD Chivas USA           1-0 Colorado Rapids
-Sat Sep/30 21:30 N.E. Revolution           3-1 Colorado Rapids
-Sat Sep/30 21:30 New York Metrostars           1-0 Chicago Fire
-Sat Sep/30 22:00 Columbus Crew           3-1 FC Dallas
-Sat Sep/30 22:30 Houston Dynamo           1-0 Washington D.C. United
-Sat Sep/30 22:30 Kansas City Wizards           3-3 Real Salt Lake
-
-Week 19
-
-Sun Oct/1 00:30 Los Angeles Galaxy           3-0 CD Chivas USA
-Sat Oct/7 21:30 Washington D.C. United           1-2 N.E. Revolution
-Sat Oct/7 22:30 Chicago Fire           1-4 Columbus Crew
-Sat Oct/7 22:30 FC Dallas           2-1 Los Angeles Galaxy
-Sat Oct/7 22:30 Kansas City Wizards           2-1 CD Chivas USA
-Sat Oct/7 23:00 Colorado Rapids           1-1 New York Metrostars
-Sat Oct/7 23:00 Real Salt Lake           1-1 Houston Dynamo
-
-Week 20
-
-Sat Oct/14 21:30 N.E. Revolution           1-0 Columbus Crew
-Sat Oct/14 21:30 New York Metrostars           3-2 Kansas City Wizards
-Sat Oct/14 22:30 Houston Dynamo           3-3 Colorado Rapids
-
-Week 21
-
-Sun Oct/15 00:30 Los Angeles Galaxy           5-2 FC Dallas
-Sun Oct/15 19:00 Washington D.C. United           2-3 Chicago Fire
-Sun Oct/15 21:00 CD Chivas USA           1-1 Real Salt Lake
-Sat Oct/21 16:00 New York Metrostars           0-1 Washington D.C. United
-Sat Oct/21 23:00 Colorado Rapids           1-2 FC Dallas
-
-Week 22
-
-Sun Oct/22 15:00 Chicago Fire           1-0 N.E. Revolution
-Sun Oct/22 18:00 CD Chivas USA           2-1 Houston Dynamo
-Sat Oct/28 21:30 N.E. Revolution           2-1 Chicago Fire
-Sat Oct/28 22:30 FC Dallas           1-2 Colorado Rapids
-
-Week 23
-
-Sun Oct/29 20:00 Washington D.C. United           1-1 New York Metrostars
-Sun Oct/29 22:00 Houston Dynamo           2-0 CD Chivas USA
-
-Week 24
-
-Sun Nov/5 18:00 Washington D.C. United           0-1 N.E. Revolution
-Sun Nov/5 21:00 Houston Dynamo           3-1 Colorado Rapids
-
-Week 25
-
-Sun Nov/12 17:45 Houston Dynamo           0-0 N.E. Revolution
+» Playoffs, Final
+  Sun Nov/12
+    15.30  Houston Dynamo          v New England Revolution   4-3 pen. 1-1 a.e.t. (0-0)
