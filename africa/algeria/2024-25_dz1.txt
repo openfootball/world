@@ -1,4 +1,4 @@
-= Algeria Ligue 1 2024/25
+= Algeria | Ligue 1 2024/25
 
 # Date       Thu Sep/19 2024 - Sat May/31 2025 (254d)
 # Teams      16
@@ -6,377 +6,416 @@
 
 
 
-Matchday 1
-[Thu Sep/19]
-  18.00  ES Sétif                 1-0 (1-0)  MC El Bayadh
-[Fri Sep/20]
-  18.00  Olympique Akbou          1-0 (1-0)  NC Magra
-[Sat Sep/21]
-  16.00  Paradou AC               2-0 (1-0)  ASO Chlef
-[Tue Sep/24]
-  18.00  MC Oran                  -  JS Saoura
-
-
-Matchday 3
-[Fri Sep/27]
-  ES Sétif                 -  NC Magra
-  USM Khenchela            -  ES Mostaganem
-  Olympique Akbou          -  JS Saoura
-  MC Oran                  -  ASO Chlef
-
-
-Matchday 2
-[Fri Sep/27]
-  MC Alger                 -  Paradou AC
-  16.00  MC El Bayadh             -  US Biskra
-         CR Bélouizdad            -  ES Sétif
-  18.00  JS Kabylie               -  Olympique Akbou
-         ASO Chlef                -  CS Constantine
-
-
-Matchday 3
-[Fri Sep/27]
-  CS Constantine           -  MC Alger
-  Paradou AC               -  JS Kabylie
-  US Biskra                -  CR Bélouizdad
-  USM Alger                -  MC El Bayadh
-
-
-Matchday 2
-[Sat Sep/28]
-  16.00  NC Magra                 -  USM Alger
-         JS Saoura                -  USM Khenchela
-  18.00  ES Mostaganem            -  MC Oran
-
-
-Matchday 1
-[Tue Oct/1]
-  18.00  JS Kabylie               -  MC Alger
-[Wed Oct/2]
-  USM Alger                -  US Biskra
-  16.00  CS Constantine           -  ES Mostaganem
-         USM Khenchela            -  CR Bélouizdad
-
-
-Matchday 4
-[Fri Oct/4]
-  JS Kabylie               -  CS Constantine
-  Paradou AC               -  Olympique Akbou
-  CR Bélouizdad            -  MC El Bayadh
-  NC Magra                 -  US Biskra
-  JS Saoura                -  ES Sétif
-  ES Mostaganem            -  USM Alger
-  ASO Chlef                -  USM Khenchela
-  MC Alger                 -  MC Oran
-
-
-Matchday 5
-[Fri Oct/11]
-  MC El Bayadh             -  NC Magra
-  CS Constantine           -  Paradou AC
-  MC Oran                  -  JS Kabylie
-  Olympique Akbou          -  ASO Chlef
-  USM Khenchela            -  MC Alger
-  ES Sétif                 -  ES Mostaganem
-  USM Alger                -  CR Bélouizdad
-  US Biskra                -  JS Saoura
-
-
-Matchday 6
-[Fri Oct/18]
-  JS Kabylie               -  USM Khenchela
-  Paradou AC               -  MC Oran
-  CS Constantine           -  ES Sétif
-  NC Magra                 -  CR Bélouizdad
-  JS Saoura                -  MC El Bayadh
-  ES Mostaganem            -  US Biskra
-  ASO Chlef                -  USM Alger
-  MC Alger                 -  Olympique Akbou
-
-
-Matchday 7
-[Sat Oct/26]
-  MC El Bayadh             -  Paradou AC
-  CR Bélouizdad            -  JS Saoura
-  MC Oran                  -  CS Constantine
-  Olympique Akbou          -  ES Mostaganem
-  USM Khenchela            -  NC Magra
-  ES Sétif                 -  ASO Chlef
-  USM Alger                -  MC Alger
-  US Biskra                -  JS Kabylie
-
-
-Matchday 8
-[Sat Nov/2]
-  JS Kabylie               -  USM Alger
-  Paradou AC               -  USM Khenchela
-  CS Constantine           -  Olympique Akbou
-  MC Oran                  -  ES Sétif
-  JS Saoura                -  NC Magra
-  ES Mostaganem            -  CR Bélouizdad
-  ASO Chlef                -  MC El Bayadh
-  MC Alger                 -  US Biskra
-
-
-Matchday 9
-[Sat Nov/9]
-  MC El Bayadh             -  MC Alger
-  CR Bélouizdad            -  JS Kabylie
-  NC Magra                 -  ES Mostaganem
-  Olympique Akbou          -  MC Oran
-  USM Khenchela            -  CS Constantine
-  ES Sétif                 -  Paradou AC
-  USM Alger                -  JS Saoura
-  US Biskra                -  ASO Chlef
-
-
-Matchday 10
-[Fri Nov/15]
-  JS Kabylie               -  MC El Bayadh
-  Paradou AC               -  US Biskra
-  CS Constantine           -  USM Alger
-  MC Oran                  -  USM Khenchela
-  Olympique Akbou          -  ES Sétif
-  ES Mostaganem            -  JS Saoura
-  ASO Chlef                -  NC Magra
-  MC Alger                 -  CR Bélouizdad
-
-
-Matchday 11
-[Fri Nov/22]
-  MC El Bayadh             -  ES Mostaganem
-  CR Bélouizdad            -  ASO Chlef
-  NC Magra                 -  MC Oran
-  JS Saoura                -  JS Kabylie
-  USM Khenchela            -  Olympique Akbou
-  ES Sétif                 -  MC Alger
-  USM Alger                -  Paradou AC
-  US Biskra                -  CS Constantine
-
-
-Matchday 12
-[Fri Nov/29]
-  JS Kabylie               -  NC Magra
-  Paradou AC               -  CR Bélouizdad
-  CS Constantine           -  MC El Bayadh
-  MC Oran                  -  US Biskra
-  Olympique Akbou          -  USM Alger
-  USM Khenchela            -  ES Sétif
-  ASO Chlef                -  ES Mostaganem
-  MC Alger                 -  JS Saoura
-
-
-Matchday 13
-[Sat Dec/7]
-  MC El Bayadh             -  MC Oran
-  CR Bélouizdad            -  CS Constantine
-  NC Magra                 -  Paradou AC
-  JS Saoura                -  ASO Chlef
-  ES Mostaganem            -  MC Alger
-  ES Sétif                 -  JS Kabylie
-  USM Alger                -  USM Khenchela
-  US Biskra                -  Olympique Akbou
-
-
-Matchday 14
-[Sat Dec/14]
-  JS Kabylie               -  ES Mostaganem
-  Paradou AC               -  JS Saoura
-  CS Constantine           -  NC Magra
-  MC Oran                  -  CR Bélouizdad
-  Olympique Akbou          -  MC El Bayadh
-  USM Khenchela            -  US Biskra
-  ES Sétif                 -  USM Alger
-  MC Alger                 -  ASO Chlef
-
-
-Matchday 15
-[Fri Dec/27]
-  MC El Bayadh             -  USM Khenchela
-  CR Bélouizdad            -  Olympique Akbou
-  NC Magra                 -  MC Alger
-  JS Saoura                -  CS Constantine
-  ES Mostaganem            -  Paradou AC
-  ASO Chlef                -  JS Kabylie
-  USM Alger                -  MC Oran
-  US Biskra                -  ES Sétif
-
-
-Matchday 16
-[Sat Feb/1]
-  MC Alger                 -  JS Kabylie
-  ASO Chlef                -  Paradou AC
-  ES Mostaganem            -  CS Constantine
-  JS Saoura                -  MC Oran
-  NC Magra                 -  Olympique Akbou
-  CR Bélouizdad            -  USM Khenchela
-  MC El Bayadh             -  ES Sétif
-  US Biskra                -  USM Alger
-
-
-Matchday 17
-[Fri Feb/7]
-  US Biskra                -  MC El Bayadh
-  ES Sétif                 -  CR Bélouizdad
-  USM Alger                -  NC Magra
-  USM Khenchela            -  JS Saoura
-  MC Oran                  -  ES Mostaganem
-  CS Constantine           -  ASO Chlef
-  Paradou AC               -  MC Alger
-  Olympique Akbou          -  JS Kabylie
-
-
-Matchday 18
-[Fri Feb/21]
-  CR Bélouizdad            -  US Biskra
-  JS Kabylie               -  Paradou AC
-  MC Alger                 -  CS Constantine
-  ASO Chlef                -  MC Oran
-  JS Saoura                -  Olympique Akbou
-  ES Mostaganem            -  USM Khenchela
-  NC Magra                 -  ES Sétif
-  MC El Bayadh             -  USM Alger
-
-
-Matchday 19
-[Fri Feb/28]
-  Olympique Akbou          -  Paradou AC
-  MC El Bayadh             -  CR Bélouizdad
-  US Biskra                -  NC Magra
-  ES Sétif                 -  JS Saoura
-  USM Alger                -  ES Mostaganem
-  USM Khenchela            -  ASO Chlef
-  MC Oran                  -  MC Alger
-  CS Constantine           -  JS Kabylie
-
-
-Matchday 20
-[Fri Mar/7]
-  JS Saoura                -  US Biskra
-  NC Magra                 -  MC El Bayadh
-  Paradou AC               -  CS Constantine
-  JS Kabylie               -  MC Oran
-  ASO Chlef                -  Olympique Akbou
-  MC Alger                 -  USM Khenchela
-  ES Mostaganem            -  ES Sétif
-  CR Bélouizdad            -  USM Alger
-
-
-Matchday 21
-[Fri Mar/14]
-  MC Oran                  -  Paradou AC
-  ES Sétif                 -  CS Constantine
-  CR Bélouizdad            -  NC Magra
-  MC El Bayadh             -  JS Saoura
-  US Biskra                -  ES Mostaganem
-  USM Alger                -  ASO Chlef
-  Olympique Akbou          -  MC Alger
-  USM Khenchela            -  JS Kabylie
-
-
-Matchday 22
-[Fri Mar/21]
-  JS Kabylie               -  US Biskra
-  Paradou AC               -  MC El Bayadh
-  JS Saoura                -  CR Bélouizdad
-  CS Constantine           -  MC Oran
-  ES Mostaganem            -  Olympique Akbou
-  NC Magra                 -  USM Khenchela
-  ASO Chlef                -  ES Sétif
-  MC Alger                 -  USM Alger
-
-
-Matchday 23
-[Sat Apr/5]
-  USM Khenchela            -  Paradou AC
-  Olympique Akbou          -  CS Constantine
-  ES Sétif                 -  MC Oran
-  NC Magra                 -  JS Saoura
-  CR Bélouizdad            -  ES Mostaganem
-  MC El Bayadh             -  ASO Chlef
-  US Biskra                -  MC Alger
-  USM Alger                -  JS Kabylie
-
-
-Matchday 24
-[Fri Apr/11]
-  ASO Chlef                -  US Biskra
-  MC Alger                 -  MC El Bayadh
-  JS Kabylie               -  CR Bélouizdad
-  ES Mostaganem            -  NC Magra
-  MC Oran                  -  Olympique Akbou
-  CS Constantine           -  USM Khenchela
-  Paradou AC               -  ES Sétif
-  JS Saoura                -  USM Alger
-
-
-Matchday 25
-[Sat Apr/26]
-  US Biskra                -  Paradou AC
-  USM Alger                -  CS Constantine
-  USM Khenchela            -  MC Oran
-  ES Sétif                 -  Olympique Akbou
-  JS Saoura                -  ES Mostaganem
-  NC Magra                 -  ASO Chlef
-  CR Bélouizdad            -  MC Alger
-  MC El Bayadh             -  JS Kabylie
-
-
-Matchday 26
-[Tue Apr/29]
-  CS Constantine           -  US Biskra
-  ES Mostaganem            -  MC El Bayadh
-  ASO Chlef                -  CR Bélouizdad
-  MC Oran                  -  NC Magra
-  JS Kabylie               -  JS Saoura
-  Olympique Akbou          -  USM Khenchela
-  MC Alger                 -  ES Sétif
-  Paradou AC               -  USM Alger
-
-
-Matchday 27
-[Thu May/8]
-  CR Bélouizdad            -  Paradou AC
-  MC El Bayadh             -  CS Constantine
-  US Biskra                -  MC Oran
-  USM Alger                -  Olympique Akbou
-  ES Sétif                 -  USM Khenchela
-  ES Mostaganem            -  ASO Chlef
-  JS Saoura                -  MC Alger
-  NC Magra                 -  JS Kabylie
-
-
-Matchday 28
-[Fri May/16]
-  Olympique Akbou          -  US Biskra
-  MC Oran                  -  MC El Bayadh
-  CS Constantine           -  CR Bélouizdad
-  Paradou AC               -  NC Magra
-  ASO Chlef                -  JS Saoura
-  MC Alger                 -  ES Mostaganem
-  JS Kabylie               -  ES Sétif
-  USM Khenchela            -  USM Alger
-
-
-Matchday 29
-[Fri May/23]
-  JS Saoura                -  Paradou AC
-  NC Magra                 -  CS Constantine
-  CR Bélouizdad            -  MC Oran
-  MC El Bayadh             -  Olympique Akbou
-  US Biskra                -  USM Khenchela
-  USM Alger                -  ES Sétif
-  ASO Chlef                -  MC Alger
-  ES Mostaganem            -  JS Kabylie
-
-
-Matchday 30
-[Sat May/31]
-  ES Sétif                 -  US Biskra
-  USM Khenchela            -  MC El Bayadh
-  Olympique Akbou          -  CR Bélouizdad
-  MC Alger                 -  NC Magra
-  CS Constantine           -  JS Saoura
-  Paradou AC               -  ES Mostaganem
-  JS Kabylie               -  ASO Chlef
-  MC Oran                  -  USM Alger
+» Matchday 1
+  Thu Sep/19 2024
+    18.00  ES Sétif                v MC El Bayadh             1-0 (1-0)
+  Fri Sep/20
+    18.00  Olympique Akbou         v NC Magra                 1-0 (1-0)
+  Sat Sep/21
+    16.00  Paradou AC              v ASO Chlef                2-0 (1-0)
+  Tue Sep/24
+    18.00  MC Oran                 v JS Saoura                2-0 (1-0)
+  Tue Oct/1
+    18.00  JS Kabylie              v MC Alger                 1-2 (1-1)
+  Wed Oct/2
+    16.00  CS Constantine          v ES Mostaganem            0-0
+           USM Khenchela           v CR Bélouizdad            0-0
+    19.00  USM Alger               v US Biskra                2-1 (0-0)
+
+
+» Matchday 2
+  Fri Sep/27
+    16.00  MC El Bayadh            v US Biskra                0-1 (0-0)
+           CR Bélouizdad           v ES Sétif                 0-0
+           MC Alger                v Paradou AC               1-1 (0-0)
+    17.45  JS Kabylie              v Olympique Akbou          2-1 (1-1)
+    18.00  ASO Chlef               v CS Constantine           0-0
+  Sat Sep/28
+    16.00  NC Magra                v USM Alger                0-0
+           JS Saoura               v USM Khenchela            1-1 (0-1)
+    18.00  ES Mostaganem           v MC Oran                  2-1 (0-1)
+
+
+» Matchday 3
+  Fri Oct/4
+    16.00  Olympique Akbou         v JS Saoura                2-1 (0-1)
+    18.00  ES Sétif                v NC Magra                 0-0
+    20.30  MC Oran                 v ASO Chlef                0-0
+  Sun Oct/6
+    16.00  Paradou AC              v JS Kabylie               0-3 (0-1)
+           CS Constantine          v MC Alger                 1-1 (0-0)
+           USM Khenchela           v ES Mostaganem            2-0 (1-0)
+    17.45  US Biskra               v CR Bélouizdad            0-0
+    18.00  USM Alger               v MC El Bayadh             1-0 (1-0)
+
+
+» Matchday 4
+  Fri Oct/11
+    16.00  Paradou AC              v Olympique Akbou          1-3 (1-2)
+           JS Saoura               v ES Sétif                 3-2 (2-1)
+    20.30  MC Alger                v MC Oran                  1-0 (0-0)
+  Sat Oct/12
+    16.00  NC Magra                v US Biskra                2-2 (2-1)
+    17.45  JS Kabylie              v CS Constantine           2-3 (1-1)
+    19.00  CR Bélouizdad           v MC El Bayadh             2-3 (2-2)
+  Tue Oct/22
+    16.00  ASO Chlef               v USM Khenchela            1-1 (1-0)
+    17.30  ES Mostaganem           v USM Alger                0-1 (0-1)
+
+
+» Matchday 5
+  Fri Oct/18
+    16.00  Olympique Akbou         v ASO Chlef                0-0
+           USM Khenchela           v MC Alger                 0-1 (0-1)
+    18.00  ES Sétif                v ES Mostaganem            1-0 (0-0)
+    19.00  USM Alger               v CR Bélouizdad            0-0
+  Sat Oct/19
+    16.00  MC El Bayadh            v NC Magra                 4-0 (1-0)
+           CS Constantine          v Paradou AC               2-1 (2-1)
+    17.45  US Biskra               v JS Saoura                2-1 (1-1)
+    19.00  MC Oran                 v JS Kabylie               2-0 (1-0)
+
+
+» Matchday 6
+  Thu Oct/24
+    20.30  MC Alger                v Olympique Akbou          0-0
+  Fri Oct/25
+    15.00  NC Magra                v CR Bélouizdad            1-0 (0-0)
+    16.00  CS Constantine          v ES Sétif                 2-1 (2-1)
+           JS Saoura               v MC El Bayadh             1-0 (0-0)
+    19.30  Paradou AC              v MC Oran                  2-2 (1-0)
+  Sat Oct/26
+    16.00  ASO Chlef               v USM Alger                0-0
+    17.30  JS Kabylie              v USM Khenchela            1-0 (1-0)
+    17.45  ES Mostaganem           v US Biskra                1-0 (1-0)
+
+
+» Matchday 7
+  Sat Nov/2
+    15.00  MC El Bayadh            v Paradou AC               1-1 (1-1)
+           USM Khenchela           v NC Magra                 1-0 (1-0)
+    17.45  MC Oran                 v CS Constantine           1-0 (1-0)
+           ES Sétif                v ASO Chlef                1-0 (1-0)
+  Sun Nov/3
+    16.00  US Biskra               v JS Kabylie               0-1 (0-0)
+    17.30  Olympique Akbou         v ES Mostaganem            1-2 (0-0)
+  Tue Dec/17
+    16.30  CR Bélouizdad           v JS Saoura                3-0 (0-0)
+  Fri Jan/24 2025
+    18.00  USM Alger               v MC Alger                 0-3 (0-0)
+
+
+» Matchday 8
+  Thu Nov/7 2024
+    19.30  MC Oran                 v ES Sétif                 1-0 (0-0)
+  Fri Nov/8
+    15.00  ASO Chlef               v MC El Bayadh             2-0 (0-0)
+    16.45  Paradou AC              v USM Khenchela            4-0 (2-0)
+    17.45  CS Constantine          v Olympique Akbou          2-1 (0-0)
+  Sat Nov/9
+    16.00  JS Saoura               v NC Magra                 1-0 (0-0)
+    17.30  JS Kabylie              v USM Alger                0-0
+    17.45  MC Alger                v US Biskra                0-0
+    18.00  ES Mostaganem           v CR Bélouizdad            0-2 (0-0)
+
+
+» Matchday 9
+  Fri Nov/15
+    15.00  MC El Bayadh            v MC Alger                 0-1 (0-0)
+           Olympique Akbou         v MC Oran                  3-1 (0-0)
+           USM Khenchela           v CS Constantine           1-0 (0-0)
+  Sat Nov/16
+    15.00  NC Magra                v ES Mostaganem            1-0 (1-0)
+    17.00  US Biskra               v ASO Chlef                1-2 (1-0)
+    17.30  USM Alger               v JS Saoura                2-0 (1-0)
+  Tue Dec/17
+    17.30  ES Sétif                v Paradou AC               1-2 (0-1)
+  Tue Jan/21 2025
+    17.45  CR Bélouizdad           v JS Kabylie               1-1 (0-0)
+
+
+» Matchday 10
+  Wed Nov/20 2024
+    20.00  MC Alger                v CR Bélouizdad            1-3 (1-1)
+  Thu Nov/21
+    20.00  CS Constantine          v USM Alger                1-0 (1-0)
+  Fri Nov/22
+    17.45  MC Oran                 v USM Khenchela            0-0
+  Sat Nov/23
+    15.00  Olympique Akbou         v ES Sétif                 0-1 (0-0)
+           ASO Chlef               v NC Magra                 2-2 (1-1)
+    16.00  ES Mostaganem           v JS Saoura                1-1 (0-1)
+  Tue Dec/17
+    17.30  JS Kabylie              v MC El Bayadh             3-0 (1-0)
+  Wed Jan/1 2025
+    16.00  Paradou AC              v US Biskra                2-1 (0-1)
+
+
+» Matchday 11
+  Sat Nov/30 2024
+    15.00  MC El Bayadh            v ES Mostaganem            1-1 (0-0)
+           NC Magra                v MC Oran                  2-1 (0-1)
+           USM Khenchela           v Olympique Akbou          1-0 (0-0)
+  Sun Dec/1
+    17.30  ES Sétif                v MC Alger                 0-0
+    17.45  CR Bélouizdad           v ASO Chlef                2-0 (1-0)
+  Mon Dec/2
+    16.00  JS Saoura               v JS Kabylie               1-1 (1-1)
+    17.30  US Biskra               v CS Constantine           1-1 (1-0)
+  Tue Jan/28 2025
+    19.00  USM Alger               v Paradou AC               1-1 (0-1)
+
+
+» Matchday 12
+  Sat Dec/7 2024
+    15.00  USM Khenchela           v ES Sétif                 2-3 (1-0)
+           ASO Chlef               v ES Mostaganem            2-0 (1-0)
+  Sun Dec/8
+    17.45  JS Kabylie              v NC Magra                 2-1 (1-1)
+    20.00  MC Oran                 v US Biskra                1-0 (0-0)
+  Sat Jan/25 2025
+    16.00  CS Constantine          v MC El Bayadh             0-1 (0-1)
+    17.00  Paradou AC              v CR Bélouizdad            1-2 (0-1)
+  Wed Jan/29
+    17.00  MC Alger                v JS Saoura                1-0 (1-0)
+  Sat Feb/1
+    15.00  Olympique Akbou         v USM Alger                0-0
+
+
+» Matchday 13
+  Fri Dec/13 2024
+    15.00  MC El Bayadh            v MC Oran                  1-0 (1-0)
+           NC Magra                v Paradou AC               1-1 (1-0)
+    16.00  JS Saoura               v ASO Chlef                1-1 (1-0)
+    17.00  ES Sétif                v JS Kabylie               2-2 (1-0)
+  Sat Dec/14
+    17.00  US Biskra               v Olympique Akbou          0-1 (0-0)
+  Thu Jan/30 2025
+    19.00  CR Bélouizdad           v CS Constantine           0-2 (0-0)
+  Sun Feb/2
+    16.00  ES Mostaganem           v MC Alger                 1-1 (0-1)
+  Wed Feb/5
+    17.00  USM Alger               v USM Khenchela            3-0 (1-0)
+
+
+» Matchday 14
+  Fri Dec/20 2024
+    15.00  USM Khenchela           v US Biskra                0-0
+    16.30  MC Alger                v ASO Chlef                0-0
+  Sat Dec/21
+    15.00  Olympique Akbou         v MC El Bayadh             0-1 (0-0)
+    16.00  Paradou AC              v JS Saoura                2-0 (0-0)
+    16.30  CS Constantine          v NC Magra                 0-0
+    17.00  JS Kabylie              v ES Mostaganem            2-1 (1-0)
+           ES Sétif                v USM Alger                1-1 (0-1)
+  Mon Feb/3 2025
+    18.00  MC Oran                 v CR Bélouizdad            1-2 (0-1)
+
+
+» Matchday 15
+  Thu Dec/26 2024
+    15.00  NC Magra                v MC Alger                 1-2 (0-0)
+    17.00  ES Mostaganem           v Paradou AC               0-2 (0-1)
+    19.00  USM Alger               v MC Oran                  3-0 (0-0)
+  Fri Dec/27
+    16.00  US Biskra               v ES Sétif                 0-0
+           CR Bélouizdad           v Olympique Akbou          1-0 (0-0)
+           JS Saoura               v CS Constantine           2-0 (1-0)
+  Sat Dec/28
+    15.00  MC El Bayadh            v USM Khenchela            1-2 (0-1)
+           ASO Chlef               v JS Kabylie               1-0 (0-0)
+
+
+» Matchday 16
+  Tue Feb/11 2025
+    15.00  ASO Chlef               v Paradou AC               2-0 (2-0)
+           MC El Bayadh            v ES Sétif                 1-0 (0-0)
+  Wed Feb/12
+    16.30  JS Saoura               v MC Oran                  2-0 (0-0)
+    19.00  CR Bélouizdad           v USM Khenchela            3-0 (1-0)
+  Thu Feb/13
+    16.00  ES Mostaganem           v CS Constantine           0-0
+    20.00  MC Alger                v JS Kabylie               3-2 (1-0)
+  Fri Feb/14
+    15.00  NC Magra                v Olympique Akbou          1-1 (1-0)
+    17.00  US Biskra               v USM Alger                0-0
+
+
+» Matchday 17
+  Tue Feb/18
+    15.30  USM Khenchela           v JS Saoura                1-3 (1-1)
+    17.00  CS Constantine          v ASO Chlef                2-2 (2-1)
+    20.00  USM Alger               v NC Magra                 2-0 (1-0)
+  Wed Feb/19
+    15.30  Olympique Akbou         v JS Kabylie               0-0
+    17.00  US Biskra               v MC El Bayadh             0-0
+           MC Oran                 v ES Mostaganem            1-0 (1-0)
+  Thu Feb/20
+    16.45  ES Sétif                v CR Bélouizdad            1-0 (1-0)
+  Sun Feb/23
+    20.00  Paradou AC              v MC Alger                 1-3 (1-2)
+
+
+» Matchday 18
+  Tue Feb/25
+    15.30  ASO Chlef               v MC Oran                  1-0 (0-0)
+    18.00  ES Mostaganem           v USM Khenchela            2-0 (2-0)
+  Wed Feb/26
+    15.30  NC Magra                v ES Sétif                 0-0
+    20.00  CR Bélouizdad           v US Biskra                2-0 (0-0)
+  Thu Feb/27
+    15.30  MC El Bayadh            v USM Alger                2-1 (1-0)
+    17.00  JS Saoura               v Olympique Akbou          2-1 (0-1)
+  Fri Feb/28
+    16.45  JS Kabylie              v Paradou AC               2-1 (1-0)
+    19.00  MC Alger                v CS Constantine           2-1 (1-1)
+
+
+» Matchday 19
+  Thu Mar/6
+    15.30  MC El Bayadh            v CR Bélouizdad            0-0
+    22.00  Olympique Akbou         v Paradou AC               1-2 (0-0)
+           USM Alger               v ES Mostaganem            1-0 (1-0)
+           MC Oran                 v MC Alger                 0-2 (0-1)
+  Fri Mar/7
+    15.00  USM Khenchela           v ASO Chlef                3-2 (1-1)
+    22.00  US Biskra               v NC Magra                 1-0 (1-0)
+           ES Sétif                v JS Saoura                1-0 (0-0)
+  Sat Mar/8
+    22.00  CS Constantine          v JS Kabylie               1-1 (0-1)
+
+
+» Matchday 20
+  Fri Mar/14
+    22.00  JS Saoura               v US Biskra                2-0 (1-0)
+           Paradou AC              v CS Constantine           2-0 (1-0)
+           JS Kabylie              v MC Oran                  2-1 (1-0)
+           ES Mostaganem           v ES Sétif                 1-0 (0-0)
+  Sat Mar/15
+    15.00  ASO Chlef               v Olympique Akbou          0-0
+    22.00  MC Alger                v USM Khenchela            2-2 (0-0)
+  Sun Mar/16
+    15.00  NC Magra                v MC El Bayadh             0-0
+    22.00  CR Bélouizdad           v USM Alger                1-1 (0-0)
+
+
+» Matchday 21
+  Fri Mar/14
+           ES Sétif                v CS Constantine           [postponed]
+           USM Alger               v ASO Chlef                [postponed]
+           Olympique Akbou         v MC Alger                 [postponed]
+  Fri Apr/4
+           USM Khenchela           v JS Kabylie
+           MC Oran                 v Paradou AC
+           US Biskra               v ES Mostaganem
+  Sat Apr/5
+           CR Bélouizdad           v NC Magra
+           MC El Bayadh            v JS Saoura
+
+
+» Matchday 22
+  Fri Mar/21
+           JS Kabylie              v US Biskra                [postponed]
+           Paradou AC              v MC El Bayadh             [postponed]
+           JS Saoura               v CR Bélouizdad            [postponed]
+           CS Constantine          v MC Oran                  [postponed]
+           ES Mostaganem           v Olympique Akbou          [postponed]
+           NC Magra                v USM Khenchela            [postponed]
+           ASO Chlef               v ES Sétif                 [postponed]
+           MC Alger                v USM Alger                [postponed]
+
+
+» Matchday 23
+  Sat Apr/5
+           USM Alger               v JS Kabylie
+           USM Khenchela           v Paradou AC
+           Olympique Akbou         v CS Constantine
+           ES Sétif                v MC Oran
+           NC Magra                v JS Saoura
+           CR Bélouizdad           v ES Mostaganem
+           MC El Bayadh            v ASO Chlef
+           US Biskra               v MC Alger
+
+
+» Matchday 24
+  Fri Apr/11
+           ASO Chlef               v US Biskra
+           MC Alger                v MC El Bayadh
+           JS Kabylie              v CR Bélouizdad
+           ES Mostaganem           v NC Magra
+           MC Oran                 v Olympique Akbou
+           CS Constantine          v USM Khenchela
+           Paradou AC              v ES Sétif
+           JS Saoura               v USM Alger
+
+
+» Matchday 25
+  Sat Apr/26
+           MC El Bayadh            v JS Kabylie
+           US Biskra               v Paradou AC
+           USM Alger               v CS Constantine
+           USM Khenchela           v MC Oran
+           ES Sétif                v Olympique Akbou
+           JS Saoura               v ES Mostaganem
+           NC Magra                v ASO Chlef
+           CR Bélouizdad           v MC Alger
+
+
+» Matchday 26
+  Tue Apr/29
+           CS Constantine          v US Biskra
+           ES Mostaganem           v MC El Bayadh
+           ASO Chlef               v CR Bélouizdad
+           MC Oran                 v NC Magra
+           JS Kabylie              v JS Saoura
+           Olympique Akbou         v USM Khenchela
+           MC Alger                v ES Sétif
+           Paradou AC              v USM Alger
+
+
+» Matchday 27
+  Thu May/8
+           NC Magra                v JS Kabylie
+           CR Bélouizdad           v Paradou AC
+           MC El Bayadh            v CS Constantine
+           US Biskra               v MC Oran
+           USM Alger               v Olympique Akbou
+           ES Sétif                v USM Khenchela
+           ES Mostaganem           v ASO Chlef
+           JS Saoura               v MC Alger
+
+
+» Matchday 28
+  Fri May/16
+           Olympique Akbou         v US Biskra
+           MC Oran                 v MC El Bayadh
+           CS Constantine          v CR Bélouizdad
+           Paradou AC              v NC Magra
+           ASO Chlef               v JS Saoura
+           MC Alger                v ES Mostaganem
+           JS Kabylie              v ES Sétif
+           USM Khenchela           v USM Alger
+
+
+» Matchday 29
+  Fri May/23
+           ES Mostaganem           v JS Kabylie
+           JS Saoura               v Paradou AC
+           NC Magra                v CS Constantine
+           CR Bélouizdad           v MC Oran
+           MC El Bayadh            v Olympique Akbou
+           US Biskra               v USM Khenchela
+           USM Alger               v ES Sétif
+           ASO Chlef               v MC Alger
+
+
+» Matchday 30
+  Sat May/31
+           ES Sétif                v US Biskra
+           USM Khenchela           v MC El Bayadh
+           Olympique Akbou         v CR Bélouizdad
+           MC Alger                v NC Magra
+           CS Constantine          v JS Saoura
+           Paradou AC              v ES Mostaganem
+           JS Kabylie              v ASO Chlef
+           MC Oran                 v USM Alger
