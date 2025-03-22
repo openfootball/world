@@ -2,13 +2,6 @@
 
 ## Format
 
-### Date format
-
-Use "american"-style format e.g. (month before day) e.g.:
-
--  Jul 20  or
--  7/20 etc.
-
 ### Matchdays
 
 MLS has no rounds/matchdays, just use regular season as round?
@@ -21,7 +14,6 @@ If using Week 1, Week 2, etc.  when does the week start?  On the mls site it sta
 
 Official site -> [`www.mlssoccer.com`](http://www.mlssoccer.com)
 
-#### Wikipedia
-
+Wikipedia:
 - [Major_League_Soccer](http://en.wikipedia.org/wiki/Major_League_Soccer)
 
