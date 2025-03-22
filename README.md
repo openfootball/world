@@ -21,10 +21,25 @@ Asia
 
 - [**China**](asia/china) - Super League
 - [**Japan**](asia/japan) - J. League
+- and others
 
 Pacific
 
 - [**Australia**](pacific/australia) - A-League
+
+
+Africa
+
+- [**Egypt**](africa/egypt) - Premiership
+- [**Morocco**](africa/morocco) - Botola Pro 1
+- [**Algeria**](africa/algeria) - Ligue 1
+- and others
+
+Middle East
+
+- [**Israel**](middle-east/isreal) - Premier League
+
+
 
 
 
