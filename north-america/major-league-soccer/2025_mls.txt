@@ -1,0 +1,689 @@
+= Major League Soccer 2025
+
+# Date       Sat Feb/22 - Sat Oct/18 2025 (238d)
+# Teams      30
+# Matches    510
+
+
+
+» Matchday 1
+  Sat Feb/22 2025
+    16.45  Los Angeles FC          v Minnesota United FC      1-0 (0-0)
+    19.30  Inter Miami CF          v New York City FC         2-2 (1-1)
+           Atlanta United FC       v CF Montréal              3-2 (1-0)
+           Columbus Crew           v Chicago Fire             4-2 (3-2)
+           D.C. United             v Toronto FC               2-2 (2-1)
+           FC Cincinnati           v New York RB              1-0 (0-0)
+           Orlando City            v Philadelphia Union       2-4 (1-1)
+    20.30  Austin FC               v Sporting Kansas City     1-0 (0-0)
+           Houston Dynamo          v FC Dallas                1-2 (1-0)
+           Nashville SC            v New England Revolution   0-0
+           St. Louis City SC       v Colorado Rapids          0-0
+    22.30  San Jose Earthquakes    v Real Salt Lake           4-0 (1-0)
+           Seattle Sounders        v Charlotte FC             2-2 (1-1)
+  Sun Feb/23
+    16.00  Portland Timbers        v Vancouver Whitecaps      1-4 (0-2)
+    19.00  Los Angeles Galaxy      v San Diego FC             0-2 (0-0)
+
+
+» Matchday 2
+  Sat Mar/1
+    14.15  Charlotte FC            v Atlanta United FC        2-0 (0-0)
+    16.30  Real Salt Lake          v Seattle Sounders         2-0 (1-0)
+    19.30  New England Revolution  v Columbus Crew            0-1 (0-0)
+           New York RB             v Nashville SC             2-0 (2-0)
+           Orlando City            v Toronto FC               4-2 (2-0)
+           Philadelphia Union      v FC Cincinnati            4-1 (2-0)
+    20.30  Chicago Fire            v D.C. United              2-2 (1-1)
+           Minnesota United FC     v CF Montréal              1-0 (0-0)
+           Sporting Kansas City    v San Jose Earthquakes     1-2 (1-2)
+    21.30  Colorado Rapids         v FC Dallas                3-3 (2-2)
+    22.30  Los Angeles FC          v New York City FC         1-0 (0-0)
+           Portland Timbers        v Austin FC                1-0 (0-0)
+           San Diego FC            v St. Louis City SC        0-0
+  Sun Mar/2
+    17.00  Vancouver Whitecaps     v Los Angeles Galaxy       2-1 (1-1)
+    19.00  Houston Dynamo          v Inter Miami CF           1-4 (0-3)
+
+
+» Matchday 3
+  Sat Mar/8
+    14.30  Columbus Crew           v Houston Dynamo           0-0
+    16.45  Seattle Sounders        v Los Angeles FC           5-2 (1-1)
+    19.30  Atlanta United FC       v New York RB              0-0
+           D.C. United             v Sporting Kansas City     2-1 (0-0)
+           FC Cincinnati           v Toronto FC               2-0 (0-0)
+           New England Revolution  v Philadelphia Union       0-2 (0-0)
+           New York City FC        v Orlando City             2-1 (0-0)
+    20.30  Austin FC               v Colorado Rapids          0-1 (0-1)
+           FC Dallas               v Chicago Fire             1-3 (0-0)
+           Nashville SC            v Portland Timbers         2-0 (1-0)
+    21.30  Real Salt Lake          v San Diego FC             1-3 (1-1)
+           Vancouver Whitecaps     v CF Montréal              2-0 (1-0)
+    22.30  San Jose Earthquakes    v Minnesota United FC      0-1 (0-1)
+  Sun Mar/9
+    16.00  Inter Miami CF          v Charlotte FC             1-0 (0-0)
+    19.00  Los Angeles Galaxy      v St. Louis City SC        0-3 (0-1)
+
+
+» Matchday 4
+  Sat Mar/15
+    14.30  New York RB             v Orlando City             2-2 (1-2)
+           Toronto FC              v Chicago Fire             1-2 (1-2)
+    15.45  Los Angeles FC          v Austin FC                0-1 (0-1)
+    19.30  Charlotte FC            v FC Cincinnati            2-0 (0-0)
+           D.C. United             v CF Montréal              0-0
+           New York City FC        v New England Revolution   2-1 (1-1)
+    20.15  Sporting Kansas City    v Minnesota United FC      3-3 (0-2)
+    20.30  FC Dallas               v Vancouver Whitecaps      0-1 (0-0)
+           Houston Dynamo          v Real Salt Lake           1-2 (1-2)
+           St. Louis City SC       v Seattle Sounders         1-0 (1-0)
+    22.30  San Diego FC            v Columbus Crew            1-1 (0-1)
+           San Jose Earthquakes    v Colorado Rapids          1-2 (1-1)
+  Sun Mar/16
+    14.25  Philadelphia Union      v Nashville SC             1-3 (1-2)
+    16.45  Portland Timbers        v Los Angeles Galaxy       1-1 (0-0)
+    19.00  Atlanta United FC       v Inter Miami CF           1-2 (1-1)
+
+
+» Matchday 5
+  Sat Mar/22
+    14.30  FC Cincinnati           v Atlanta United FC
+    16.30  Minnesota United FC     v Los Angeles Galaxy
+    19.30  Charlotte FC            v San Jose Earthquakes
+           Columbus Crew           v New York City FC
+           New York RB             v Toronto FC
+           Orlando City            v D.C. United
+           Philadelphia Union      v St. Louis City SC
+    20.30  Nashville SC            v CF Montréal
+           Sporting Kansas City    v Los Angeles FC
+    21.30  Colorado Rapids         v Portland Timbers
+           Real Salt Lake          v FC Dallas
+    22.30  Seattle Sounders        v Houston Dynamo
+           Vancouver Whitecaps     v Chicago Fire
+  Sun Mar/23
+    16.00  Austin FC               v San Diego FC
+
+
+» Matchday 6
+  Sat Mar/29
+    14.30  New England Revolution  v New York RB
+           Toronto FC              v Vancouver Whitecaps
+    16.30  Colorado Rapids         v Charlotte FC
+    19.30  Atlanta United FC       v New York City FC
+           D.C. United             v Columbus Crew
+           Inter Miami CF          v Philadelphia Union
+    20.30  Chicago Fire            v CF Montréal
+           FC Dallas               v Sporting Kansas City
+           Minnesota United FC     v Real Salt Lake
+           Nashville SC            v FC Cincinnati
+    22.30  Los Angeles Galaxy      v Orlando City
+           San Diego FC            v Los Angeles FC
+           San Jose Earthquakes    v Seattle Sounders
+  Sun Mar/30
+    14.15  St. Louis City SC       v Austin FC
+    19.00  Portland Timbers        v Houston Dynamo
+
+
+» Matchday 7
+  Sat Apr/5
+    14.30  Charlotte FC            v Nashville SC
+    16.30  Real Salt Lake          v Los Angeles Galaxy
+    19.30  Atlanta United FC       v FC Dallas
+           Columbus Crew           v CF Montréal
+           FC Cincinnati           v New England Revolution
+           New York RB             v Chicago Fire
+           Philadelphia Union      v Orlando City
+    19.45  Austin FC               v Portland Timbers
+    20.30  Houston Dynamo          v Los Angeles FC
+           Sporting Kansas City    v St. Louis City SC
+    21.30  Vancouver Whitecaps     v Colorado Rapids
+    22.30  San Diego FC            v Seattle Sounders
+  Sun Apr/6
+    15.00  New York City FC        v Minnesota United FC
+    17.00  San Jose Earthquakes    v D.C. United
+    19.00  Inter Miami CF          v Toronto FC
+
+
+» Matchday 8
+  Sat Apr/12
+    14.30  Toronto FC              v Minnesota United FC
+    14.45  Atlanta United FC       v New England Revolution
+    16.30  Orlando City            v New York RB
+    19.30  D.C. United             v FC Cincinnati
+           New York City FC        v Philadelphia Union
+           Vancouver Whitecaps     v Austin FC
+           CF Montréal             v Charlotte FC
+    20.30  FC Dallas               v Seattle Sounders
+           Nashville SC            v Real Salt Lake
+    21.30  Colorado Rapids         v San Diego FC
+    22.30  Los Angeles Galaxy      v Houston Dynamo
+           Los Angeles FC          v San Jose Earthquakes
+  Sun Apr/13
+    14.15  Sporting Kansas City    v Portland Timbers
+    16.30  Chicago Fire            v Inter Miami CF
+    19.00  St. Louis City SC       v Columbus Crew
+
+
+» Matchday 9
+  Sat Apr/19
+    13.30  Austin FC               v Los Angeles Galaxy
+    16.30  Columbus Crew           v Inter Miami CF
+    19.30  CF Montréal             v Orlando City
+           Charlotte FC            v San Diego FC
+           New England Revolution  v New York City FC
+           New York RB             v D.C. United
+           Philadelphia Union      v Atlanta United FC
+           Seattle Sounders        v Nashville SC
+    20.30  Chicago Fire            v FC Cincinnati
+           Houston Dynamo          v Colorado Rapids
+           Minnesota United FC     v FC Dallas
+           St. Louis City SC       v Vancouver Whitecaps
+    21.30  Real Salt Lake          v Toronto FC
+    22.00  Portland Timbers        v Los Angeles FC
+    22.30  San Jose Earthquakes    v Sporting Kansas City
+
+
+» Matchday 10
+  Sat Apr/26
+    14.30  FC Cincinnati           v Sporting Kansas City
+           Toronto FC              v New York City FC
+    16.30  New York RB             v CF Montréal
+           Philadelphia Union      v D.C. United
+    19.00  Orlando City            v Atlanta United FC
+    19.30  Charlotte FC            v New England Revolution
+           Columbus Crew           v San Jose Earthquakes
+           Inter Miami CF          v FC Dallas
+           San Diego FC            v Real Salt Lake
+    20.30  Houston Dynamo          v Austin FC
+           Minnesota United FC     v Vancouver Whitecaps
+           Nashville SC            v Chicago Fire
+    21.30  Colorado Rapids         v Seattle Sounders
+  Sun Apr/27
+    17.00  Los Angeles Galaxy      v Portland Timbers
+    19.00  Los Angeles FC          v St. Louis City SC
+
+
+» Matchday 11
+  Sat May/3
+    14.30  Atlanta United FC       v Nashville SC
+    16.30  Toronto FC              v New England Revolution
+    19.30  CF Montréal             v Philadelphia Union
+           Columbus Crew           v Charlotte FC
+           D.C. United             v Colorado Rapids
+           Inter Miami CF          v New York RB
+    20.30  Austin FC               v Minnesota United FC
+           Chicago Fire            v Orlando City
+    21.00  San Diego FC            v FC Dallas
+    21.30  Vancouver Whitecaps     v Real Salt Lake
+    22.30  Los Angeles FC          v Houston Dynamo
+           San Jose Earthquakes    v Portland Timbers
+           Seattle Sounders        v St. Louis City SC
+  Sun May/4
+    17.00  New York City FC        v FC Cincinnati
+    19.00  Sporting Kansas City    v Los Angeles Galaxy
+
+
+» Matchday 12
+  Sat May/10
+    14.30  Chicago Fire            v Atlanta United FC
+    16.30  Minnesota United FC     v Inter Miami CF
+           Toronto FC              v D.C. United
+    19.30  FC Cincinnati           v Austin FC
+           New York City FC        v CF Montréal
+           New York RB             v Los Angeles Galaxy
+           Orlando City            v New England Revolution
+           Philadelphia Union      v Columbus Crew
+    20.30  FC Dallas               v Real Salt Lake
+           Houston Dynamo          v Seattle Sounders
+           Nashville SC            v Charlotte FC
+           St. Louis City SC       v San Diego FC
+    21.30  Colorado Rapids         v San Jose Earthquakes
+    22.30  Portland Timbers        v Sporting Kansas City
+  Sun May/11
+    19.00  Vancouver Whitecaps     v Los Angeles FC
+
+
+» Matchday 13
+  Wed May/14
+    19.30  CF Montréal             v Columbus Crew
+           D.C. United             v New York City FC
+           Orlando City            v Charlotte FC
+           Philadelphia Union      v Los Angeles Galaxy
+           Toronto FC              v FC Cincinnati
+    20.30  Austin FC               v Atlanta United FC
+           Houston Dynamo          v Minnesota United FC
+           Nashville SC            v New York RB
+           St. Louis City SC       v Sporting Kansas City
+    21.30  Real Salt Lake          v Portland Timbers
+    22.30  Los Angeles FC          v Seattle Sounders
+           San Diego FC            v Colorado Rapids
+           San Jose Earthquakes    v Inter Miami CF
+  Sat May/17
+    14.30  CF Montréal             v Toronto FC
+    16.30  New York City FC        v New York RB
+
+
+» Matchday 14
+  Sat May/17
+    19.00  Columbus Crew           v FC Cincinnati
+    19.30  Atlanta United FC       v Philadelphia Union
+           Charlotte FC            v Chicago Fire
+           New England Revolution  v San Jose Earthquakes
+    20.30  Austin FC               v Vancouver Whitecaps
+           FC Dallas               v Houston Dynamo
+           Minnesota United FC     v St. Louis City SC
+           Nashville SC            v D.C. United
+    21.30  Colorado Rapids         v Real Salt Lake
+           Portland Timbers        v Seattle Sounders
+    22.30  San Diego FC            v Sporting Kansas City
+  Sun May/18
+    19.00  Inter Miami CF          v Orlando City
+    21.00  Los Angeles Galaxy      v Los Angeles FC
+
+
+» Matchday 15
+  Sat May/24
+    15.00  Seattle Sounders        v FC Dallas
+    16.30  San Diego FC            v Los Angeles Galaxy
+    19.30  CF Montréal             v Los Angeles FC
+           Charlotte FC            v Columbus Crew
+           D.C. United             v New York RB
+           Orlando City            v Portland Timbers
+           Philadelphia Union      v Inter Miami CF
+           Toronto FC              v Nashville SC
+    20.30  Minnesota United FC     v Austin FC
+           Sporting Kansas City    v New England Revolution
+    21.30  Colorado Rapids         v St. Louis City SC
+           Real Salt Lake          v Vancouver Whitecaps
+    22.30  San Jose Earthquakes    v Houston Dynamo
+  Sun May/25
+    17.00  New York City FC        v Chicago Fire
+    19.00  Atlanta United FC       v FC Cincinnati
+
+
+» Matchday 16
+  Wed May/28
+    19.30  Atlanta United FC       v Orlando City
+           D.C. United             v New England Revolution
+           FC Cincinnati           v FC Dallas
+           Inter Miami CF          v CF Montréal
+           New York City FC        v Houston Dynamo
+           New York RB             v Charlotte FC
+           Toronto FC              v Philadelphia Union
+    20.00  Columbus Crew           v Nashville SC
+    20.30  Austin FC               v Real Salt Lake
+           Seattle Sounders        v San Diego FC
+    22.00  Los Angeles Galaxy      v San Jose Earthquakes
+    22.30  Los Angeles FC          v Sporting Kansas City
+           Portland Timbers        v Colorado Rapids
+           Vancouver Whitecaps     v Minnesota United FC
+
+
+» Matchday 17
+  Sat May/31
+    14.30  St. Louis City SC       v San Jose Earthquakes
+    16.30  Nashville SC            v New York City FC
+    19.30  CF Montréal             v New England Revolution
+           FC Cincinnati           v D.C. United
+           Inter Miami CF          v Columbus Crew
+           New York RB             v Atlanta United FC
+           Orlando City            v Chicago Fire
+           Toronto FC              v Charlotte FC
+    20.30  FC Dallas               v Philadelphia Union
+           Houston Dynamo          v Sporting Kansas City
+    21.30  Vancouver Whitecaps     v Portland Timbers
+    22.30  Los Angeles FC          v Colorado Rapids
+           Los Angeles Galaxy      v Real Salt Lake
+           San Diego FC            v Austin FC
+  Sun Jun/1
+    18.00  Seattle Sounders        v Minnesota United FC
+
+
+» Matchday 18
+  Sat Jun/7
+    19.30  D.C. United             v Chicago Fire
+    21.30  Colorado Rapids         v Austin FC
+  Sun Jun/8
+    19.00  Portland Timbers        v St. Louis City SC
+    21.00  Vancouver Whitecaps     v Seattle Sounders
+  Thu Jun/12
+    19.30  New York City FC        v Atlanta United FC
+  Fri Jun/13
+    22.30  Los Angeles FC          v Toronto FC
+           Portland Timbers        v San Jose Earthquakes
+  Sat Jun/14
+    16.30  St. Louis City SC       v Los Angeles Galaxy
+    19.30  Columbus Crew           v Vancouver Whitecaps
+           New England Revolution  v FC Cincinnati
+           Philadelphia Union      v Charlotte FC
+    20.30  Austin FC               v New York RB
+           Chicago Fire            v Nashville SC
+           Houston Dynamo          v CF Montréal
+           Minnesota United FC     v San Diego FC
+           Sporting Kansas City    v FC Dallas
+    21.30  Colorado Rapids         v Orlando City
+           Real Salt Lake          v D.C. United
+
+
+» Matchday 19
+  Wed Jun/25
+    19.30  CF Montréal             v FC Cincinnati
+           Columbus Crew           v Atlanta United FC
+           New England Revolution  v Nashville SC
+           Toronto FC              v New York RB
+    20.30  Chicago Fire            v Philadelphia Union
+           FC Dallas               v San Jose Earthquakes
+           Minnesota United FC     v Houston Dynamo
+           Sporting Kansas City    v Charlotte FC
+           St. Louis City SC       v Orlando City
+    21.30  Colorado Rapids         v Los Angeles Galaxy
+           Real Salt Lake          v Los Angeles FC
+    22.30  Vancouver Whitecaps     v San Diego FC
+
+
+» Matchday 20
+  Sat Jun/28
+    19.30  CF Montréal             v New York City FC
+           D.C. United             v Nashville SC
+           Inter Miami CF          v Atlanta United FC
+           New England Revolution  v Colorado Rapids
+           New York RB             v Minnesota United FC
+           Orlando City            v FC Cincinnati
+           Toronto FC              v Portland Timbers
+    20.30  Chicago Fire            v Charlotte FC
+           FC Dallas               v San Diego FC
+           Houston Dynamo          v St. Louis City SC
+           Sporting Kansas City    v Real Salt Lake
+    22.30  Los Angeles FC          v Vancouver Whitecaps
+           San Jose Earthquakes    v Los Angeles Galaxy
+           Seattle Sounders        v Austin FC
+  Sun Jun/29
+    18.00  Columbus Crew           v Philadelphia Union
+
+
+» Matchday 21
+  Thu Jul/3
+    19.30  New York City FC        v Toronto FC
+  Fri Jul/4
+    20.30  FC Dallas               v Minnesota United FC
+    21.30  Colorado Rapids         v Sporting Kansas City
+    22.30  Los Angeles Galaxy      v Vancouver Whitecaps
+  Sat Jul/5
+    19.00  Charlotte FC            v Orlando City
+    19.30  CF Montréal             v Inter Miami CF
+           D.C. United             v Atlanta United FC
+           FC Cincinnati           v Chicago Fire
+    20.30  Austin FC               v Los Angeles FC
+           Nashville SC            v Philadelphia Union
+    21.30  Real Salt Lake          v St. Louis City SC
+    22.30  Portland Timbers        v New England Revolution
+           San Diego FC            v Houston Dynamo
+           San Jose Earthquakes    v New York RB
+  Sun Jul/6
+    17.00  Seattle Sounders        v Columbus Crew
+
+
+» Matchday 22
+  Wed Jul/9
+    19.30  New England Revolution  v Inter Miami CF
+  Sat Jul/12
+    19.30  Charlotte FC            v New York City FC
+           FC Cincinnati           v Columbus Crew
+           Inter Miami CF          v Nashville SC
+           Orlando City            v CF Montréal
+           Philadelphia Union      v New York RB
+           Toronto FC              v Atlanta United FC
+    20.30  Austin FC               v New England Revolution
+           Chicago Fire            v San Diego FC
+           Minnesota United FC     v San Jose Earthquakes
+           Sporting Kansas City    v Seattle Sounders
+    21.30  Colorado Rapids         v Vancouver Whitecaps
+           Real Salt Lake          v Houston Dynamo
+    22.30  Los Angeles Galaxy      v D.C. United
+           Los Angeles FC          v FC Dallas
+  Sun Jul/13
+    19.00  St. Louis City SC       v Portland Timbers
+
+
+» Matchday 23
+  Wed Jul/16
+    19.30  Atlanta United FC       v Chicago Fire
+           Charlotte FC            v D.C. United
+           FC Cincinnati           v Inter Miami CF
+           New York RB             v New England Revolution
+           Orlando City            v New York City FC
+           Philadelphia Union      v CF Montréal
+    20.30  Houston Dynamo          v Vancouver Whitecaps
+           Minnesota United FC     v Los Angeles FC
+           Nashville SC            v Columbus Crew
+    21.30  Seattle Sounders        v Colorado Rapids
+    22.30  Los Angeles Galaxy      v Austin FC
+           Portland Timbers        v Real Salt Lake
+           San Diego FC            v Toronto FC
+           San Jose Earthquakes    v FC Dallas
+
+
+» Matchday 24
+  Sat Jul/19
+    19.30  Atlanta United FC       v Charlotte FC
+           CF Montréal             v Chicago Fire
+           Columbus Crew           v D.C. United
+           New England Revolution  v Orlando City
+           New York RB             v Inter Miami CF
+    20.30  FC Dallas               v St. Louis City SC
+           Houston Dynamo          v Philadelphia Union
+           Nashville SC            v Toronto FC
+           Seattle Sounders        v San Jose Earthquakes
+           Sporting Kansas City    v New York City FC
+    21.30  Real Salt Lake          v FC Cincinnati
+    22.30  Los Angeles FC          v Los Angeles Galaxy
+           Portland Timbers        v Minnesota United FC
+           San Diego FC            v Vancouver Whitecaps
+
+
+» Matchday 25
+  Fri Jul/25
+    19.30  Columbus Crew           v Orlando City
+           New England Revolution  v CF Montréal
+    20.30  FC Dallas               v New York City FC
+           Houston Dynamo          v Los Angeles Galaxy
+    22.30  Los Angeles FC          v Portland Timbers
+           San Diego FC            v Nashville SC
+  Sat Jul/26
+    19.00  Inter Miami CF          v FC Cincinnati
+    19.30  Atlanta United FC       v Seattle Sounders
+           Charlotte FC            v Toronto FC
+           D.C. United             v Austin FC
+           Philadelphia Union      v Colorado Rapids
+    20.30  Chicago Fire            v New York RB
+           St. Louis City SC       v Minnesota United FC
+    21.30  Real Salt Lake          v San Jose Earthquakes
+    22.30  Vancouver Whitecaps     v Sporting Kansas City
+
+
+» Matchday 26
+  Sat Aug/9
+    19.30  CF Montréal             v Atlanta United FC
+           New England Revolution  v D.C. United
+           New York City FC        v Columbus Crew
+           Philadelphia Union      v Toronto FC
+    20.30  Austin FC               v Houston Dynamo
+           Chicago Fire            v Los Angeles FC
+           FC Dallas               v Portland Timbers
+           Sporting Kansas City    v San Diego FC
+           St. Louis City SC       v Nashville SC
+    22.30  San Jose Earthquakes    v Vancouver Whitecaps
+  Sun Aug/10
+    18.00  FC Cincinnati           v Charlotte FC
+           Minnesota United FC     v Colorado Rapids
+           New York RB             v Real Salt Lake
+    20.00  Orlando City            v Inter Miami CF
+    22.00  Los Angeles Galaxy      v Seattle Sounders
+
+
+» Matchday 27
+  Sat Aug/16
+    19.30  CF Montréal             v D.C. United
+           Charlotte FC            v Real Salt Lake
+           Inter Miami CF          v Los Angeles Galaxy
+           New England Revolution  v Los Angeles FC
+           New York RB             v Philadelphia Union
+           Orlando City            v Sporting Kansas City
+           Toronto FC              v Columbus Crew
+    20.30  Austin FC               v FC Dallas
+           Chicago Fire            v St. Louis City SC
+           Minnesota United FC     v Seattle Sounders
+    21.30  Colorado Rapids         v Atlanta United FC
+    22.30  Portland Timbers        v FC Cincinnati
+  Sun Aug/17
+    17.00  New York City FC        v Nashville SC
+    19.00  San Jose Earthquakes    v San Diego FC
+  Mon Aug/18
+    21.00  Vancouver Whitecaps     v Houston Dynamo
+
+
+» Matchday 28
+  Sat Aug/23
+    19.30  CF Montréal             v Austin FC
+           Columbus Crew           v New England Revolution
+           D.C. United             v Inter Miami CF
+           FC Cincinnati           v New York City FC
+           Philadelphia Union      v Chicago Fire
+    20.30  FC Dallas               v Los Angeles FC
+           Houston Dynamo          v San Jose Earthquakes
+           Nashville SC            v Orlando City
+    21.30  Real Salt Lake          v Minnesota United FC
+           Vancouver Whitecaps     v St. Louis City SC
+    22.30  Los Angeles Galaxy      v Colorado Rapids
+           San Diego FC            v Portland Timbers
+  Sun Aug/24
+    17.00  Atlanta United FC       v Toronto FC
+    19.00  Charlotte FC            v New York RB
+    21.00  Seattle Sounders        v Sporting Kansas City
+
+
+» Matchday 29
+  Sat Aug/30
+    19.30  FC Cincinnati           v Philadelphia Union
+           Inter Miami CF          v Chicago Fire
+           New England Revolution  v Charlotte FC
+           New York City FC        v D.C. United
+           New York RB             v Columbus Crew
+           Orlando City            v Vancouver Whitecaps
+           Toronto FC              v CF Montréal
+    20.30  Austin FC               v San Jose Earthquakes
+           Minnesota United FC     v Portland Timbers
+           Nashville SC            v Atlanta United FC
+           Sporting Kansas City    v Colorado Rapids
+           St. Louis City SC       v Houston Dynamo
+    22.30  Los Angeles Galaxy      v FC Dallas
+           Seattle Sounders        v Real Salt Lake
+  Mon Sep/1
+    10.00  Los Angeles FC          v San Diego FC
+
+
+» Matchday 30
+  Sat Sep/6
+    19.00  Sporting Kansas City    v Austin FC
+    20.30  Chicago Fire            v New England Revolution
+           St. Louis City SC       v FC Dallas
+  Sat Sep/13
+    19.30  Atlanta United FC       v Columbus Crew
+           CF Montréal             v St. Louis City SC
+           Charlotte FC            v Inter Miami CF
+           D.C. United             v Orlando City
+           FC Cincinnati           v Nashville SC
+           New England Revolution  v Toronto FC
+           San Jose Earthquakes    v Los Angeles FC
+    20.30  Chicago Fire            v New York City FC
+           FC Dallas               v Austin FC
+           Seattle Sounders        v Los Angeles Galaxy
+    21.30  Colorado Rapids         v Houston Dynamo
+           Real Salt Lake          v Sporting Kansas City
+           Vancouver Whitecaps     v Philadelphia Union
+    22.30  Portland Timbers        v New York RB
+           San Diego FC            v Minnesota United FC
+
+
+» Matchday 31
+  Tue Sep/16
+    19.30  Inter Miami CF          v Seattle Sounders
+  Fri Sep/19
+    19.30  New York City FC        v Charlotte FC
+  Sat Sep/20
+    14.30  Philadelphia Union      v New England Revolution
+    16.30  Atlanta United FC       v San Diego FC
+    19.30  CF Montréal             v New York RB
+           Columbus Crew           v Toronto FC
+           Inter Miami CF          v D.C. United
+           Orlando City            v Nashville SC
+    20.30  Austin FC               v Seattle Sounders
+           FC Dallas               v Colorado Rapids
+           Houston Dynamo          v Portland Timbers
+           Minnesota United FC     v Chicago Fire
+           Sporting Kansas City    v Vancouver Whitecaps
+    22.30  Los Angeles Galaxy      v FC Cincinnati
+           San Jose Earthquakes    v St. Louis City SC
+  Sun Sep/21
+    21.00  Los Angeles FC          v Real Salt Lake
+
+
+» Matchday 32
+  Wed Sep/24
+    19.30  New York City FC        v Inter Miami CF
+  Sat Sep/27
+    14.30  FC Cincinnati           v Orlando City
+    16.30  Toronto FC              v Inter Miami CF
+    19.30  Charlotte FC            v CF Montréal
+           D.C. United             v Philadelphia Union
+           New England Revolution  v Atlanta United FC
+           New York RB             v New York City FC
+    20.30  Chicago Fire            v Columbus Crew
+           Nashville SC            v Houston Dynamo
+           St. Louis City SC       v Los Angeles FC
+    21.30  Colorado Rapids         v Minnesota United FC
+           Real Salt Lake          v Austin FC
+    22.30  Los Angeles Galaxy      v Sporting Kansas City
+           Portland Timbers        v FC Dallas
+           San Diego FC            v San Jose Earthquakes
+           Seattle Sounders        v Vancouver Whitecaps
+
+
+» Matchday 33
+  Sat Oct/4
+    14.30  D.C. United             v Charlotte FC
+    16.30  FC Dallas               v Los Angeles Galaxy
+    19.30  CF Montréal             v Nashville SC
+           Inter Miami CF          v New England Revolution
+           New York RB             v FC Cincinnati
+           Orlando City            v Columbus Crew
+           Philadelphia Union      v New York City FC
+    20.30  Austin FC               v St. Louis City SC
+           Chicago Fire            v Toronto FC
+           Houston Dynamo          v San Diego FC
+           Minnesota United FC     v Sporting Kansas City
+    21.30  Real Salt Lake          v Colorado Rapids
+    22.30  Seattle Sounders        v Portland Timbers
+  Sun Oct/5
+    21.00  Vancouver Whitecaps     v San Jose Earthquakes
+    22.30  Los Angeles FC          v Atlanta United FC
+
+
+» Matchday 34
+  Sat Oct/18
+    18.00  Atlanta United FC       v D.C. United
+           Charlotte FC            v Philadelphia Union
+           Columbus Crew           v New York RB
+           FC Cincinnati           v CF Montréal
+           Nashville SC            v Inter Miami CF
+           New England Revolution  v Chicago Fire
+           New York City FC        v Seattle Sounders
+           Toronto FC              v Orlando City
+    21.00  Colorado Rapids         v Los Angeles FC
+           Los Angeles Galaxy      v Minnesota United FC
+           Portland Timbers        v San Diego FC
+           San Jose Earthquakes    v Austin FC
+           Sporting Kansas City    v Houston Dynamo
+           St. Louis City SC       v Real Salt Lake
+           Vancouver Whitecaps     v FC Dallas

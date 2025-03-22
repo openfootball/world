@@ -1,0 +1,560 @@
+= Major League Soccer 2018
+
+# Date       Sat Mar/3 - Sat Dec/8 2018 (280d)
+# Teams      23
+# Matches    408
+# Stages     Regular Season (391)  Playoffs (17)
+
+
+
+» Matchday 1
+  Sat Mar/3 2018
+    13.00  Toronto FC              v Columbus Crew            0-2 (0-1)
+    15.30  Houston Dynamo          v Atlanta United FC        4-0 (4-0)
+    19.00  Philadelphia Union      v New England Revolution   2-0 (1-0)
+    19.30  Orlando City            v D.C. United              1-1 (0-1)
+    20.00  FC Dallas               v Real Salt Lake           1-1 (0-1)
+    22.30  San Jose Earthquakes    v Minnesota United FC      3-2 (2-0)
+  Sun Mar/4
+    17.00  Seattle Sounders        v Los Angeles FC           0-1 (0-1)
+    18.00  Vancouver Whitecaps     v Impact de Montréal       2-1 (0-0)
+    19.30  Sporting Kansas City    v New York City FC         0-2 (0-1)
+    22.00  Los Angeles Galaxy      v Portland Timbers         2-1 (2-0)
+  Sat Mar/10
+    13.00  Columbus Crew           v Impact de Montréal       3-2 (2-0)
+    13.30  New England Revolution  v Colorado Rapids          2-1 (0-0)
+    15.30  Real Salt Lake          v Los Angeles FC           1-5 (1-2)
+    18.00  Chicago Fire            v Sporting Kansas City     3-4 (0-2)
+           Houston Dynamo          v Vancouver Whitecaps      1-2 (1-1)
+    19.00  New York RB             v Portland Timbers         4-0 (1-0)
+    19.30  Orlando City            v Minnesota United FC      1-2 (1-1)
+  Sun Mar/11
+    15.00  Atlanta United FC       v D.C. United              3-1 (1-0)
+    17.00  New York City FC        v Los Angeles Galaxy       2-1 (2-0)
+  Sat Mar/17
+    13.30  D.C. United             v Houston Dynamo           2-2 (0-2)
+    14.00  Minnesota United FC     v Chicago Fire             2-1 (0-0)
+           Philadelphia Union      v Columbus Crew            0-0
+    15.00  Impact de Montréal      v Toronto FC               1-0 (1-0)
+    15.30  New York City FC        v Orlando City             2-0 (0-0)
+    19.30  Atlanta United FC       v Vancouver Whitecaps      4-1 (1-0)
+    20.30  Sporting Kansas City    v San Jose Earthquakes     3-2 (1-1)
+    21.00  Real Salt Lake          v New York RB              1-0 (1-0)
+  Sun Mar/18
+    17.00  FC Dallas               v Seattle Sounders         3-0 (1-0)
+  Sat Mar/24
+    13.30  New England Revolution  v New York City FC         2-2 (1-0)
+    15.30  FC Dallas               v Portland Timbers         1-1 (1-0)
+    18.00  Columbus Crew           v D.C. United              3-1 (3-1)
+    19.00  New York RB             v Minnesota United FC      3-0 (2-0)
+    21.00  Colorado Rapids         v Sporting Kansas City     2-2 (2-0)
+    22.00  Vancouver Whitecaps     v Los Angeles Galaxy       0-0
+  Fri Mar/30
+    20.00  Toronto FC              v Real Salt Lake           3-1 (2-0)
+  Sat Mar/31
+    13.00  Orlando City            v New York RB              4-3 (2-2)
+    15.00  Columbus Crew           v Vancouver Whitecaps      1-2 (1-0)
+           Los Angeles Galaxy      v Los Angeles FC           4-3 (0-2)
+
+
+» Matchday 2
+  Sat Mar/31
+    18.00  Chicago Fire            v Portland Timbers         2-2 (0-1)
+    20.00  San Jose Earthquakes    v New York City FC         1-2 (1-0)
+           Minnesota United FC     v Atlanta United FC        0-1 (0-1)
+    20.30  Houston Dynamo          v New England Revolution   0-2 (0-1)
+           Sporting Kansas City    v D.C. United              1-0 (1-0)
+    21.00  Colorado Rapids         v Philadelphia Union       3-0 (0-0)
+    22.00  Seattle Sounders        v Impact de Montréal       0-1 (0-0)
+  Fri Apr/6
+    19.30  New England Revolution  v Impact de Montréal       4-0 (2-0)
+  Sat Apr/7
+    17.00  Atlanta United FC       v Los Angeles FC           5-0 (1-0)
+    19.00  Philadelphia Union      v San Jose Earthquakes     1-1 (0-1)
+    20.00  FC Dallas               v Colorado Rapids          1-1 (0-0)
+    20.30  Chicago Fire            v Columbus Crew            1-0 (1-0)
+    21.30  Real Salt Lake          v Vancouver Whitecaps      2-1 (1-0)
+  Sun Apr/8
+    16.00  Orlando City            v Portland Timbers         3-2 (0-1)
+    21.00  Los Angeles Galaxy      v Sporting Kansas City     0-2 (0-0)
+  Wed Apr/11
+    19.00  New York City FC        v Real Salt Lake           4-0 (3-0)
+  Fri Apr/13
+    20.00  Philadelphia Union      v Orlando City             0-2 (0-2)
+    22.00  Vancouver Whitecaps     v Los Angeles FC           0-2 (0-0)
+  Sat Apr/14
+    13.00  New York RB             v Impact de Montréal       3-1 (1-1)
+    15.00  Colorado Rapids         v Toronto FC               2-0 (1-0)
+    15.50  Chicago Fire            v Los Angeles Galaxy       0-1 (0-1)
+    19.00  D.C. United             v Columbus Crew            1-0 (1-0)
+    19.30  New England Revolution  v FC Dallas                0-1 (0-0)
+    22.30  Portland Timbers        v Minnesota United FC      3-2 (2-0)
+           San Jose Earthquakes    v Houston Dynamo           2-2 (1-0)
+  Sun Apr/15
+    16.00  Sporting Kansas City    v Seattle Sounders         2-2 (1-1)
+    18.00  Atlanta United FC       v New York City FC         2-2 (1-1)
+  Fri Apr/20
+    21.00  Sporting Kansas City    v Vancouver Whitecaps      6-0 (3-0)
+  Sat Apr/21
+    13.00  Impact de Montréal      v Los Angeles FC           3-5 (3-1)
+    15.00  Houston Dynamo          v Toronto FC               5-1 (2-0)
+    15.30  New York RB             v Chicago Fire             1-2 (0-1)
+    19.30  Columbus Crew           v New England Revolution   2-2 (2-2)
+           Orlando City            v San Jose Earthquakes     3-2 (2-0)
+    20.00  FC Dallas               v Philadelphia Union       2-0 (0-0)
+    21.00  Real Salt Lake          v Colorado Rapids          3-0 (0-0)
+    22.30  Los Angeles Galaxy      v Atlanta United FC        0-2 (0-1)
+  Sun Apr/22
+    16.00  Seattle Sounders        v Minnesota United FC      3-1 (2-0)
+    18.00  Portland Timbers        v New York City FC         3-0 (2-0)
+  Fri Apr/27
+    22.30  Vancouver Whitecaps     v Real Salt Lake           2-0 (0-0)
+  Sat Apr/28
+    13.00  Atlanta United FC       v Impact de Montréal       4-1 (0-1)
+    15.00  Toronto FC              v Chicago Fire             2-2 (2-0)
+    15.30  Philadelphia Union      v D.C. United              3-2 (1-1)
+    19.30  Columbus Crew           v San Jose Earthquakes     2-1 (1-1)
+           New England Revolution  v Sporting Kansas City     1-0 (1-0)
+    20.00  Minnesota United FC     v Houston Dynamo           2-1 (1-1)
+    22.30  Los Angeles Galaxy      v New York RB              2-3 (0-1)
+  Sun Apr/29
+    16.00  Colorado Rapids         v Orlando City             1-2 (1-0)
+    18.30  New York City FC        v FC Dallas                3-1 (2-1)
+    21.00  Los Angeles FC          v Seattle Sounders         1-0 (0-0)
+
+
+» Matchday 3
+  Fri May/4
+    20.00  Toronto FC              v Philadelphia Union       3-0 (1-0)
+  Sat May/5
+    13.00  Impact de Montréal      v New England Revolution   4-2 (1-0)
+    13.55  New York RB             v New York City FC         4-0 (3-0)
+    14.00  Minnesota United FC     v Vancouver Whitecaps      1-0 (0-0)
+    15.55  Los Angeles FC          v FC Dallas                1-1 (1-0)
+    16.00  Seattle Sounders        v Columbus Crew            0-0
+    20.30  Chicago Fire            v Atlanta United FC        1-2 (0-0)
+           Houston Dynamo          v Los Angeles Galaxy       3-2 (1-1)
+           Sporting Kansas City    v Colorado Rapids          1-0 (1-0)
+    22.30  San Jose Earthquakes    v Portland Timbers         0-1 (0-0)
+  Sun May/6
+    17.00  Orlando City            v Real Salt Lake           3-1 (0-1)
+  Wed May/9
+    19.30  Atlanta United FC       v Sporting Kansas City     0-2 (0-0)
+           Columbus Crew           v Philadelphia Union       1-0 (0-0)
+           Toronto FC              v Seattle Sounders         1-2 (1-1)
+    20.30  Chicago Fire            v Impact de Montréal       1-0 (0-0)
+    22.00  Los Angeles FC          v Minnesota United FC      2-0 (2-0)
+  Fri May/11
+    22.30  Vancouver Whitecaps     v Houston Dynamo           2-2 (1-1)
+  Sat May/12
+    14.00  Minnesota United FC     v San Jose Earthquakes     1-3 (1-1)
+    15.00  Impact de Montréal      v Philadelphia Union       0-2 (0-1)
+    15.30  FC Dallas               v Los Angeles Galaxy       3-2 (2-0)
+    19.30  Columbus Crew           v Chicago Fire             3-0 (1-0)
+           New England Revolution  v Toronto FC               3-2 (2-0)
+    21.00  Colorado Rapids         v New York RB              1-2 (0-1)
+           Real Salt Lake          v D.C. United              3-2 (2-1)
+  Sun May/13
+    16.00  Portland Timbers        v Seattle Sounders         1-0 (0-0)
+    18.00  Orlando City            v Atlanta United FC        1-2 (0-2)
+    20.30  Los Angeles FC          v New York City FC         2-2 (1-1)
+  Wed May/16
+    22.30  Vancouver Whitecaps     v San Jose Earthquakes     2-2 (1-1)
+  Fri May/18
+    20.00  Toronto FC              v Orlando City             2-1 (0-0)
+  Sat May/19
+    13.00  New York City FC        v Colorado Rapids          4-0 (1-0)
+    15.00  Portland Timbers        v Los Angeles FC           2-1 (0-0)
+    16.00  FC Dallas               v Vancouver Whitecaps      2-2 (1-0)
+    19.30  Philadelphia Union      v Real Salt Lake           4-1 (2-0)
+           New England Revolution  v Columbus Crew            0-1 (0-0)
+    22.30  San Jose Earthquakes    v D.C. United              1-3 (1-3)
+  Sun May/20
+    14.00  Minnesota United FC     v Sporting Kansas City     1-1 (1-1)
+    16.00  Chicago Fire            v Houston Dynamo           2-3 (2-1)
+    19.00  Atlanta United FC       v New York RB              1-3 (1-1)
+  Mon May/21
+    15.00  Impact de Montréal      v Los Angeles Galaxy       0-1 (0-0)
+  Fri May/25
+    20.00  Toronto FC              v FC Dallas                0-1 (0-1)
+    20.55  Houston Dynamo          v New York City FC         3-1 (1-1)
+    23.00  Los Angeles Galaxy      v San Jose Earthquakes     1-0 (0-0)
+  Sat May/26
+    17.00  Seattle Sounders        v Real Salt Lake           0-1 (0-0)
+    17.30  Vancouver Whitecaps     v New England Revolution   3-3 (0-1)
+    19.00  New York RB             v Philadelphia Union       0-0
+    19.30  Orlando City            v Chicago Fire             1-2 (1-1)
+    20.00  Minnesota United FC     v Impact de Montréal       2-0 (0-0)
+    21.00  Colorado Rapids         v Portland Timbers         2-3 (1-2)
+    22.00  Los Angeles FC          v D.C. United              1-1 (1-0)
+  Sun May/27
+    18.00  Sporting Kansas City    v Columbus Crew            0-0
+  Wed May/30
+    19.30  Philadelphia Union      v Chicago Fire             3-1 (1-0)
+           New England Revolution  v Atlanta United FC        1-1 (0-1)
+    21.30  Real Salt Lake          v Houston Dynamo           2-1 (1-0)
+    22.30  Los Angeles Galaxy      v FC Dallas                2-3 (0-2)
+
+
+» Matchday 4
+  Fri Jun/1
+    21.00  Colorado Rapids         v Vancouver Whitecaps      1-2 (1-2)
+  Sat Jun/2
+    17.00  Portland Timbers        v Los Angeles Galaxy       1-1 (0-1)
+    19.30  Atlanta United FC       v Philadelphia Union       3-1 (1-0)
+           Columbus Crew           v Toronto FC               3-3 (0-2)
+           Impact de Montréal      v Houston Dynamo           1-0 (1-0)
+           New England Revolution  v New York RB              2-1 (1-1)
+           New York City FC        v Orlando City             3-0 (1-0)
+    20.00  FC Dallas               v Los Angeles FC           2-1 (1-0)
+    20.30  Chicago Fire            v San Jose Earthquakes     2-1 (1-0)
+    21.30  Real Salt Lake          v Seattle Sounders         2-0 (0-0)
+  Sun Jun/3
+    20.30  Sporting Kansas City    v Minnesota United FC      4-1 (3-1)
+  Fri Jun/8
+    20.00  Philadelphia Union      v Toronto FC               0-2 (0-1)
+  Sat Jun/9
+    12.30  New York City FC        v Atlanta United FC        1-1 (0-0)
+    17.00  Columbus Crew           v New York RB              1-1 (1-0)
+    19.00  Vancouver Whitecaps     v Orlando City             5-2 (1-0)
+    20.00  FC Dallas               v Impact de Montréal       2-0 (2-0)
+    20.30  Chicago Fire            v New England Revolution   1-1 (0-0)
+    21.00  Houston Dynamo          v Colorado Rapids          2-0 (2-0)
+    22.00  Seattle Sounders        v D.C. United              2-1 (0-0)
+    22.30  Los Angeles Galaxy      v Real Salt Lake           3-0 (0-0)
+           Portland Timbers        v Sporting Kansas City     0-0
+           San Jose Earthquakes    v Los Angeles FC           3-4 (1-2)
+  Wed Jun/13
+    19.30  Columbus Crew           v Atlanta United FC        0-2 (0-1)
+           Impact de Montréal      v Orlando City             3-0 (1-0)
+    20.00  Toronto FC              v D.C. United              4-4 (0-3)
+           New York RB             v Seattle Sounders         2-1 (1-0)
+    21.00  Colorado Rapids         v Chicago Fire             2-2 (2-2)
+    22.30  San Jose Earthquakes    v New England Revolution   2-2 (1-2)
+  Sat Jun/23
+    17.00  Philadelphia Union      v Vancouver Whitecaps      4-0 (1-0)
+    18.00  New York RB             v FC Dallas                3-0 (2-0)
+    19.50  Orlando City            v Impact de Montréal       0-2 (0-1)
+    20.30  Sporting Kansas City    v Houston Dynamo           3-2 (0-2)
+    21.00  Colorado Rapids         v Minnesota United FC      3-2 (0-1)
+    22.00  Real Salt Lake          v San Jose Earthquakes     1-1 (0-0)
+           Seattle Sounders        v Chicago Fire             1-1 (1-1)
+    22.30  Los Angeles FC          v Columbus Crew            2-0 (2-0)
+  Sun Jun/24
+    16.30  Atlanta United FC       v Portland Timbers         1-1 (0-1)
+    17.00  New York City FC        v Toronto FC               2-1 (0-1)
+  Fri Jun/29
+    20.00  Minnesota United FC     v FC Dallas                0-1 (0-0)
+  Sat Jun/30
+    16.30  Seattle Sounders        v Portland Timbers         2-3 (0-0)
+
+
+» Matchday 5
+  Sat Jun/30
+    19.00  Atlanta United FC       v Orlando City             4-0 (1-0)
+           Impact de Montréal      v Sporting Kansas City     2-0 (0-0)
+    19.30  Columbus Crew           v Real Salt Lake           2-1 (2-0)
+           New England Revolution  v D.C. United              3-2 (2-1)
+    20.00  Chicago Fire            v New York City FC         3-2 (1-2)
+           Los Angeles FC          v Philadelphia Union       4-1 (2-1)
+    22.00  San Jose Earthquakes    v Los Angeles Galaxy       3-3 (2-3)
+  Sun Jul/1
+    17.05  Toronto FC              v New York RB              0-1 (0-1)
+    19.00  Vancouver Whitecaps     v Colorado Rapids          0-1 (0-1)
+  Tue Jul/3
+    21.00  Houston Dynamo          v Los Angeles FC           2-2 (0-1)
+  Wed Jul/4
+    19.00  Minnesota United FC     v Toronto FC               4-3 (2-1)
+    20.00  FC Dallas               v Atlanta United FC        3-2 (1-1)
+    21.00  Colorado Rapids         v Seattle Sounders         1-2 (1-1)
+    22.00  Real Salt Lake          v Sporting Kansas City     4-2 (3-1)
+    22.30  Los Angeles Galaxy      v D.C. United              2-2 (2-1)
+  Sat Jul/7
+    19.00  Philadelphia Union      v Atlanta United FC        0-2 (0-0)
+    19.30  Impact de Montréal      v Colorado Rapids          2-1 (0-0)
+           New England Revolution  v Seattle Sounders         0-0
+    20.30  Sporting Kansas City    v Toronto FC               2-2 (0-1)
+    21.00  Houston Dynamo          v Minnesota United FC      3-0 (1-0)
+    22.00  Real Salt Lake          v FC Dallas                2-0 (1-0)
+    22.30  Los Angeles Galaxy      v Columbus Crew            4-0 (1-0)
+           Vancouver Whitecaps     v Chicago Fire             3-2 (1-1)
+    23.00  Los Angeles FC          v Orlando City             4-1 (2-0)
+           Portland Timbers        v San Jose Earthquakes     2-1 (1-0)
+  Sun Jul/8
+    19.00  New York City FC        v New York RB              1-0 (0-0)
+  Wed Jul/11
+    19.00  New York City FC        v Impact de Montréal       3-0 (0-0)
+    20.30  Chicago Fire            v Philadelphia Union       3-4 (1-2)
+  Sat Jul/14
+    19.00  New York City FC        v Columbus Crew            2-0 (0-0)
+           New York RB             v Sporting Kansas City     3-2 (1-1)
+    19.30  Impact de Montréal      v San Jose Earthquakes     2-0 (1-0)
+           New England Revolution  v Los Angeles Galaxy       2-3 (2-1)
+    20.00  D.C. United             v Vancouver Whitecaps      3-1 (1-0)
+           FC Dallas               v Chicago Fire             3-1 (1-0)
+           Minnesota United FC     v Real Salt Lake           3-2 (0-0)
+           Orlando City            v Toronto FC               2-1 (1-0)
+    21.00  Colorado Rapids         v Houston Dynamo           0-0
+  Sun Jul/15
+    14.00  Atlanta United FC       v Seattle Sounders         1-1 (0-1)
+    18.00  Los Angeles FC          v Portland Timbers         0-0
+  Wed Jul/18
+    20.00  Minnesota United FC     v New England Revolution   2-1 (2-0)
+  Sat Jul/21
+    15.30  Atlanta United FC       v D.C. United              3-1 (1-1)
+    16.00  Seattle Sounders        v Vancouver Whitecaps      2-0 (2-0)
+    19.00  Philadelphia Union      v Los Angeles Galaxy       1-3 (1-0)
+           Chicago Fire            v Toronto FC               1-2 (0-0)
+           New York RB             v New England Revolution   2-0 (0-0)
+    19.30  Columbus Crew           v Orlando City             3-2 (0-1)
+    21.00  Houston Dynamo          v FC Dallas                1-1 (1-1)
+    22.00  Real Salt Lake          v Colorado Rapids          2-2 (2-1)
+    23.00  Portland Timbers        v Impact de Montréal       2-2 (1-2)
+  Sun Jul/22
+    19.00  Minnesota United FC     v Los Angeles FC           5-1 (3-1)
+  Wed Jul/25
+    20.00  D.C. United             v New York RB              0-1 (0-1)
+    21.00  Houston Dynamo          v Philadelphia Union       1-3 (1-1)
+    22.30  San Jose Earthquakes    v Seattle Sounders         0-1 (0-0)
+  Thu Jul/26
+    20.00  Orlando City            v New York City FC         0-2 (0-2)
+    22.30  Los Angeles FC          v Los Angeles Galaxy       2-2 (2-0)
+  Sat Jul/28
+    19.00  New York RB             v Columbus Crew            2-3 (0-3)
+           Toronto FC              v Chicago Fire             3-0 (0-0)
+           Impact de Montréal      v Atlanta United FC        1-2 (0-1)
+    20.00  D.C. United             v Colorado Rapids          2-1 (1-0)
+    21.00  Sporting Kansas City    v FC Dallas                2-3 (0-1)
+    22.00  Vancouver Whitecaps     v Minnesota United FC      4-2 (1-0)
+    22.30  San Jose Earthquakes    v Real Salt Lake           0-0
+    23.00  Portland Timbers        v Houston Dynamo           2-1 (1-1)
+  Sun Jul/29
+    17.00  Seattle Sounders        v New York City FC         3-1 (1-0)
+    21.30  Los Angeles Galaxy      v Orlando City             4-3 (1-2)
+
+
+» Matchday 6
+  Sat Aug/4
+    16.00  Atlanta United FC       v Toronto FC               2-2 (0-1)
+    19.30  Impact de Montréal      v D.C. United              1-1 (1-0)
+           Orlando City            v New England Revolution   3-3 (1-2)
+    20.00  FC Dallas               v San Jose Earthquakes     1-3 (1-1)
+           Minnesota United FC     v Seattle Sounders         1-2 (1-0)
+           New York City FC        v Vancouver Whitecaps      2-2 (1-1)
+    21.00  Colorado Rapids         v Los Angeles Galaxy       2-1 (0-1)
+           Houston Dynamo          v Sporting Kansas City     0-1 (0-0)
+    22.00  Real Salt Lake          v Chicago Fire             2-1 (1-0)
+    23.00  Portland Timbers        v Philadelphia Union       3-0 (0-0)
+  Sun Aug/5
+    18.00  New York RB             v Los Angeles FC           2-1 (1-0)
+  Sat Aug/11
+    19.30  Columbus Crew           v Houston Dynamo           1-0 (0-0)
+           New England Revolution  v Philadelphia Union       2-3 (0-2)
+    20.30  Chicago Fire            v New York RB              0-1 (0-0)
+    21.00  Colorado Rapids         v San Jose Earthquakes     2-1 (1-0)
+    22.00  Real Salt Lake          v Impact de Montréal       1-1 (1-0)
+    22.30  Los Angeles Galaxy      v Minnesota United FC      2-2 (1-0)
+           Los Angeles FC          v Sporting Kansas City     0-2 (0-1)
+    23.00  Portland Timbers        v Vancouver Whitecaps      1-2 (0-2)
+  Sun Aug/12
+    16.00  Toronto FC              v New York City FC         2-3 (1-2)
+    20.00  D.C. United             v Orlando City             3-2 (1-0)
+    22.00  Seattle Sounders        v FC Dallas                2-1 (1-0)
+  Tue Aug/14
+    22.30  Los Angeles Galaxy      v Colorado Rapids          2-2 (0-0)
+  Wed Aug/15
+    20.00  D.C. United             v Portland Timbers         4-1 (1-1)
+    22.00  Los Angeles FC          v Real Salt Lake           2-0 (2-0)
+  Sat Aug/18
+    16.00  Seattle Sounders        v Los Angeles Galaxy       5-0 (2-0)
+    19.00  Philadelphia Union      v New York City FC         2-0 (0-0)
+           Vancouver Whitecaps     v New York RB              2-2 (1-1)
+    19.30  Impact de Montréal      v Chicago Fire             2-1 (1-0)
+    20.00  FC Dallas               v Minnesota United FC      2-0 (1-0)
+    20.30  Sporting Kansas City    v Portland Timbers         3-0 (2-0)
+    21.00  Houston Dynamo          v Real Salt Lake           1-2 (1-0)
+    22.00  San Jose Earthquakes    v Toronto FC               1-1 (0-0)
+  Sun Aug/19
+    16.00  Atlanta United FC       v Columbus Crew            3-1 (1-0)
+    19.30  D.C. United             v New England Revolution   2-0 (1-0)
+    22.00  Los Angeles FC          v Colorado Rapids          2-0 (0-0)
+  Wed Aug/22
+    19.00  New York City FC        v New York RB              1-1 (0-1)
+  Thu Aug/23
+    19.00  Chicago Fire            v Columbus Crew            1-1 (0-0)
+    21.00  Houston Dynamo          v FC Dallas                1-1 (0-0)
+  Fri Aug/24
+    20.00  Orlando City            v Atlanta United FC        1-2 (1-1)
+    22.30  Los Angeles Galaxy      v Los Angeles FC           1-1 (1-0)
+  Sat Aug/25
+    19.00  Philadelphia Union      v New England Revolution   1-0 (0-0)
+    20.00  Toronto FC              v Impact de Montréal       3-1 (3-1)
+    20.30  Sporting Kansas City    v Minnesota United FC      2-0 (0-0)
+    21.00  Colorado Rapids         v Real Salt Lake           0-6 (0-2)
+    22.00  San Jose Earthquakes    v Vancouver Whitecaps      2-3 (2-0)
+  Sun Aug/26
+    19.00  New York RB             v D.C. United              1-0 (0-0)
+    21.30  Portland Timbers        v Seattle Sounders         0-1 (0-0)
+  Wed Aug/29
+    20.00  New York RB             v Houston Dynamo           1-0 (0-0)
+           D.C. United             v Philadelphia Union       0-2 (0-1)
+    22.30  Portland Timbers        v Toronto FC               2-0 (0-0)
+           San Jose Earthquakes    v FC Dallas                4-3 (2-1)
+
+
+» Matchday 7
+  Sat Sep/1
+    16.00  Seattle Sounders        v Sporting Kansas City     3-1 (1-1)
+    19.30  Impact de Montréal      v New York RB              3-0 (2-0)
+           New England Revolution  v Portland Timbers         1-1 (0-0)
+           Orlando City            v Philadelphia Union       2-2 (1-1)
+    20.00  Columbus Crew           v New York City FC         2-1 (0-0)
+           FC Dallas               v Houston Dynamo           4-2 (1-0)
+           Toronto FC              v Los Angeles FC           2-4 (0-1)
+    22.00  Real Salt Lake          v Los Angeles Galaxy       6-2 (2-1)
+           Vancouver Whitecaps     v San Jose Earthquakes     2-1 (1-0)
+  Sun Sep/2
+    19.30  D.C. United             v Atlanta United FC        3-1 (1-1)
+  Wed Sep/5
+    19.00  New York City FC        v New England Revolution   0-1 (0-0)
+  Sat Sep/8
+    16.55  New York City FC        v D.C. United              1-1 (0-0)
+    20.30  Sporting Kansas City    v Orlando City             1-0 (0-0)
+    22.30  Portland Timbers        v Colorado Rapids          2-0 (1-0)
+  Wed Sep/12
+    19.30  D.C. United             v Minnesota United FC      2-1 (0-0)
+  Sat Sep/15
+    15.30  Colorado Rapids         v Atlanta United FC        0-3 (0-3)
+    19.30  Philadelphia Union      v Impact de Montréal       1-4 (1-2)
+           Toronto FC              v Los Angeles Galaxy       5-3 (3-1)
+    20.00  FC Dallas               v Columbus Crew            0-0
+    20.30  Houston Dynamo          v Portland Timbers         4-1 (2-1)
+    21.30  Real Salt Lake          v Minnesota United FC      1-1 (1-0)
+    22.00  Vancouver Whitecaps     v Seattle Sounders         1-2 (1-2)
+    22.30  Los Angeles FC          v New England Revolution   1-1 (0-0)
+           San Jose Earthquakes    v Sporting Kansas City     1-5 (0-3)
+  Sun Sep/16
+    13.00  D.C. United             v New York RB              3-3 (1-1)
+    17.00  Chicago Fire            v Orlando City             4-0 (2-0)
+  Wed Sep/19
+    22.30  Portland Timbers        v Columbus Crew            3-2 (2-1)
+    23.00  San Jose Earthquakes    v Atlanta United FC        3-4 (2-1)
+           Seattle Sounders        v Philadelphia Union       0-1 (0-0)
+  Sat Sep/22
+    15.30  Los Angeles FC          v San Jose Earthquakes     2-0 (1-0)
+    17.00  New York RB             v Toronto FC               2-0 (0-0)
+    19.00  Atlanta United FC       v Real Salt Lake           2-0 (1-0)
+    19.30  Columbus Crew           v Colorado Rapids          2-1 (1-1)
+           Impact de Montréal      v New York City FC         1-1 (1-1)
+           New England Revolution  v Chicago Fire             2-2 (0-1)
+           Orlando City            v Houston Dynamo           0-0
+    20.00  Minnesota United FC     v Portland Timbers         3-2 (3-0)
+  Sun Sep/23
+    13.00  Philadelphia Union      v Sporting Kansas City     2-0 (0-0)
+    19.00  Los Angeles Galaxy      v Seattle Sounders         3-0 (2-0)
+           Vancouver Whitecaps     v FC Dallas                1-2 (0-1)
+  Wed Sep/26
+    19.00  New York City FC        v Chicago Fire             2-0 (0-0)
+  Sat Sep/29
+    15.30  Chicago Fire            v Los Angeles FC           3-1 (2-0)
+    16.00  Seattle Sounders        v Colorado Rapids          4-0 (1-0)
+    19.00  D.C. United             v Impact de Montréal       5-0 (1-0)
+    19.30  Columbus Crew           v Philadelphia Union       0-0
+           Toronto FC              v New England Revolution   4-1 (1-1)
+    20.00  Minnesota United FC     v New York City FC         2-1 (2-0)
+    20.30  Houston Dynamo          v San Jose Earthquakes     3-2 (0-2)
+    22.00  Los Angeles Galaxy      v Vancouver Whitecaps      3-0 (1-0)
+    22.30  Portland Timbers        v FC Dallas                0-0
+  Sun Sep/30
+    13.00  New York RB             v Atlanta United FC        2-0 (1-0)
+    17.00  Sporting Kansas City    v Real Salt Lake           1-1 (0-1)
+
+
+» Matchday 8
+  Sat Oct/6
+    15.00  Impact de Montréal      v Columbus Crew            3-0 (2-0)
+    15.30  Atlanta United FC       v New England Revolution   2-1 (1-0)
+    17.00  Toronto FC              v Vancouver Whitecaps      1-2 (0-1)
+    19.30  Philadelphia Union      v Minnesota United FC      5-1 (4-0)
+    20.00  FC Dallas               v Orlando City             2-0 (0-0)
+    20.30  Sporting Kansas City    v Los Angeles Galaxy       1-1 (0-1)
+    21.00  Colorado Rapids         v Los Angeles FC           0-3 (0-2)
+    21.30  Real Salt Lake          v Portland Timbers         1-4 (0-1)
+    22.30  San Jose Earthquakes    v New York RB              1-3 (0-2)
+  Sun Oct/7
+    13.00  D.C. United             v Chicago Fire             2-1 (0-0)
+  Mon Oct/8
+    22.30  Seattle Sounders        v Houston Dynamo           4-1 (2-0)
+  Fri Oct/12
+    22.00  Los Angeles FC          v Houston Dynamo           4-2 (1-1)
+  Sat Oct/13
+    14.00  Minnesota United FC     v Colorado Rapids          0-2 (0-0)
+    16.55  D.C. United             v FC Dallas                1-0 (0-0)
+    19.30  New England Revolution  v Orlando City             2-0 (0-0)
+  Wed Oct/17
+    19.30  D.C. United             v Toronto FC               1-0 (1-0)
+           Orlando City            v Seattle Sounders         1-2 (0-2)
+    22.00  Vancouver Whitecaps     v Sporting Kansas City     1-4 (1-0)
+  Thu Oct/18
+    21.00  Real Salt Lake          v New England Revolution   4-1 (3-0)
+  Sun Oct/21
+    15.00  Atlanta United FC       v Chicago Fire             2-1 (2-1)
+           D.C. United             v New York City FC         3-1 (2-0)
+           Impact de Montréal      v Toronto FC               2-0 (0-0)
+           Orlando City            v Columbus Crew            2-1 (0-0)
+           Philadelphia Union      v New York RB              0-1 (0-0)
+    17.00  FC Dallas               v Sporting Kansas City     0-3 (0-1)
+           Houston Dynamo          v Seattle Sounders         2-3 (0-1)
+           Los Angeles FC          v Vancouver Whitecaps      2-2 (2-1)
+           Minnesota United FC     v Los Angeles Galaxy       1-3 (0-1)
+           Portland Timbers        v Real Salt Lake           3-0 (1-0)
+           San Jose Earthquakes    v Colorado Rapids          0-0
+  Sun Oct/28
+    16.30  Chicago Fire            v D.C. United              0-0
+           Colorado Rapids         v FC Dallas                2-1 (0-1)
+           Columbus Crew           v Minnesota United FC      3-2 (1-0)
+           Los Angeles Galaxy      v Houston Dynamo           2-3 (2-0)
+           New England Revolution  v Impact de Montréal       1-0 (0-0)
+           New York City FC        v Philadelphia Union       3-1 (3-1)
+           New York RB             v Orlando City             1-0 (0-0)
+           Seattle Sounders        v San Jose Earthquakes     2-1 (0-0)
+           Sporting Kansas City    v Los Angeles FC           2-1 (1-0)
+           Toronto FC              v Atlanta United FC        4-1 (2-0)
+           Vancouver Whitecaps     v Portland Timbers         2-1 (2-0)
+
+
+» Playoffs, Qualifikation
+  Wed Oct/31
+    19.00  New York City FC        v Philadelphia Union       3-1 (2-0)
+    21.30  FC Dallas               v Portland Timbers         1-2 (0-1)
+  Thu Nov/1
+    20.00  D.C. United             v Columbus Crew            2-3 pen. 2-2 a.e.t. (1-1, 1-1)
+    23.00  Los Angeles FC          v Real Salt Lake           2-3 (1-1)
+
+
+» Playoffs, Quarterfinals
+  Sun Nov/4
+    15.00  Columbus Crew           v New York RB              1-0 (0-0)
+    17.30  Portland Timbers        v Seattle Sounders         2-1 (2-1)
+    19.30  New York City FC        v Atlanta United FC        0-1 (0-1)
+    22.00  Real Salt Lake          v Sporting Kansas City     1-1 (0-0)
+  Thu Nov/8
+    22.30  Seattle Sounders        v Portland Timbers         2-4 pen. 3-2 a.e.t. (2-1, 0-0)
+  Sun Nov/11
+    15.00  Sporting Kansas City    v Real Salt Lake           4-2 (2-0)
+    17.30  Atlanta United FC       v New York City FC         3-1 (2-1)
+    19.30  New York RB             v Columbus Crew            3-0 (1-0)
+
+
+» Playoffs, Semifinals
+  Sun Nov/25
+    17.00  Atlanta United FC       v New York RB              3-0 (1-0)
+    19.30  Portland Timbers        v Sporting Kansas City     0-0
+  Thu Nov/29
+    19.30  New York RB             v Atlanta United FC        1-0 (0-0)
+    21.30  Sporting Kansas City    v Portland Timbers         2-3 (1-0)
+
+
+» Playoffs, Final
+  Sat Dec/8
+    20.00  Atlanta United FC       v Portland Timbers         2-0 (1-0)
