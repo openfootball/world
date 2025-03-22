@@ -1,319 +1,301 @@
-= Kazakh Premier League 2024
+= Kazakhstan | Premier League 2024
 
-# Date       Fri Mar/1 - Sat Nov/9 2024 (253d)
+# Date       Fri Mar/1 - Sun Nov/10 2024 (254d)
 # Teams      13
 # Matches    156
 
 
 
-Matchday 1
-[Fri Mar/1]
-  17.00  Kaysar Kyzylorda         1-3 (0-1)  FK Aktobe
-  14.30  FK Astana                2-0 (1-0)  FK Zhenis
-[Sat Mar/2]
-  14.00  FK Yelimay               0-0  FK Atyrau
-  16.30  FK Ordabasy              5-0 (3-0)  Shakter Karaganda
-  19.00  Tobyl Kostanay           2-0 (1-0)  FK Turan
-  14.00  FK Kairat                2-1 (1-0)  FK Kyzylzhar
-
-
-Matchday 2
-[Tue Mar/5]
-  17.00  Zhetysu Taldykorgan      0-2 (0-0)  FK Astana
-[Wed Mar/6]
-  14.30  Kaysar Kyzylorda         0-3 (0-1)  FK Kyzylzhar
-  17.00  FK Atyrau                1-1 (0-0)  FK Ordabasy
-  19.30  Tobyl Kostanay           4-2 (2-1)  FK Yelimay
-[Thu Mar/7]
-  17.00  FK Turan                 0-0  FK Kairat
-  14.30  FK Zhenis                1-0 (1-0)  Shakter Karaganda
-
-
-Matchday 3
-[Sat Mar/30]
-  16.30  FK Atyrau                0-1 (0-0)  Zhetysu Taldykorgan
-  14.00  Shakter Karaganda        0-2 (0-2)  FK Turan
-[Sun Mar/31]
-  14.00  FK Kyzylzhar             0-0  Tobyl Kostanay
-  16.30  FK Astana                0-1 (0-0)  FK Yelimay
-  19.00  FK Ordabasy              1-2 (0-1)  FK Kairat
-  14.00  FK Aktobe                3-0 (2-0)  FK Zhenis
-
-
-Matchday 4
-[Sat Apr/6]
-  14.00  FK Kyzylzhar             4-0 (1-0)  FK Zhenis
-  16.30  FK Yelimay               1-0 (0-0)  Kaysar Kyzylorda
-  19.00  FK Kairat                0-0  Zhetysu Taldykorgan
-[Sun Apr/7]
-  16.30  Shakter Karaganda        1-0 (1-0)  FK Astana
-  19.00  FK Turan                 0-1 (0-1)  FK Ordabasy
-  14.00  FK Aktobe                1-1 (1-0)  FK Atyrau
-
-
-Matchday 5
-[Sat Apr/20]
-  14.00  FK Zhenis                1-0 (1-0)  FK Turan
-  16.30  FK Ordabasy              1-1 (0-1)  FK Kyzylzhar
-  19.00  FK Kairat                1-3 (0-1)  FK Aktobe
-  14.00  Kaysar Kyzylorda         1-1 (0-0)  FK Atyrau
-[Sun Apr/21]
-  16.30  FK Astana                2-2 (1-1)  Tobyl Kostanay
-  19.00  Zhetysu Taldykorgan      1-0 (1-0)  Shakter Karaganda
-
-
-Matchday 6
-[Sat Apr/27]
-  16.30  FK Atyrau                2-0 (0-0)  FK Kyzylzhar
-         FK Turan                 0-2 (0-2)  FK Astana
-  19.00  Kaysar Kyzylorda         1-0 (0-0)  FK Kairat
-  14.00  Tobyl Kostanay           1-1 (1-0)  FK Zhenis
-[Sun Apr/28]
-  16.30  Zhetysu Taldykorgan      2-1 (1-0)  FK Aktobe
-  14.00  FK Yelimay               1-1 (1-1)  FK Ordabasy
-
-
-Matchday 7
-[Sat May/4]
-  14.00  FK Kyzylzhar             0-1 (0-0)  FK Turan
-         FK Zhenis                1-2 (0-0)  FK Yelimay
-  16.30  FK Kairat                1-0 (0-0)  FK Atyrau
-         Tobyl Kostanay           1-0 (1-0)  Zhetysu Taldykorgan
-  19.00  FK Aktobe                1-1 (0-1)  FK Astana
-[Sun May/5]
-  19.00  Shakter Karaganda        0-0  Kaysar Kyzylorda
-
-
-Matchday 8
-[Sat May/11]
-  17.00  FK Turan                 2-3 (1-1)  Zhetysu Taldykorgan
-[Sun May/12]
-  17.00  FK Yelimay               2-1 (1-0)  Shakter Karaganda
-  19.00  FK Astana                1-1 (0-0)  Kaysar Kyzylorda
-         FK Zhenis                0-2 (0-0)  FK Kairat
-  21.00  FK Ordabasy              1-0 (1-0)  Tobyl Kostanay
-  17.00  FK Kyzylzhar             0-2 (0-0)  FK Aktobe
-
-
-Matchday 9
-[Sat May/18]
-  17.00  FK Atyrau                1-0 (1-0)  FK Astana
-  19.00  FK Aktobe                0-0  FK Ordabasy
-  21.00  Kaysar Kyzylorda         1-0 (1-0)  FK Zhenis
-[Sun May/19]
-  17.00  Zhetysu Taldykorgan      0-0  FK Kyzylzhar
-  21.00  FK Yelimay               1-1 (0-0)  FK Kairat
-  17.00  Shakter Karaganda        1-0 (1-0)  Tobyl Kostanay
-
-
-Matchday 10
-[Sat Jun/1]
-  21.00  FK Ordabasy              3-1 (3-1)  Zhetysu Taldykorgan
-  19.00  Tobyl Kostanay           1-2 (0-0)  Kaysar Kyzylorda
-[Sun Jun/2]
-  19.00  FK Kyzylzhar             1-1 (0-0)  FK Yelimay
-         FK Kairat                4-2 (2-1)  Shakter Karaganda
-         FK Turan                 0-1 (0-0)  FK Aktobe
-  21.00  FK Zhenis                0-1 (0-0)  FK Atyrau
-
-
-Matchday 11
-[Sat Jun/15]
-  20.00  Kaysar Kyzylorda         1-1 (1-1)  FK Turan
-         Tobyl Kostanay           1-0 (1-0)  FK Kairat
-  18.00  Shakter Karaganda        0-3 (0-2)  FK Atyrau
-[Sun Jun/16]
-  20.00  FK Astana                0-1 (0-0)  FK Ordabasy
-         FK Yelimay               2-2 (1-1)  FK Aktobe
-  18.00  Zhetysu Taldykorgan      2-2 (0-1)  FK Zhenis
-
-
-Matchday 12
-[Sat Jun/22]
-  18.00  Zhetysu Taldykorgan      1-2 (1-1)  Kaysar Kyzylorda
-         FK Kyzylzhar             0-1 (0-0)  FK Astana
-[Sun Jun/23]
-  18.00  FK Atyrau                0-0  Tobyl Kostanay
-         FK Zhenis                1-3 (1-2)  FK Ordabasy
-  20.00  FK Aktobe                1-0 (0-0)  Shakter Karaganda
-         FK Turan                 2-2 (1-2)  FK Yelimay
-
-
-Matchday 13
-[Sat Jun/29]
-  20.00  FK Astana                1-3 (1-1)  FK Kairat
-         FK Ordabasy              2-1 (0-1)  Kaysar Kyzylorda
-  18.00  FK Kyzylzhar             2-0 (0-0)  Shakter Karaganda
-[Sun Jun/30]
-  20.00  FK Aktobe                3-4 (0-3)  Tobyl Kostanay
-  18.00  FK Yelimay               1-1 (0-0)  Zhetysu Taldykorgan
-[Mon Jul/1]
-  20.00  FK Turan                 2-1 (1-0)  FK Atyrau
-
-
-Matchday 14
-[Sat Jul/13]
-  18.00  Shakter Karaganda        0-0  Zhetysu Taldykorgan
-  20.00  Kaysar Kyzylorda         2-1 (0-1)  FK Yelimay
-[Sun Jul/14]
-  18.00  FK Kairat                1-1 (0-0)  FK Zhenis
-
-
-Matchday 15
-[Sat Jul/27]
-  20.00  FK Yelimay               1-0 (0-0)  FK Zhenis
-  18.00  Shakter Karaganda        0-3 (0-1)  FK Kairat
-[Sun Jul/28]
-  18.00  Zhetysu Taldykorgan      1-1 (0-1)  FK Ordabasy
-  20.00  FK Aktobe                2-0 (1-0)  FK Kyzylzhar
-
-
-Matchday 16
-[Sat Aug/3]
-  20.00  FK Kairat                4-1 (2-0)  FK Yelimay
-  18.00  FK Atyrau                2-2 (0-0)  Kaysar Kyzylorda
-  16.00  FK Kyzylzhar             2-1 (0-0)  Zhetysu Taldykorgan
-[Sun Aug/4]
-  20.00  FK Astana                2-1 (1-0)  FK Turan
-  18.00  FK Zhenis                1-2 (1-1)  FK Aktobe
-
-
-Matchday 14
-[Sun Aug/11]
-  18.00  FK Atyrau                1-1 (0-1)  FK Aktobe
-  20.00  Tobyl Kostanay           1-2 (1-1)  FK Kyzylzhar
-
-
-Matchday 17
-[Sat Aug/17]
-  20.00  FK Yelimay               6-0 (4-0)  FK Turan
-  16.00  FK Kyzylzhar             0-1 (0-1)  FK Kairat
-[Sun Aug/18]
-  18.00  Shakter Karaganda        2-3 (0-1)  FK Ordabasy
-  20.00  FK Aktobe                1-1 (1-0)  Kaysar Kyzylorda
-  18.00  Zhetysu Taldykorgan      0-3 (0-2)  Tobyl Kostanay
-
-
-Matchday 18
-[Sat Aug/24]
-  20.00  Kaysar Kyzylorda         0-0  Zhetysu Taldykorgan
-  18.00  FK Atyrau                1-0 (1-0)  Shakter Karaganda
-         FK Yelimay               2-1 (0-1)  FK Kyzylzhar
-[Sun Aug/25]
-  20.00  FK Ordabasy              1-1 (0-1)  FK Aktobe
-  18.00  FK Kairat                2-2 (1-0)  Tobyl Kostanay
-
-
-Matchday 19
-[Sat Aug/31]
-  20.00  FK Aktobe                1-3 (1-1)  FK Yelimay
-         Kaysar Kyzylorda         2-1 (0-1)  FK Ordabasy
-  18.00  Tobyl Kostanay           1-1 (0-1)  FK Atyrau
-[Sun Sep/1]
-  18.00  Zhetysu Taldykorgan      0-0  FK Turan
-         FK Kairat                0-1 (0-0)  FK Astana
-  20.00  Shakter Karaganda        0-0  FK Zhenis
-
-
-Matchday 20
-[Sat Sep/14]
-  19.00  FK Astana                2-1 (1-1)  FK Kyzylzhar
-         FK Turan                 2-1 (1-0)  Shakter Karaganda
-  17.00  FK Zhenis                1-0 (1-0)  Kaysar Kyzylorda
-[Sun Sep/15]
-  19.00  FK Aktobe                3-0 (2-0)  Zhetysu Taldykorgan
-  17.00  FK Yelimay               2-1 (1-0)  Tobyl Kostanay
-  19.00  FK Ordabasy              1-0 (1-0)  FK Atyrau
-
-
-Matchday 15
-[Wed Sep/18]
-  19.00  Kaysar Kyzylorda         0-1 (0-1)  FK Astana
-
-
-Matchday 21
-[Sat Sep/21]
-  19.00  FK Kairat                1-0 (0-0)  Kaysar Kyzylorda
-  17.00  FK Atyrau                2-1 (0-1)  FK Zhenis
-[Sun Sep/22]
-  17.00  FK Turan                 1-0 (1-0)  FK Kyzylzhar
-  19.00  FK Ordabasy              2-4 (2-2)  FK Astana
-         Tobyl Kostanay           3-0 (1-0)  FK Aktobe
-  17.00  Shakter Karaganda        1-2 (0-2)  FK Yelimay
-
-
-Matchday 14
-[Fri Sep/27]
-  19.00  FK Ordabasy              2-0 (0-0)  FK Turan
-
-
-Matchday 16
-[Sat Sep/28]
-  18.00  Tobyl Kostanay           1-0 (0-0)  Shakter Karaganda
-
-
-Matchday 18
-[Sun Sep/29]
-  18.00  FK Zhenis                1-1 (0-0)  FK Astana
-
-
-Matchday 22
-[Thu Oct/3]
-  14.00  FK Kyzylzhar             0-1 (0-0)  FK Ordabasy
-  16.00  Zhetysu Taldykorgan      2-0 (1-0)  FK Yelimay
-[Fri Oct/4]
-  16.00  FK Zhenis                2-1 (2-0)  Tobyl Kostanay
-         FK Atyrau                3-0 (2-0)  FK Turan
-         FK Aktobe                2-1 (0-0)  FK Kairat
-[Wed Oct/16]
-  18.00  FK Astana                -  Shakter Karaganda
-
-
-Matchday 23
-[Sat Oct/19]
-  FK Zhenis                -  Zhetysu Taldykorgan
-  FK Yelimay               -  FK Astana
-  FK Kyzylzhar             -  FK Atyrau
-  FK Kairat                -  FK Turan
-  Kaysar Kyzylorda         -  Shakter Karaganda
-  Tobyl Kostanay           -  FK Ordabasy
-
-
-Matchday 15
-[Wed Oct/23]
-  16.00  FK Turan                 -  Tobyl Kostanay
-
-
-Matchday 24
-[Sat Oct/26]
-  FK Atyrau                -  FK Yelimay
-  FK Astana                -  FK Aktobe
-  FK Ordabasy              -  FK Zhenis
-  Shakter Karaganda        -  FK Kyzylzhar
-  FK Turan                 -  Kaysar Kyzylorda
-  Zhetysu Taldykorgan      -  FK Kairat
-
-
-Matchday 17
-[Wed Oct/30]
-  19.00  FK Astana                -  FK Atyrau
-
-
-Matchday 25
-[Sat Nov/2]
-  FK Kyzylzhar             -  Kaysar Kyzylorda
-  FK Kairat                -  FK Ordabasy
-  Shakter Karaganda        -  FK Aktobe
-  Tobyl Kostanay           -  FK Astana
-  FK Turan                 -  FK Zhenis
-  Zhetysu Taldykorgan      -  FK Atyrau
-
-
-Matchday 26
-[Sat Nov/9]
-  FK Astana                -  Zhetysu Taldykorgan
-  FK Aktobe                -  FK Turan
-  Kaysar Kyzylorda         -  Tobyl Kostanay
-  FK Ordabasy              -  FK Yelimay
-  FK Zhenis                -  FK Kyzylzhar
-  FK Atyrau                -  FK Kairat
+» Matchday 1
+  Fri Mar/1 2024
+    14.30  FK Astana               v FK Zhenis                2-0 (1-0)
+    17.00  Kaysar Kyzylorda        v FK Aktobe                1-3 (0-1)
+  Sat Mar/2
+    14.00  FK Kairat               v FK Kyzylzhar             2-1 (1-0)
+           FK Yelimay              v FK Atyrau                0-0
+    16.30  FK Ordabasy             v Shakter Karaganda        5-0 (3-0)
+    19.00  Tobyl Kostanay          v FK Turan                 2-0 (1-0)
+
+
+» Matchday 2
+  Tue Mar/5
+    17.00  Zhetysu Taldykorgan     v FK Astana                0-2 (0-0)
+  Wed Mar/6
+    14.30  Kaysar Kyzylorda        v FK Kyzylzhar             0-3 (0-1)
+    17.00  FK Atyrau               v FK Ordabasy              1-1 (0-0)
+    19.30  Tobyl Kostanay          v FK Yelimay               4-2 (2-1)
+  Thu Mar/7
+    14.30  FK Zhenis               v Shakter Karaganda        1-0 (1-0)
+    17.00  FK Turan                v FK Kairat                0-0
+
+
+» Matchday 3
+  Sat Mar/30
+    14.00  Shakter Karaganda       v FK Turan                 0-2 (0-2)
+    16.30  FK Atyrau               v Zhetysu Taldykorgan      0-1 (0-0)
+  Sun Mar/31
+    14.00  FK Aktobe               v FK Zhenis                3-0 (2-0)
+           FK Kyzylzhar            v Tobyl Kostanay           0-0
+    16.30  FK Astana               v FK Yelimay               0-1 (0-0)
+    19.00  FK Ordabasy             v FK Kairat                1-2 (0-1)
+
+
+» Matchday 4
+  Sat Apr/6
+    14.00  FK Kyzylzhar            v FK Zhenis                4-0 (1-0)
+    16.30  FK Yelimay              v Kaysar Kyzylorda         1-0 (0-0)
+    19.00  FK Kairat               v Zhetysu Taldykorgan      0-0
+  Sun Apr/7
+    14.00  FK Aktobe               v FK Atyrau                1-1 (1-0)
+    16.30  Shakter Karaganda       v FK Astana                1-0 (1-0)
+    19.00  FK Turan                v FK Ordabasy              0-1 (0-1)
+
+
+» Matchday 5
+  Sat Apr/20
+    14.00  Kaysar Kyzylorda        v FK Atyrau                1-1 (0-0)
+           FK Zhenis               v FK Turan                 1-0 (1-0)
+    16.30  FK Ordabasy             v FK Kyzylzhar             1-1 (0-1)
+    19.00  FK Kairat               v FK Aktobe                1-3 (0-1)
+  Sun Apr/21
+    16.30  FK Astana               v Tobyl Kostanay           2-2 (1-1)
+    19.00  Zhetysu Taldykorgan     v Shakter Karaganda        1-0 (1-0)
+
+
+» Matchday 6
+  Sat Apr/27
+    14.00  Tobyl Kostanay          v FK Zhenis                1-1 (1-0)
+    16.30  FK Atyrau               v FK Kyzylzhar             2-0 (0-0)
+           FK Turan                v FK Astana                0-2 (0-2)
+    19.00  Kaysar Kyzylorda        v FK Kairat                1-0 (0-0)
+  Sun Apr/28
+    14.00  FK Yelimay              v FK Ordabasy              1-1 (1-1)
+    16.30  Zhetysu Taldykorgan     v FK Aktobe                2-1 (1-0)
+
+
+» Matchday 7
+  Sat May/4
+    14.00  FK Kyzylzhar            v FK Turan                 0-1 (0-0)
+           FK Zhenis               v FK Yelimay               1-2 (0-0)
+    16.30  FK Kairat               v FK Atyrau                1-0 (0-0)
+           Tobyl Kostanay          v Zhetysu Taldykorgan      1-0 (1-0)
+    19.00  FK Aktobe               v FK Astana                1-1 (0-1)
+  Sun May/5
+    19.00  Shakter Karaganda       v Kaysar Kyzylorda         0-0
+
+
+» Matchday 8
+  Sat May/11
+    17.00  FK Turan                v Zhetysu Taldykorgan      2-3 (1-1)
+  Sun May/12
+    17.00  FK Kyzylzhar            v FK Aktobe                0-2 (0-0)
+           FK Yelimay              v Shakter Karaganda        2-1 (1-0)
+    19.00  FK Astana               v Kaysar Kyzylorda         1-1 (0-0)
+           FK Zhenis               v FK Kairat                0-2 (0-0)
+    21.00  FK Ordabasy             v Tobyl Kostanay           1-0 (1-0)
+
+
+» Matchday 9
+  Sat May/18
+    17.00  FK Atyrau               v FK Astana                1-0 (1-0)
+    19.00  FK Aktobe               v FK Ordabasy              0-0
+    21.00  Kaysar Kyzylorda        v FK Zhenis                1-0 (1-0)
+  Sun May/19
+    17.00  Shakter Karaganda       v Tobyl Kostanay           1-0 (1-0)
+           Zhetysu Taldykorgan     v FK Kyzylzhar             0-0
+    21.00  FK Yelimay              v FK Kairat                1-1 (0-0)
+
+
+» Matchday 10
+  Sat Jun/1
+    19.00  Tobyl Kostanay          v Kaysar Kyzylorda         1-2 (0-0)
+    21.00  FK Ordabasy             v Zhetysu Taldykorgan      3-1 (3-1)
+  Sun Jun/2
+    19.00  FK Kyzylzhar            v FK Yelimay               1-1 (0-0)
+           FK Kairat               v Shakter Karaganda        4-2 (2-1)
+           FK Turan                v FK Aktobe                0-1 (0-0)
+    21.00  FK Zhenis               v FK Atyrau                0-1 (0-0)
+
+
+» Matchday 11
+  Sat Jun/15
+    18.00  Shakter Karaganda       v FK Atyrau                0-3 (0-2)
+    20.00  Kaysar Kyzylorda        v FK Turan                 1-1 (1-1)
+           Tobyl Kostanay          v FK Kairat                1-0 (1-0)
+  Sun Jun/16
+    18.00  Zhetysu Taldykorgan     v FK Zhenis                2-2 (0-1)
+    20.00  FK Astana               v FK Ordabasy              0-1 (0-0)
+           FK Yelimay              v FK Aktobe                2-2 (1-1)
+
+
+» Matchday 12
+  Sat Jun/22
+    18.00  FK Kyzylzhar            v FK Astana                0-1 (0-0)
+           Zhetysu Taldykorgan     v Kaysar Kyzylorda         1-2 (1-1)
+  Sun Jun/23
+    18.00  FK Atyrau               v Tobyl Kostanay           0-0
+           FK Zhenis               v FK Ordabasy              1-3 (1-2)
+    20.00  FK Aktobe               v Shakter Karaganda        1-0 (0-0)
+           FK Turan                v FK Yelimay               2-2 (1-2)
+
+
+» Matchday 13
+  Sat Jun/29
+    18.00  FK Kyzylzhar            v Shakter Karaganda        2-0 (0-0)
+    20.00  FK Astana               v FK Kairat                1-3 (1-1)
+           FK Ordabasy             v Kaysar Kyzylorda         2-1 (0-1)
+  Sun Jun/30
+    18.00  FK Yelimay              v Zhetysu Taldykorgan      1-1 (0-0)
+    20.00  FK Aktobe               v Tobyl Kostanay           3-4 (0-3)
+  Mon Jul/1
+    20.00  FK Turan                v FK Atyrau                2-1 (1-0)
+
+
+» Matchday 14
+  Sat Jul/13
+    18.00  Shakter Karaganda       v Zhetysu Taldykorgan      0-0
+    20.00  Kaysar Kyzylorda        v FK Yelimay               2-1 (0-1)
+  Sun Jul/14
+    18.00  FK Kairat               v FK Zhenis                1-1 (0-0)
+  Sun Aug/11
+    18.00  FK Atyrau               v FK Aktobe                1-1 (0-1)
+    20.00  Tobyl Kostanay          v FK Kyzylzhar             1-2 (1-1)
+  Fri Sep/27
+    19.00  FK Ordabasy             v FK Turan                 2-0 (0-0)
+
+
+» Matchday 15
+  Sat Jul/27
+    18.00  Shakter Karaganda       v FK Kairat                0-3 (0-1)
+    20.00  FK Yelimay              v FK Zhenis                1-0 (0-0)
+  Sun Jul/28
+    18.00  Zhetysu Taldykorgan     v FK Ordabasy              1-1 (0-1)
+    20.00  FK Aktobe               v FK Kyzylzhar             2-0 (1-0)
+  Wed Sep/18
+    19.00  Kaysar Kyzylorda        v FK Astana                0-1 (0-1)
+  Wed Oct/23
+    16.00  FK Turan                v Tobyl Kostanay           0-2 (0-1)
+
+
+» Matchday 16
+  Sat Aug/3
+    16.00  FK Kyzylzhar            v Zhetysu Taldykorgan      2-1 (0-0)
+    18.00  FK Atyrau               v Kaysar Kyzylorda         2-2 (0-0)
+    20.00  FK Kairat               v FK Yelimay               4-1 (2-0)
+  Sun Aug/4
+    18.00  FK Zhenis               v FK Aktobe                1-2 (1-1)
+    20.00  FK Astana               v FK Turan                 2-1 (1-0)
+  Sat Sep/28
+    18.00  Tobyl Kostanay          v Shakter Karaganda        1-0 (0-0)
+
+
+» Matchday 17
+  Sat Aug/17
+    16.00  FK Kyzylzhar            v FK Kairat                0-1 (0-1)
+    20.00  FK Yelimay              v FK Turan                 6-0 (4-0)
+  Sun Aug/18
+    18.00  Shakter Karaganda       v FK Ordabasy              2-3 (0-1)
+           Zhetysu Taldykorgan     v Tobyl Kostanay           0-3 (0-2)
+    20.00  FK Aktobe               v Kaysar Kyzylorda         1-1 (1-0)
+  Wed Oct/30
+    19.00  FK Astana               v FK Atyrau                3-2 (0-1)
+
+
+» Matchday 18
+  Sat Aug/24
+    18.00  FK Atyrau               v Shakter Karaganda        1-0 (1-0)
+           FK Yelimay              v FK Kyzylzhar             2-1 (0-1)
+    20.00  Kaysar Kyzylorda        v Zhetysu Taldykorgan      0-0
+  Sun Aug/25
+    18.00  FK Kairat               v Tobyl Kostanay           2-2 (1-0)
+    20.00  FK Ordabasy             v FK Aktobe                1-1 (0-1)
+  Sun Sep/29
+    18.00  FK Zhenis               v FK Astana                1-1 (0-0)
+
+
+» Matchday 19
+  Sat Aug/31
+    18.00  Tobyl Kostanay          v FK Atyrau                1-1 (0-1)
+    20.00  FK Aktobe               v FK Yelimay               1-3 (1-1)
+           Kaysar Kyzylorda        v FK Ordabasy              2-1 (0-1)
+  Sun Sep/1
+    18.00  FK Kairat               v FK Astana                0-1 (0-0)
+           Zhetysu Taldykorgan     v FK Turan                 0-0
+    20.00  Shakter Karaganda       v FK Zhenis                0-0
+
+
+» Matchday 20
+  Sat Sep/14
+    17.00  FK Zhenis               v Kaysar Kyzylorda         1-0 (1-0)
+    19.00  FK Astana               v FK Kyzylzhar             2-1 (1-1)
+           FK Turan                v Shakter Karaganda        2-1 (1-0)
+  Sun Sep/15
+    17.00  FK Yelimay              v Tobyl Kostanay           2-1 (1-0)
+    19.00  FK Aktobe               v Zhetysu Taldykorgan      3-0 (2-0)
+           FK Ordabasy             v FK Atyrau                1-0 (1-0)
+
+
+» Matchday 21
+  Sat Sep/21
+    17.00  FK Atyrau               v FK Zhenis                2-1 (0-1)
+    19.00  FK Kairat               v Kaysar Kyzylorda         1-0 (0-0)
+  Sun Sep/22
+    17.00  Shakter Karaganda       v FK Yelimay               1-2 (0-2)
+           FK Turan                v FK Kyzylzhar             1-0 (1-0)
+    19.00  FK Ordabasy             v FK Astana                2-4 (2-2)
+           Tobyl Kostanay          v FK Aktobe                3-0 (1-0)
+
+
+» Matchday 22
+  Thu Oct/3
+    14.00  FK Kyzylzhar            v FK Ordabasy              0-1 (0-0)
+    16.00  Zhetysu Taldykorgan     v FK Yelimay               2-0 (1-0)
+  Fri Oct/4
+    16.00  FK Atyrau               v FK Turan                 3-0 (2-0)
+           FK Aktobe               v FK Kairat                2-1 (0-0)
+           FK Zhenis               v Tobyl Kostanay           2-1 (2-0)
+  Wed Oct/16
+    18.00  FK Astana               v Shakter Karaganda        3-0 (2-0)
+
+
+» Matchday 23
+  Sat Oct/19
+    14.00  FK Zhenis               v Zhetysu Taldykorgan      1-0 (0-0)
+    16.00  FK Kairat               v FK Turan                 5-1 (3-0)
+    18.00  Tobyl Kostanay          v FK Ordabasy              1-0 (1-0)
+  Sun Oct/20
+    14.00  FK Kyzylzhar            v FK Atyrau                3-2 (1-1)
+    16.00  FK Yelimay              v FK Astana                0-3 (0-2)
+    18.00  Kaysar Kyzylorda        v Shakter Karaganda        5-1 (2-0)
+
+
+» Matchday 24
+  Sat Oct/26
+    14.00  Zhetysu Taldykorgan     v FK Kairat                1-2 (1-1)
+    16.00  FK Atyrau               v FK Yelimay               1-0 (0-0)
+    18.00  FK Ordabasy             v FK Zhenis                1-2 (0-2)
+  Sun Oct/27
+    14.00  Shakter Karaganda       v FK Kyzylzhar             1-1 (1-1)
+    18.00  FK Astana               v FK Aktobe                2-0 (2-0)
+           FK Turan                v Kaysar Kyzylorda         0-1 (0-0)
+
+
+» Matchday 25
+  Sat Nov/2
+    14.00  FK Kyzylzhar            v Kaysar Kyzylorda         6-2 (2-1)
+    16.00  FK Kairat               v FK Ordabasy              2-1 (1-0)
+  Sun Nov/3
+    14.00  Shakter Karaganda       v FK Aktobe                1-3 (0-1)
+    16.00  FK Turan                v FK Zhenis                1-1 (1-0)
+           Zhetysu Taldykorgan     v FK Atyrau                0-2 (0-2)
+    18.00  Tobyl Kostanay          v FK Astana                1-0 (0-0)
+
+
+» Matchday 26
+  Sun Nov/10
+    14.00  FK Atyrau               v FK Kairat                0-1 (0-0)
+           FK Astana               v Zhetysu Taldykorgan      5-0 (5-0)
+           FK Aktobe               v FK Turan                 2-0 (1-0)
+           Kaysar Kyzylorda        v Tobyl Kostanay           2-0 (1-0)
+           FK Ordabasy             v FK Yelimay               2-1 (1-0)
+           FK Zhenis               v FK Kyzylzhar             0-1 (0-0)

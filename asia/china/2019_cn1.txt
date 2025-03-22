@@ -1,427 +1,420 @@
-= Chinese Super League 2019
-
-
-Matchday 1
-[Fri Mar/1]
-  Shandong Luneng Taishan   1-0  Beijing Renhe
-  Shanghai Shenxin          0-4  Shanghai SIPG
-  Guangzhou Evergrande Taobao   3-0  Tianjin Tianhai
-  Wuhan Zall                0-1  Beijing Sinobo Guoan
-[Sat Mar/2]
-  Chongqing Dangdai Lifan   2-2  Guangzhou R&F
-  Shenzhen FC               3-1  Hebei China Fortune
-[Sun Mar/3]
-  Henan Jianye              1-1  Dalian Yifang
-  Jiangsu Suning            3-2  Tianjin TEDA
-
-
-Matchday 2
-[Fri Mar/8]
-  Guangzhou Evergrande Taobao   1-0  Tianjin TEDA
-[Sat Mar/9]
-  Chongqing Dangdai Lifan   0-4  Beijing Sinobo Guoan
-  Shandong Luneng Taishan   2-2  Henan Jianye
-  Shanghai SIPG             3-2  Jiangsu Suning
-  Guangzhou R&F             3-3  Dalian Yifang
-[Sun Mar/10]
-  Wuhan Zall                1-0  Beijing Renhe
-  Shenzhen FC               2-1  Tianjin Tianhai
-  Shanghai Shenxin          1-2  Hebei China Fortune
-
-
-Matchday 3
-[Fri Mar/29]
-  Tianjin TEDA              4-3  Guangzhou R&F
-[Sat Mar/30]
-  Beijing Renhe             0-1  Beijing Sinobo Guoan
-  Dalian Yifang             0-1  Guangzhou Evergrande Taobao
-  Hebei China Fortune       1-2  Shanghai SIPG
-[Sun Mar/31]
-  Tianjin Tianhai           2-4  Shandong Luneng Taishan
-  Henan Jianye              1-2  Shanghai Shenxin
-  Jiangsu Suning            2-1  Wuhan Zall
-  Chongqing Dangdai Lifan   1-0  Shenzhen FC
-
-
-Matchday 4
-[Fri Apr/5]
-  Shanghai SIPG             2-3  Chongqing Dangdai Lifan
-  Shenzhen FC               1-1  Shandong Luneng Taishan
-  Beijing Sinobo Guoan      3-0  Jiangsu Suning
-[Sat Apr/6]
-  Tianjin Tianhai           0-0  Hebei China Fortune
-  Guangzhou Evergrande Taobao   2-0  Guangzhou R&F
-[Sun Apr/7]
-  Dalian Yifang             1-2  Tianjin TEDA
-  Shanghai Shenxin          5-1  Beijing Renhe
-
-
-Matchday 5
-[Fri Apr/12]
-  Guangzhou R&F             2-1  Shanghai Shenxin
-[Sat Apr/13]
-  Chongqing Dangdai Lifan   2-1  Hebei China Fortune
-  Tianjin TEDA              1-1  Tianjin Tianhai
-  Shenzhen FC               0-2  Jiangsu Suning
-[Sun Apr/14]
-  Beijing Renhe             2-1  Guangzhou Evergrande Taobao
-  Shandong Luneng Taishan   0-1  Dalian Yifang
-  Beijing Sinobo Guoan      2-1  Henan Jianye
-  Shanghai SIPG             2-1  Wuhan Zall
-
-
-Matchday 6
-[Fri Apr/19]
-  Tianjin Tianhai           0-0  Shanghai SIPG
-  Guangzhou Evergrande Taobao   2-1  Shandong Luneng Taishan
-[Sat Apr/20]
-  Beijing Renhe             2-2  Shenzhen FC
-  Hebei China Fortune       0-1  Beijing Sinobo Guoan
-  Henan Jianye              2-3  Tianjin TEDA
-[Sun Apr/21]
-  Dalian Yifang             1-1  Chongqing Dangdai Lifan
-  Jiangsu Suning            5-1  Guangzhou R&F
-  Wuhan Zall                1-1  Shanghai Shenxin
-
-
-Matchday 7
-[Fri Apr/26]
-  Guangzhou R&F             3-1  Shenzhen FC
-[Sat Apr/27]
-  Hebei China Fortune       1-1  Beijing Renhe
-  Shanghai Shenxin          2-3  Tianjin Tianhai
-  Henan Jianye              2-1  Jiangsu Suning
-[Sun Apr/28]
-  Tianjin TEDA              0-2  Shanghai SIPG
-  Chongqing Dangdai Lifan   0-1  Guangzhou Evergrande Taobao
-  Shandong Luneng Taishan   3-0  Wuhan Zall
-  Beijing Sinobo Guoan      4-1  Dalian Yifang
-
-
-Matchday 8
-[Sat May/4]
-  Wuhan Zall                1-1  Tianjin TEDA
-  Shanghai SIPG             2-0  Guangzhou R&F
-  Guangzhou Evergrande Taobao   0-1  Beijing Sinobo Guoan
-  Shandong Luneng Taishan   2-0  Hebei China Fortune
-[Sun May/5]
-  Beijing Renhe             1-2  Henan Jianye
-  Shenzhen FC               2-1  Shanghai Shenxin
-  Tianjin Tianhai           3-3  Chongqing Dangdai Lifan
-  Jiangsu Suning            1-1  Dalian Yifang
-
-
-Matchday 9
-[Fri May/10]
-  Tianjin TEDA              1-1  Shanghai Shenxin
-[Sat May/11]
-  Dalian Yifang             1-2  Wuhan Zall
-  Hebei China Fortune       2-3  Henan Jianye
-  Chongqing Dangdai Lifan   2-0  Beijing Renhe
-[Sun May/12]
-  Tianjin Tianhai           1-2  Guangzhou R&F
-  Guangzhou Evergrande Taobao   2-2  Jiangsu Suning
-  Shanghai SIPG             2-1  Shandong Luneng Taishan
-  Beijing Sinobo Guoan      3-0  Shenzhen FC
-
-
-Matchday 10
-[Fri May/17]
-  Henan Jianye              0-1  Shanghai SIPG
-  Beijing Sinobo Guoan      2-1  Tianjin Tianhai
-  Wuhan Zall                2-3  Guangzhou Evergrande Taobao
-  Shanghai Shenxin          1-3  Shandong Luneng Taishan
-[Sat May/18]
-  Guangzhou R&F             3-1  Beijing Renhe
-  Jiangsu Suning            3-1  Chongqing Dangdai Lifan
-[Sun May/19]
-  Tianjin TEDA              2-0  Hebei China Fortune
-  Shenzhen FC               1-2  Dalian Yifang
-
-
-Matchday 11
-[Fri May/24]
-  Chongqing Dangdai Lifan   0-0  Henan Jianye
-[Sat May/25]
-  Beijing Renhe             2-1  Tianjin TEDA
-  Wuhan Zall                2-1  Tianjin Tianhai
-  Hebei China Fortune       3-2  Jiangsu Suning
-[Sun May/26]
-  Dalian Yifang             1-0  Shanghai Shenxin
-  Guangzhou Evergrande Taobao   1-0  Shenzhen FC
-  Shanghai SIPG             2-1  Beijing Sinobo Guoan
-  Shandong Luneng Taishan   3-1  Guangzhou R&F
-
-
-Matchday 12
-[Sat Jun/1]
-  Shanghai Shenxin          0-0  Chongqing Dangdai Lifan
-  Guangzhou R&F             2-2  Hebei China Fortune
-  Wuhan Zall                2-0  Shenzhen FC
-  Shandong Luneng Taishan   1-1  Jiangsu Suning
-  Beijing Renhe             2-0  Tianjin Tianhai
-[Sun Jun/2]
-  Dalian Yifang             1-2  Shanghai SIPG
-  Henan Jianye              2-5  Guangzhou Evergrande Taobao
-  Tianjin TEDA              1-2  Beijing Sinobo Guoan
-
-
-Matchday 4
-[Sat Jun/8]
-  Wuhan Zall                0-0  Henan Jianye
-
-
-Matchday 13
-[Fri Jun/14]
-  Beijing Sinobo Guoan      2-1  Shanghai Shenxin
-  Chongqing Dangdai Lifan   1-1  Shandong Luneng Taishan
-  Shanghai SIPG             0-2  Guangzhou Evergrande Taobao
-[Sat Jun/15]
-  Hebei China Fortune       1-0  Dalian Yifang
-  Guangzhou R&F             3-4  Wuhan Zall
-[Sun Jun/16]
-  Jiangsu Suning            4-1  Beijing Renhe
-  Shenzhen FC               0-0  Tianjin TEDA
-  Tianjin Tianhai           1-1  Henan Jianye
-
-
-Matchday 14
-[Fri Jun/21]
-  Jiangsu Suning            0-1  Shanghai Shenxin
-[Sat Jun/22]
-  Beijing Sinobo Guoan      3-2  Guangzhou R&F
-  Shanghai SIPG             3-0  Beijing Renhe
-  Guangzhou Evergrande Taobao   2-1  Hebei China Fortune
-  Henan Jianye              1-0  Shenzhen FC
-  Tianjin TEDA              2-1  Shandong Luneng Taishan
-[Sun Jun/23]
-  Dalian Yifang             2-2  Tianjin Tianhai
-  Wuhan Zall                2-3  Chongqing Dangdai Lifan
-
-
-Matchday 15
-[Sat Jun/29]
-  Beijing Renhe             1-3  Dalian Yifang
-  Guangzhou R&F             2-0  Henan Jianye
-  Hebei China Fortune       0-2  Wuhan Zall
-  Chongqing Dangdai Lifan   1-0  Tianjin TEDA
-[Sun Jun/30]
-  Tianjin Tianhai           2-2  Jiangsu Suning
-  Shenzhen FC               0-1  Shanghai SIPG
-  Shandong Luneng Taishan   2-0  Beijing Sinobo Guoan
-[Mon Jul/1]
-  Shanghai Shenxin          0-3  Guangzhou Evergrande Taobao
-
-
-Matchday 16
-[Fri Jul/5]
-  Tianjin Tianhai           1-3  Guangzhou Evergrande Taobao
-[Sat Jul/6]
-  Shanghai SIPG             3-1  Shanghai Shenxin
-  Guangzhou R&F             4-2  Chongqing Dangdai Lifan
-  Beijing Sinobo Guoan      3-0  Wuhan Zall
-[Sun Jul/7]
-  Tianjin TEDA              2-1  Jiangsu Suning
-  Dalian Yifang             3-1  Henan Jianye
-  Hebei China Fortune       1-1  Shenzhen FC
-  Beijing Renhe             0-2  Shandong Luneng Taishan
-
-
-Matchday 17
-[Wed Jul/10]
-  Beijing Sinobo Guoan      4-1  Chongqing Dangdai Lifan
-[Thu Jul/11]
-  Tianjin TEDA              0-3  Guangzhou Evergrande Taobao
-[Fri Jul/12]
-  Henan Jianye              3-2  Shandong Luneng Taishan
-  Dalian Yifang             3-2  Guangzhou R&F
-  Hebei China Fortune       2-1  Shanghai Shenxin
-[Sat Jul/13]
-  Beijing Renhe             0-2  Wuhan Zall
-  Jiangsu Suning            0-3  Shanghai SIPG
-  Tianjin Tianhai           2-2  Shenzhen FC
-
-
-Matchday 18
-[Tue Jul/16]
-  Guangzhou R&F             2-1  Tianjin TEDA
-  Shanghai Shenxin          3-2  Henan Jianye
-  Guangzhou Evergrande Taobao   4-1  Dalian Yifang
-[Wed Jul/17]
-  Shandong Luneng Taishan   2-1  Tianjin Tianhai
-  Wuhan Zall                1-1  Jiangsu Suning
-  Shanghai SIPG             3-0  Hebei China Fortune
-  Shenzhen FC               0-2  Chongqing Dangdai Lifan
-  Beijing Sinobo Guoan      2-1  Beijing Renhe
-
-
-Matchday 19
-[Sat Jul/20]
-  Tianjin TEDA              3-3  Dalian Yifang
-  Guangzhou R&F             0-5  Guangzhou Evergrande Taobao
-[Sun Jul/21]
-  Beijing Renhe             1-4  Shanghai Shenxin
-  Hebei China Fortune       2-2  Tianjin Tianhai
-  Henan Jianye              0-0  Wuhan Zall
-  Shandong Luneng Taishan   3-0  Shenzhen FC
-  Jiangsu Suning            1-0  Beijing Sinobo Guoan
-  Chongqing Dangdai Lifan   2-2  Shanghai SIPG
-
-
-Matchday 20
-[Sat Jul/27]
-  Hebei China Fortune       3-0  Chongqing Dangdai Lifan
-  Shanghai Shenxin          5-3  Guangzhou R&F
-  Henan Jianye              1-0  Beijing Sinobo Guoan
-  Dalian Yifang             1-0  Shandong Luneng Taishan
-[Sun Jul/28]
-  Wuhan Zall                1-1  Shanghai SIPG
-  Jiangsu Suning            2-0  Shenzhen FC
-  Tianjin Tianhai           1-0  Tianjin TEDA
-  Guangzhou Evergrande Taobao   3-0  Beijing Renhe
-
-
-Matchday 21
-[Fri Aug/2]
-  Shanghai Shenxin          2-2  Wuhan Zall
-  Shenzhen FC               1-1  Beijing Renhe
-  Chongqing Dangdai Lifan   1-3  Dalian Yifang
-  Guangzhou R&F             2-2  Jiangsu Suning
-  Beijing Sinobo Guoan      2-0  Hebei China Fortune
-[Sat Aug/3]
-  Tianjin TEDA              2-0  Henan Jianye
-  Shandong Luneng Taishan   0-3  Guangzhou Evergrande Taobao
-  Shanghai SIPG             0-0  Tianjin Tianhai
-
-
-Matchday 23
-[Fri Aug/9]
-  Guangzhou R&F             2-2  Shanghai SIPG
-  Dalian Yifang             2-2  Jiangsu Suning
-  Henan Jianye              2-1  Beijing Renhe
-[Sat Aug/10]
-  Tianjin TEDA              2-1  Wuhan Zall
-  Hebei China Fortune       0-3  Shandong Luneng Taishan
-[Sun Aug/11]
-  Chongqing Dangdai Lifan   1-1  Tianjin Tianhai
-  Beijing Sinobo Guoan      1-3  Guangzhou Evergrande Taobao
-
-
-Matchday 22
-[Tue Aug/13]
-  Jiangsu Suning            3-0  Henan Jianye
-[Wed Aug/14]
-  Shanghai SIPG             5-1  Tianjin TEDA
-  Shenzhen FC               4-0  Guangzhou R&F
-  Beijing Renhe             1-2  Hebei China Fortune
-[Thu Aug/15]
-  Guangzhou Evergrande Taobao   1-1  Chongqing Dangdai Lifan
-  Dalian Yifang             0-2  Beijing Sinobo Guoan
-  Wuhan Zall                2-1  Shandong Luneng Taishan
-  Tianjin Tianhai           2-2  Shanghai Shenxin
-
-
-Matchday 24
-[Fri Sep/13]
-  Jiangsu Suning            3-1  Guangzhou Evergrande Taobao
-  Shandong Luneng Taishan   3-1  Shanghai SIPG
-  Shenzhen FC               1-1  Beijing Sinobo Guoan
-[Sat Sep/14]
-  Guangzhou R&F             2-1  Tianjin Tianhai
-  Henan Jianye              4-1  Hebei China Fortune
-[Sun Sep/15]
-  Shanghai Shenxin          0-3  Tianjin TEDA
-  Wuhan Zall                1-0  Dalian Yifang
-
-
-Matchday 25
-[Fri Sep/20]
-  Chongqing Dangdai Lifan   1-2  Jiangsu Suning
-[Sat Sep/21]
-  Dalian Yifang             2-0  Shenzhen FC
-  Shandong Luneng Taishan   2-2  Shanghai Shenxin
-  Hebei China Fortune       2-1  Tianjin TEDA
-[Sun Sep/22]
-  Tianjin Tianhai           0-3  Beijing Sinobo Guoan
-  Shanghai SIPG             2-1  Henan Jianye
-  Guangzhou Evergrande Taobao   0-1  Wuhan Zall
-
-
-Matchday 23
-[Thu Sep/26]
-  Shanghai Shenxin          2-1  Shenzhen FC
-
-
-Matchday 24
-[Sun Oct/13]
-  Beijing Renhe             1-4  Chongqing Dangdai Lifan
-
-
-Matchday 26
-[Fri Oct/18]
-  Tianjin Tianhai           3-1  Wuhan Zall
-  Shenzhen FC               2-3  Guangzhou Evergrande Taobao
-[Sat Oct/19]
-  Guangzhou R&F             1-3  Shandong Luneng Taishan
-  Beijing Sinobo Guoan      0-2  Shanghai SIPG
-[Sun Oct/20]
-  Tianjin TEDA              1-0  Beijing Renhe
-  Jiangsu Suning            4-1  Hebei China Fortune
-  Shanghai Shenxin          2-1  Dalian Yifang
-  Henan Jianye              1-0  Chongqing Dangdai Lifan
-
-
-Matchday 27
-[Fri Oct/25]
-  Chongqing Dangdai Lifan   1-0  Shanghai Shenxin
-[Sat Oct/26]
-  Hebei China Fortune       2-1  Guangzhou R&F
-  Shenzhen FC               4-4  Wuhan Zall
-  Beijing Sinobo Guoan      3-1  Tianjin TEDA
-[Sun Oct/27]
-  Tianjin Tianhai           2-2  Beijing Renhe
-  Shanghai SIPG             3-0  Dalian Yifang
-  Jiangsu Suning            1-1  Shandong Luneng Taishan
-  Guangzhou Evergrande Taobao   2-2  Henan Jianye
-
-
-Matchday 25
-[Fri Nov/1]
-  Beijing Renhe             1-4  Guangzhou R&F
-
-
-Matchday 28
-[Fri Nov/22]
-  Shanghai Shenxin          1-2  Beijing Sinobo Guoan
-  Henan Jianye              2-1  Tianjin Tianhai
-  Shandong Luneng Taishan   2-0  Chongqing Dangdai Lifan
-  Wuhan Zall                2-1  Guangzhou R&F
-[Sat Nov/23]
-  Dalian Yifang             3-3  Hebei China Fortune
-  Beijing Renhe             2-3  Jiangsu Suning
-  Tianjin TEDA              3-0  Shenzhen FC
-  Guangzhou Evergrande Taobao   2-0  Shanghai SIPG
-
-
-Matchday 29
-[Wed Nov/27]
-  Chongqing Dangdai Lifan   0-1  Wuhan Zall
-  Shenzhen FC               3-3  Henan Jianye
-  Hebei China Fortune       1-3  Guangzhou Evergrande Taobao
-  Guangzhou R&F             1-4  Beijing Sinobo Guoan
-  Shanghai Shenxin          1-3  Jiangsu Suning
-  Shandong Luneng Taishan   3-1  Tianjin TEDA
-  Beijing Renhe             1-1  Shanghai SIPG
-  Tianjin Tianhai           5-1  Dalian Yifang
-
-
-Matchday 30
-[Sun Dec/1]
-  Beijing Sinobo Guoan      3-2  Shandong Luneng Taishan
-  Jiangsu Suning            2-0  Tianjin Tianhai
-  Henan Jianye              1-0  Guangzhou R&F
-  Tianjin TEDA              2-0  Chongqing Dangdai Lifan
-  Shanghai SIPG             6-0  Shenzhen FC
-  Dalian Yifang             2-0  Beijing Renhe
-  Guangzhou Evergrande Taobao   3-0  Shanghai Shenxin
-  Wuhan Zall                1-2  Hebei China Fortune
+= China | Super League 2019
+
+# Date       Fri Mar/1 - Sun Dec/1 2019 (275d)
+# Teams      16
+# Matches    240
+
+
+
+» Matchday 1
+  Fri Mar/1 2019
+    18.00  Shandong Taishan        v Beijing Renhe FC         1-0 (0-0)
+    19.35  Guangzhou Evergrande    v Tianjin Tianhai          3-0 (2-0)
+           Shanghai Shenhua        v Shanghai SIPG            0-4 (0-1)
+    20.00  Wuhan Zall FC           v Beijing Guoan            0-1 (0-0)
+  Sat Mar/2
+    15.30  Chongqing Lifan         v Guangzhou R&F            2-2 (1-0)
+    20.00  Shenzhen FC             v Hebei China Fortune      3-1 (1-1)
+  Sun Mar/3
+    15.30  Henan Jianye            v Dalian Yifang FC         1-1 (1-0)
+    19.35  Jiāngsū Sūníng          v Tianjin Teda             3-2 (1-0)
+
+
+» Matchday 2
+  Fri Mar/8
+    19.35  Guangzhou Evergrande    v Tianjin Teda             1-0 (1-0)
+  Sat Mar/9
+    15.30  Shandong Taishan        v Henan Jianye             2-2 (1-1)
+           Chongqing Lifan         v Beijing Guoan            0-4 (0-3)
+    19.35  Guangzhou R&F           v Dalian Yifang FC         3-3 (1-1)
+           Shanghai SIPG           v Jiāngsū Sūníng           3-2 (2-0)
+  Sun Mar/10
+    15.30  Wuhan Zall FC           v Beijing Renhe FC         1-0 (0-0)
+    17.30  Shenzhen FC             v Tianjin Tianhai          2-1 (0-1)
+    19.35  Shanghai Shenhua        v Hebei China Fortune      1-2 (1-1)
+
+
+» Matchday 3
+  Fri Mar/29
+    19.35  Tianjin Teda            v Guangzhou R&F            4-3 (2-1)
+  Sat Mar/30
+    15.30  Beijing Renhe FC        v Beijing Guoan            0-1 (0-0)
+    16.00  Dalian Yifang FC        v Guangzhou Evergrande     0-1 (0-0)
+    19.35  Hebei China Fortune     v Shanghai SIPG            1-2 (0-1)
+  Sun Mar/31
+    15.30  Tianjin Tianhai         v Shandong Taishan         2-4 (1-1)
+    17.30  Henan Jianye            v Shanghai Shenhua         1-2 (0-0)
+    19.35  Chongqing Lifan         v Shenzhen FC              1-0 (1-0)
+           Jiāngsū Sūníng          v Wuhan Zall FC            2-1 (1-0)
+
+
+» Matchday 4
+  Fri Apr/5
+    19.35  Beijing Guoan           v Jiāngsū Sūníng           3-0 (1-0)
+           Shanghai SIPG           v Chongqing Lifan          2-3 (0-2)
+           Shenzhen FC             v Shandong Taishan         1-1 (0-0)
+  Sat Apr/6
+    15.30  Tianjin Tianhai         v Hebei China Fortune      0-0
+    19.35  Guangzhou Evergrande    v Guangzhou R&F            2-0 (1-0)
+  Sun Apr/7
+    15.30  Dalian Yifang FC        v Tianjin Teda             1-2 (0-1)
+    19.35  Shanghai Shenhua        v Beijing Renhe FC         5-1 (3-0)
+  Sat Jun/8
+    19.35  Wuhan Zall FC           v Henan Jianye             0-0
+
+
+» Matchday 5
+  Fri Apr/12
+    19.35  Guangzhou R&F           v Shanghai Shenhua         2-1 (0-0)
+  Sat Apr/13
+    15.30  Chongqing Lifan         v Hebei China Fortune      2-1 (0-0)
+    19.35  Shenzhen FC             v Jiāngsū Sūníng           0-2 (0-2)
+           Tianjin Teda            v Tianjin Tianhai          1-1 (0-1)
+  Sun Apr/14
+    15.30  Beijing Renhe FC        v Guangzhou Evergrande     2-1 (1-1)
+    17.30  Shandong Taishan        v Dalian Yifang FC         0-1 (0-1)
+    19.35  Beijing Guoan           v Henan Jianye             2-1 (0-0)
+           Shanghai SIPG           v Wuhan Zall FC            2-1 (0-0)
+
+
+» Matchday 6
+  Fri Apr/19
+    19.35  Guangzhou Evergrande    v Shandong Taishan         2-1 (1-1)
+           Tianjin Tianhai         v Shanghai SIPG            0-0
+  Sat Apr/20
+    15.30  Beijing Renhe FC        v Shenzhen FC              2-2 (0-1)
+    19.35  Hebei China Fortune     v Beijing Guoan            0-1 (0-0)
+           Henan Jianye            v Tianjin Teda             2-3 (0-2)
+  Sun Apr/21
+    15.30  Dalian Yifang FC        v Chongqing Lifan          1-1 (0-0)
+    17.30  Jiāngsū Sūníng          v Guangzhou R&F            5-1 (3-1)
+    19.35  Wuhan Zall FC           v Shanghai Shenhua         1-1 (1-1)
+
+
+» Matchday 7
+  Fri Apr/26
+    19.35  Guangzhou R&F           v Shenzhen FC              3-1 (2-1)
+  Sat Apr/27
+    15.30  Hebei China Fortune     v Beijing Renhe FC         1-1 (0-1)
+    19.35  Henan Jianye            v Jiāngsū Sūníng           2-1 (1-0)
+           Shanghai Shenhua        v Tianjin Tianhai          2-3 (0-1)
+  Sun Apr/28
+    15.30  Tianjin Teda            v Shanghai SIPG            0-2 (0-1)
+    19.00  Chongqing Lifan         v Guangzhou Evergrande     0-1 (0-1)
+    19.35  Beijing Guoan           v Dalian Yifang FC         4-1 (3-0)
+           Shandong Taishan        v Wuhan Zall FC            3-0 (2-0)
+
+
+» Matchday 8
+  Sat May/4
+    15.30  Wuhan Zall FC           v Tianjin Teda             1-1 (0-1)
+    17.30  Shanghai SIPG           v Guangzhou R&F            2-0 (0-0)
+    19.35  Guangzhou Evergrande    v Beijing Guoan            0-1 (0-0)
+           Shandong Taishan        v Hebei China Fortune      2-0 (2-0)
+  Sun May/5
+    15.30  Beijing Renhe FC        v Henan Jianye             1-2 (1-1)
+    19.35  Jiāngsū Sūníng          v Dalian Yifang FC         1-1 (0-0)
+           Shenzhen FC             v Shanghai Shenhua         2-1 (0-0)
+           Tianjin Tianhai         v Chongqing Lifan          3-3 (0-2)
+
+
+» Matchday 9
+  Fri May/10
+    19.35  Tianjin Teda            v Shanghai Shenhua         1-1 (1-0)
+  Sat May/11
+    15.30  Dalian Yifang FC        v Wuhan Zall FC            1-2 (0-0)
+    19.35  Chongqing Lifan         v Beijing Renhe FC         2-0 (0-0)
+           Hebei China Fortune     v Henan Jianye             2-3 (2-2)
+  Sun May/12
+    15.30  Tianjin Tianhai         v Guangzhou R&F            1-2 (0-1)
+    19.35  Beijing Guoan           v Shenzhen FC              3-0 (2-0)
+           Guangzhou Evergrande    v Jiāngsū Sūníng           2-2 (1-0)
+           Shanghai SIPG           v Shandong Taishan         2-1 (0-1)
+
+
+» Matchday 10
+  Fri May/17
+    18.00  Henan Jianye            v Shanghai SIPG            0-1 (0-1)
+    19.35  Beijing Guoan           v Tianjin Tianhai          2-1 (1-0)
+           Wuhan Zall FC           v Guangzhou Evergrande     2-3 (1-0)
+    20.00  Shanghai Shenhua        v Shandong Taishan         1-3 (1-1)
+  Sat May/18
+    15.30  Guangzhou R&F           v Beijing Renhe FC         3-1 (1-1)
+    19.35  Jiāngsū Sūníng          v Chongqing Lifan          3-1 (0-1)
+  Sun May/19
+    15.30  Tianjin Teda            v Hebei China Fortune      2-0 (0-0)
+    19.35  Shenzhen FC             v Dalian Yifang FC         1-2 (1-0)
+
+
+» Matchday 11
+  Fri May/24
+    19.35  Chongqing Lifan         v Henan Jianye             0-0
+  Sat May/25
+    15.30  Beijing Renhe FC        v Tianjin Teda             2-1 (1-0)
+    19.35  Wuhan Zall FC           v Tianjin Tianhai          2-1 (1-0)
+           Hebei China Fortune     v Jiāngsū Sūníng           3-2 (3-2)
+  Sun May/26
+    15.30  Dalian Yifang FC        v Shanghai Shenhua         1-0 (0-0)
+    17.30  Guangzhou Evergrande    v Shenzhen FC              1-0 (0-0)
+    19.35  Shandong Taishan        v Guangzhou R&F            3-1 (1-0)
+           Shanghai SIPG           v Beijing Guoan            2-1 (1-0)
+
+
+» Matchday 12
+  Sat Jun/1
+    19.35  Beijing Renhe FC        v Tianjin Tianhai          2-0 (1-0)
+           Guangzhou R&F           v Hebei China Fortune      2-2 (0-1)
+           Shandong Taishan        v Jiāngsū Sūníng           1-1 (0-0)
+           Shanghai Shenhua        v Chongqing Lifan          0-0
+           Wuhan Zall FC           v Shenzhen FC              2-0 (1-0)
+  Sun Jun/2
+    15.00  Dalian Yifang FC        v Shanghai SIPG            1-2 (0-2)
+    19.35  Henan Jianye            v Guangzhou Evergrande     2-5 (0-2)
+           Tianjin Teda            v Beijing Guoan            1-2 (1-1)
+
+
+» Matchday 13
+  Fri Jun/14
+    18.00  Beijing Guoan           v Shanghai Shenhua         2-1 (2-0)
+    19.35  Chongqing Lifan         v Shandong Taishan         1-1 (0-0)
+    20.00  Shanghai SIPG           v Guangzhou Evergrande     0-2 (0-1)
+  Sat Jun/15
+    19.35  Hebei China Fortune     v Dalian Yifang FC         1-0 (0-0)
+           Guangzhou R&F           v Wuhan Zall FC            3-4 (2-1)
+  Sun Jun/16
+    19.35  Tianjin Tianhai         v Henan Jianye             1-1 (1-0)
+           Jiāngsū Sūníng          v Beijing Renhe FC         4-1 (0-0)
+           Shenzhen FC             v Tianjin Teda             0-0
+
+
+» Matchday 14
+  Fri Jun/21
+    19.35  Jiāngsū Sūníng          v Shanghai Shenhua         0-1 (0-0)
+  Sat Jun/22
+    17.30  Beijing Guoan           v Guangzhou R&F            3-2 (1-2)
+    19.35  Henan Jianye            v Shenzhen FC              1-0 (0-0)
+           Guangzhou Evergrande    v Hebei China Fortune      2-1 (1-0)
+           Shanghai SIPG           v Beijing Renhe FC         3-0 (0-0)
+           Tianjin Teda            v Shandong Taishan         2-1 (1-0)
+  Sun Jun/23
+    15.30  Dalian Yifang FC        v Tianjin Tianhai          2-2 (2-1)
+    19.35  Wuhan Zall FC           v Chongqing Lifan          2-3 (0-0)
+
+
+» Matchday 15
+  Sat Jun/29
+    19.35  Beijing Renhe FC        v Dalian Yifang FC         1-3 (1-0)
+           Chongqing Lifan         v Tianjin Teda             1-0 (0-0)
+           Guangzhou R&F           v Henan Jianye             2-0 (1-0)
+           Hebei China Fortune     v Wuhan Zall FC            0-2 (0-0)
+  Sun Jun/30
+    19.35  Tianjin Tianhai         v Jiāngsū Sūníng           2-2 (1-0)
+           Shandong Taishan        v Beijing Guoan            2-0 (2-0)
+           Shenzhen FC             v Shanghai SIPG            0-1 (0-0)
+  Mon Jul/1
+    19.35  Shanghai Shenhua        v Guangzhou Evergrande     0-3 (0-2)
+
+
+» Matchday 16
+  Fri Jul/5
+    19.35  Tianjin Tianhai         v Guangzhou Evergrande     1-3 (1-1)
+  Sat Jul/6
+    19.35  Beijing Guoan           v Wuhan Zall FC            3-0 (1-0)
+           Guangzhou R&F           v Chongqing Lifan          4-2 (1-1)
+           Shanghai SIPG           v Shanghai Shenhua         3-1 (1-0)
+  Sun Jul/7
+    17.30  Tianjin Teda            v Jiāngsū Sūníng           2-1 (1-0)
+    19.35  Beijing Renhe FC        v Shandong Taishan         0-2 (0-0)
+           Dalian Yifang FC        v Henan Jianye             3-1 (2-0)
+           Hebei China Fortune     v Shenzhen FC              1-1 (0-0)
+
+
+» Matchday 17
+  Wed Jul/10
+    20.00  Beijing Guoan           v Chongqing Lifan          4-1 (1-1)
+  Thu Jul/11
+    20.00  Tianjin Teda            v Guangzhou Evergrande     0-3 (0-1)
+  Fri Jul/12
+    19.35  Dalian Yifang FC        v Guangzhou R&F            3-2 (1-1)
+           Hebei China Fortune     v Shanghai Shenhua         2-1 (0-1)
+           Henan Jianye            v Shandong Taishan         3-2 (2-0)
+  Sat Jul/13
+    19.35  Beijing Renhe FC        v Wuhan Zall FC            0-2 (0-1)
+           Jiāngsū Sūníng          v Shanghai SIPG            0-3 (0-2)
+           Tianjin Tianhai         v Shenzhen FC              2-2 (1-1)
+
+
+» Matchday 18
+  Tue Jul/16
+    18.00  Guangzhou R&F           v Tianjin Teda             2-1 (2-1)
+    19.35  Shanghai Shenhua        v Henan Jianye             3-2 (2-2)
+    20.00  Guangzhou Evergrande    v Dalian Yifang FC         4-1 (1-1)
+  Wed Jul/17
+    19.35  Beijing Guoan           v Beijing Renhe FC         2-1 (1-0)
+           Shandong Taishan        v Tianjin Tianhai          2-1 (2-0)
+           Shanghai SIPG           v Hebei China Fortune      3-0 (1-0)
+           Shenzhen FC             v Chongqing Lifan          0-2 (0-0)
+           Wuhan Zall FC           v Jiāngsū Sūníng           1-1 (0-1)
+
+
+» Matchday 19
+  Sat Jul/20
+    19.35  Guangzhou R&F           v Guangzhou Evergrande     0-5 (0-2)
+           Tianjin Teda            v Dalian Yifang FC         3-3 (2-1)
+  Sun Jul/21
+    18.00  Beijing Renhe FC        v Shanghai Shenhua         1-4 (0-3)
+    19.35  Hebei China Fortune     v Tianjin Tianhai          2-2 (0-0)
+           Henan Jianye            v Wuhan Zall FC            0-0
+           Shandong Taishan        v Shenzhen FC              3-0 (2-0)
+    20.00  Chongqing Lifan         v Shanghai SIPG            2-2 (1-0)
+           Jiāngsū Sūníng          v Beijing Guoan            1-0 (1-0)
+
+
+» Matchday 20
+  Sat Jul/27
+    17.30  Hebei China Fortune     v Chongqing Lifan          3-0 (1-0)
+    19.35  Dalian Yifang FC        v Shandong Taishan         1-0 (1-0)
+           Henan Jianye            v Beijing Guoan            1-0 (1-0)
+           Shanghai Shenhua        v Guangzhou R&F            5-3 (2-2)
+  Sun Jul/28
+    19.35  Guangzhou Evergrande    v Beijing Renhe FC         3-0 (2-0)
+           Jiāngsū Sūníng          v Shenzhen FC              2-0 (1-0)
+           Tianjin Tianhai         v Tianjin Teda             1-0 (0-0)
+           Wuhan Zall FC           v Shanghai SIPG            1-1 (1-1)
+
+
+» Matchday 21
+  Fri Aug/2
+    19.35  Chongqing Lifan         v Dalian Yifang FC         1-3 (1-1)
+           Shanghai Shenhua        v Wuhan Zall FC            2-2 (2-1)
+           Shenzhen FC             v Beijing Renhe FC         1-1 (1-1)
+    20.00  Beijing Guoan           v Hebei China Fortune      2-0 (0-0)
+           Guangzhou R&F           v Jiāngsū Sūníng           2-2 (1-1)
+  Sat Aug/3
+    18.00  Tianjin Teda            v Henan Jianye             2-0 (0-0)
+    19.35  Shandong Taishan        v Guangzhou Evergrande     0-3 (0-0)
+    20.00  Shanghai SIPG           v Tianjin Tianhai          0-0
+
+
+» Matchday 22
+  Tue Aug/13
+    19.35  Jiāngsū Sūníng          v Henan Jianye             3-0 (0-0)
+  Wed Aug/14
+    19.35  Beijing Renhe FC        v Hebei China Fortune      1-2 (1-1)
+           Shenzhen FC             v Guangzhou R&F            4-0 (1-0)
+           Shanghai SIPG           v Tianjin Teda             5-1 (1-1)
+  Thu Aug/15
+    19.35  Dalian Yifang FC        v Beijing Guoan            0-2 (0-0)
+           Guangzhou Evergrande    v Chongqing Lifan          1-1 (1-1)
+           Tianjin Tianhai         v Shanghai Shenhua         2-2 (0-1)
+           Wuhan Zall FC           v Shandong Taishan         2-1 (2-1)
+
+
+» Matchday 23
+  Fri Aug/9
+    19.35  Dalian Yifang FC        v Jiāngsū Sūníng           2-2 (2-2)
+           Guangzhou R&F           v Shanghai SIPG            2-2 (0-0)
+    20.35  Henan Jianye            v Beijing Renhe FC         2-1 (1-0)
+  Sat Aug/10
+    19.35  Hebei China Fortune     v Shandong Taishan         0-3 (0-0)
+           Tianjin Teda            v Wuhan Zall FC            2-1 (0-0)
+  Sun Aug/11
+    19.35  Beijing Guoan           v Guangzhou Evergrande     1-3 (1-1)
+           Chongqing Lifan         v Tianjin Tianhai          1-1 (1-1)
+  Thu Sep/26
+    19.35  Shanghai Shenhua        v Shenzhen FC              2-1 (1-1)
+
+
+» Matchday 24
+  Fri Sep/13
+    19.35  Jiāngsū Sūníng          v Guangzhou Evergrande     3-1 (1-0)
+           Shandong Taishan        v Shanghai SIPG            3-1 (3-1)
+           Shenzhen FC             v Beijing Guoan            1-1 (1-0)
+  Sat Sep/14
+    19.35  Guangzhou R&F           v Tianjin Tianhai          2-1 (1-1)
+           Henan Jianye            v Hebei China Fortune      4-1 (2-0)
+  Sun Sep/15
+    17.30  Shanghai Shenhua        v Tianjin Teda             0-3 (0-2)
+    19.35  Wuhan Zall FC           v Dalian Yifang FC         1-0 (0-0)
+  Sun Oct/13
+    19.35  Beijing Renhe FC        v Chongqing Lifan          1-4 (1-3)
+
+
+» Matchday 25
+  Fri Sep/20
+    19.35  Chongqing Lifan         v Jiāngsū Sūníng           1-2 (0-0)
+  Sat Sep/21
+    15.30  Dalian Yifang FC        v Shenzhen FC              2-0 (1-0)
+    19.35  Hebei China Fortune     v Tianjin Teda             2-1 (1-1)
+           Shandong Taishan        v Shanghai Shenhua         2-2 (1-2)
+  Sun Sep/22
+    17.30  Tianjin Tianhai         v Beijing Guoan            0-3 (0-2)
+    19.35  Shanghai SIPG           v Henan Jianye             2-1 (1-0)
+    20.00  Guangzhou Evergrande    v Wuhan Zall FC            0-1 (0-0)
+  Fri Nov/1
+    15.30  Beijing Renhe FC        v Guangzhou R&F            1-4 (1-0)
+
+
+» Matchday 26
+  Fri Oct/18
+    19.35  Shenzhen FC             v Guangzhou Evergrande     2-3 (1-2)
+           Tianjin Tianhai         v Wuhan Zall FC            3-1 (2-0)
+  Sat Oct/19
+    17.30  Guangzhou R&F           v Shandong Taishan         1-3 (0-2)
+    19.35  Beijing Guoan           v Shanghai SIPG            0-2 (0-0)
+  Sun Oct/20
+    15.30  Tianjin Teda            v Beijing Renhe FC         1-0 (0-0)
+    19.35  Henan Jianye            v Chongqing Lifan          1-0 (0-0)
+           Jiāngsū Sūníng          v Hebei China Fortune      4-1 (3-0)
+           Shanghai Shenhua        v Dalian Yifang FC         2-1 (2-1)
+
+
+» Matchday 27
+  Fri Oct/25
+    19.35  Chongqing Lifan         v Shanghai Shenhua         1-0 (1-0)
+  Sat Oct/26
+    15.30  Hebei China Fortune     v Guangzhou R&F            2-1 (0-1)
+    19.35  Beijing Guoan           v Tianjin Teda             3-1 (1-0)
+           Shenzhen FC             v Wuhan Zall FC            4-4 (0-3)
+  Sun Oct/27
+    15.30  Tianjin Tianhai         v Beijing Renhe FC         2-2 (0-2)
+    19.35  Guangzhou Evergrande    v Henan Jianye             2-2 (0-2)
+           Jiāngsū Sūníng          v Shandong Taishan         1-1 (0-0)
+           Shanghai SIPG           v Dalian Yifang FC         3-0 (2-0)
+
+
+» Matchday 28
+  Fri Nov/22
+    19.35  Henan Jianye            v Tianjin Tianhai          2-1 (1-1)
+           Shandong Taishan        v Chongqing Lifan          2-0 (1-0)
+           Shanghai Shenhua        v Beijing Guoan            1-2 (0-1)
+           Wuhan Zall FC           v Guangzhou R&F            2-1 (2-0)
+  Sat Nov/23
+    15.30  Beijing Renhe FC        v Jiāngsū Sūníng           2-3 (0-3)
+           Dalian Yifang FC        v Hebei China Fortune      3-3 (1-1)
+           Tianjin Teda            v Shenzhen FC              3-0 (0-0)
+    19.35  Guangzhou Evergrande    v Shanghai SIPG            2-0 (1-0)
+
+
+» Matchday 29
+  Wed Nov/27
+    19.35  Beijing Renhe FC        v Shanghai SIPG            1-1 (0-1)
+           Chongqing Lifan         v Wuhan Zall FC            0-1 (0-1)
+           Guangzhou R&F           v Beijing Guoan            1-4 (1-3)
+           Hebei China Fortune     v Guangzhou Evergrande     1-3 (0-2)
+           Shandong Taishan        v Tianjin Teda             3-1 (2-0)
+           Shanghai Shenhua        v Jiāngsū Sūníng           1-3 (1-1)
+           Shenzhen FC             v Henan Jianye             3-3 (3-2)
+           Tianjin Tianhai         v Dalian Yifang FC         5-1 (4-0)
+
+
+» Matchday 30
+  Sun Dec/1
+    15.00  Beijing Guoan           v Shandong Taishan         3-2 (2-2)
+           Dalian Yifang FC        v Beijing Renhe FC         2-0 (0-0)
+           Guangzhou Evergrande    v Shanghai Shenhua         3-0 (1-0)
+           Henan Jianye            v Guangzhou R&F            1-0 (0-0)
+           Jiāngsū Sūníng          v Tianjin Tianhai          2-0 (1-0)
+           Shanghai SIPG           v Shenzhen FC              6-0 (2-0)
+           Tianjin Teda            v Chongqing Lifan          2-0 (0-0)
+           Wuhan Zall FC           v Hebei China Fortune      1-2 (1-1)

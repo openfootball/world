@@ -1,0 +1,413 @@
+= China | Super League 2024
+
+# Date       Fri Mar/1 - Sat Nov/2 2024 (246d)
+# Teams      16
+# Matches    240
+
+
+
+» Matchday 1
+  Fri Mar/1 2024
+    18.00  Shandong Taishan        v Changchun Yatai          4-2 (3-0)
+    19.35  Qingdao West Coast      v Henan FC                 1-1 (0-1)
+    20.00  Shanghai Port FC        v Wuhan Three Towns        3-1 (1-1)
+  Sat Mar/2
+    15.30  Cangzhou Mighty Lions   v Beijing Guoan            0-2 (0-1)
+           Tianjin Jinmen Tiger    v Nantong Zhiyun           1-1 (0-0)
+    19.35  Chengdu Rongcheng       v Qingdao Hainiu           2-0 (1-0)
+  Sun Mar/3
+    19.35  Zhejiang Professional   v Shenzhen Peng City       1-0 (1-0)
+    20.00  Meizhou Hakka           v Shanghai Shenhua         0-2 (0-0)
+
+
+» Matchday 2
+  Fri Mar/8
+    19.35  Qingdao Hainiu          v Changchun Yatai          0-1 (0-0)
+    20.00  Shanghai Shenhua        v Qingdao West Coast       2-0 (2-0)
+  Sat Mar/9
+    15.30  Henan FC                v Meizhou Hakka            2-2 (1-1)
+    19.35  Shandong Taishan        v Beijing Guoan            0-0
+           Zhejiang Professional   v Shanghai Port FC         0-0
+    20.00  Nantong Zhiyun          v Wuhan Three Towns        1-3 (0-1)
+  Sun Mar/10
+    15.30  Cangzhou Mighty Lions   v Chengdu Rongcheng        1-0 (0-0)
+    20.00  Shenzhen Peng City      v Tianjin Jinmen Tiger     0-4 (0-1)
+
+
+» Matchday 3
+  Fri Mar/29
+    19.35  Shenzhen Peng City      v Cangzhou Mighty Lions    2-2 (2-1)
+  Sat Mar/30
+    15.30  Wuhan Three Towns       v Beijing Guoan            0-1 (0-0)
+    19.00  Chengdu Rongcheng       v Nantong Zhiyun           1-0 (1-0)
+    19.35  Qingdao West Coast      v Qingdao Hainiu           1-0 (1-0)
+    20.00  Shanghai Port FC        v Henan FC                 3-1 (0-0)
+  Sun Mar/31
+    15.30  Changchun Yatai         v Tianjin Jinmen Tiger     0-1 (0-1)
+    19.35  Shandong Taishan        v Shanghai Shenhua         0-3 (0-2)
+    20.00  Meizhou Hakka           v Zhejiang Professional    1-2 (0-0)
+
+
+» Matchday 4
+  Thu Apr/4
+    19.35  Wuhan Three Towns       v Cangzhou Mighty Lions    2-3 (0-1)
+  Fri Apr/5
+    15.30  Changchun Yatai         v Shanghai Shenhua         1-2 (1-1)
+    19.00  Henan FC                v Shenzhen Peng City       0-2 (0-0)
+    19.35  Beijing Guoan           v Shanghai Port FC         2-2 (1-1)
+           Qingdao Hainiu          v Shandong Taishan         0-1 (0-0)
+    20.00  Nantong Zhiyun          v Meizhou Hakka            1-0 (0-0)
+  Sat Apr/6
+    15.30  Tianjin Jinmen Tiger    v Chengdu Rongcheng        2-3 (0-1)
+    19.35  Zhejiang Professional   v Qingdao West Coast       1-2 (0-1)
+
+
+» Matchday 5
+  Tue Apr/9
+    18.00  Nantong Zhiyun          v Shanghai Port FC         0-3 (0-2)
+    19.35  Beijing Guoan           v Shenzhen Peng City       1-2 (0-1)
+           Shandong Taishan        v Henan FC                 2-2 (0-0)
+    20.00  Shanghai Shenhua        v Wuhan Three Towns        4-1 (2-0)
+  Wed Apr/10
+    19.00  Qingdao West Coast      v Tianjin Jinmen Tiger     1-3 (0-0)
+    19.35  Cangzhou Mighty Lions   v Changchun Yatai          2-0 (1-0)
+           Chengdu Rongcheng       v Zhejiang Professional    3-0 (1-0)
+    20.00  Meizhou Hakka           v Qingdao Hainiu           0-0
+
+
+» Matchday 6
+  Sat Apr/13
+    15.30  Henan FC                v Nantong Zhiyun           1-1 (0-0)
+    19.35  Shanghai Shenhua        v Beijing Guoan            1-1 (1-1)
+  Sun Apr/14
+    15.30  Changchun Yatai         v Chengdu Rongcheng        1-2 (1-0)
+    19.00  Tianjin Jinmen Tiger    v Meizhou Hakka            0-0
+    19.35  Cangzhou Mighty Lions   v Qingdao West Coast       3-2 (0-2)
+           Qingdao Hainiu          v Zhejiang Professional    2-0 (1-0)
+           Shanghai Port FC        v Shandong Taishan         4-3 (2-3)
+    20.00  Shenzhen Peng City      v Wuhan Three Towns        1-1 (0-0)
+
+
+» Matchday 7
+  Fri Apr/19
+    20.00  Zhejiang Professional   v Tianjin Jinmen Tiger     3-2 (1-1)
+  Sat Apr/20
+    15.30  Shandong Taishan        v Cangzhou Mighty Lions    4-1 (3-0)
+    19.00  Chengdu Rongcheng       v Shenzhen Peng City       3-1 (1-1)
+    19.35  Wuhan Three Towns       v Changchun Yatai          0-0
+    20.00  Nantong Zhiyun          v Shanghai Shenhua         0-2 (0-1)
+  Sun Apr/21
+    19.00  Henan FC                v Qingdao Hainiu           1-0 (0-0)
+    20.00  Beijing Guoan           v Qingdao West Coast       4-1 (1-0)
+  Tue Jun/18
+    19.35  Meizhou Hakka           v Shanghai Port FC         1-2 (0-0)
+
+
+» Matchday 8
+  Fri Apr/26
+    18.00  Qingdao West Coast      v Nantong Zhiyun           0-2 (0-2)
+    19.00  Shenzhen Peng City      v Qingdao Hainiu           1-3 (0-3)
+    19.35  Cangzhou Mighty Lions   v Henan FC                 2-3 (0-1)
+           Changchun Yatai         v Meizhou Hakka            0-1 (0-0)
+           Wuhan Three Towns       v Tianjin Jinmen Tiger     2-1 (1-1)
+           Zhejiang Professional   v Beijing Guoan            1-2 (0-1)
+    20.00  Chengdu Rongcheng       v Shandong Taishan         0-1 (0-1)
+  Sat Apr/27
+    19.35  Shanghai Port FC        v Shanghai Shenhua         1-1 (0-0)
+
+
+» Matchday 9
+  Tue Apr/30
+    18.00  Shandong Taishan        v Nantong Zhiyun           3-1 (1-1)
+    19.35  Tianjin Jinmen Tiger    v Beijing Guoan            0-1 (0-0)
+    20.00  Meizhou Hakka           v Qingdao West Coast       1-1 (0-1)
+           Zhejiang Professional   v Henan FC                 4-1 (3-1)
+  Wed May/1
+    15.30  Changchun Yatai         v Shenzhen Peng City       1-1 (0-0)
+    18.00  Qingdao Hainiu          v Shanghai Port FC         0-5 (0-2)
+    19.35  Chengdu Rongcheng       v Wuhan Three Towns        2-2 (1-1)
+    20.00  Shanghai Shenhua        v Cangzhou Mighty Lions    4-0 (1-0)
+
+
+» Matchday 10
+  Sat May/4
+    19.35  Qingdao West Coast      v Shandong Taishan         0-0
+    20.00  Henan FC                v Tianjin Jinmen Tiger     1-2 (1-0)
+  Sun May/5
+    15.30  Nantong Zhiyun          v Changchun Yatai          2-3 (1-1)
+    18.00  Shanghai Shenhua        v Zhejiang Professional    4-0 (2-0)
+    19.00  Meizhou Hakka           v Cangzhou Mighty Lions    1-1 (0-1)
+    19.35  Beijing Guoan           v Chengdu Rongcheng        2-1 (2-0)
+           Wuhan Three Towns       v Qingdao Hainiu           1-0 (1-0)
+    20.00  Shenzhen Peng City      v Shanghai Port FC         0-6 (0-3)
+
+
+» Matchday 11
+  Fri May/10
+    19.00  Qingdao Hainiu          v Nantong Zhiyun           2-2 (0-0)
+    19.35  Chengdu Rongcheng       v Henan FC                 4-2 (3-2)
+    20.00  Shanghai Port FC        v Changchun Yatai          5-2 (3-1)
+  Sat May/11
+    19.00  Tianjin Jinmen Tiger    v Shanghai Shenhua         0-0
+    19.35  Wuhan Three Towns       v Shandong Taishan         1-2 (0-1)
+    20.00  Beijing Guoan           v Meizhou Hakka            3-2 (0-2)
+  Sun May/12
+    19.35  Cangzhou Mighty Lions   v Zhejiang Professional    0-1 (0-0)
+    20.00  Shenzhen Peng City      v Qingdao West Coast       1-2 (1-1)
+
+
+» Matchday 12
+  Wed May/15
+    19.35  Shanghai Shenhua        v Qingdao Hainiu           2-0 (0-0)
+  Thu May/16
+    19.35  Shandong Taishan        v Shenzhen Peng City       3-2 (2-1)
+  Fri May/17
+    19.00  Zhejiang Professional   v Nantong Zhiyun           5-2 (3-1)
+    19.35  Cangzhou Mighty Lions   v Tianjin Jinmen Tiger     2-4 (0-1)
+           Henan FC                v Wuhan Three Towns        2-3 (1-2)
+           Meizhou Hakka           v Chengdu Rongcheng        1-4 (0-1)
+    20.00  Changchun Yatai         v Beijing Guoan            3-2 (1-1)
+  Sat May/18
+    19.35  Qingdao West Coast      v Shanghai Port FC         3-5 (1-3)
+
+
+» Matchday 13
+  Tue May/21
+    19.00  Meizhou Hakka           v Shenzhen Peng City       0-0
+    19.35  Henan FC                v Shanghai Shenhua         1-2 (0-2)
+           Qingdao Hainiu          v Beijing Guoan            1-1 (0-0)
+           Zhejiang Professional   v Wuhan Three Towns        3-1 (2-1)
+    20.00  Nantong Zhiyun          v Cangzhou Mighty Lions    1-1 (0-0)
+           Tianjin Jinmen Tiger    v Shandong Taishan         1-1 (1-0)
+  Wed May/22
+    19.35  Qingdao West Coast      v Changchun Yatai          2-2 (0-2)
+    20.00  Shanghai Port FC        v Chengdu Rongcheng        2-0 (0-0)
+
+
+» Matchday 14
+  Sat May/25
+    19.35  Shandong Taishan        v Zhejiang Professional    3-0 (3-0)
+    20.00  Wuhan Three Towns       v Meizhou Hakka            0-1 (0-0)
+  Sun May/26
+    18.00  Shenzhen Peng City      v Shanghai Shenhua         0-1 (0-1)
+    19.00  Beijing Guoan           v Nantong Zhiyun           5-2 (2-1)
+           Qingdao Hainiu          v Tianjin Jinmen Tiger     3-1 (2-0)
+    19.35  Changchun Yatai         v Henan FC                 0-0
+           Chengdu Rongcheng       v Qingdao West Coast       7-0 (3-0)
+    20.00  Shanghai Port FC        v Cangzhou Mighty Lions    4-1 (1-1)
+
+
+» Matchday 15
+  Fri Jun/14
+    19.35  Meizhou Hakka           v Shandong Taishan         0-0
+    20.00  Nantong Zhiyun          v Shenzhen Peng City       0-1 (0-0)
+           Tianjin Jinmen Tiger    v Shanghai Port FC         0-3 (0-2)
+  Sat Jun/15
+    19.35  Zhejiang Professional   v Changchun Yatai          3-1 (0-1)
+    20.00  Henan FC                v Beijing Guoan            2-1 (0-1)
+  Sun Jun/16
+    19.00  Cangzhou Mighty Lions   v Qingdao Hainiu           0-1 (0-1)
+    19.35  Shanghai Shenhua        v Chengdu Rongcheng        1-1 (1-1)
+    20.00  Qingdao West Coast      v Wuhan Three Towns        0-1 (0-1)
+
+
+» Matchday 16
+  Tue Jun/25
+    19.00  Henan FC                v Qingdao West Coast       1-0 (0-0)
+    19.35  Nantong Zhiyun          v Tianjin Jinmen Tiger     1-1 (1-0)
+           Shenzhen Peng City      v Zhejiang Professional    3-2 (0-1)
+    20.00  Wuhan Three Towns       v Shanghai Port FC         0-2 (0-2)
+  Wed Jun/26
+    19.00  Shanghai Shenhua        v Meizhou Hakka            3-0 (1-0)
+    19.35  Changchun Yatai         v Shandong Taishan         2-2 (1-2)
+           Qingdao Hainiu          v Chengdu Rongcheng        1-5 (1-2)
+    20.00  Beijing Guoan           v Cangzhou Mighty Lions    4-0 (2-0)
+
+
+» Matchday 17
+  Sat Jun/29
+    19.00  Wuhan Three Towns       v Nantong Zhiyun           1-2 (0-1)
+    19.35  Shanghai Port FC        v Zhejiang Professional    3-1 (1-1)
+           Tianjin Jinmen Tiger    v Shenzhen Peng City       3-0 (1-0)
+  Sun Jun/30
+    18.00  Qingdao West Coast      v Shanghai Shenhua         0-1 (0-0)
+    19.35  Changchun Yatai         v Qingdao Hainiu           5-0 (2-0)
+           Chengdu Rongcheng       v Cangzhou Mighty Lions    4-0 (2-0)
+           Meizhou Hakka           v Henan FC                 0-3 (0-0)
+    20.00  Beijing Guoan           v Shandong Taishan         2-0 (2-0)
+
+
+» Matchday 18
+  Fri Jul/5
+    19.35  Henan FC                v Shanghai Port FC         0-1 (0-1)
+  Sat Jul/6
+    19.00  Tianjin Jinmen Tiger    v Changchun Yatai          2-2 (2-0)
+    19.35  Shanghai Shenhua        v Shandong Taishan         6-0 (3-0)
+    20.00  Cangzhou Mighty Lions   v Shenzhen Peng City       1-1 (1-1)
+  Sun Jul/7
+    19.00  Nantong Zhiyun          v Chengdu Rongcheng        0-1 (0-0)
+    19.35  Beijing Guoan           v Wuhan Three Towns        1-2 (0-1)
+           Qingdao Hainiu          v Qingdao West Coast       3-1 (3-1)
+    20.00  Zhejiang Professional   v Meizhou Hakka            4-0 (3-0)
+
+
+» Matchday 19
+  Fri Jul/12
+    19.35  Cangzhou Mighty Lions   v Wuhan Three Towns        1-1 (1-1)
+           Shanghai Port FC        v Beijing Guoan            5-1 (3-1)
+    20.00  Chengdu Rongcheng       v Tianjin Jinmen Tiger     2-1 (1-1)
+  Sat Jul/13
+    14.30  Qingdao West Coast      v Zhejiang Professional    5-2 (1-2)
+    19.35  Meizhou Hakka           v Nantong Zhiyun           2-1 (0-1)
+           Shandong Taishan        v Qingdao Hainiu           1-1 (1-1)
+    20.00  Shanghai Shenhua        v Changchun Yatai          3-2 (1-1)
+           Shenzhen Peng City      v Henan FC                 0-0
+
+
+» Matchday 20
+  Fri Jul/26
+    19.35  Shanghai Port FC        v Nantong Zhiyun           8-1 (4-0)
+    20.00  Shenzhen Peng City      v Beijing Guoan            1-0 (0-0)
+  Sat Jul/27
+    19.00  Changchun Yatai         v Cangzhou Mighty Lions    1-0 (0-0)
+    19.35  Tianjin Jinmen Tiger    v Qingdao West Coast       2-1 (1-0)
+  Sun Jul/28
+    19.35  Qingdao Hainiu          v Meizhou Hakka            4-2 (2-1)
+           Zhejiang Professional   v Chengdu Rongcheng        1-3 (1-1)
+    20.00  Henan FC                v Shandong Taishan         1-0 (1-0)
+  Mon Jul/29
+    19.35  Wuhan Three Towns       v Shanghai Shenhua         0-2 (0-1)
+
+
+» Matchday 21
+  Fri Aug/2
+    19.35  Qingdao West Coast      v Cangzhou Mighty Lions    1-1 (0-0)
+  Sat Aug/3
+    19.00  Zhejiang Professional   v Qingdao Hainiu           4-3 (2-1)
+    19.35  Meizhou Hakka           v Tianjin Jinmen Tiger     3-2 (1-0)
+           Shandong Taishan        v Shanghai Port FC         0-1 (0-0)
+    20.00  Chengdu Rongcheng       v Changchun Yatai          4-0 (3-0)
+           Wuhan Three Towns       v Shenzhen Peng City       4-1 (3-0)
+  Sun Aug/4
+    19.35  Beijing Guoan           v Shanghai Shenhua         2-1 (1-0)
+    20.00  Nantong Zhiyun          v Henan FC                 1-1 (1-0)
+
+
+» Matchday 22
+  Fri Aug/9
+    19.35  Cangzhou Mighty Lions   v Shandong Taishan         3-1 (0-1)
+           Shenzhen Peng City      v Chengdu Rongcheng        0-3 (0-3)
+           Shanghai Port FC        v Meizhou Hakka            7-2 (4-1)
+  Sat Aug/10
+    19.00  Qingdao Hainiu          v Henan FC                 0-2 (0-0)
+    19.35  Changchun Yatai         v Wuhan Three Towns        2-0 (2-0)
+    20.00  Shanghai Shenhua        v Nantong Zhiyun           5-1 (3-0)
+  Sun Aug/11
+    19.35  Qingdao West Coast      v Beijing Guoan            2-2 (0-1)
+    20.00  Tianjin Jinmen Tiger    v Zhejiang Professional    3-2 (2-0)
+
+
+» Matchday 23
+  Fri Aug/16
+    19.00  Henan FC                v Cangzhou Mighty Lions    0-2 (0-1)
+    19.35  Tianjin Jinmen Tiger    v Wuhan Three Towns        1-0 (0-0)
+    20.00  Beijing Guoan           v Zhejiang Professional    0-0
+           Nantong Zhiyun          v Qingdao West Coast       0-3 (0-1)
+  Sat Aug/17
+    19.00  Qingdao Hainiu          v Shenzhen Peng City       1-0 (1-0)
+    19.35  Meizhou Hakka           v Changchun Yatai          2-1 (2-0)
+           Shanghai Shenhua        v Shanghai Port FC         3-1 (0-1)
+    20.00  Shandong Taishan        v Chengdu Rongcheng        3-0 (1-0)
+
+
+» Matchday 24
+  Sat Jul/20
+    19.35  Wuhan Three Towns       v Chengdu Rongcheng        1-1 (0-0)
+  Sun Jul/21
+    18.00  Qingdao West Coast      v Meizhou Hakka            3-3 (3-1)
+    19.00  Nantong Zhiyun          v Shandong Taishan         0-2 (0-1)
+    19.35  Henan FC                v Zhejiang Professional    2-1 (2-1)
+           Shenzhen Peng City      v Changchun Yatai          2-1 (0-1)
+           Beijing Guoan           v Tianjin Jinmen Tiger     2-0 (0-0)
+           Shanghai Port FC        v Qingdao Hainiu           5-0 (0-0)
+  Mon Jul/22
+    19.35  Cangzhou Mighty Lions   v Shanghai Shenhua         0-5 (0-2)
+
+
+» Matchday 25
+  Fri Sep/13
+    19.00  Shanghai Port FC        v Shenzhen Peng City       2-0 (1-0)
+    19.35  Zhejiang Professional   v Shanghai Shenhua         3-4 (2-2)
+    20.00  Shandong Taishan        v Qingdao West Coast       0-1 (0-1)
+  Sat Sep/14
+    19.35  Chengdu Rongcheng       v Beijing Guoan            2-2 (2-0)
+           Tianjin Jinmen Tiger    v Henan FC                 1-0 (1-0)
+           Changchun Yatai         v Nantong Zhiyun           3-2 (1-2)
+    20.00  Cangzhou Mighty Lions   v Meizhou Hakka            2-1 (2-0)
+  Sun Sep/15
+    19.00  Qingdao Hainiu          v Wuhan Three Towns        1-1 (1-0)
+
+
+» Matchday 26
+  Fri Sep/20
+    19.35  Meizhou Hakka           v Beijing Guoan            1-3 (0-1)
+  Sat Sep/21
+    18.00  Changchun Yatai         v Shanghai Port FC         3-4 (1-3)
+    19.35  Henan FC                v Chengdu Rongcheng        2-0 (1-0)
+           Shandong Taishan        v Wuhan Three Towns        0-0
+    20.00  Shanghai Shenhua        v Tianjin Jinmen Tiger     2-1 (0-1)
+  Sun Sep/22
+    15.30  Qingdao West Coast      v Shenzhen Peng City       3-2 (2-2)
+    19.00  Nantong Zhiyun          v Qingdao Hainiu           2-1 (1-0)
+    20.00  Zhejiang Professional   v Cangzhou Mighty Lions    2-2 (0-2)
+
+
+» Matchday 27
+  Sat Sep/28
+    15.30  Qingdao Hainiu          v Shanghai Shenhua         0-1 (0-1)
+    18.00  Shanghai Port FC        v Qingdao West Coast       2-1 (1-0)
+    19.35  Beijing Guoan           v Changchun Yatai          8-1 (4-1)
+           Nantong Zhiyun          v Zhejiang Professional    3-2 (2-2)
+    20.00  Shenzhen Peng City      v Shandong Taishan         1-4 (0-0)
+  Sun Sep/29
+    19.35  Chengdu Rongcheng       v Meizhou Hakka            2-0 (1-0)
+           Tianjin Jinmen Tiger    v Cangzhou Mighty Lions    3-2 (1-1)
+    20.00  Wuhan Three Towns       v Henan FC                 1-0 (0-0)
+
+
+» Matchday 28
+  Fri Oct/18
+    19.35  Shandong Taishan        v Tianjin Jinmen Tiger     4-1 (2-0)
+           Shanghai Shenhua        v Henan FC                 2-1 (0-0)
+           Wuhan Three Towns       v Zhejiang Professional    0-2 (0-1)
+    20.00  Chengdu Rongcheng       v Shanghai Port FC         3-1 (3-1)
+  Sat Oct/19
+    15.30  Changchun Yatai         v Qingdao West Coast       4-0 (1-0)
+    19.35  Beijing Guoan           v Qingdao Hainiu           6-0 (2-0)
+  Sun Oct/20
+    18.00  Cangzhou Mighty Lions   v Nantong Zhiyun           0-0
+    19.35  Shenzhen Peng City      v Meizhou Hakka            0-0
+
+
+» Matchday 29
+  Sun Oct/27
+    15.30  Cangzhou Mighty Lions   v Shanghai Port FC         0-1 (0-1)
+           Henan FC                v Changchun Yatai          0-0
+           Meizhou Hakka           v Wuhan Three Towns        1-0 (1-0)
+           Nantong Zhiyun          v Beijing Guoan            1-3 (0-2)
+           Qingdao West Coast      v Chengdu Rongcheng        1-1 (1-0)
+           Shanghai Shenhua        v Shenzhen Peng City       2-2 (0-0)
+           Tianjin Jinmen Tiger    v Qingdao Hainiu           1-0 (1-0)
+           Zhejiang Professional   v Shandong Taishan         3-3 (2-1)
+
+
+» Matchday 30
+  Sat Nov/2
+    15.30  Beijing Guoan           v Henan FC                 1-1 (1-1)
+           Changchun Yatai         v Zhejiang Professional    2-2 (1-0)
+           Chengdu Rongcheng       v Shanghai Shenhua         1-2 (1-1)
+           Qingdao Hainiu          v Cangzhou Mighty Lions    1-0 (1-0)
+           Shandong Taishan        v Meizhou Hakka            2-1 (1-1)
+           Shanghai Port FC        v Tianjin Jinmen Tiger     5-0 (2-0)
+           Shenzhen Peng City      v Nantong Zhiyun           2-1 (2-1)
+           Wuhan Three Towns       v Qingdao West Coast       1-3 (0-2)

@@ -1,0 +1,295 @@
+= Kazakhstan | Premier League 2025
+
+# Date       Sat Mar/1 - Sun Oct/26 2025 (239d)
+# Teams      14
+# Matches    182
+
+
+
+» Matchday 1
+  Sat Mar/1 2025
+    15.00  FK Atyrau               v FK Yelimay               2-1 (1-1)
+    16.00  FK Ordabasy             v FK Aktobe                0-0
+    18.00  Tobyl Kostanay          v FK Ulytau                2-0 (1-0)
+  Sun Mar/2
+    15.00  Kaysar Kyzylorda        v FK Zhenis                0-0
+    16.00  FK Turan                v FK Okzhetpes             2-0 (1-0)
+    17.00  FK Kyzylzhar            v Zhetysu Taldykorgan      1-1 (1-0)
+    18.00  FK Astana               v FK Kairat                1-1 (1-0)
+
+
+» Matchday 2
+  Sat Mar/8
+    15.00  FK Okzhetpes            v FK Atyrau                2-1 (1-0)
+    16.00  Zhetysu Taldykorgan     v FK Ulytau                0-0
+           FK Zhenis               v Tobyl Kostanay           0-0
+    18.00  FK Kairat               v FK Ordabasy              4-0 (3-0)
+  Sun Mar/9
+    15.00  FK Aktobe               v FK Turan                 2-1 (1-0)
+    17.00  FK Yelimay              v Kaysar Kyzylorda         2-0 (0-0)
+    19.00  FK Kyzylzhar            v FK Astana                0-2 (0-2)
+
+
+» Matchday 3
+  Sat Mar/29
+    15.00  Kaysar Kyzylorda        v FK Okzhetpes
+    18.00  FK Astana               v Zhetysu Taldykorgan
+           FK Turan                v FK Kairat
+  Sun Mar/30
+    15.00  FK Atyrau               v FK Aktobe
+    16.00  FK Ulytau               v FK Zhenis
+    17.00  FK Ordabasy             v FK Kyzylzhar
+    18.00  Tobyl Kostanay          v FK Yelimay
+
+
+» Matchday 4
+  Sat Apr/5
+           Zhetysu Taldykorgan     v FK Zhenis
+           FK Yelimay              v FK Ulytau
+           FK Okzhetpes            v Tobyl Kostanay
+           FK Aktobe               v Kaysar Kyzylorda
+           FK Kairat               v FK Atyrau
+           FK Kyzylzhar            v FK Turan
+           FK Astana               v FK Ordabasy
+
+
+» Matchday 5
+  Sat Apr/19
+           FK Ordabasy             v Zhetysu Taldykorgan
+           FK Turan                v FK Astana
+           FK Atyrau               v FK Kyzylzhar
+           Kaysar Kyzylorda        v FK Kairat
+           Tobyl Kostanay          v FK Aktobe
+           FK Ulytau               v FK Okzhetpes
+           FK Zhenis               v FK Yelimay
+
+
+» Matchday 6
+  Sat Apr/26
+           Zhetysu Taldykorgan     v FK Yelimay
+           FK Okzhetpes            v FK Zhenis
+           FK Aktobe               v FK Ulytau
+           FK Kairat               v Tobyl Kostanay
+           FK Kyzylzhar            v Kaysar Kyzylorda
+           FK Astana               v FK Atyrau
+           FK Ordabasy             v FK Turan
+
+
+» Matchday 7
+  Sat May/3
+           FK Turan                v Zhetysu Taldykorgan
+           FK Atyrau               v FK Ordabasy
+           Kaysar Kyzylorda        v FK Astana
+           Tobyl Kostanay          v FK Kyzylzhar
+           FK Ulytau               v FK Kairat
+           FK Zhenis               v FK Aktobe
+           FK Yelimay              v FK Okzhetpes
+
+
+» Matchday 8
+  Sat May/10
+           Zhetysu Taldykorgan     v FK Okzhetpes
+           FK Aktobe               v FK Yelimay
+           FK Kairat               v FK Zhenis
+           FK Kyzylzhar            v FK Ulytau
+           FK Astana               v Tobyl Kostanay
+           FK Ordabasy             v Kaysar Kyzylorda
+           FK Turan                v FK Atyrau
+
+
+» Matchday 9
+  Sat May/17
+           FK Atyrau               v Zhetysu Taldykorgan
+           Kaysar Kyzylorda        v FK Turan
+           Tobyl Kostanay          v FK Ordabasy
+           FK Ulytau               v FK Astana
+           FK Zhenis               v FK Kyzylzhar
+           FK Yelimay              v FK Kairat
+           FK Okzhetpes            v FK Aktobe
+
+
+» Matchday 10
+  Sat May/24
+           Zhetysu Taldykorgan     v FK Aktobe
+           FK Kairat               v FK Okzhetpes
+           FK Kyzylzhar            v FK Yelimay
+           FK Astana               v FK Zhenis
+           FK Ordabasy             v FK Ulytau
+           FK Turan                v Tobyl Kostanay
+           FK Atyrau               v Kaysar Kyzylorda
+
+
+» Matchday 11
+  Fri May/30
+           Kaysar Kyzylorda        v Zhetysu Taldykorgan
+           Tobyl Kostanay          v FK Atyrau
+           FK Ulytau               v FK Turan
+           FK Zhenis               v FK Ordabasy
+           FK Yelimay              v FK Astana
+           FK Okzhetpes            v FK Kyzylzhar
+           FK Aktobe               v FK Kairat
+
+
+» Matchday 12
+  Sat Jun/14
+           Zhetysu Taldykorgan     v FK Kairat
+           FK Kyzylzhar            v FK Aktobe
+           FK Astana               v FK Okzhetpes
+           FK Ordabasy             v FK Yelimay
+           FK Turan                v FK Zhenis
+           FK Atyrau               v FK Ulytau
+           Kaysar Kyzylorda        v Tobyl Kostanay
+
+
+» Matchday 13
+  Sat Jun/21
+           Tobyl Kostanay          v Zhetysu Taldykorgan
+           FK Ulytau               v Kaysar Kyzylorda
+           FK Zhenis               v FK Atyrau
+           FK Yelimay              v FK Turan
+           FK Okzhetpes            v FK Ordabasy
+           FK Aktobe               v FK Astana
+           FK Kairat               v FK Kyzylzhar
+
+
+» Matchday 14
+  Sat Jun/28
+           FK Ulytau               v Zhetysu Taldykorgan
+           Tobyl Kostanay          v FK Zhenis
+           Kaysar Kyzylorda        v FK Yelimay
+           FK Atyrau               v FK Okzhetpes
+           FK Turan                v FK Aktobe
+           FK Ordabasy             v FK Kairat
+           FK Astana               v FK Kyzylzhar
+
+
+» Matchday 15
+  Sat Jul/5
+           Zhetysu Taldykorgan     v FK Astana
+           FK Kyzylzhar            v FK Ordabasy
+           FK Kairat               v FK Turan
+           FK Aktobe               v FK Atyrau
+           FK Okzhetpes            v Kaysar Kyzylorda
+           FK Yelimay              v Tobyl Kostanay
+           FK Zhenis               v FK Ulytau
+
+
+» Matchday 16
+  Sat Jul/12
+           FK Zhenis               v Zhetysu Taldykorgan
+           FK Ulytau               v FK Yelimay
+           Tobyl Kostanay          v FK Okzhetpes
+           Kaysar Kyzylorda        v FK Aktobe
+           FK Atyrau               v FK Kairat
+           FK Turan                v FK Kyzylzhar
+           FK Ordabasy             v FK Astana
+
+
+» Matchday 17
+  Sat Jul/19
+           Zhetysu Taldykorgan     v FK Ordabasy
+           FK Astana               v FK Turan
+           FK Kyzylzhar            v FK Atyrau
+           FK Kairat               v Kaysar Kyzylorda
+           FK Aktobe               v Tobyl Kostanay
+           FK Okzhetpes            v FK Ulytau
+           FK Yelimay              v FK Zhenis
+
+
+» Matchday 18
+  Sat Jul/26
+           FK Yelimay              v Zhetysu Taldykorgan
+           FK Zhenis               v FK Okzhetpes
+           FK Ulytau               v FK Aktobe
+           Tobyl Kostanay          v FK Kairat
+           Kaysar Kyzylorda        v FK Kyzylzhar
+           FK Atyrau               v FK Astana
+           FK Turan                v FK Ordabasy
+
+
+» Matchday 19
+  Sat Aug/2
+           Zhetysu Taldykorgan     v FK Turan
+           FK Ordabasy             v FK Atyrau
+           FK Astana               v Kaysar Kyzylorda
+           FK Kyzylzhar            v Tobyl Kostanay
+           FK Kairat               v FK Ulytau
+           FK Aktobe               v FK Zhenis
+           FK Okzhetpes            v FK Yelimay
+
+
+» Matchday 20
+  Sat Aug/9
+           FK Okzhetpes            v Zhetysu Taldykorgan
+           FK Yelimay              v FK Aktobe
+           FK Zhenis               v FK Kairat
+           FK Ulytau               v FK Kyzylzhar
+           Tobyl Kostanay          v FK Astana
+           Kaysar Kyzylorda        v FK Ordabasy
+           FK Atyrau               v FK Turan
+
+
+» Matchday 21
+  Sat Aug/16
+           Zhetysu Taldykorgan     v FK Atyrau
+           FK Turan                v Kaysar Kyzylorda
+           FK Ordabasy             v Tobyl Kostanay
+           FK Astana               v FK Ulytau
+           FK Kyzylzhar            v FK Zhenis
+           FK Kairat               v FK Yelimay
+           FK Aktobe               v FK Okzhetpes
+
+
+» Matchday 22
+  Sat Aug/23
+           FK Aktobe               v Zhetysu Taldykorgan
+           FK Okzhetpes            v FK Kairat
+           FK Yelimay              v FK Kyzylzhar
+           FK Zhenis               v FK Astana
+           FK Ulytau               v FK Ordabasy
+           Tobyl Kostanay          v FK Turan
+           Kaysar Kyzylorda        v FK Atyrau
+
+
+» Matchday 23
+  Sat Sep/13
+           Zhetysu Taldykorgan     v Kaysar Kyzylorda
+           FK Atyrau               v Tobyl Kostanay
+           FK Turan                v FK Ulytau
+           FK Ordabasy             v FK Zhenis
+           FK Astana               v FK Yelimay
+           FK Kyzylzhar            v FK Okzhetpes
+           FK Kairat               v FK Aktobe
+
+
+» Matchday 24
+  Sat Sep/27
+           FK Kairat               v Zhetysu Taldykorgan
+           FK Aktobe               v FK Kyzylzhar
+           FK Okzhetpes            v FK Astana
+           FK Yelimay              v FK Ordabasy
+           FK Zhenis               v FK Turan
+           FK Ulytau               v FK Atyrau
+           Tobyl Kostanay          v Kaysar Kyzylorda
+
+
+» Matchday 25
+  Sat Oct/18
+           Zhetysu Taldykorgan     v Tobyl Kostanay
+           Kaysar Kyzylorda        v FK Ulytau
+           FK Atyrau               v FK Zhenis
+           FK Turan                v FK Yelimay
+           FK Ordabasy             v FK Okzhetpes
+           FK Astana               v FK Aktobe
+           FK Kyzylzhar            v FK Kairat
+
+
+» Matchday 26
+  Sun Oct/26
+           Zhetysu Taldykorgan     v FK Kyzylzhar
+           FK Kairat               v FK Astana
+           FK Aktobe               v FK Ordabasy
+           FK Okzhetpes            v FK Turan
+           FK Yelimay              v FK Atyrau
+           FK Zhenis               v Kaysar Kyzylorda
+           FK Ulytau               v Tobyl Kostanay

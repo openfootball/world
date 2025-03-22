@@ -1,0 +1,329 @@
+= China | Super League 2021
+
+# Date       Tue Apr/20 2021 - Tue Jan/4 2022 (259d)
+# Teams      17
+# Matches    176
+# Stages     Regular Season (112)  Playoffs (32)  Relegation (32)
+
+
+
+» Matchday 1
+  Tue Apr/20 2021
+    20.00  Chongqing Liangjiang Athletic v Shandong Taishan         0-2 (0-0)
+           Guangzhou FC            v Guangzhou City           2-2 (1-1)
+  Wed Apr/21
+    18.00  Qingdao FC              v Cangzhou Mighty Lions    2-1 (1-0)
+    20.00  Henan Songshan Longmen  v Shenzhen FC              1-2 (1-1)
+  Thu Apr/22
+    18.00  Dalian Pro              v Changchun Yatai          1-2 (0-1)
+    20.00  Tianjin Jinmen Tiger    v Shanghai Port FC         1-6 (0-2)
+  Fri Apr/23
+    18.00  Hebei FC                v Wuhan FC                 1-1 (0-0)
+    20.00  Shanghai Shenhua        v Beijing Guoan            2-1 (0-0)
+
+
+» Matchday 2
+  Mon Apr/26
+    18.00  Shenzhen FC             v Qingdao FC               0-0
+    20.00  Guangzhou City          v Chongqing Liangjiang Athletic  3-1 (0-0)
+  Tue Apr/27
+    15.35  Shandong Taishan        v Guangzhou FC             1-0 (0-0)
+    20.00  Cangzhou Mighty Lions   v Henan Songshan Longmen   0-0
+  Wed Apr/28
+    18.00  Shanghai Port FC        v Beijing Guoan            3-1 (2-1)
+    20.00  Dalian Pro              v Hebei FC                 0-1 (0-0)
+  Thu Apr/29
+    18.00  Wuhan FC                v Shanghai Shenhua         1-3 (1-1)
+    20.00  Changchun Yatai         v Tianjin Jinmen Tiger     0-0
+
+
+» Matchday 3
+  Sun May/2
+    18.00  Henan Songshan Longmen  v Shandong Taishan         1-1 (1-1)
+    20.00  Guangzhou FC            v Shenzhen FC              2-0 (1-0)
+  Mon May/3
+    18.00  Qingdao FC              v Guangzhou City           0-1 (0-0)
+    20.00  Chongqing Liangjiang Athletic v Cangzhou Mighty Lions    2-2 (2-2)
+  Tue May/4
+    18.00  Changchun Yatai         v Wuhan FC                 0-0
+    20.00  Beijing Guoan           v Dalian Pro               2-0 (0-0)
+  Wed May/5
+    18.00  Tianjin Jinmen Tiger    v Hebei FC                 0-1 (0-1)
+    20.00  Shanghai Shenhua        v Shanghai Port FC         1-1 (0-0)
+
+
+» Matchday 4
+  Sat May/8
+    18.00  Shandong Taishan        v Qingdao FC               2-0 (2-0)
+    20.00  Guangzhou City          v Shenzhen FC              2-4 (0-3)
+  Sun May/9
+    18.00  Chongqing Liangjiang Athletic v Henan Songshan Longmen   3-2 (0-1)
+    20.00  Cangzhou Mighty Lions   v Guangzhou FC             0-2 (0-1)
+  Mon May/10
+    18.00  Hebei FC                v Shanghai Shenhua         1-1 (1-0)
+    20.00  Wuhan FC                v Beijing Guoan            0-2 (0-1)
+  Tue May/11
+    18.00  Dalian Pro              v Tianjin Jinmen Tiger     1-0 (0-0)
+    20.00  Shanghai Port FC        v Changchun Yatai          0-0
+
+
+» Matchday 5
+  Fri May/14
+    18.00  Shenzhen FC             v Shandong Taishan         2-2 (0-1)
+    20.00  Guangzhou City          v Cangzhou Mighty Lions    0-0
+  Sat May/15
+    18.00  Qingdao FC              v Chongqing Liangjiang Athletic  1-0 (0-0)
+  Sun May/16
+    18.00  Shanghai Port FC        v Dalian Pro               3-0 (2-0)
+  Mon May/17
+    18.00  Tianjin Jinmen Tiger    v Wuhan FC                 2-1 (1-0)
+    20.00  Changchun Yatai         v Shanghai Shenhua         1-0 (0-0)
+  Thu Jul/15
+    19.30  Henan Songshan Longmen  v Guangzhou FC             1-1 (0-1)
+  Fri Jul/16
+    19.30  Beijing Guoan           v Hebei FC                 2-1 (0-0)
+
+
+» Matchday 6
+  Sun Jul/18
+    18.00  Henan Songshan Longmen  v Qingdao FC               2-0 (0-0)
+           Guangzhou FC            v Chongqing Liangjiang Athletic  3-1 (2-1)
+    20.00  Shenzhen FC             v Cangzhou Mighty Lions    2-1 (0-1)
+           Shandong Taishan        v Guangzhou City           0-0
+  Mon Jul/19
+    16.30  Wuhan FC                v Shanghai Port FC         0-0
+           Beijing Guoan           v Tianjin Jinmen Tiger     0-0
+    18.30  Shanghai Shenhua        v Dalian Pro               3-2 (0-0)
+    20.30  Hebei FC                v Changchun Yatai          2-1 (2-1)
+
+
+» Matchday 7
+  Wed Jul/21
+    18.00  Qingdao FC              v Guangzhou FC             0-6 (0-4)
+           Cangzhou Mighty Lions   v Shandong Taishan         0-2 (0-1)
+    20.00  Chongqing Liangjiang Athletic v Shenzhen FC              0-3 (0-3)
+           Guangzhou City          v Henan Songshan Longmen   1-1 (0-1)
+  Thu Jul/22
+    16.30  Tianjin Jinmen Tiger    v Shanghai Shenhua         1-3 (1-2)
+           Changchun Yatai         v Beijing Guoan            2-0 (1-0)
+    18.30  Shanghai Port FC        v Hebei FC                 1-0 (1-0)
+    20.30  Dalian Pro              v Wuhan FC                 1-1 (1-1)
+
+
+» Matchday 8
+  Sat Jul/24
+    18.00  Shenzhen FC             v Henan Songshan Longmen   0-0
+           Shandong Taishan        v Chongqing Liangjiang Athletic  3-1 (2-0)
+    20.00  Cangzhou Mighty Lions   v Qingdao FC               2-0 (2-0)
+           Guangzhou City          v Guangzhou FC             3-3 (2-2)
+  Sun Aug/15
+    16.30  Changchun Yatai         v Dalian Pro               3-1 (2-0)
+    19.30  Beijing Guoan           v Shanghai Shenhua         4-2 (3-1)
+           Wuhan FC                v Hebei FC                 1-1 (1-1)
+           Shanghai Port FC        v Tianjin Jinmen Tiger     5-0 (2-0)
+
+
+» Matchday 9
+  Tue Jul/27
+    18.00  Qingdao FC              v Shenzhen FC              1-4 (0-3)
+           Chongqing Liangjiang Athletic v Guangzhou City           4-0 (2-0)
+    20.00  Henan Songshan Longmen  v Cangzhou Mighty Lions    2-1 (0-0)
+           Guangzhou FC            v Shandong Taishan         2-1 (1-0)
+  Wed Jul/28
+    16.30  Hebei FC                v Dalian Pro               1-0 (1-0)
+           Beijing Guoan           v Shanghai Port FC         1-1 (0-0)
+    18.30  Tianjin Jinmen Tiger    v Changchun Yatai          1-4 (0-3)
+    20.30  Shanghai Shenhua        v Wuhan FC                 0-0
+
+
+» Matchday 10
+  Fri Jul/30
+    18.00  Guangzhou City          v Qingdao FC               4-2 (2-0)
+           Shandong Taishan        v Henan Songshan Longmen   2-0 (1-0)
+    20.00  Cangzhou Mighty Lions   v Chongqing Liangjiang Athletic  1-1 (1-0)
+           Shenzhen FC             v Guangzhou FC             2-1 (1-1)
+  Sat Jul/31
+    16.30  Wuhan FC                v Changchun Yatai          2-2 (1-1)
+    18.30  Dalian Pro              v Beijing Guoan            0-1 (0-0)
+    20.30  Hebei FC                v Tianjin Jinmen Tiger     2-1 (2-1)
+           Shanghai Port FC        v Shanghai Shenhua         1-0 (1-0)
+
+
+» Matchday 11
+  Mon Aug/2
+    18.00  Henan Songshan Longmen  v Chongqing Liangjiang Athletic  1-0 (1-0)
+           Guangzhou FC            v Cangzhou Mighty Lions    5-2 (4-2)
+    20.00  Shenzhen FC             v Guangzhou City           0-1 (0-0)
+           Qingdao FC              v Shandong Taishan         0-5 (0-3)
+  Tue Aug/3
+    16.30  Shanghai Shenhua        v Hebei FC                 0-0
+    18.30  Changchun Yatai         v Shanghai Port FC         2-1 (0-0)
+    20.30  Tianjin Jinmen Tiger    v Dalian Pro               1-3 (0-1)
+           Beijing Guoan           v Wuhan FC                 2-1 (2-0)
+
+
+» Matchday 12
+  Thu Aug/5
+    18.00  Cangzhou Mighty Lions   v Guangzhou City           0-2 (0-1)
+           Shandong Taishan        v Shenzhen FC              4-2 (4-2)
+    20.00  Chongqing Liangjiang Athletic v Qingdao FC               1-0 (0-0)
+           Guangzhou FC            v Henan Songshan Longmen   2-0 (0-0)
+  Fri Aug/6
+    16.30  Wuhan FC                v Tianjin Jinmen Tiger     1-1 (1-1)
+    18.30  Shanghai Shenhua        v Changchun Yatai          1-2 (1-0)
+    20.30  Hebei FC                v Beijing Guoan            0-0
+           Dalian Pro              v Shanghai Port FC         0-5 (0-2)
+
+
+» Matchday 13
+  Sun Aug/8
+    18.00  Cangzhou Mighty Lions   v Shenzhen FC              2-1 (1-0)
+           Guangzhou City          v Shandong Taishan         1-3 (0-1)
+    20.00  Qingdao FC              v Henan Songshan Longmen   0-1 (0-1)
+           Chongqing Liangjiang Athletic v Guangzhou FC             1-5 (1-3)
+  Mon Aug/9
+    16.30  Dalian Pro              v Shanghai Shenhua         2-4 (2-3)
+    18.30  Tianjin Jinmen Tiger    v Beijing Guoan            3-1 (1-0)
+    20.30  Changchun Yatai         v Hebei FC                 3-0 (2-0)
+           Shanghai Port FC        v Wuhan FC                 3-0 (1-0)
+
+
+» Matchday 14
+  Wed Aug/11
+    18.00  Shenzhen FC             v Chongqing Liangjiang Athletic  2-1 (1-1)
+           Guangzhou FC            v Qingdao FC               5-0 (2-0)
+    20.00  Shandong Taishan        v Cangzhou Mighty Lions    2-1 (2-0)
+           Henan Songshan Longmen  v Guangzhou City           1-1 (0-0)
+  Thu Aug/12
+    16.30  Hebei FC                v Shanghai Port FC         1-0 (1-0)
+    18.30  Wuhan FC                v Dalian Pro               2-1 (2-1)
+    20.30  Beijing Guoan           v Changchun Yatai          2-1 (0-0)
+           Shanghai Shenhua        v Tianjin Jinmen Tiger     1-0 (0-0)
+
+
+» Playoffs, Matchday 15
+  Mon Dec/13
+    18.00  Shenzhen FC             v Shanghai Port FC         1-3 (0-2)
+           Guangzhou City          v Changchun Yatai          0-2 (0-1)
+    20.00  Beijing Guoan           v Guangzhou FC             1-0 (0-0)
+           Hebei FC                v Shandong Taishan         0-5 (0-2)
+
+
+» Playoffs, Matchday 16
+  Thu Dec/16
+    18.00  Shandong Taishan        v Beijing Guoan            2-1 (0-0)
+           Guangzhou FC            v Hebei FC                 1-1 (0-0)
+    20.00  Changchun Yatai         v Shenzhen FC              1-1 (1-0)
+    21.15  Shanghai Port FC        v Guangzhou City           1-0 (1-0)
+
+
+» Playoffs, Matchday 17
+  Sun Dec/19
+    18.00  Changchun Yatai         v Guangzhou FC             0-2 (0-1)
+           Shanghai Port FC        v Shandong Taishan         0-2 (0-1)
+    20.00  Guangzhou City          v Beijing Guoan            5-0 (3-0)
+    21.15  Shenzhen FC             v Hebei FC                 3-0 (0-0)
+
+
+» Playoffs, Matchday 18
+  Wed Dec/22
+    18.00  Beijing Guoan           v Shenzhen FC              2-2 (1-0)
+           Hebei FC                v Guangzhou City           1-1 (1-1)
+    20.00  Shandong Taishan        v Changchun Yatai          2-1 (0-0)
+           Guangzhou FC            v Shanghai Port FC         0-0
+
+
+» Playoffs, Matchday 19
+  Sun Dec/26
+    18.00  Changchun Yatai         v Guangzhou City           2-1 (1-1)
+           Shanghai Port FC        v Shenzhen FC              3-1 (1-1)
+    20.00  Shandong Taishan        v Hebei FC                 2-0 (1-0)
+           Guangzhou FC            v Beijing Guoan            1-0 (1-0)
+
+
+» Playoffs, Matchday 20
+  Wed Dec/29
+    18.00  Beijing Guoan           v Shandong Taishan         1-1 (1-1)
+           Hebei FC                v Guangzhou FC             0-2 (0-1)
+    20.00  Shenzhen FC             v Changchun Yatai          0-1 (0-0)
+           Guangzhou City          v Shanghai Port FC         1-2 (0-2)
+
+
+» Playoffs, Matchday 21
+  Sat Jan/1 2022
+    15.30  Shandong Taishan        v Shanghai Port FC         2-2 (1-0)
+           Guangzhou FC            v Changchun Yatai          2-0 (0-0)
+    19.30  Beijing Guoan           v Guangzhou City           1-1 (1-0)
+           Hebei FC                v Shenzhen FC              0-1 (0-0)
+
+
+» Playoffs, Matchday 22
+  Tue Jan/4
+    15.30  Shenzhen FC             v Beijing Guoan            0-1 (0-1)
+           Guangzhou City          v Hebei FC                 2-1 (2-0)
+           Changchun Yatai         v Shandong Taishan         1-1 (1-0)
+           Shanghai Port FC        v Guangzhou FC             1-0 (1-0)
+
+
+» Relegation, Matchday 15
+  Sun Dec/12 2021
+    15.30  Shanghai Shenhua        v Qingdao FC               3-0 (1-0)
+           Wuhan FC                v Cangzhou Mighty Lions    4-2 (2-1)
+    19.30  Tianjin Jinmen Tiger    v Chongqing Liangjiang Athletic  1-1 (0-0)
+           Dalian Pro              v Henan Songshan Longmen   1-0 (0-0)
+
+
+» Relegation, Matchday 16
+  Wed Dec/15
+    15.30  Henan Songshan Longmen  v Tianjin Jinmen Tiger     1-1 (0-0)
+           Chongqing Liangjiang Athletic v Dalian Pro               0-1 (0-1)
+    19.30  Cangzhou Mighty Lions   v Shanghai Shenhua         1-1 (0-1)
+           Qingdao FC              v Wuhan FC                 2-5 (2-1)
+
+
+» Relegation, Matchday 17
+  Sat Dec/18
+    15.30  Tianjin Jinmen Tiger    v Qingdao FC               1-2 (0-1)
+           Dalian Pro              v Cangzhou Mighty Lions    1-2 (0-2)
+    19.30  Shanghai Shenhua        v Chongqing Liangjiang Athletic  4-1 (1-0)
+           Wuhan FC                v Henan Songshan Longmen   1-1 (0-0)
+
+
+» Relegation, Matchday 18
+  Tue Dec/21
+    15.30  Henan Songshan Longmen  v Shanghai Shenhua         2-0 (0-0)
+           Chongqing Liangjiang Athletic v Wuhan FC                 0-0
+    19.30  Cangzhou Mighty Lions   v Tianjin Jinmen Tiger     2-1 (1-0)
+           Qingdao FC              v Dalian Pro               1-2 (1-0)
+
+
+» Relegation, Matchday 19
+  Sat Dec/25
+    15.30  Cangzhou Mighty Lions   v Wuhan FC                 2-0 (1-0)
+           Qingdao FC              v Shanghai Shenhua         0-1 (0-1)
+    19.30  Henan Songshan Longmen  v Dalian Pro               1-0 (1-0)
+           Chongqing Liangjiang Athletic v Tianjin Jinmen Tiger     0-1 (0-0)
+
+
+» Relegation, Matchday 20
+  Tue Dec/28
+    15.30  Tianjin Jinmen Tiger    v Henan Songshan Longmen   0-0
+           Dalian Pro              v Chongqing Liangjiang Athletic  0-1 (0-0)
+    19.30  Shanghai Shenhua        v Cangzhou Mighty Lions    1-1 (0-1)
+           Wuhan FC                v Qingdao FC               1-1 (0-0)
+
+
+» Relegation, Matchday 21
+  Fri Dec/31
+    15.30  Cangzhou Mighty Lions   v Dalian Pro               2-0 (0-0)
+           Qingdao FC              v Tianjin Jinmen Tiger     0-1 (0-0)
+           Chongqing Liangjiang Athletic v Shanghai Shenhua         0-0
+    19.30  Henan Songshan Longmen  v Wuhan FC                 1-0 (1-0)
+
+
+» Relegation, Matchday 22
+  Mon Jan/3 2022
+    15.30  Wuhan Yangtze River     v Chongqing Liangjiang Athletic  1-2 (1-0)
+           Tianjin Jinmen Tiger    v Cangzhou Mighty Lions    1-0 (0-0)
+           Dalian Pro              v Qingdao FC               4-1 (1-0)
+    19.30  Shanghai Shenhua        v Henan Songshan Longmen   3-0 (0-0)

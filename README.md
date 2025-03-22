@@ -11,7 +11,8 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 
 ## Intro
 
-Free open public domain football datasets include:
+Free open public domain match fixtures & results datasets 
+in the Football.TXT format include:
 
 North America
 
@@ -37,7 +38,7 @@ Africa
 
 Middle East
 
-- [**Israel**](middle-east/isreal) - Premier League
+- [**Israel**](middle-east/israel) - Premier League
 
 
 

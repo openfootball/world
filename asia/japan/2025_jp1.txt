@@ -1,0 +1,578 @@
+= Japan | J1 League 2025
+
+# Date       Fri Feb/14 - Sat Dec/6 2025 (295d)
+# Teams      20
+# Matches    380
+
+
+
+» Matchday 1
+  Fri Feb/14 2025
+    19.00  Gamba Osaka             v Cerezo Osaka             2-5 (1-1)
+  Sat Feb/15
+    14.00  Yokohama F. Marinos     v Albirex Niigata          1-1 (0-1)
+           Yokohama FC             v FC Tokyo                 0-1 (0-0)
+           Vissel Kobe             v Urawa Red Diamonds       0-0
+           Fagiano Okayama         v Kyoto Sanga FC           2-0 (2-0)
+           Avispa Fukuoka          v Kashiwa Reysol           0-1 (0-0)
+    15.00  Kawasaki Frontale       v Nagoya Grampus           4-0 (0-0)
+           Shonan Bellmare         v Kashima Antlers          1-0 (0-0)
+  Sun Feb/16
+    14.00  Tokyo Verdy             v Shimizu S-Pulse          0-1 (0-1)
+           FC Machida Zelvia       v Sanfrecce Hiroshima      1-2 (1-0)
+
+
+» Matchday 2
+  Sat Feb/22
+    14.00  Kashiwa Reysol          v Kawasaki Frontale        1-1 (0-0)
+           Yokohama FC             v Fagiano Okayama          1-0 (0-0)
+           Shimizu S-Pulse         v Albirex Niigata          2-0 (1-0)
+           Nagoya Grampus          v Vissel Kobe              2-2 (0-0)
+           Kyoto Sanga FC          v Urawa Red Diamonds       1-1 (0-0)
+    15.00  Kashima Antlers         v Tokyo Verdy              4-0 (3-0)
+           FC Tokyo                v FC Machida Zelvia        0-1 (0-0)
+           Gamba Osaka             v Avispa Fukuoka           2-1 (1-0)
+           Cerezo Osaka            v Shonan Bellmare          1-2 (0-1)
+  Sun Feb/23
+    14.00  Sanfrecce Hiroshima     v Yokohama F. Marinos      1-0 (0-0)
+
+
+» Matchday 3
+  Wed Feb/26
+    19.00  Kashima Antlers         v Albirex Niigata          2-1 (1-1)
+           Kashiwa Reysol          v Cerezo Osaka             2-1 (0-1)
+           FC Tokyo                v Nagoya Grampus           3-1 (1-0)
+           FC Machida Zelvia       v Tokyo Verdy              0-1 (0-1)
+           Yokohama F. Marinos     v Yokohama FC              0-0
+           Shonan Bellmare         v Urawa Red Diamonds       2-1 (1-0)
+           Shimizu S-Pulse         v Sanfrecce Hiroshima      1-1 (1-0)
+           Vissel Kobe             v Kyoto Sanga FC           1-1 (0-1)
+           Fagiano Okayama         v Gamba Osaka              2-0 (1-0)
+           Avispa Fukuoka          v Kawasaki Frontale        1-2 (1-1)
+
+
+» Matchday 4
+  Sat Mar/1
+    13.00  Yokohama F. Marinos     v Shonan Bellmare          1-1 (1-0)
+    14.00  Kashima Antlers         v FC Tokyo                 2-0 (0-0)
+    15.00  Kawasaki Frontale       v Kyoto Sanga FC           0-1 (0-0)
+           Vissel Kobe             v Avispa Fukuoka           0-1 (0-1)
+  Sun Mar/2
+    14.00  Tokyo Verdy             v Gamba Osaka              0-1 (0-0)
+           Albirex Niigata         v Cerezo Osaka             2-2 (1-1)
+           Nagoya Grampus          v FC Machida Zelvia        1-2 (1-1)
+           Fagiano Okayama         v Shimizu S-Pulse          1-1 (0-0)
+    14.30  Sanfrecce Hiroshima     v Yokohama FC              1-0 (0-0)
+    15.00  Urawa Red Diamonds      v Kashiwa Reysol           0-2 (0-2)
+
+
+» Matchday 5
+  Sat Mar/8
+    14.00  Urawa Red Diamonds      v Fagiano Okayama          1-0 (0-0)
+    14.05  Albirex Niigata         v Tokyo Verdy              2-2 (1-1)
+    15.00  Gamba Osaka             v Shimizu S-Pulse          1-0 (1-0)
+    16.00  Kashiwa Reysol          v Kashima Antlers          1-3 (0-1)
+           FC Tokyo                v Shonan Bellmare          0-0
+           Yokohama FC             v FC Machida Zelvia        0-2 (0-0)
+           Cerezo Osaka            v Nagoya Grampus           1-1 (1-0)
+  Sun Mar/9
+    14.00  Kyoto Sanga FC          v Avispa Fukuoka           0-1 (0-0)
+  Wed Apr/9
+    19.00  Kawasaki Frontale       v Yokohama F. Marinos
+  Wed Jul/2
+    19.00  Vissel Kobe             v Sanfrecce Hiroshima
+
+
+» Matchday 6
+  Sat Mar/15
+    14.00  Tokyo Verdy             v Nagoya Grampus           2-1 (0-1)
+           FC Machida Zelvia       v Albirex Niigata          1-0 (1-0)
+           Yokohama FC             v Cerezo Osaka             2-0 (1-0)
+           Avispa Fukuoka          v FC Tokyo                 1-0 (0-0)
+  Sun Mar/16
+    13.00  Shimizu S-Pulse         v Kyoto Sanga FC           1-2 (0-1)
+    14.00  Kashima Antlers         v Urawa Red Diamonds       1-1 (0-1)
+           Yokohama F. Marinos     v Gamba Osaka              2-0 (1-0)
+           Fagiano Okayama         v Kawasaki Frontale        0-0
+           Sanfrecce Hiroshima     v Kashiwa Reysol           1-1 (0-0)
+    15.00  Shonan Bellmare         v Vissel Kobe              1-2 (0-2)
+
+
+» Matchday 7
+  Fri Mar/28
+    19.00  Cerezo Osaka            v Urawa Red Diamonds
+  Sat Mar/29
+    12.55  Fagiano Okayama         v Yokohama F. Marinos
+    13.00  Shimizu S-Pulse         v Shonan Bellmare
+    14.00  Kashiwa Reysol          v Tokyo Verdy
+           Albirex Niigata         v Gamba Osaka
+           Nagoya Grampus          v Yokohama FC
+           Kyoto Sanga FC          v Sanfrecce Hiroshima
+    15.00  Kashima Antlers         v Vissel Kobe
+           Avispa Fukuoka          v FC Machida Zelvia
+    17.00  FC Tokyo                v Kawasaki Frontale
+
+
+» Matchday 8
+  Wed Apr/2
+    19.00  Tokyo Verdy             v FC Tokyo
+           Kawasaki Frontale       v Shonan Bellmare
+           Yokohama FC             v Vissel Kobe
+           Albirex Niigata         v Avispa Fukuoka
+           Nagoya Grampus          v Yokohama F. Marinos
+           Kyoto Sanga FC          v Kashiwa Reysol
+           Gamba Osaka             v FC Machida Zelvia
+           Cerezo Osaka            v Fagiano Okayama
+           Sanfrecce Hiroshima     v Kashima Antlers
+    19.30  Urawa Red Diamonds      v Shimizu S-Pulse
+
+
+» Matchday 9
+  Sat Apr/5
+    14.00  Yokohama F. Marinos     v Tokyo Verdy
+  Sun Apr/6
+    13.00  Fagiano Okayama         v FC Tokyo
+    14.00  FC Machida Zelvia       v Kawasaki Frontale
+           Yokohama FC             v Shimizu S-Pulse
+           Vissel Kobe             v Albirex Niigata
+           Avispa Fukuoka          v Urawa Red Diamonds
+    15.00  Kashima Antlers         v Kyoto Sanga FC
+           Kashiwa Reysol          v Gamba Osaka
+           Shonan Bellmare         v Nagoya Grampus
+           Sanfrecce Hiroshima     v Cerezo Osaka
+
+
+» Matchday 10
+  Fri Apr/11
+    19.00  FC Tokyo                v Kashiwa Reysol
+  Sat Apr/12
+    14.00  Shimizu S-Pulse         v Kawasaki Frontale
+           Gamba Osaka             v Nagoya Grampus
+           Sanfrecce Hiroshima     v Fagiano Okayama
+           Avispa Fukuoka          v Yokohama F. Marinos
+    15.00  Tokyo Verdy             v Vissel Kobe
+           Cerezo Osaka            v Kashima Antlers
+    16.00  Kyoto Sanga FC          v Shonan Bellmare
+  Sun Apr/13
+    14.00  FC Machida Zelvia       v Urawa Red Diamonds
+           Albirex Niigata         v Yokohama FC
+
+
+» Matchday 11
+  Sat Apr/19
+    14.00  Albirex Niigata         v Kyoto Sanga FC
+  Sun Apr/20
+    14.00  Yokohama FC             v Gamba Osaka
+           Shimizu S-Pulse         v Avispa Fukuoka
+           Nagoya Grampus          v Sanfrecce Hiroshima
+           Vissel Kobe             v FC Machida Zelvia
+           Fagiano Okayama         v Kashima Antlers
+    15.00  Kawasaki Frontale       v Tokyo Verdy
+           Shonan Bellmare         v Kashiwa Reysol
+           Cerezo Osaka            v FC Tokyo
+    16.00  Urawa Red Diamonds      v Yokohama F. Marinos
+
+
+» Matchday 12
+  Wed Apr/16
+    19.00  Yokohama F. Marinos     v Shimizu S-Pulse
+           Vissel Kobe             v Kawasaki Frontale
+  Fri Apr/25
+    19.00  Kashima Antlers         v Nagoya Grampus
+           Tokyo Verdy             v Cerezo Osaka
+           FC Machida Zelvia       v Shonan Bellmare
+           Kyoto Sanga FC          v Yokohama FC
+           Avispa Fukuoka          v Fagiano Okayama
+    19.30  Urawa Red Diamonds      v Sanfrecce Hiroshima
+           FC Tokyo                v Gamba Osaka
+  Sat Apr/26
+    14.00  Kashiwa Reysol          v Albirex Niigata
+
+
+» Matchday 13
+  Tue Apr/29
+    13.05  FC Tokyo                v Shimizu S-Pulse
+    14.00  Yokohama FC             v Kashima Antlers
+           Nagoya Grampus          v Kashiwa Reysol
+           Fagiano Okayama         v Tokyo Verdy
+           Sanfrecce Hiroshima     v Albirex Niigata
+    15.00  Shonan Bellmare         v Avispa Fukuoka
+           Gamba Osaka             v Kyoto Sanga FC
+           Cerezo Osaka            v FC Machida Zelvia
+  Wed May/21
+    19.00  Kawasaki Frontale       v Urawa Red Diamonds
+           Yokohama F. Marinos     v Vissel Kobe
+
+
+» Matchday 14
+  Sat May/3
+    13.00  Sanfrecce Hiroshima     v Avispa Fukuoka
+    14.00  Albirex Niigata         v FC Tokyo
+           Shimizu S-Pulse         v Nagoya Grampus
+    15.00  Kashima Antlers         v FC Machida Zelvia
+           Urawa Red Diamonds      v Tokyo Verdy
+           Gamba Osaka             v Shonan Bellmare
+    19.00  Kyoto Sanga FC          v Cerezo Osaka
+  Wed May/14
+    19.00  Kawasaki Frontale       v Yokohama FC
+           Yokohama F. Marinos     v Kashiwa Reysol
+  Wed May/28
+    19.00  Vissel Kobe             v Fagiano Okayama
+
+
+» Matchday 15
+  Tue May/6
+    14.00  Urawa Red Diamonds      v Gamba Osaka
+           Nagoya Grampus          v Fagiano Okayama
+           Avispa Fukuoka          v Kashima Antlers
+    16.00  Kashiwa Reysol          v Shimizu S-Pulse
+           Tokyo Verdy             v Yokohama FC
+  Wed May/7
+    19.00  FC Machida Zelvia       v Kyoto Sanga FC
+           Shonan Bellmare         v Sanfrecce Hiroshima
+  Wed Jun/25
+    19.00  Kawasaki Frontale       v Albirex Niigata
+           Vissel Kobe             v Cerezo Osaka
+    19.30  Yokohama F. Marinos     v FC Tokyo
+
+
+» Matchday 16
+  Sat May/10
+    14.00  Yokohama FC             v Avispa Fukuoka
+    15.00  FC Tokyo                v Vissel Kobe
+    16.00  Kashiwa Reysol          v Fagiano Okayama
+  Sun May/11
+    13.05  Kashima Antlers         v Kawasaki Frontale
+           Shimizu S-Pulse         v FC Machida Zelvia
+    14.00  Kyoto Sanga FC          v Nagoya Grampus
+    14.05  Albirex Niigata         v Urawa Red Diamonds
+    15.00  Tokyo Verdy             v Shonan Bellmare
+           Gamba Osaka             v Sanfrecce Hiroshima
+           Cerezo Osaka            v Yokohama F. Marinos
+
+
+» Matchday 17
+  Sat May/17
+    14.00  FC Machida Zelvia       v Kashiwa Reysol
+           Yokohama F. Marinos     v Kyoto Sanga FC
+           Vissel Kobe             v Gamba Osaka
+           Sanfrecce Hiroshima     v Tokyo Verdy
+    14.30  Avispa Fukuoka          v Nagoya Grampus
+    15.00  Kashima Antlers         v Shimizu S-Pulse
+           Shonan Bellmare         v Yokohama FC
+    16.00  Urawa Red Diamonds      v FC Tokyo
+  Sun May/18
+    15.00  Kawasaki Frontale       v Cerezo Osaka
+           Fagiano Okayama         v Albirex Niigata
+
+
+» Matchday 18
+  Sat May/24
+    14.00  Yokohama F. Marinos     v Kashima Antlers
+    15.00  Cerezo Osaka            v Avispa Fukuoka
+    17.30  Nagoya Grampus          v Urawa Red Diamonds
+  Sun May/25
+    13.00  Fagiano Okayama         v FC Machida Zelvia
+    14.00  Yokohama FC             v Kashiwa Reysol
+           Albirex Niigata         v Shonan Bellmare
+           Shimizu S-Pulse         v Vissel Kobe
+    15.00  FC Tokyo                v Sanfrecce Hiroshima
+           Tokyo Verdy             v Kyoto Sanga FC
+    16.00  Kawasaki Frontale       v Gamba Osaka
+
+
+» Matchday 19
+  Sat May/31
+    14.00  FC Machida Zelvia       v Yokohama F. Marinos
+           Nagoya Grampus          v Albirex Niigata
+           Avispa Fukuoka          v Tokyo Verdy
+    16.00  Kashiwa Reysol          v Vissel Kobe
+    17.30  Sanfrecce Hiroshima     v Kawasaki Frontale
+    18.00  Gamba Osaka             v Kashima Antlers
+    19.00  Kyoto Sanga FC          v FC Tokyo
+  Sun Jun/1
+    15.00  Shonan Bellmare         v Fagiano Okayama
+           Cerezo Osaka            v Shimizu S-Pulse
+    16.00  Urawa Red Diamonds      v Yokohama FC
+
+
+» Matchday 20
+  Wed Apr/16
+    19.30  Urawa Red Diamonds      v Kyoto Sanga FC
+  Sat Jun/14
+    17.30  Shonan Bellmare         v FC Machida Zelvia
+    18.00  Kashima Antlers         v Sanfrecce Hiroshima
+           Yokohama FC             v Kawasaki Frontale
+    19.00  FC Tokyo                v Cerezo Osaka
+  Sun Jun/15
+    14.00  Albirex Niigata         v Yokohama F. Marinos
+    18.00  Tokyo Verdy             v Kashiwa Reysol
+           Vissel Kobe             v Nagoya Grampus
+           Fagiano Okayama         v Avispa Fukuoka
+    18.30  Shimizu S-Pulse         v Gamba Osaka
+
+
+» Matchday 21
+  Sat Jun/21
+    16.00  FC Machida Zelvia       v Kashima Antlers
+           Avispa Fukuoka          v Albirex Niigata
+    18.30  Cerezo Osaka            v Tokyo Verdy
+    19.00  Kashiwa Reysol          v Kyoto Sanga FC
+           Kawasaki Frontale       v Vissel Kobe
+           Yokohama F. Marinos     v Fagiano Okayama
+           Nagoya Grampus          v Shimizu S-Pulse
+  Sun Jun/22
+    18.00  Yokohama FC             v Sanfrecce Hiroshima
+    18.30  Gamba Osaka             v FC Tokyo
+  Wed Jul/23
+    19.30  Urawa Red Diamonds      v Shonan Bellmare
+
+
+» Matchday 22
+  Wed May/28
+    19.30  Urawa Red Diamonds      v Cerezo Osaka
+  Sat Jun/28
+    18.00  Kashima Antlers         v Fagiano Okayama
+    18.30  Shimizu S-Pulse         v Kashiwa Reysol
+    19.00  FC Tokyo                v Yokohama FC
+           Shonan Bellmare         v Yokohama F. Marinos
+           Kyoto Sanga FC          v Gamba Osaka
+           Sanfrecce Hiroshima     v Nagoya Grampus
+           Avispa Fukuoka          v Vissel Kobe
+  Sun Jun/29
+    18.00  Tokyo Verdy             v Kawasaki Frontale
+           Albirex Niigata         v FC Machida Zelvia
+
+
+» Matchday 23
+  Sat Jul/5
+    18.00  FC Machida Zelvia       v Shimizu S-Pulse
+    18.55  Fagiano Okayama         v Sanfrecce Hiroshima
+    19.00  Kashiwa Reysol          v FC Tokyo
+           Kawasaki Frontale       v Kashima Antlers
+           Yokohama FC             v Yokohama F. Marinos
+           Nagoya Grampus          v Tokyo Verdy
+           Kyoto Sanga FC          v Albirex Niigata
+           Cerezo Osaka            v Gamba Osaka
+           Vissel Kobe             v Shonan Bellmare
+  Sun Jul/27
+    19.00  Urawa Red Diamonds      v Avispa Fukuoka
+
+
+» Matchday 24
+  Sat Jul/19
+    19.00  FC Tokyo                v Urawa Red Diamonds
+           Shonan Bellmare         v Cerezo Osaka
+  Sun Jul/20
+    18.00  Kashima Antlers         v Kashiwa Reysol
+           Tokyo Verdy             v FC Machida Zelvia
+    18.30  Shimizu S-Pulse         v Yokohama FC
+    19.00  Yokohama F. Marinos     v Nagoya Grampus
+           Albirex Niigata         v Sanfrecce Hiroshima
+           Gamba Osaka             v Kawasaki Frontale
+           Fagiano Okayama         v Vissel Kobe
+  Mon Jul/21
+    18.00  Avispa Fukuoka          v Kyoto Sanga FC
+
+
+» Matchday 25
+  Sat Aug/9
+    18.00  Tokyo Verdy             v Yokohama F. Marinos
+           Yokohama FC             v Urawa Red Diamonds
+    19.00  Kawasaki Frontale       v Avispa Fukuoka
+  Sun Aug/10
+    18.30  Sanfrecce Hiroshima     v Shimizu S-Pulse
+    19.00  Kashiwa Reysol          v Shonan Bellmare
+           FC Tokyo                v Kashima Antlers
+           FC Machida Zelvia       v Vissel Kobe
+           Nagoya Grampus          v Kyoto Sanga FC
+           Gamba Osaka             v Fagiano Okayama
+  Mon Aug/11
+    19.00  Cerezo Osaka            v Albirex Niigata
+
+
+» Matchday 26
+  Sat Aug/16
+    18.00  Kashima Antlers         v Avispa Fukuoka
+    18.30  Shimizu S-Pulse         v Yokohama F. Marinos
+    19.00  Urawa Red Diamonds      v Nagoya Grampus
+           FC Machida Zelvia       v Cerezo Osaka
+           Shonan Bellmare         v FC Tokyo
+           Albirex Niigata         v Kawasaki Frontale
+           Kyoto Sanga FC          v Tokyo Verdy
+           Vissel Kobe             v Yokohama FC
+           Sanfrecce Hiroshima     v Gamba Osaka
+  Sun Aug/17
+    18.00  Fagiano Okayama         v Kashiwa Reysol
+
+
+» Matchday 27
+  Fri Aug/22
+    19.00  Kashiwa Reysol          v Urawa Red Diamonds
+  Sat Aug/23
+    18.00  Avispa Fukuoka          v Shimizu S-Pulse
+    19.00  Tokyo Verdy             v Sanfrecce Hiroshima
+           Albirex Niigata         v Kashima Antlers
+           Nagoya Grampus          v Kawasaki Frontale
+           Gamba Osaka             v Yokohama FC
+           Cerezo Osaka            v Vissel Kobe
+           Fagiano Okayama         v Shonan Bellmare
+    19.30  Yokohama F. Marinos     v FC Machida Zelvia
+  Sun Aug/24
+    19.00  FC Tokyo                v Kyoto Sanga FC
+
+
+» Matchday 28
+  Sat Aug/30
+    18.00  Yokohama FC             v Tokyo Verdy
+    19.00  Kyoto Sanga FC          v Fagiano Okayama
+           Vissel Kobe             v Yokohama F. Marinos
+  Sun Aug/31
+    18.30  Shimizu S-Pulse         v Kashima Antlers
+    19.00  Urawa Red Diamonds      v Albirex Niigata
+           Kashiwa Reysol          v Avispa Fukuoka
+           Kawasaki Frontale       v FC Machida Zelvia
+           Shonan Bellmare         v Gamba Osaka
+           Nagoya Grampus          v FC Tokyo
+           Cerezo Osaka            v Sanfrecce Hiroshima
+
+
+» Matchday 29
+  Sat Sep/13
+           Kashima Antlers         v Shonan Bellmare
+           FC Tokyo                v Tokyo Verdy
+           FC Machida Zelvia       v Yokohama FC
+           Yokohama F. Marinos     v Kawasaki Frontale
+           Albirex Niigata         v Shimizu S-Pulse
+           Gamba Osaka             v Urawa Red Diamonds
+           Vissel Kobe             v Kashiwa Reysol
+           Fagiano Okayama         v Nagoya Grampus
+           Sanfrecce Hiroshima     v Kyoto Sanga FC
+           Avispa Fukuoka          v Cerezo Osaka
+
+
+» Matchday 30
+  Sat Sep/20
+           Urawa Red Diamonds      v Kashima Antlers
+           Tokyo Verdy             v Fagiano Okayama
+           Kawasaki Frontale       v FC Tokyo
+           Yokohama F. Marinos     v Avispa Fukuoka
+           Yokohama FC             v Albirex Niigata
+           Nagoya Grampus          v Shonan Bellmare
+           Kyoto Sanga FC          v Shimizu S-Pulse
+           Cerezo Osaka            v Kashiwa Reysol
+           Sanfrecce Hiroshima     v Vissel Kobe
+           FC Machida Zelvia       v Gamba Osaka
+
+
+» Matchday 31
+  Tue Sep/23
+           Kashima Antlers         v Cerezo Osaka
+           Kashiwa Reysol          v Sanfrecce Hiroshima
+           FC Tokyo                v Avispa Fukuoka
+           Shonan Bellmare         v Kawasaki Frontale
+           Albirex Niigata         v Nagoya Grampus
+           Shimizu S-Pulse         v Urawa Red Diamonds
+           Kyoto Sanga FC          v FC Machida Zelvia
+           Gamba Osaka             v Yokohama F. Marinos
+           Vissel Kobe             v Tokyo Verdy
+           Fagiano Okayama         v Yokohama FC
+
+
+» Matchday 32
+  Sat Sep/27
+           FC Tokyo                v Yokohama F. Marinos
+           Tokyo Verdy             v Urawa Red Diamonds
+           FC Machida Zelvia       v Fagiano Okayama
+           Kawasaki Frontale       v Kashiwa Reysol
+           Yokohama FC             v Shonan Bellmare
+           Nagoya Grampus          v Kashima Antlers
+           Gamba Osaka             v Albirex Niigata
+           Cerezo Osaka            v Kyoto Sanga FC
+           Vissel Kobe             v Shimizu S-Pulse
+           Avispa Fukuoka          v Sanfrecce Hiroshima
+
+
+» Matchday 33
+  Fri Oct/3
+           Shonan Bellmare         v Tokyo Verdy
+  Sat Oct/4
+           Kashima Antlers         v Gamba Osaka
+           Urawa Red Diamonds      v Vissel Kobe
+           Kashiwa Reysol          v Yokohama F. Marinos
+           Albirex Niigata         v Fagiano Okayama
+           Shimizu S-Pulse         v FC Tokyo
+           Nagoya Grampus          v Cerezo Osaka
+           Kyoto Sanga FC          v Kawasaki Frontale
+           Sanfrecce Hiroshima     v FC Machida Zelvia
+           Avispa Fukuoka          v Yokohama FC
+
+
+» Matchday 34
+  Sat Oct/18
+           Tokyo Verdy             v Albirex Niigata
+           FC Machida Zelvia       v Avispa Fukuoka
+           Kawasaki Frontale       v Shimizu S-Pulse
+           Yokohama F. Marinos     v Urawa Red Diamonds
+           Yokohama FC             v Nagoya Grampus
+           Shonan Bellmare         v Kyoto Sanga FC
+           Gamba Osaka             v Kashiwa Reysol
+           Vissel Kobe             v Kashima Antlers
+           Fagiano Okayama         v Cerezo Osaka
+           Sanfrecce Hiroshima     v FC Tokyo
+
+
+» Matchday 35
+  Sat Oct/25
+           Urawa Red Diamonds      v FC Machida Zelvia
+           Kashiwa Reysol          v Yokohama FC
+           FC Tokyo                v Fagiano Okayama
+           Yokohama F. Marinos     v Sanfrecce Hiroshima
+           Albirex Niigata         v Vissel Kobe
+           Shimizu S-Pulse         v Tokyo Verdy
+           Nagoya Grampus          v Gamba Osaka
+           Kyoto Sanga FC          v Kashima Antlers
+           Cerezo Osaka            v Kawasaki Frontale
+           Avispa Fukuoka          v Shonan Bellmare
+
+
+» Matchday 36
+  Sat Nov/8
+           Kashima Antlers         v Yokohama FC
+           Kashiwa Reysol          v Nagoya Grampus
+           Tokyo Verdy             v Avispa Fukuoka
+           FC Machida Zelvia       v FC Tokyo
+           Kawasaki Frontale       v Fagiano Okayama
+           Shonan Bellmare         v Albirex Niigata
+           Shimizu S-Pulse         v Cerezo Osaka
+           Kyoto Sanga FC          v Yokohama F. Marinos
+           Gamba Osaka             v Vissel Kobe
+           Sanfrecce Hiroshima     v Urawa Red Diamonds
+
+
+» Matchday 37
+  Sun Nov/30
+           Tokyo Verdy             v Kashima Antlers
+           FC Machida Zelvia       v Nagoya Grampus
+           Kawasaki Frontale       v Sanfrecce Hiroshima
+           Yokohama F. Marinos     v Cerezo Osaka
+           Yokohama FC             v Kyoto Sanga FC
+           Shonan Bellmare         v Shimizu S-Pulse
+           Albirex Niigata         v Kashiwa Reysol
+           Vissel Kobe             v FC Tokyo
+           Fagiano Okayama         v Urawa Red Diamonds
+           Avispa Fukuoka          v Gamba Osaka
+
+
+» Matchday 38
+  Sat Dec/6
+           Kashima Antlers         v Yokohama F. Marinos
+           Urawa Red Diamonds      v Kawasaki Frontale
+           Kashiwa Reysol          v FC Machida Zelvia
+           FC Tokyo                v Albirex Niigata
+           Shimizu S-Pulse         v Fagiano Okayama
+           Nagoya Grampus          v Avispa Fukuoka
+           Kyoto Sanga FC          v Vissel Kobe
+           Gamba Osaka             v Tokyo Verdy
+           Cerezo Osaka            v Yokohama FC
+           Sanfrecce Hiroshima     v Shonan Bellmare

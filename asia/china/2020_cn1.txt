@@ -1,204 +1,346 @@
-= Chinese Super League 2020
+= China | Super League 2020
+
+# Date       Sat Jul/25 - Thu Nov/12 2020 (110d)
+# Teams      16
+# Matches    160
+# Stages     Regular Season (112)  Playoffs (24)  Relegation (24)
 
 
-Round 1
-[Sat Jul/25]
-  12.15  Guangzhou Evergrande Taobao  2-0 (1-0)  Shanghai Greenland Shenhua
-  14.30  Wuhan Zall               2-0 (1-0)  Qingdao Huanghai FC
-[Sun Jul/26]
-  09.30  Dalian Yifang            2-3 (0-0)  Shandong Luneng Taishan
-  12.00  Shenzhen FC              3-0 (1-0)  Guangzhou R&F
-         Hebei China Fortune      2-2 (1-1)  Shijiazhuang Ever Bright
-  14.00  Henan Jianye             3-4 (1-0)  Jiangsu Suning
-         Chongqing Dangdai Lifan  1-2 (0-0)  Beijing Sinobo Guoan
-[Mon Jul/27]
-  13.35  Tianjin TEDA             1-3 (1-2)  Shanghai SIPG
+
+» Matchday 1
+  Sat Jul/25 2020
+    18.15  Guangzhou Evergrande    v Shanghai Shenhua         2-0 (1-0)
+    20.30  Wuhan Zall FC           v Qingdao Huanghai         2-0 (1-0)
+  Sun Jul/26
+    15.30  Dalian Pro              v Shandong Taishan         2-3 (0-0)
+    18.00  Shenzhen FC             v Guangzhou R&F            3-0 (1-0)
+           Hebei China Fortune     v Shijiazhuang Ever Bright  2-2 (1-1)
+    20.00  Henan Jianye            v Jiāngsū Sūníng           3-4 (1-0)
+           Chongqing Lifan         v Beijing Guoan            1-2 (0-0)
+  Mon Jul/27
+    19.35  Tianjin Teda            v Shanghai SIPG            1-3 (1-2)
 
 
-Round 2
-[Thu Jul/30]
-  12.00  Shanghai Greenland Shenhua  3-2 (1-0)  Shenzhen FC
-  14.00  Guangzhou R&F            0-5 (0-2)  Guangzhou Evergrande Taobao
-[Fri Jul/31]
-  12.00  Jiangsu Suning           0-0  Shandong Luneng Taishan
-  14.00  Dalian Yifang            1-1 (0-0)  Henan Jianye
-[Sat Aug/1]
-  12.00  Beijing Sinobo Guoan     1-0 (1-0)  Wuhan Zall
-  14.00  Shijiazhuang Ever Bright  2-2 (1-1)  Qingdao Huanghai FC
-[Sun Aug/2]
-  12.00  Shanghai SIPG            4-0 (1-0)  Hebei China Fortune
-  14.00  Chongqing Dangdai Lifan  2-2 (1-1)  Tianjin TEDA
+» Matchday 2
+  Thu Jul/30
+    18.00  Shanghai Shenhua        v Shenzhen FC              3-2 (1-0)
+    20.00  Guangzhou R&F           v Guangzhou Evergrande     0-5 (0-2)
+  Fri Jul/31
+    18.00  Jiāngsū Sūníng          v Shandong Taishan         0-0
+    20.00  Dalian Pro              v Henan Jianye             1-1 (0-0)
+  Sat Aug/1
+    18.00  Beijing Guoan           v Wuhan Zall FC            1-0 (1-0)
+    20.00  Shijiazhuang Ever Bright v Qingdao Huanghai         2-2 (1-1)
+  Sun Aug/2
+    18.00  Shanghai SIPG           v Hebei China Fortune      4-0 (1-0)
+    20.00  Chongqing Lifan         v Tianjin Teda             2-2 (1-1)
 
 
-Round 3
-[Tue Aug/4]
-  12.00  Shenzhen FC              1-3 (0-2)  Guangzhou Evergrande Taobao
-  14.00  Jiangsu Suning           2-1 (0-0)  Dalian Yifang
-[Wed Aug/5]
-  12.00  Shandong Luneng Taishan  0-1 (0-0)  Shanghai Greenland Shenhua
-  14.00  Henan Jianye             1-1 (1-0)  Guangzhou R&F
-[Thu Aug/6]
-  12.00  Tianjin TEDA             1-3 (0-1)  Beijing Sinobo Guoan
-  14.00  Qingdao Huanghai FC      1-1 (0-0)  Shanghai SIPG
-[Fri Aug/7]
-  12.00  Wuhan Zall               2-1 (2-1)  Shijiazhuang Ever Bright
-  14.00  Hebei China Fortune      2-2 (0-0)  Chongqing Dangdai Lifan
+» Matchday 3
+  Tue Aug/4
+    18.00  Shenzhen FC             v Guangzhou Evergrande     1-3 (0-2)
+    20.00  Jiāngsū Sūníng          v Dalian Pro               2-1 (0-0)
+  Wed Aug/5
+    18.00  Shandong Taishan        v Shanghai Shenhua         0-1 (0-0)
+    20.00  Henan Jianye            v Guangzhou R&F            1-1 (1-0)
+  Thu Aug/6
+    18.00  Tianjin Teda            v Beijing Guoan            1-3 (0-1)
+    20.00  Qingdao Huanghai        v Shanghai SIPG            1-1 (0-0)
+  Fri Aug/7
+    18.00  Wuhan Zall FC           v Shijiazhuang Ever Bright  2-1 (2-1)
+    20.00  Hebei China Fortune     v Chongqing Lifan          2-2 (0-0)
 
 
-Round 4
-[Sun Aug/9]
-  12.00  Guangzhou Evergrande Taobao  0-1 (0-0)  Shandong Luneng Taishan
-  14.00  Guangzhou R&F            0-2 (0-2)  Jiangsu Suning
-[Mon Aug/10]
-  12.00  Shanghai Greenland Shenhua  2-2 (1-0)  Dalian Yifang
-  14.00  Shenzhen FC              1-2 (1-1)  Henan Jianye
-[Tue Aug/11]
-  12.00  Shijiazhuang Ever Bright  3-0 (1-0)  Tianjin TEDA
-  14.00  Chongqing Dangdai Lifan  0-0  Qingdao Huanghai FC
-[Wed Aug/12]
-  12.00  Shanghai SIPG            2-1 (0-1)  Wuhan Zall
-  14.00  Beijing Sinobo Guoan     3-1 (1-0)  Hebei China Fortune
+» Matchday 4
+  Sun Aug/9
+    18.00  Guangzhou Evergrande    v Shandong Taishan         0-1 (0-0)
+    20.00  Guangzhou R&F           v Jiāngsū Sūníng           0-2 (0-2)
+  Mon Aug/10
+    18.00  Shanghai Shenhua        v Dalian Pro               2-2 (1-0)
+    20.00  Shenzhen FC             v Henan Jianye             1-2 (1-1)
+  Tue Aug/11
+    18.00  Shijiazhuang Ever Bright v Tianjin Teda             3-0 (1-0)
+    20.00  Chongqing Lifan         v Qingdao Huanghai         0-0
+  Wed Aug/12
+    18.00  Shanghai SIPG           v Wuhan Zall FC            2-1 (0-1)
+    20.00  Beijing Guoan           v Hebei China Fortune      3-1 (1-0)
 
 
-Round 5
-[Fri Aug/14]
-  12.00  Henan Jianye             1-3 (0-1)  Guangzhou Evergrande Taobao
-  14.00  Jiangsu Suning           0-1 (0-1)  Shanghai Greenland Shenhua
-[Sat Aug/15]
-  12.00  Shandong Luneng Taishan  2-0 (1-0)  Shenzhen FC
-[Sun Aug/16]
-  09.00  Dalian Yifang            0-1 (0-1)  Guangzhou R&F
-  12.00  Qingdao Huanghai FC      3-3 (2-3)  Beijing Sinobo Guoan
-  14.00  Shanghai SIPG            1-1 (0-0)  Shijiazhuang Ever Bright
-[Mon Aug/17]
-  12.00  Wuhan Zall               2-0 (1-0)  Chongqing Dangdai Lifan
-  14.00  Hebei China Fortune      2-0 (2-0)  Tianjin TEDA
+» Matchday 5
+  Fri Aug/14
+    18.00  Henan Jianye            v Guangzhou Evergrande     1-3 (0-1)
+    20.00  Jiāngsū Sūníng          v Shanghai Shenhua         0-1 (0-1)
+  Sat Aug/15
+    18.00  Shandong Taishan        v Shenzhen FC              2-0 (1-0)
+  Sun Aug/16
+    15.00  Dalian Pro              v Guangzhou R&F            0-1 (0-1)
+    18.00  Qingdao Huanghai        v Beijing Guoan            3-3 (2-3)
+    20.00  Shanghai SIPG           v Shijiazhuang Ever Bright  1-1 (0-0)
+  Mon Aug/17
+    18.00  Wuhan Zall FC           v Chongqing Lifan          2-0 (1-0)
+    20.00  Hebei China Fortune     v Tianjin Teda             2-0 (2-0)
 
 
-Round 6
-[Wed Aug/19]
-  12.00  Shandong Luneng Taishan  2-1 (1-1)  Henan Jianye
-  14.00  Shanghai Greenland Shenhua  2-3 (1-3)  Guangzhou R&F
-[Thu Aug/20]
-  12.00  Guangzhou Evergrande Taobao  2-1 (1-0)  Jiangsu Suning
-  14.00  Shenzhen FC              3-2 (2-0)  Dalian Yifang
-[Fri Aug/21]
-  12.00  Hebei China Fortune      3-1 (2-1)  Wuhan Zall
-  14.00  Chongqing Dangdai Lifan  1-0 (0-0)  Shijiazhuang Ever Bright
-[Sat Aug/22]
-  12.00  Tianjin TEDA             0-2 (0-2)  Qingdao Huanghai FC
-  14.00  Beijing Sinobo Guoan     1-2 (1-1)  Shanghai SIPG
+» Matchday 6
+  Wed Aug/19
+    18.00  Shandong Taishan        v Henan Jianye             2-1 (1-1)
+    20.00  Shanghai Shenhua        v Guangzhou R&F            2-3 (1-3)
+  Thu Aug/20
+    18.00  Guangzhou Evergrande    v Jiāngsū Sūníng           2-1 (1-0)
+    20.00  Shenzhen FC             v Dalian Pro               3-2 (2-0)
+  Fri Aug/21
+    18.00  Hebei China Fortune     v Wuhan Zall FC            3-1 (2-1)
+    20.00  Chongqing Lifan         v Shijiazhuang Ever Bright  1-0 (0-0)
+  Sat Aug/22
+    18.00  Tianjin Teda            v Qingdao Huanghai         0-2 (0-2)
+    20.00  Beijing Guoan           v Shanghai SIPG            1-2 (1-1)
 
 
-Round 7
-[Mon Aug/24]
-  14.00  Jiangsu Suning           1-1 (1-0)  Shenzhen FC
-[Tue Aug/25]
-  12.00  Guangzhou R&F            1-5 (0-4)  Shandong Luneng Taishan
-  14.00  Dalian Yifang            2-2 (2-0)  Guangzhou Evergrande Taobao
-[Wed Aug/26]
-  09.30  Henan Jianye             0-0  Shanghai Greenland Shenhua
-  12.00  Shanghai SIPG            3-0 (2-0)  Chongqing Dangdai Lifan
-  14.00  Wuhan Zall               2-1 (0-1)  Tianjin TEDA
-[Thu Aug/27]
-  12.00  Shijiazhuang Ever Bright  2-2 (1-1)  Beijing Sinobo Guoan
-  14.00  Qingdao Huanghai FC      1-2 (0-1)  Hebei China Fortune
+» Matchday 7
+  Mon Aug/24
+    20.00  Jiāngsū Sūníng          v Shenzhen FC              1-1 (1-0)
+  Tue Aug/25
+    18.00  Guangzhou R&F           v Shandong Taishan         1-5 (0-4)
+    20.00  Dalian Pro              v Guangzhou Evergrande     2-2 (2-0)
+  Wed Aug/26
+    15.30  Henan Jianye            v Shanghai Shenhua         0-0
+    18.00  Shanghai SIPG           v Chongqing Lifan          3-0 (2-0)
+    20.00  Wuhan Zall FC           v Tianjin Teda             2-1 (0-1)
+  Thu Aug/27
+    18.00  Shijiazhuang Ever Bright v Beijing Guoan            2-2 (1-1)
+    20.00  Qingdao Huanghai        v Hebei China Fortune      1-2 (0-1)
 
 
-Round 8
-[Sat Aug/29]
-  12.00  Guangzhou R&F            0-2 (0-1)  Shenzhen FC
-  14.00  Shandong Luneng Taishan  0-1 (0-0)  Dalian Yifang
-[Sun Aug/30]
-  12.00  Jiangsu Suning           5-2 (3-2)  Henan Jianye
-  14.00  Shanghai Greenland Shenhua  1-4 (1-1)  Guangzhou Evergrande Taobao
-[Mon Aug/31]
-  12.00  Shijiazhuang Ever Bright  3-1 (1-1)  Hebei China Fortune
-  14.00  Shanghai SIPG            4-1 (2-0)  Tianjin TEDA
-[Tue Sep/1]
-  12.00  Qingdao Huanghai FC      0-3 (0-2)  Wuhan Zall
-  14.00  Beijing Sinobo Guoan     5-2 (2-1)  Chongqing Dangdai Lifan
+» Matchday 8
+  Sat Aug/29
+    18.00  Guangzhou R&F           v Shenzhen FC              0-2 (0-1)
+    20.00  Shandong Taishan        v Dalian Pro               0-1 (0-0)
+  Sun Aug/30
+    18.00  Jiāngsū Sūníng          v Henan Jianye             5-2 (3-2)
+    20.00  Shanghai Shenhua        v Guangzhou Evergrande     1-4 (1-1)
+  Mon Aug/31
+    18.00  Shijiazhuang Ever Bright v Hebei China Fortune      3-1 (1-1)
+    20.00  Shanghai SIPG           v Tianjin Teda             4-1 (2-0)
+  Tue Sep/1
+    18.00  Qingdao Huanghai        v Wuhan Zall FC            0-3 (0-2)
+    20.00  Beijing Guoan           v Chongqing Lifan          5-2 (2-1)
 
 
-Round 9
-[Thu Sep/3]
-  12.00  Henan Jianye             0-4 (0-2)  Dalian Yifang
-  14.00  Shandong Luneng Taishan  0-1 (0-0)  Jiangsu Suning
-[Fri Sep/4]
-  12.00  Shenzhen FC              0-0  Shanghai Greenland Shenhua
-  14.00  Guangzhou Evergrande Taobao  2-1 (0-0)  Guangzhou R&F
-[Sat Sep/5]
-  12.00  Hebei China Fortune      2-0 (1-0)  Shanghai SIPG
-  14.00  Qingdao Huanghai FC      0-1 (0-0)  Shijiazhuang Ever Bright
-[Sun Sep/6]
-  12.00  Tianjin TEDA             1-2 (0-2)  Chongqing Dangdai Lifan
-  14.00  Wuhan Zall               2-2 (0-2)  Beijing Sinobo Guoan
+» Matchday 9
+  Thu Sep/3
+    18.00  Henan Jianye            v Dalian Pro               0-4 (0-2)
+    20.00  Shandong Taishan        v Jiāngsū Sūníng           0-1 (0-0)
+  Fri Sep/4
+    18.00  Shenzhen FC             v Shanghai Shenhua         0-0
+    20.00  Guangzhou Evergrande    v Guangzhou R&F            2-1 (0-0)
+  Sat Sep/5
+    18.00  Hebei China Fortune     v Shanghai SIPG            2-0 (1-0)
+    20.00  Qingdao Huanghai        v Shijiazhuang Ever Bright  0-1 (0-0)
+  Sun Sep/6
+    18.00  Tianjin Teda            v Chongqing Lifan          1-2 (0-2)
+    20.00  Wuhan Zall FC           v Beijing Guoan            2-2 (0-2)
 
 
-Round 10
-[Tue Sep/8]
-  12.00  Guangzhou R&F            3-1 (3-1)  Henan Jianye
-  14.00  Dalian Yifang            1-1 (1-0)  Jiangsu Suning
-[Wed Sep/9]
-  12.00  Guangzhou Evergrande Taobao  2-0 (1-0)  Shenzhen FC
-  14.00  Shanghai Greenland Shenhua  1-1 (0-1)  Shandong Luneng Taishan
-[Thu Sep/10]
-  12.00  Beijing Sinobo Guoan     2-0 (1-0)  Tianjin TEDA
-  14.30  Shanghai SIPG            2-1 (1-0)  Qingdao Huanghai FC
-[Fri Sep/11]
-  12.00  Chongqing Dangdai Lifan  3-1 (1-1)  Hebei China Fortune
-  14.00  Shijiazhuang Ever Bright  1-0 (1-0)  Wuhan Zall
+» Matchday 10
+  Tue Sep/8
+    18.00  Guangzhou R&F           v Henan Jianye             3-1 (3-1)
+    20.00  Dalian Pro              v Jiāngsū Sūníng           1-1 (1-0)
+  Wed Sep/9
+    18.00  Guangzhou Evergrande    v Shenzhen FC              2-0 (1-0)
+    20.00  Shanghai Shenhua        v Shandong Taishan         1-1 (0-1)
+  Thu Sep/10
+    18.00  Beijing Guoan           v Tianjin Teda             2-0 (1-0)
+    20.30  Shanghai SIPG           v Qingdao Huanghai         2-1 (1-0)
+  Fri Sep/11
+    18.00  Chongqing Lifan         v Hebei China Fortune      3-1 (1-1)
+    20.00  Shijiazhuang Ever Bright v Wuhan Zall FC            1-0 (1-0)
 
 
-Round 11
-[Sun Sep/13]
-  12.00  Jiangsu Suning           3-3 (1-1)  Guangzhou R&F
-  14.00  Shandong Luneng Taishan  1-2 (0-1)  Guangzhou Evergrande Taobao
-[Mon Sep/14]
-  12.00  Henan Jianye             1-3 (0-3)  Shenzhen FC
-  14.00  Dalian Yifang            1-1 (1-0)  Shanghai Greenland Shenhua
-[Tue Sep/15]
-  12.00  Wuhan Zall               1-2 (0-0)  Shanghai SIPG
-  14.00  Hebei China Fortune      3-3 (1-2)  Beijing Sinobo Guoan
-[Wed Sep/16]
-  12.00  Qingdao Huanghai FC      0-3 (0-0)  Chongqing Dangdai Lifan
-  14.00  Tianjin TEDA             1-1 (0-0)  Shijiazhuang Ever Bright
+» Matchday 11
+  Sun Sep/13
+    18.00  Jiāngsū Sūníng          v Guangzhou R&F            3-3 (1-1)
+    20.00  Shandong Taishan        v Guangzhou Evergrande     1-2 (0-1)
+  Mon Sep/14
+    18.00  Henan Jianye            v Shenzhen FC              1-3 (0-3)
+    20.00  Dalian Pro              v Shanghai Shenhua         1-1 (1-0)
+  Tue Sep/15
+    18.00  Wuhan Zall FC           v Shanghai SIPG            1-2 (0-0)
+    20.00  Hebei China Fortune     v Beijing Guoan            3-3 (1-2)
+  Wed Sep/16
+    18.00  Qingdao Huanghai        v Chongqing Lifan          0-3 (0-0)
+    20.00  Tianjin Teda            v Shijiazhuang Ever Bright  1-1 (0-0)
 
 
-Round 12
-[Mon Sep/21]
-  09.30  Guangzhou Evergrande Taobao  2-1 (2-1)  Henan Jianye
-  12.00  Shenzhen FC              1-2 (0-2)  Shandong Luneng Taishan
-  13.35  Shanghai Greenland Shenhua  0-0  Jiangsu Suning
-  14.00  Guangzhou R&F            1-0 (0-0)  Dalian Yifang
-[Tue Sep/22]
-  09.30  Beijing Sinobo Guoan     5-1 (3-0)  Qingdao Huanghai FC
-  12.00  Tianjin TEDA             0-1 (0-0)  Hebei China Fortune
-  13.35  Chongqing Dangdai Lifan  1-0 (1-0)  Wuhan Zall
-  14.00  Shijiazhuang Ever Bright  0-1 (0-0)  Shanghai SIPG
+» Matchday 12
+  Mon Sep/21
+    15.30  Guangzhou Evergrande    v Henan Jianye             2-1 (2-1)
+    18.00  Shenzhen FC             v Shandong Taishan         1-2 (0-2)
+    19.35  Shanghai Shenhua        v Jiāngsū Sūníng           0-0
+    20.00  Guangzhou R&F           v Dalian Pro               1-0 (0-0)
+  Tue Sep/22
+    15.30  Beijing Guoan           v Qingdao Huanghai         5-1 (3-0)
+    18.00  Tianjin Teda            v Hebei China Fortune      0-1 (0-0)
+    19.35  Chongqing Lifan         v Wuhan Zall FC            1-0 (1-0)
+    20.00  Shijiazhuang Ever Bright v Shanghai SIPG            0-1 (0-0)
 
 
-Round 13
-[Thu Sep/24]
-  09.30  Henan Jianye             0-2 (0-2)  Shandong Luneng Taishan
-  12.00  Jiangsu Suning           2-1 (1-0)  Guangzhou Evergrande Taobao
-  14.00  Guangzhou R&F            0-2 (0-1)  Shanghai Greenland Shenhua
-         Dalian Yifang            1-3 (1-2)  Shenzhen FC
-[Fri Sep/25]
-  09.30  Qingdao Huanghai FC      3-0 (1-0)  Tianjin TEDA
-  14.00  Shijiazhuang Ever Bright  1-4 (0-2)  Chongqing Dangdai Lifan
-         Wuhan Zall               0-2 (0-1)  Hebei China Fortune
-         Shanghai SIPG            1-0 (1-0)  Beijing Sinobo Guoan
+» Matchday 13
+  Thu Sep/24
+    15.30  Henan Jianye            v Shandong Taishan         0-2 (0-2)
+    18.00  Jiāngsū Sūníng          v Guangzhou Evergrande     2-1 (1-0)
+    20.00  Guangzhou R&F           v Shanghai Shenhua         0-2 (0-1)
+           Dalian Pro              v Shenzhen FC              1-3 (1-2)
+  Fri Sep/25
+    15.30  Qingdao Huanghai        v Tianjin Teda             3-0 (1-0)
+    20.00  Shijiazhuang Ever Bright v Chongqing Lifan          1-4 (0-2)
+           Wuhan Zall FC           v Hebei China Fortune      0-2 (0-1)
+           Shanghai SIPG           v Beijing Guoan            1-0 (1-0)
 
 
-Round 14
-[Sun Sep/27]
-  09.30  Shandong Luneng Taishan  0-0  Guangzhou R&F
-         Shanghai Greenland Shenhua  2-0 (2-0)  Henan Jianye
-         Shenzhen FC              0-1 (0-1)  Jiangsu Suning
-  14.00  Guangzhou Evergrande Taobao  1-0 (0-0)  Dalian Yifang
-[Mon Sep/28]
-  09.30  Beijing Sinobo Guoan     4-0 (2-0)  Shijiazhuang Ever Bright
-         Tianjin TEDA             0-0  Wuhan Zall
-  14.00  Hebei China Fortune      3-1 (2-0)  Qingdao Huanghai FC
-         Chongqing Dangdai Lifan  1-0 (1-0)  Shanghai SIPG
+» Matchday 14
+  Sun Sep/27
+    15.30  Shandong Taishan        v Guangzhou R&F            0-0
+           Shanghai Shenhua        v Henan Jianye             2-0 (2-0)
+           Shenzhen FC             v Jiāngsū Sūníng           0-1 (0-1)
+    20.00  Guangzhou Evergrande    v Dalian Pro               1-0 (0-0)
+  Mon Sep/28
+    15.30  Beijing Guoan           v Shijiazhuang Ever Bright  4-0 (2-0)
+           Tianjin Teda            v Wuhan Zall FC            0-0
+    20.00  Hebei China Fortune     v Qingdao Huanghai         3-1 (2-0)
+           Chongqing Lifan         v Shanghai SIPG            1-0 (1-0)
+
+
+» Playoffs, Quarterfinals
+  Fri Oct/16
+    19.35  Hebei China Fortune     v Guangzhou Evergrande     1-3 (1-0)
+  Sat Oct/17
+    15.30  Shandong Taishan        v Beijing Guoan            2-2 (2-0)
+  Sun Oct/18
+    19.35  Shanghai Shenhua        v Shanghai SIPG            0-0
+  Mon Oct/19
+    19.35  Chongqing Lifan         v Jiāngsū Sūníng           1-1 (0-1)
+  Wed Oct/21
+    19.35  Guangzhou Evergrande    v Hebei China Fortune      5-0 (2-0)
+  Thu Oct/22
+    19.35  Beijing Guoan           v Shandong Taishan         2-1 (1-1)
+  Fri Oct/23
+    19.35  Shanghai SIPG           v Shanghai Shenhua         5-4 pen. 1-1 a.e.t. (1-1, 0-0)
+  Sat Oct/24
+    19.35  Jiāngsū Sūníng          v Chongqing Lifan          1-0 (1-0)
+
+
+» Playoffs, 5.-8. Platz Playoffs
+  Mon Oct/26
+    19.35  Hebei China Fortune     v Shandong Taishan         2-2 (2-1)
+  Tue Oct/27
+    19.35  Shanghai Shenhua        v Chongqing Lifan          3-1 (1-0)
+  Sat Oct/31
+    19.35  Shandong Taishan        v Hebei China Fortune      6-3 a.e.t. (2-2, 1-1)
+  Sun Nov/1
+    19.35  Chongqing Lifan         v Shanghai Shenhua         10-9 pen. 2-0 a.e.t. (2-0, 0-0)
+
+
+» Playoffs, 7. Platz
+  Fri Nov/6
+    15.30  Shanghai Shenhua        v Hebei China Fortune      4-1 (2-1)
+  Tue Nov/10
+    15.30  Hebei China Fortune     v Shanghai Shenhua         0-1 (0-0)
+
+
+» Playoffs, 5. Platz
+  Fri Nov/6
+    15.30  Chongqing Lifan         v Shandong Taishan         4-3 (0-2)
+  Tue Nov/10
+    15.30  Shandong Taishan        v Chongqing Lifan          4-3 pen. 2-1 a.e.t. (2-1, 2-1)
+
+
+» Playoffs, Semifinals
+  Wed Oct/28
+    19.35  Beijing Guoan           v Guangzhou Evergrande     0-0
+  Thu Oct/29
+    19.35  Jiāngsū Sūníng          v Shanghai SIPG            1-1 (0-0)
+  Mon Nov/2
+    15.30  Shanghai SIPG           v Jiāngsū Sūníng           1-2 a.e.t. (1-1, 1-0)
+    19.35  Guangzhou Evergrande    v Beijing Guoan            3-1 (1-0)
+
+
+» Playoffs, 3. Platz
+  Sat Nov/7
+    19.35  Shanghai SIPG           v Beijing Guoan            1-2 (0-1)
+  Wed Nov/11
+    19.35  Beijing Guoan           v Shanghai SIPG            1-1 (1-0)
+
+
+» Playoffs, Final
+  Sun Nov/8
+    19.35  Jiāngsū Sūníng          v Guangzhou Evergrande     0-0
+  Thu Nov/12
+    19.35  Guangzhou Evergrande    v Jiāngsū Sūníng           1-2 (0-1)
+
+
+» Relegation, Round 1
+  Fri Oct/16
+    15.30  Tianjin Teda            v Shenzhen FC              2-0 (1-0)
+  Sat Oct/17
+    15.30  Dalian Pro              v Shijiazhuang Ever Bright  1-2 (1-1)
+  Sun Oct/18
+    15.30  Henan Jianye            v Wuhan Zall FC            1-0 (1-0)
+  Mon Oct/19
+    15.30  Qingdao Huanghai        v Guangzhou R&F            0-0
+  Wed Oct/21
+    15.30  Shenzhen FC             v Tianjin Teda             1-1 (1-0)
+  Thu Oct/22
+    15.30  Shijiazhuang Ever Bright v Dalian Pro               0-2 (0-2)
+  Fri Oct/23
+    15.30  Wuhan Zall FC           v Henan Jianye             1-1 (0-1)
+  Sat Oct/24
+    15.30  Guangzhou R&F           v Qingdao Huanghai         2-1 (0-0)
+
+
+» Relegation, 13.-16. Platz Playoffs
+  Wed Oct/28
+    15.30  Shenzhen FC             v Shijiazhuang Ever Bright  1-0 (0-0)
+  Thu Oct/29
+    15.30  Wuhan Zall FC           v Qingdao Huanghai         2-1 (1-0)
+  Mon Nov/2
+    15.30  Shijiazhuang Ever Bright v Shenzhen FC              2-2 (1-1)
+           Qingdao Huanghai        v Wuhan Zall FC            5-4 pen. 2-1 a.e.t. (2-1, 1-1)
+
+
+» Relegation, Direkter Abstieg
+  Sat Nov/7
+    15.30  Shijiazhuang Ever Bright v Wuhan Zall FC            0-0
+  Wed Nov/11
+    15.30  Wuhan Zall FC           v Shijiazhuang Ever Bright  2-1 (1-0)
+
+
+» Relegation, 13. Platz
+  Tue Nov/10
+    15.30  Qingdao Huanghai        v Shenzhen FC              1-2 (0-1)
+  Fri Nov/6
+    15.30  Shenzhen FC             v Qingdao Huanghai         2-0 (1-0)
+
+
+» Relegation, 9.-12. Platz Playoffs
+  Mon Oct/26
+    15.30  Dalian Pro              v Tianjin Teda             0-2 (0-2)
+  Tue Oct/27
+    15.30  Guangzhou R&F           v Henan Jianye             1-2 (1-1)
+  Sat Oct/31
+    15.30  Tianjin Teda            v Dalian Pro               1-2 (0-2)
+  Sun Nov/1
+    15.30  Henan Jianye            v Guangzhou R&F            3-2 (1-1)
+
+
+» Relegation, 11. Platz
+  Fri Nov/6
+    15.30  Guangzhou R&F           v Dalian Pro               0-3 (0-0)
+  Tue Nov/10
+    15.30  Dalian Pro              v Guangzhou R&F            0-4 a.e.t. (0-3, 0-1)
+
+
+» Relegation, 9. Platz
+  Fri Nov/6
+    15.30  Henan Jianye            v Tianjin Teda             0-0
+  Tue Nov/10
+    15.30  Tianjin Teda            v Henan Jianye             1-2 a.e.t. (0-0)

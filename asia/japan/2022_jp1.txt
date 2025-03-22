@@ -1,0 +1,492 @@
+= Japan | J1 League 2022
+
+# Date       Fri Feb/18 - Sat Nov/5 2022 (260d)
+# Teams      18
+# Matches    306
+
+
+
+» Matchday 1
+  Fri Feb/18 2022
+    19.00  Kawasaki Frontale       v FC Tokyo                 1-0 (0-0)
+  Sat Feb/19
+    14.00  Yokohama F. Marinos     v Cerezo Osaka             2-2 (0-1)
+           Shimizu S-Pulse         v Hokkaido Consadole Sapporo  1-1 (0-1)
+           Kyoto Sanga FC          v Urawa Red Diamonds       1-0 (0-0)
+           Gamba Osaka             v Kashima Antlers          1-3 (1-2)
+           Sanfrecce Hiroshima     v Sagan Tosu               0-0
+           Avispa Fukuoka          v Júbilo Iwata             1-1 (0-0)
+    15.00  Shonan Bellmare         v Kashiwa Reysol           0-2 (0-0)
+           Nagoya Grampus          v Vissel Kobe              2-0 (1-0)
+
+
+» Matchday 2
+  Sat Feb/26
+    13.30  Júbilo Iwata            v Shimizu S-Pulse          1-2 (1-1)
+    14.00  Cerezo Osaka            v Kyoto Sanga FC           1-1 (0-1)
+    15.00  Hokkaido Consadole Sapporo v Sanfrecce Hiroshima      1-1 (1-0)
+           Kashima Antlers         v Kawasaki Frontale        0-2 (0-2)
+           Urawa Red Diamonds      v Gamba Osaka              0-1 (0-0)
+           Sagan Tosu              v Shonan Bellmare          1-1 (1-0)
+    16.00  Vissel Kobe             v Avispa Fukuoka           0-0
+  Sun Feb/27
+    15.00  Kashiwa Reysol          v Yokohama F. Marinos      3-1 (1-1)
+  Wed Apr/20
+    19.00  FC Tokyo                v Nagoya Grampus           0-0
+
+
+» Matchday 3
+  Sat Mar/5
+    14.00  Kyoto Sanga FC          v Júbilo Iwata             1-4 (0-1)
+  Sun Mar/6
+    14.00  Yokohama F. Marinos     v Shimizu S-Pulse          2-0 (2-0)
+           Nagoya Grampus          v Sagan Tosu               1-1 (1-1)
+           Avispa Fukuoka          v Hokkaido Consadole Sapporo  0-0
+    15.00  Kashima Antlers         v Kashiwa Reysol           1-0 (0-0)
+           Urawa Red Diamonds      v Shonan Bellmare          2-0 (1-0)
+           Gamba Osaka             v Kawasaki Frontale        2-2 (1-0)
+    16.00  Cerezo Osaka            v FC Tokyo                 0-1 (0-1)
+           Sanfrecce Hiroshima     v Vissel Kobe              1-1 (0-1)
+
+
+» Matchday 4
+  Fri Mar/11
+    19.00  Vissel Kobe             v Kashima Antlers          0-2 (0-1)
+  Sat Mar/12
+    14.00  Hokkaido Consadole Sapporo v Yokohama F. Marinos      1-1 (0-0)
+           Shimizu S-Pulse         v Cerezo Osaka             1-3 (0-1)
+           Júbilo Iwata            v Gamba Osaka              1-1 (1-0)
+    15.00  FC Tokyo                v Sanfrecce Hiroshima      2-1 (0-0)
+           Shonan Bellmare         v Kyoto Sanga FC           1-1 (0-0)
+    16.00  Kashiwa Reysol          v Avispa Fukuoka           1-0 (1-0)
+    17.00  Kawasaki Frontale       v Nagoya Grampus           1-0 (1-0)
+  Sun Mar/13
+    15.00  Sagan Tosu              v Urawa Red Diamonds       1-0 (0-0)
+
+
+» Matchday 5
+  Fri Mar/18
+    19.00  Yokohama F. Marinos     v Sagan Tosu               0-0
+  Sat Mar/19
+    14.00  Shimizu S-Pulse         v Vissel Kobe              0-0
+           Kyoto Sanga FC          v FC Tokyo                 0-1 (0-0)
+           Gamba Osaka             v Avispa Fukuoka           2-3 (0-1)
+           Sanfrecce Hiroshima     v Kawasaki Frontale        0-2 (0-0)
+    15.00  Kashima Antlers         v Shonan Bellmare          2-1 (0-1)
+           Urawa Red Diamonds      v Júbilo Iwata             4-1 (3-1)
+    16.00  Cerezo Osaka            v Hokkaido Consadole Sapporo  2-2 (1-1)
+  Sun Mar/20
+    14.00  Nagoya Grampus          v Kashiwa Reysol           1-1 (1-1)
+
+
+» Matchday 6
+  Fri Apr/1
+    19.00  Avispa Fukuoka          v Sagan Tosu               0-0
+  Sat Apr/2
+    14.00  Gamba Osaka             v Nagoya Grampus           3-1 (1-0)
+    15.00  Kashiwa Reysol          v Júbilo Iwata             2-0 (1-0)
+           Kawasaki Frontale       v Cerezo Osaka             1-4 (0-3)
+           Shonan Bellmare         v Sanfrecce Hiroshima      0-1 (0-0)
+    16.00  Kashima Antlers         v Shimizu S-Pulse          2-1 (0-0)
+           Vissel Kobe             v Kyoto Sanga FC           1-3 (0-0)
+    19.00  Hokkaido Consadole Sapporo v Urawa Red Diamonds       1-1 (0-1)
+           Yokohama F. Marinos     v FC Tokyo                 2-1 (1-1)
+
+
+» Matchday 7
+  Tue Apr/5
+    19.00  Cerezo Osaka            v Kashiwa Reysol           0-1 (0-1)
+  Wed Apr/6
+    18.30  Kyoto Sanga FC          v Gamba Osaka              1-1 (1-0)
+    19.00  FC Tokyo                v Vissel Kobe              3-1 (0-1)
+           Júbilo Iwata            v Kawasaki Frontale        1-1 (0-0)
+           Sanfrecce Hiroshima     v Yokohama F. Marinos      2-0 (1-0)
+           Avispa Fukuoka          v Kashima Antlers          0-1 (0-0)
+           Sagan Tosu              v Hokkaido Consadole Sapporo  5-0 (1-0)
+    19.30  Urawa Red Diamonds      v Shimizu S-Pulse          1-1 (1-0)
+           Nagoya Grampus          v Shonan Bellmare          2-1 (0-1)
+
+
+» Matchday 8
+  Sat Apr/9
+    19.00  Kawasaki Frontale       v Kashiwa Reysol           1-0 (1-0)
+  Sun Apr/10
+    13.00  Shimizu S-Pulse         v Gamba Osaka              1-1 (0-0)
+    14.00  FC Tokyo                v Urawa Red Diamonds       0-0
+           Vissel Kobe             v Cerezo Osaka             0-1 (0-1)
+           Sanfrecce Hiroshima     v Avispa Fukuoka           1-0 (0-0)
+    15.00  Kashima Antlers         v Yokohama F. Marinos      0-3 (0-0)
+           Shonan Bellmare         v Júbilo Iwata             0-0
+           Nagoya Grampus          v Hokkaido Consadole Sapporo  0-2 (0-0)
+    16.00  Kyoto Sanga FC          v Sagan Tosu               3-1 (2-0)
+
+
+» Matchday 9
+  Wed Feb/23
+    14.00  Yokohama F. Marinos     v Kawasaki Frontale        4-2 (0-1)
+    16.00  Urawa Red Diamonds      v Vissel Kobe              2-2 (2-1)
+  Sat Apr/16
+    13.00  Hokkaido Consadole Sapporo v FC Tokyo                 0-0
+  Sun Apr/17
+    14.00  Gamba Osaka             v Shonan Bellmare          0-1 (0-0)
+    15.00  Kashima Antlers         v Nagoya Grampus           0-0
+           Sagan Tosu              v Shimizu S-Pulse          0-0
+    16.00  Júbilo Iwata            v Sanfrecce Hiroshima      2-2 (1-0)
+    17.00  Avispa Fukuoka          v Cerezo Osaka             0-0
+    19.00  Kashiwa Reysol          v Kyoto Sanga FC           0-2 (0-1)
+
+
+» Matchday 10
+  Wed Mar/2
+    19.00  Kawasaki Frontale       v Urawa Red Diamonds       2-1 (0-1)
+    19.30  Yokohama F. Marinos     v Vissel Kobe              2-0 (1-0)
+  Thu Apr/28
+    19.00  Júbilo Iwata            v Nagoya Grampus           2-1 (0-1)
+  Fri Apr/29
+    13.05  Hokkaido Consadole Sapporo v Shonan Bellmare          1-0 (0-0)
+    14.00  Shimizu S-Pulse         v Sanfrecce Hiroshima      2-2 (1-0)
+    15.00  Kyoto Sanga FC          v Avispa Fukuoka           0-1 (0-1)
+    16.00  Kashiwa Reysol          v Sagan Tosu               1-4 (0-2)
+           Cerezo Osaka            v Kashima Antlers          0-3 (0-2)
+    19.00  FC Tokyo                v Gamba Osaka              2-0 (1-0)
+
+
+» Matchday 11
+  Tue May/3
+    14.00  Nagoya Grampus          v Kyoto Sanga FC           1-1 (1-1)
+           Sanfrecce Hiroshima     v Kashiwa Reysol           1-2 (1-0)
+    15.00  Kashima Antlers         v Júbilo Iwata             3-1 (2-0)
+           Shonan Bellmare         v Shimizu S-Pulse          1-4 (0-3)
+           Sagan Tosu              v Cerezo Osaka             1-1 (0-0)
+    17.00  Avispa Fukuoka          v FC Tokyo                 5-1 (2-1)
+  Wed May/4
+    14.00  Gamba Osaka             v Hokkaido Consadole Sapporo  0-0
+  Wed May/18
+    19.00  Vissel Kobe             v Kawasaki Frontale        0-1 (0-0)
+    19.30  Urawa Red Diamonds      v Yokohama F. Marinos      3-3 (0-3)
+
+
+» Matchday 12
+  Fri May/6
+    19.00  Cerezo Osaka            v Júbilo Iwata             2-1 (2-0)
+  Sat May/7
+    14.00  Shimizu S-Pulse         v Kawasaki Frontale        0-2 (0-2)
+           Sanfrecce Hiroshima     v Kashima Antlers          3-0 (1-0)
+    15.00  Yokohama F. Marinos     v Nagoya Grampus           2-1 (1-1)
+    16.00  Hokkaido Consadole Sapporo v Kyoto Sanga FC           1-0 (0-0)
+    17.00  Avispa Fukuoka          v Shonan Bellmare          0-0
+  Sun May/8
+    14.00  Gamba Osaka             v Vissel Kobe              2-0 (0-0)
+    15.00  FC Tokyo                v Sagan Tosu               0-1 (0-0)
+    16.00  Kashiwa Reysol          v Urawa Red Diamonds       0-0
+
+
+» Matchday 13
+  Fri May/13
+    19.30  Urawa Red Diamonds      v Sanfrecce Hiroshima      0-0
+  Sat May/14
+    14.00  Júbilo Iwata            v FC Tokyo                 2-1 (1-0)
+           Nagoya Grampus          v Cerezo Osaka             1-0 (1-0)
+           Kyoto Sanga FC          v Shimizu S-Pulse          0-0
+    15.00  Kashima Antlers         v Hokkaido Consadole Sapporo  4-1 (3-0)
+           Vissel Kobe             v Sagan Tosu               4-0 (2-0)
+    16.00  Kawasaki Frontale       v Avispa Fukuoka           2-0 (0-0)
+           Shonan Bellmare         v Yokohama F. Marinos      1-4 (0-2)
+    19.00  Kashiwa Reysol          v Gamba Osaka              0-1 (0-0)
+
+
+» Matchday 14
+  Sat May/21
+    13.00  Sanfrecce Hiroshima     v Kyoto Sanga FC           3-1 (2-1)
+    14.00  Shimizu S-Pulse         v Nagoya Grampus           1-2 (0-1)
+           Cerezo Osaka            v Gamba Osaka              3-1 (0-1)
+    15.00  FC Tokyo                v Kashiwa Reysol           0-0
+           Shonan Bellmare         v Vissel Kobe              2-1 (1-0)
+    17.00  Urawa Red Diamonds      v Kashima Antlers          1-1 (1-1)
+           Sagan Tosu              v Kawasaki Frontale        0-0
+    19.00  Avispa Fukuoka          v Yokohama F. Marinos      1-0 (0-0)
+  Sun May/22
+    15.00  Júbilo Iwata            v Hokkaido Consadole Sapporo  1-2 (1-1)
+
+
+» Matchday 15
+  Wed May/25
+    19.00  Hokkaido Consadole Sapporo v Kashiwa Reysol           1-6 (0-2)
+           Kashima Antlers         v Sagan Tosu               4-4 (0-2)
+           Kawasaki Frontale       v Shonan Bellmare          0-4 (0-0)
+           Yokohama F. Marinos     v Kyoto Sanga FC           2-0 (1-0)
+           Shimizu S-Pulse         v FC Tokyo                 0-3 (0-1)
+           Cerezo Osaka            v Urawa Red Diamonds       2-0 (0-0)
+           Vissel Kobe             v Júbilo Iwata             0-0
+    19.30  Nagoya Grampus          v Avispa Fukuoka           1-0 (1-0)
+  Wed Jun/29
+    19.00  Gamba Osaka             v Sanfrecce Hiroshima      2-0 (2-0)
+
+
+» Matchday 16
+  Sat May/28
+    14.00  Sanfrecce Hiroshima     v Nagoya Grampus           1-0 (0-0)
+    17.00  Avispa Fukuoka          v Urawa Red Diamonds       0-0
+  Sun May/29
+    13.05  Vissel Kobe             v Hokkaido Consadole Sapporo  4-1 (1-0)
+    14.00  Kyoto Sanga FC          v Kawasaki Frontale        1-0 (0-0)
+    15.00  FC Tokyo                v Kashima Antlers          3-1 (2-0)
+           Shonan Bellmare         v Cerezo Osaka             0-2 (0-1)
+    16.00  Kashiwa Reysol          v Shimizu S-Pulse          3-1 (2-0)
+           Júbilo Iwata            v Yokohama F. Marinos      0-2 (0-0)
+    17.00  Sagan Tosu              v Gamba Osaka              2-1 (1-0)
+
+
+» Matchday 17
+  Sat Jun/18
+    18.00  Kashima Antlers         v Kyoto Sanga FC           1-0 (0-0)
+           Shonan Bellmare         v FC Tokyo                 2-0 (1-0)
+           Shimizu S-Pulse         v Avispa Fukuoka           3-1 (2-0)
+           Júbilo Iwata            v Sagan Tosu               3-1 (3-0)
+    19.00  Urawa Red Diamonds      v Nagoya Grampus           3-0 (3-0)
+           Kashiwa Reysol          v Vissel Kobe              3-1 (2-1)
+           Kawasaki Frontale       v Hokkaido Consadole Sapporo  5-2 (1-1)
+           Gamba Osaka             v Yokohama F. Marinos      1-2 (1-0)
+           Sanfrecce Hiroshima     v Cerezo Osaka             2-1 (0-0)
+
+
+» Matchday 18
+  Sat Jun/25
+    16.00  Yokohama F. Marinos     v Kashiwa Reysol           4-0 (3-0)
+    18.30  Avispa Fukuoka          v Sanfrecce Hiroshima      1-3 (1-1)
+    19.00  Kawasaki Frontale       v Júbilo Iwata             1-1 (1-0)
+  Sun Jun/26
+    14.00  Hokkaido Consadole Sapporo v Gamba Osaka              1-0 (0-0)
+    18.00  Nagoya Grampus          v Kashima Antlers          1-1 (0-1)
+           Cerezo Osaka            v Shimizu S-Pulse          1-1 (0-1)
+           Vissel Kobe             v Urawa Red Diamonds       0-1 (0-0)
+    18.30  Kyoto Sanga FC          v Shonan Bellmare          0-1 (0-0)
+    19.00  Sagan Tosu              v FC Tokyo                 5-0 (1-0)
+
+
+» Matchday 19
+  Sat Jul/2
+    18.00  FC Tokyo                v Avispa Fukuoka           2-2 (0-1)
+    18.30  Kashiwa Reysol          v Kashima Antlers          1-2 (0-1)
+           Kyoto Sanga FC          v Hokkaido Consadole Sapporo  2-1 (1-0)
+           Sanfrecce Hiroshima     v Júbilo Iwata             3-0 (1-0)
+    19.00  Shonan Bellmare         v Nagoya Grampus           0-0
+           Shimizu S-Pulse         v Yokohama F. Marinos      3-5 (1-2)
+           Gamba Osaka             v Urawa Red Diamonds       1-1 (1-0)
+           Cerezo Osaka            v Kawasaki Frontale        2-1 (0-1)
+    19.30  Sagan Tosu              v Vissel Kobe              0-2 (0-0)
+
+
+» Matchday 20
+  Wed Jul/6
+    19.00  Kashima Antlers         v Cerezo Osaka             3-3 (1-1)
+           Kashiwa Reysol          v Nagoya Grampus           0-1 (0-1)
+           FC Tokyo                v Hokkaido Consadole Sapporo  3-0 (2-0)
+           Yokohama F. Marinos     v Sanfrecce Hiroshima      3-0 (1-0)
+           Shonan Bellmare         v Gamba Osaka              1-0 (1-0)
+           Júbilo Iwata            v Avispa Fukuoka           0-1 (0-0)
+           Vissel Kobe             v Shimizu S-Pulse          2-1 (1-0)
+    19.30  Urawa Red Diamonds      v Kyoto Sanga FC           2-2 (1-0)
+  Wed Aug/31
+    19.00  Kawasaki Frontale       v Sagan Tosu               4-0 (1-0)
+
+
+» Matchday 21
+  Sat Jul/9
+    19.00  Kawasaki Frontale       v Gamba Osaka              4-0 (4-0)
+           Júbilo Iwata            v Vissel Kobe              0-1 (0-0)
+  Sun Jul/10
+    14.00  Hokkaido Consadole Sapporo v Kashima Antlers          0-0
+    18.00  Nagoya Grampus          v Shimizu S-Pulse          0-2 (0-1)
+           Sanfrecce Hiroshima     v Shonan Bellmare          1-1 (0-0)
+    19.00  Urawa Red Diamonds      v FC Tokyo                 3-0 (1-0)
+           Cerezo Osaka            v Yokohama F. Marinos      2-2 (1-0)
+           Avispa Fukuoka          v Kyoto Sanga FC           1-0 (1-0)
+           Sagan Tosu              v Kashiwa Reysol           0-1 (0-1)
+
+
+» Matchday 22
+  Sat Jul/16
+    18.00  Kashima Antlers         v Vissel Kobe              1-1 (0-0)
+           Shimizu S-Pulse         v Urawa Red Diamonds       1-2 (0-1)
+    19.00  Kashiwa Reysol          v Hokkaido Consadole Sapporo  1-0 (1-0)
+           Shonan Bellmare         v Avispa Fukuoka           0-0
+           Gamba Osaka             v Cerezo Osaka             1-2 (1-0)
+           Sagan Tosu              v Yokohama F. Marinos      2-2 (1-1)
+  Sun Jul/17
+    18.00  FC Tokyo                v Júbilo Iwata             2-0 (2-0)
+    18.30  Kyoto Sanga FC          v Sanfrecce Hiroshima      1-1 (0-0)
+  Wed Sep/14
+    19.30  Nagoya Grampus          v Kawasaki Frontale        1-1 (0-0)
+
+
+» Matchday 23
+  Sat Jul/30
+    14.00  Hokkaido Consadole Sapporo v Nagoya Grampus           2-2 (1-0)
+    18.30  Júbilo Iwata            v Shonan Bellmare          1-0 (0-0)
+    19.00  Urawa Red Diamonds      v Kawasaki Frontale        3-1 (2-0)
+           Yokohama F. Marinos     v Kashima Antlers          2-0 (1-0)
+           Gamba Osaka             v Kyoto Sanga FC           1-1 (0-0)
+           Cerezo Osaka            v Avispa Fukuoka           2-0 (1-0)
+           Vissel Kobe             v Kashiwa Reysol           0-1 (0-1)
+           Sanfrecce Hiroshima     v FC Tokyo                 1-2 (1-0)
+  Sun Jul/31
+    18.00  Shimizu S-Pulse         v Sagan Tosu               3-3 (0-2)
+
+
+» Matchday 24
+  Sat Aug/6
+    18.00  Kashima Antlers         v Sanfrecce Hiroshima      0-2 (0-0)
+    18.30  Kyoto Sanga FC          v Kashiwa Reysol           1-2 (1-1)
+    19.00  Nagoya Grampus          v Urawa Red Diamonds       3-0 (2-0)
+           Cerezo Osaka            v Vissel Kobe              3-0 (2-0)
+  Sun Aug/7
+    18.00  FC Tokyo                v Shimizu S-Pulse          0-2 (0-0)
+    19.00  Kawasaki Frontale       v Yokohama F. Marinos      2-1 (1-1)
+           Shonan Bellmare         v Hokkaido Consadole Sapporo  1-5 (0-3)
+           Sagan Tosu              v Júbilo Iwata             2-0 (1-0)
+  Wed Aug/31
+    19.00  Avispa Fukuoka          v Gamba Osaka              0-1 (0-0)
+
+
+» Matchday 25
+  Sat Aug/13
+    14.00  Hokkaido Consadole Sapporo v Vissel Kobe              0-2 (0-2)
+    18.30  Júbilo Iwata            v Urawa Red Diamonds       0-6 (0-3)
+  Sun Aug/14
+    18.00  Kashima Antlers         v Avispa Fukuoka           2-0 (1-0)
+    18.30  Kashiwa Reysol          v Sanfrecce Hiroshima      2-3 (1-1)
+    19.00  Gamba Osaka             v Shimizu S-Pulse          0-2 (0-0)
+           Sagan Tosu              v Nagoya Grampus           0-0
+  Wed Sep/7
+    19.00  Yokohama F. Marinos     v Shonan Bellmare          3-0 (0-0)
+  Wed Oct/12
+    19.00  FC Tokyo                v Cerezo Osaka             4-0 (0-0)
+           Kawasaki Frontale       v Kyoto Sanga FC           3-1 (2-0)
+
+
+» Matchday 26
+  Fri Aug/19
+    19.30  Nagoya Grampus          v Júbilo Iwata             1-0 (1-0)
+  Sat Aug/20
+    14.00  Hokkaido Consadole Sapporo v Sagan Tosu               1-2 (1-0)
+    18.00  Shimizu S-Pulse         v Kashiwa Reysol           1-1 (1-0)
+    19.00  Sanfrecce Hiroshima     v Gamba Osaka              5-2 (1-2)
+           Avispa Fukuoka          v Kawasaki Frontale        1-4 (1-2)
+  Sun Aug/21
+    19.00  Shonan Bellmare         v Kashima Antlers          1-1 (0-0)
+  Wed Sep/14
+    19.00  Kyoto Sanga FC          v Yokohama F. Marinos      1-2 (0-1)
+           Vissel Kobe             v FC Tokyo                 2-1 (2-0)
+    19.30  Urawa Red Diamonds      v Cerezo Osaka             0-1 (0-1)
+
+
+» Matchday 27
+  Fri Aug/26
+    19.00  Sagan Tosu              v Avispa Fukuoka           1-1 (1-1)
+  Sat Aug/27
+    18.00  Shimizu S-Pulse         v Kyoto Sanga FC           1-0 (0-0)
+           Nagoya Grampus          v Gamba Osaka              0-2 (0-1)
+    19.00  Kashiwa Reysol          v FC Tokyo                 3-6 (0-2)
+           Cerezo Osaka            v Sanfrecce Hiroshima      0-3 (0-1)
+           Kawasaki Frontale       v Kashima Antlers          2-1 (2-0)
+  Wed Oct/12
+    19.00  Yokohama F. Marinos     v Júbilo Iwata             0-1 (0-0)
+           Vissel Kobe             v Shonan Bellmare          1-0 (0-0)
+    19.30  Urawa Red Diamonds      v Hokkaido Consadole Sapporo  1-1 (0-0)
+
+
+» Matchday 28
+  Fri Sep/2
+    19.35  Hokkaido Consadole Sapporo v Cerezo Osaka             2-1 (0-0)
+  Sat Sep/3
+    18.00  Kashima Antlers         v Urawa Red Diamonds       2-2 (2-1)
+    18.30  Júbilo Iwata            v Kashiwa Reysol           2-2 (0-2)
+           Sanfrecce Hiroshima     v Shimizu S-Pulse          2-0 (0-0)
+    19.00  FC Tokyo                v Yokohama F. Marinos      2-2 (0-2)
+           Shonan Bellmare         v Kawasaki Frontale        2-1 (0-1)
+           Kyoto Sanga FC          v Vissel Kobe              2-0 (2-0)
+           Gamba Osaka             v Sagan Tosu               0-3 (0-1)
+           Avispa Fukuoka          v Nagoya Grampus           2-3 (1-3)
+
+
+» Matchday 29
+  Sat Sep/10
+    18.00  Shimizu S-Pulse         v Shonan Bellmare          1-1 (1-0)
+    18.30  Kawasaki Frontale       v Sanfrecce Hiroshima      4-0 (1-0)
+    19.00  Urawa Red Diamonds      v Kashiwa Reysol           4-1 (2-0)
+           Yokohama F. Marinos     v Avispa Fukuoka           1-0 (1-0)
+           Kyoto Sanga FC          v Kashima Antlers          1-1 (1-0)
+           Gamba Osaka             v FC Tokyo                 0-0
+           Cerezo Osaka            v Sagan Tosu               2-1 (0-0)
+           Vissel Kobe             v Nagoya Grampus           0-0
+  Sun Sep/11
+    13.05  Hokkaido Consadole Sapporo v Júbilo Iwata             4-0 (2-0)
+
+
+» Matchday 30
+  Fri Sep/16
+    19.00  Sagan Tosu              v Kashima Antlers          1-1 (1-0)
+  Sat Sep/17
+    18.00  Júbilo Iwata            v Cerezo Osaka             2-2 (0-1)
+    19.00  Kashiwa Reysol          v Kawasaki Frontale        1-1 (0-1)
+           Shonan Bellmare         v Urawa Red Diamonds       0-0
+           Nagoya Grampus          v Sanfrecce Hiroshima      0-0
+           Avispa Fukuoka          v Shimizu S-Pulse          3-2 (2-1)
+  Sun Sep/18
+    14.00  Yokohama F. Marinos     v Hokkaido Consadole Sapporo  0-0
+    19.00  FC Tokyo                v Kyoto Sanga FC           2-0 (1-0)
+           Vissel Kobe             v Gamba Osaka              2-1 (0-0)
+
+
+» Matchday 31
+  Sat Oct/1
+    14.00  Cerezo Osaka            v Shonan Bellmare          1-1 (0-0)
+           Avispa Fukuoka          v Vissel Kobe              0-1 (0-1)
+    15.00  Kashima Antlers         v FC Tokyo                 0-1 (0-0)
+           Sanfrecce Hiroshima     v Urawa Red Diamonds       4-1 (1-0)
+           Sagan Tosu              v Kyoto Sanga FC           0-1 (0-1)
+    16.00  Hokkaido Consadole Sapporo v Kawasaki Frontale        4-3 (2-1)
+           Nagoya Grampus          v Yokohama F. Marinos      0-4 (0-1)
+           Gamba Osaka             v Kashiwa Reysol           0-0
+  Sat Oct/22
+    16.00  Shimizu S-Pulse         v Júbilo Iwata             1-1 (1-0)
+
+
+» Matchday 32
+  Sat Oct/8
+    14.00  Hokkaido Consadole Sapporo v Avispa Fukuoka           1-2 (1-0)
+           Kawasaki Frontale       v Shimizu S-Pulse          3-2 (1-0)
+           Yokohama F. Marinos     v Gamba Osaka              0-2 (0-1)
+           Júbilo Iwata            v Kashima Antlers          3-3 (3-1)
+           Kyoto Sanga FC          v Nagoya Grampus           1-1 (0-1)
+           Vissel Kobe             v Sanfrecce Hiroshima      4-0 (1-0)
+    15.00  Urawa Red Diamonds      v Sagan Tosu               2-1 (1-0)
+           FC Tokyo                v Shonan Bellmare          0-2 (0-0)
+    16.00  Kashiwa Reysol          v Cerezo Osaka             0-0
+
+
+» Matchday 33
+  Sat Oct/29
+    15.00  Kawasaki Frontale       v Vissel Kobe              2-1 (1-0)
+           Yokohama F. Marinos     v Urawa Red Diamonds       4-1 (2-0)
+           Shonan Bellmare         v Sagan Tosu               3-0 (2-0)
+           Shimizu S-Pulse         v Kashima Antlers          0-1 (0-0)
+           Nagoya Grampus          v FC Tokyo                 2-1 (1-0)
+           Kyoto Sanga FC          v Cerezo Osaka             0-0
+           Gamba Osaka             v Júbilo Iwata             2-0 (0-0)
+           Sanfrecce Hiroshima     v Hokkaido Consadole Sapporo  1-2 (1-1)
+           Avispa Fukuoka          v Kashiwa Reysol           2-1 (2-0)
+
+
+» Matchday 34
+  Sat Nov/5
+    14.00  Hokkaido Consadole Sapporo v Shimizu S-Pulse          4-3 (1-0)
+           Kashima Antlers         v Gamba Osaka              0-0
+           Urawa Red Diamonds      v Avispa Fukuoka           1-1 (0-0)
+           Kashiwa Reysol          v Shonan Bellmare          1-2 (0-1)
+           FC Tokyo                v Kawasaki Frontale        2-3 (0-1)
+           Júbilo Iwata            v Kyoto Sanga FC           0-0
+           Cerezo Osaka            v Nagoya Grampus           0-1 (0-0)
+           Vissel Kobe             v Yokohama F. Marinos      1-3 (1-1)
+           Sagan Tosu              v Sanfrecce Hiroshima      2-2 (0-2)
