@@ -1,0 +1,478 @@
+= Ascenso MX 2017/18
+
+# Date       Fri Jul/21 2017 - Sat May/12 2018 (295d)
+# Teams      16
+# Matches    270
+# Stages     Apertura (120)  Apertura Playoffs (14)  Clausura (120)  Clausura Playoffs (14)  Final de Ascenso (2)
+
+
+
+» Apertura, Matchday 1
+  Fri Jul/21 2017
+    20.00  Atlante                 v Cafetaleros de Tapachula  4-1 (2-0)
+    20.30  Leones Negros           v Correcaminos UAT         0-1 (0-1)
+           Venados FC              v Mineros de Zacatecas     1-2 (0-1)
+    22.00  Cimarrones de Sonora    v Murciélagos FC           0-1 (0-0)
+  Sat Jul/22
+    19.00  Alebrijes de Oaxaca     v Atlético San Luis        2-1 (1-1)
+    20.00  FC Juárez               v Club Celaya              1-1 (0-0)
+           TM Fútbol Club          v Atlético Zacatepec       0-0
+    21.00  Dorados de Sinaloa      v Potros UAEM              3-2 (0-1)
+
+
+» Apertura, Matchday 2
+  Fri Jul/28
+    19.00  Mineros de Zacatecas    v Dorados de Sinaloa       1-3 (1-2)
+    20.00  Atlético San Luis       v FC Juárez                2-0 (2-0)
+           Correcaminos UAT        v Alebrijes de Oaxaca      1-2 (1-2)
+    21.00  Cafetaleros de Tapachula v Cimarrones de Sonora     1-2 (0-2)
+    22.00  Murciélagos FC          v Venados FC               0-1 (0-0)
+  Sat Jul/29
+    16.00  Potros UAEM             v Leones Negros            2-1 (0-1)
+    17.00  Atlético Zacatepec      v Atlante                  3-0 (1-0)
+    20.15  Club Celaya             v TM Fútbol Club           1-1 (0-1)
+
+
+» Apertura, Matchday 3
+  Fri Aug/4
+    20.00  Atlante                 v Club Celaya              1-0 (0-0)
+    20.30  Leones Negros           v Mineros de Zacatecas     0-4 (0-0)
+           Venados FC              v Dorados de Sinaloa       0-2 (0-0)
+    22.00  Cimarrones de Sonora    v Atlético Zacatepec       0-0
+           Murciélagos FC          v Cafetaleros de Tapachula  3-0 (1-0)
+  Sat Aug/5
+    19.00  Alebrijes de Oaxaca     v Potros UAEM              1-0 (0-0)
+    20.00  FC Juárez               v Correcaminos UAT         1-0 (0-0)
+           TM Fútbol Club          v Atlético San Luis        1-1 (1-1)
+
+
+» Apertura, Matchday 4
+  Fri Aug/11
+    19.00  Mineros de Zacatecas    v Alebrijes de Oaxaca      0-0
+    20.00  Atlético San Luis       v Atlante                  2-0 (0-0)
+           Correcaminos UAT        v TM Fútbol Club           2-0 (0-0)
+    21.00  Cafetaleros de Tapachula v Venados FC               1-1 (1-0)
+  Sat Aug/12
+    17.00  Atlético Zacatepec      v Murciélagos FC           1-0 (0-0)
+    19.00  Potros UAEM             v FC Juárez                1-2 (0-1)
+    20.15  Club Celaya             v Cimarrones de Sonora     3-1 (2-1)
+    21.00  Dorados de Sinaloa      v Leones Negros            2-1 (1-0)
+
+
+» Apertura, Matchday 5
+  Fri Aug/18
+    20.00  Atlante                 v Correcaminos UAT         0-1 (0-0)
+    20.30  Venados FC              v Leones Negros            0-0
+    21.00  Cafetaleros de Tapachula v Atlético Zacatepec       2-1 (0-1)
+    22.00  Murciélagos FC          v Club Celaya              1-0 (1-0)
+    23.30  Cimarrones de Sonora    v Atlético San Luis        3-1 (1-1)
+  Sat Aug/19
+    19.00  Alebrijes de Oaxaca     v Dorados de Sinaloa       0-0
+    20.00  FC Juárez               v Mineros de Zacatecas     2-1 (1-1)
+           TM Fútbol Club          v Potros UAEM              1-0 (0-0)
+
+
+» Apertura, Matchday 6
+  Fri Aug/25
+    19.00  Mineros de Zacatecas    v TM Fútbol Club           2-1 (0-1)
+    20.00  Atlético San Luis       v Murciélagos FC           1-0 (0-0)
+           Correcaminos UAT        v Cimarrones de Sonora     2-2 (2-0)
+    20.30  Leones Negros           v Alebrijes de Oaxaca      1-1 (0-1)
+  Sat Aug/26
+    17.00  Atlético Zacatepec      v Venados FC               2-2 (1-1)
+    19.00  Potros UAEM             v Atlante                  2-0 (1-0)
+    20.15  Club Celaya             v Cafetaleros de Tapachula  2-1 (0-1)
+    21.00  Dorados de Sinaloa      v FC Juárez                1-1 (0-1)
+
+
+» Apertura, Matchday 7
+  Fri Sep/8
+    20.00  Atlante                 v Mineros de Zacatecas     0-0
+    20.30  Venados FC              v Alebrijes de Oaxaca      1-0 (0-0)
+    21.00  Cafetaleros de Tapachula v Atlético San Luis        0-0
+    22.00  Cimarrones de Sonora    v Potros UAEM              3-1 (1-0)
+           Murciélagos FC          v Correcaminos UAT         2-3 (1-1)
+  Sat Sep/9
+    17.00  Atlético Zacatepec      v Club Celaya              0-1 (0-0)
+    20.00  FC Juárez               v Leones Negros            1-1 (0-1)
+           TM Fútbol Club          v Dorados de Sinaloa       4-0 (1-0)
+
+
+» Apertura, Matchday 8
+  Fri Sep/15
+    19.00  Mineros de Zacatecas    v Cimarrones de Sonora     1-2 (0-2)
+    20.00  Atlético San Luis       v Atlético Zacatepec       1-0 (0-0)
+           Correcaminos UAT        v Cafetaleros de Tapachula  3-3 (1-0)
+    20.30  Leones Negros           v TM Fútbol Club           1-0 (0-0)
+  Sat Sep/16
+    19.00  Potros UAEM             v Murciélagos FC           1-1 (0-0)
+           Alebrijes de Oaxaca     v FC Juárez                1-2 (0-2)
+    20.15  Club Celaya             v Venados FC               1-0 (0-0)
+    21.00  Dorados de Sinaloa      v Atlante                  0-2 (0-1)
+
+
+» Apertura, Matchday 9
+  Fri Oct/6
+    20.00  Atlante                 v Leones Negros            1-1 (0-1)
+    22.00  Murciélagos FC          v Mineros de Zacatecas     1-1 (0-1)
+  Sat Oct/7
+    17.00  Atlético Zacatepec      v Correcaminos UAT         2-1 (1-1)
+    17.30  Venados FC              v FC Juárez                3-1 (2-1)
+    19.00  Cafetaleros de Tapachula v Potros UAEM              5-0 (2-0)
+    20.00  TM Fútbol Club          v Alebrijes de Oaxaca      2-3 (1-2)
+    20.15  Club Celaya             v Atlético San Luis        3-1 (2-1)
+    21.00  Cimarrones de Sonora    v Dorados de Sinaloa       1-0 (0-0)
+
+
+» Apertura, Matchday 10
+  Fri Sep/29
+    19.00  Potros UAEM             v Atlético Zacatepec       2-2 (0-0)
+           Mineros de Zacatecas    v Cafetaleros de Tapachula  2-0 (0-0)
+    20.00  Correcaminos UAT        v Club Celaya              1-1 (0-0)
+           Atlético San Luis       v Venados FC               1-1 (1-0)
+  Sat Sep/30
+    19.00  Alebrijes de Oaxaca     v Atlante                  2-1 (1-0)
+    20.00  FC Juárez               v TM Fútbol Club           1-0 (0-0)
+    21.00  Dorados de Sinaloa      v Murciélagos FC           1-0 (0-0)
+  Sun Oct/1
+    12.00  Leones Negros           v Cimarrones de Sonora     2-0 (0-0)
+
+
+» Apertura, Matchday 11
+  Fri Oct/13
+    20.00  Atlético San Luis       v Correcaminos UAT         1-1 (1-0)
+           Atlante                 v FC Juárez                0-1 (0-0)
+    20.30  Venados FC              v TM Fútbol Club           0-2 (0-0)
+    21.00  Cafetaleros de Tapachula v Dorados de Sinaloa       2-1 (0-1)
+    22.00  Murciélagos FC          v Leones Negros            0-1 (0-0)
+    22.10  Cimarrones de Sonora    v Alebrijes de Oaxaca      1-2 (0-2)
+  Sat Oct/14
+    17.00  Atlético Zacatepec      v Mineros de Zacatecas     2-2 (2-0)
+    20.15  Club Celaya             v Potros UAEM              0-0
+
+
+» Apertura, Matchday 12
+  Fri Oct/20
+    19.00  Mineros de Zacatecas    v Club Celaya              1-0 (0-0)
+    20.00  Correcaminos UAT        v Venados FC               0-2 (0-1)
+  Sat Oct/21
+    19.00  Potros UAEM             v Atlético San Luis        0-0
+           Alebrijes de Oaxaca     v Murciélagos FC           4-0 (3-0)
+    20.00  FC Juárez               v Cimarrones de Sonora     2-2 (1-1)
+           TM Fútbol Club          v Atlante                  4-1 (1-0)
+    21.00  Dorados de Sinaloa      v Atlético Zacatepec       0-1 (0-0)
+  Sun Oct/22
+    12.00  Leones Negros           v Cafetaleros de Tapachula  1-2 (1-1)
+
+
+» Apertura, Matchday 13
+  Fri Oct/27
+    19.00  Correcaminos UAT        v Potros UAEM              2-1 (0-0)
+    20.00  Atlético San Luis       v Mineros de Zacatecas     0-0
+    20.30  Venados FC              v Atlante                  3-1 (2-1)
+    22.00  Murciélagos FC          v FC Juárez                0-2 (0-1)
+    22.10  Cimarrones de Sonora    v TM Fútbol Club           1-2 (1-1)
+  Sat Oct/28
+    17.00  Atlético Zacatepec      v Leones Negros            2-0 (1-0)
+    19.00  Cafetaleros de Tapachula v Alebrijes de Oaxaca      4-1 (1-0)
+    19.15  Club Celaya             v Dorados de Sinaloa       1-0 (1-0)
+
+
+» Apertura, Matchday 14
+  Fri Nov/3
+    19.00  Mineros de Zacatecas    v Correcaminos UAT         3-0 (0-0)
+           Atlante                 v Cimarrones de Sonora     0-1 (0-0)
+    20.30  Venados FC              v Potros UAEM              2-1 (0-0)
+           Leones Negros           v Club Celaya              0-1 (0-0)
+  Sat Nov/4
+    19.00  Alebrijes de Oaxaca     v Atlético Zacatepec       0-2 (0-1)
+           FC Juárez               v Cafetaleros de Tapachula  1-2 (1-2)
+    20.00  TM Fútbol Club          v Murciélagos FC           3-2 (2-1)
+    21.00  Dorados de Sinaloa      v Atlético San Luis        3-1 (1-0)
+
+
+» Apertura, Matchday 15
+  Fri Nov/10
+    19.00  Atlético San Luis       v Leones Negros            2-1 (0-0)
+    20.00  Correcaminos UAT        v Dorados de Sinaloa       4-0 (3-0)
+    21.00  Cimarrones de Sonora    v Venados FC               1-1 (0-1)
+           Cafetaleros de Tapachula v TM Fútbol Club           0-1 (0-1)
+    22.00  Murciélagos FC          v Atlante                  4-0 (1-0)
+  Sat Nov/11
+    17.00  Atlético Zacatepec      v FC Juárez                1-1 (1-1)
+    19.00  Potros UAEM             v Mineros de Zacatecas     2-1 (0-1)
+    19.15  Club Celaya             v Alebrijes de Oaxaca      2-0 (1-0)
+
+
+» Apertura Playoffs, Quarterfinals
+  Wed Nov/15
+    19.30  Venados FC              v FC Juárez                0-2 (0-1)
+    21.30  Correcaminos UAT        v Club Celaya              4-3 (2-1)
+  Thu Nov/16
+    19.30  Alebrijes de Oaxaca     v Atlético Zacatepec       3-1 (1-1)
+    21.30  Mineros de Zacatecas    v TM Fútbol Club           1-0 (0-0)
+  Sat Nov/18
+    19.00  Club Celaya             v Correcaminos UAT         2-1 (1-0)
+    21.00  FC Juárez               v Venados FC               1-0 (0-0)
+  Sun Nov/19
+    16.00  Atlético Zacatepec      v Alebrijes de Oaxaca      0-0
+    20.00  TM Fútbol Club          v Mineros de Zacatecas     3-1 (2-0)
+
+
+» Apertura Playoffs, Semifinals
+  Wed Nov/22
+    19.30  TM Fútbol Club          v FC Juárez                2-2 (1-0)
+    21.30  Alebrijes de Oaxaca     v Club Celaya              1-0 (0-0)
+  Sat Nov/25
+    19.00  Club Celaya             v Alebrijes de Oaxaca      2-1 (1-0)
+    21.00  FC Juárez               v TM Fútbol Club           3-2 (0-0)
+
+
+» Apertura Playoffs, Final
+  Wed Nov/29
+    21.00  Alebrijes de Oaxaca     v FC Juárez                1-0 (1-0)
+  Sat Dec/2
+    21.00  FC Juárez               v Alebrijes de Oaxaca      2-4 pen. 2-1 a.e.t. (1-0, 0-0)
+
+
+» Clausura, Matchday 1
+  Fri Jan/5 2018
+    19.00  Potros UAEM             v Dorados de Sinaloa       0-1 (0-0)
+           Mineros de Zacatecas    v Venados FC               2-0 (1-0)
+    20.00  Atlético San Luis       v Alebrijes de Oaxaca      0-2 (0-1)
+           Correcaminos UAT        v Leones Negros            1-1 (1-0)
+    22.00  Murciélagos FC          v Cimarrones de Sonora     1-3 (1-0)
+  Sat Jan/6
+    17.00  Atlético Zacatepec      v TM Fútbol Club           0-0
+    19.00  Cafetaleros de Tapachula v Atlante                  1-2 (0-2)
+           Club Celaya             v FC Juárez                0-2 (0-1)
+
+
+» Clausura, Matchday 2
+  Fri Jan/12
+    20.00  Atlante                 v Atlético Zacatepec       1-1 (1-0)
+    20.30  Venados FC              v Murciélagos FC           3-1 (1-0)
+    21.36  Cimarrones de Sonora    v Cafetaleros de Tapachula  2-3 (2-1)
+  Sat Jan/13
+    18.00  FC Juárez               v Atlético San Luis        2-1 (0-1)
+    19.00  Alebrijes de Oaxaca     v Correcaminos UAT         3-0 (2-0)
+    20.00  TM Fútbol Club          v Club Celaya              1-1 (0-0)
+    21.00  Dorados de Sinaloa      v Mineros de Zacatecas     1-1 (1-1)
+  Sun Jan/14
+    12.00  Leones Negros           v Potros UAEM              0-0
+
+
+» Clausura, Matchday 3
+  Fri Jan/19
+    19.00  Potros UAEM             v Alebrijes de Oaxaca      3-3 (2-3)
+           Mineros de Zacatecas    v Leones Negros            2-1 (0-0)
+    20.00  Atlético San Luis       v TM Fútbol Club           0-0
+           Correcaminos UAT        v FC Juárez                0-0
+  Sat Jan/20
+    17.00  Atlético Zacatepec      v Cimarrones de Sonora     1-0 (1-0)
+    19.00  Cafetaleros de Tapachula v Murciélagos FC           0-0
+           Club Celaya             v Atlante                  2-1 (2-1)
+    21.00  Dorados de Sinaloa      v Venados FC               0-1 (0-1)
+
+
+» Clausura, Matchday 4
+  Fri Jan/26
+    19.00  Atlante                 v Atlético San Luis        3-1 (1-0)
+    20.30  Venados FC              v Cafetaleros de Tapachula  2-2 (0-1)
+    21.36  Cimarrones de Sonora    v Club Celaya              1-0 (0-0)
+    22.00  Murciélagos FC          v Atlético Zacatepec       1-0 (0-0)
+  Sat Jan/27
+    18.00  FC Juárez               v Potros UAEM              0-0
+    19.00  Alebrijes de Oaxaca     v Mineros de Zacatecas     4-1 (2-0)
+    20.00  TM Fútbol Club          v Correcaminos UAT         2-1 (1-0)
+  Sun Jan/28
+    12.00  Leones Negros           v Dorados de Sinaloa       0-2 (0-2)
+
+
+» Clausura, Matchday 5
+  Tue Jan/30
+    19.00  Club Celaya             v Murciélagos FC           2-1 (2-0)
+           Potros UAEM             v TM Fútbol Club           0-0
+           Atlético Zacatepec      v Cafetaleros de Tapachula  2-2 (1-2)
+    20.00  Atlético San Luis       v Cimarrones de Sonora     1-3 (1-0)
+    20.30  Correcaminos UAT        v Atlante                  0-0
+           Leones Negros           v Venados FC               2-1 (2-0)
+  Wed Jan/31
+    16.00  Mineros de Zacatecas    v FC Juárez                4-2 (2-0)
+    21.00  Dorados de Sinaloa      v Alebrijes de Oaxaca      1-2 (1-1)
+
+
+» Clausura, Matchday 6
+  Fri Feb/2
+    19.00  Atlante                 v Potros UAEM              1-0 (0-0)
+    20.30  Venados FC              v Atlético Zacatepec       2-0 (1-0)
+    21.36  Cimarrones de Sonora    v Correcaminos UAT         0-1 (0-1)
+    22.00  Murciélagos FC          v Atlético San Luis        0-1 (0-1)
+  Sat Feb/3
+    18.00  FC Juárez               v Dorados de Sinaloa       1-1 (1-1)
+    19.00  Alebrijes de Oaxaca     v Leones Negros            1-2 (1-0)
+           Cafetaleros de Tapachula v Club Celaya              3-2 (1-1)
+    20.00  TM Fútbol Club          v Mineros de Zacatecas     0-2 (0-2)
+
+
+» Clausura, Matchday 7
+  Fri Feb/9
+    16.00  Mineros de Zacatecas    v Atlante                  0-0
+    19.00  Potros UAEM             v Cimarrones de Sonora     1-0 (1-0)
+    20.00  Atlético San Luis       v Cafetaleros de Tapachula  1-3 (0-1)
+           Correcaminos UAT        v Murciélagos FC           2-1 (1-1)
+  Sat Feb/10
+    19.00  Alebrijes de Oaxaca     v Venados FC               1-0 (0-0)
+           Club Celaya             v Atlético Zacatepec       0-1 (0-0)
+    21.00  Dorados de Sinaloa      v TM Fútbol Club           1-0 (0-0)
+  Sun Feb/11
+    12.00  Leones Negros           v FC Juárez                2-1 (1-1)
+
+
+» Clausura, Matchday 8
+  Tue Feb/13
+    20.00  Murciélagos FC          v Potros UAEM              2-1 (1-0)
+           Venados FC              v Club Celaya              0-0
+    20.30  Cafetaleros de Tapachula v Correcaminos UAT         1-1 (1-0)
+    21.36  Cimarrones de Sonora    v Mineros de Zacatecas     0-1 (0-1)
+  Wed Feb/14
+    19.00  Atlante                 v Dorados de Sinaloa       0-2 (0-1)
+    20.00  FC Juárez               v Alebrijes de Oaxaca      0-0
+           TM Fútbol Club          v Leones Negros            4-2 (4-0)
+  Tue Feb/20
+    19.00  Atlético Zacatepec      v Atlético San Luis        0-2 (0-0)
+
+
+» Clausura, Matchday 9
+  Fri Feb/16
+    19.00  Potros UAEM             v Cafetaleros de Tapachula  2-1 (1-1)
+    20.00  Atlético San Luis       v Club Celaya              0-1 (0-1)
+           Correcaminos UAT        v Atlético Zacatepec       1-2 (0-1)
+  Sat Feb/17
+    16.00  Mineros de Zacatecas    v Murciélagos FC           2-2 (1-1)
+    18.00  FC Juárez               v Venados FC               1-1 (0-0)
+    19.00  Alebrijes de Oaxaca     v TM Fútbol Club           0-2 (0-1)
+    21.00  Dorados de Sinaloa      v Cimarrones de Sonora     1-0 (0-0)
+  Sun Feb/18
+    12.00  Leones Negros           v Atlante                  3-0 (2-0)
+
+
+» Clausura, Matchday 10
+  Fri Feb/23
+    19.00  Atlante                 v Alebrijes de Oaxaca      0-0
+    20.30  Venados FC              v Atlético San Luis        1-2 (0-2)
+    21.36  Cimarrones de Sonora    v Leones Negros            2-2 (0-0)
+    22.00  Murciélagos FC          v Dorados de Sinaloa       0-2 (0-0)
+  Sat Feb/24
+    17.00  Atlético Zacatepec      v Potros UAEM              3-2 (1-1)
+    19.00  Cafetaleros de Tapachula v Mineros de Zacatecas     1-2 (0-1)
+           Club Celaya             v Correcaminos UAT         3-1 (3-1)
+    20.00  TM Fútbol Club          v FC Juárez                0-2 (0-1)
+
+
+» Clausura, Matchday 11
+  Fri Mar/2
+    19.00  Potros UAEM             v Club Celaya              1-1 (1-0)
+    20.00  Correcaminos UAT        v Atlético San Luis        2-2 (1-0)
+  Sat Mar/3
+    16.00  Mineros de Zacatecas    v Atlético Zacatepec       4-1 (1-0)
+    17.00  Alebrijes de Oaxaca     v Cimarrones de Sonora     5-2 (3-2)
+    18.00  FC Juárez               v Atlante                  0-3 (0-1)
+    20.00  TM Fútbol Club          v Venados FC               3-0 (0-0)
+    21.00  Dorados de Sinaloa      v Cafetaleros de Tapachula  3-2 (1-1)
+  Sun Mar/4
+    12.00  Leones Negros           v Murciélagos FC           1-0 (1-0)
+
+
+» Clausura, Matchday 12
+  Fri Mar/9
+    19.00  Atlante                 v TM Fútbol Club           1-0 (0-0)
+    20.00  Atlético San Luis       v Potros UAEM              2-1 (1-1)
+    20.30  Venados FC              v Correcaminos UAT         1-3 (1-0)
+           Cafetaleros de Tapachula v Leones Negros            2-0 (2-0)
+    21.36  Cimarrones de Sonora    v FC Juárez                1-1 (0-0)
+    22.00  Murciélagos FC          v Alebrijes de Oaxaca      1-1 (1-0)
+  Sat Mar/10
+    17.00  Atlético Zacatepec      v Dorados de Sinaloa       1-0 (0-0)
+    19.00  Club Celaya             v Mineros de Zacatecas     2-0 (1-0)
+
+
+» Clausura, Matchday 13
+  Fri Mar/16
+    19.00  Potros UAEM             v Correcaminos UAT         0-1 (0-0)
+           Atlante                 v Venados FC               0-0
+  Sat Mar/17
+    16.00  Mineros de Zacatecas    v Atlético San Luis        1-2 (1-1)
+    19.00  Alebrijes de Oaxaca     v Cafetaleros de Tapachula  1-2 (1-2)
+           FC Juárez               v Murciélagos FC           0-1 (0-0)
+    20.00  TM Fútbol Club          v Cimarrones de Sonora     1-0 (0-0)
+    21.00  Dorados de Sinaloa      v Club Celaya              1-2 (0-1)
+  Sun Mar/18
+    12.00  Leones Negros           v Atlético Zacatepec       2-1 (1-1)
+
+
+» Clausura, Matchday 14
+  Fri Mar/23
+    19.00  Potros UAEM             v Venados FC               0-1 (0-1)
+    20.00  Atlético San Luis       v Dorados de Sinaloa       3-1 (2-0)
+           Correcaminos UAT        v Mineros de Zacatecas     1-1 (1-0)
+    20.30  Cafetaleros de Tapachula v FC Juárez                1-0 (0-0)
+    21.36  Cimarrones de Sonora    v Atlante                  2-1 (1-0)
+    22.00  Murciélagos FC          v TM Fútbol Club           1-0 (0-0)
+  Sat Mar/24
+    17.00  Atlético Zacatepec      v Alebrijes de Oaxaca      3-2 (1-1)
+    19.00  Club Celaya             v Leones Negros            1-1 (1-0)
+
+
+» Clausura, Matchday 15
+  Fri Mar/30
+    16.00  Mineros de Zacatecas    v Potros UAEM              1-0 (0-0)
+    19.00  Atlante                 v Murciélagos FC           3-0 (2-0)
+    20.30  Venados FC              v Cimarrones de Sonora     2-0 (0-0)
+  Sat Mar/31
+    17.00  FC Juárez               v Atlético Zacatepec       0-1 (0-0)
+    19.00  Alebrijes de Oaxaca     v Club Celaya              0-0
+    20.00  TM Fútbol Club          v Cafetaleros de Tapachula  1-0 (1-0)
+    21.00  Dorados de Sinaloa      v Correcaminos UAT         3-0 (3-0)
+  Sun Apr/1
+    12.00  Leones Negros           v Atlético San Luis        2-0 (0-0)
+
+
+» Clausura Playoffs, Quarterfinals
+  Sat Apr/7
+    18.30  Club Celaya             v Dorados de Sinaloa       1-2 (0-2)
+    20.30  Cafetaleros de Tapachula v Mineros de Zacatecas     3-1 (2-0)
+  Sun Apr/8
+    18.00  Atlético Zacatepec      v Alebrijes de Oaxaca      1-1
+    20.00  Atlante                 v Leones Negros            2-0
+  Sat Apr/14
+    16.30  Mineros de Zacatecas    v Cafetaleros de Tapachula  4-2
+    21.00  Dorados de Sinaloa      v Club Celaya              2-1
+  Sun Apr/15
+    12.00  Leones Negros           v Atlante                  4-0
+    19.00  Alebrijes de Oaxaca     v Atlético Zacatepec       1-0
+
+
+» Clausura Playoffs, Semifinals
+  Wed Apr/18
+    20.30  Cafetaleros de Tapachula v Dorados de Sinaloa       3-2
+  Thu Apr/19
+    20.00  Alebrijes de Oaxaca     v Leones Negros            2-2
+  Sat Apr/21
+    21.00  Dorados de Sinaloa      v Cafetaleros de Tapachula  0-2
+  Sun Apr/22
+    12.00  Leones Negros           v Alebrijes de Oaxaca      1-1
+
+
+» Clausura Playoffs, Final
+  Thu Apr/26
+    20.30  Cafetaleros de Tapachula v Leones Negros            1-0
+  Sun Apr/29
+    12.00  Leones Negros           v Cafetaleros de Tapachula  2-2
+
+
+» Final de Ascenso, Final
+  Sat May/5
+    20.30  Cafetaleros de Tapachula v Alebrijes de Oaxaca      5-1
+  Sat May/12
+    19.00  Alebrijes de Oaxaca     v Cafetaleros de Tapachula  2-1

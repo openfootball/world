@@ -1,0 +1,394 @@
+= Ascenso MX 2014/15
+
+# Date       Wed May/23 2012 - Sat May/16 2015 (1088d)
+# Teams      14
+# Matches    208
+# Stages     Apertura (91)  Apertura Playoffs (12)  Clausura (91)  Clausura Playoffs (12)  Final de Ascenso (2)
+
+
+
+» Apertura, Matchday 1
+  Fri Jul/18 2014
+    17.00  Lobos BUAP              v Atlético San Luis        2-1
+    20.30  Correcaminos UAT        v Mineros de Zacatecas     0-0
+           Deportivo Tepic         v Club Zacatepec           1-0
+  Sat Jul/19
+    16.00  Club Necaxa             v Club Celaya              4-3
+    18.00  Estudiantes de Altamira v Mérida FC                3-0
+    19.00  Alebrijes de Oaxaca     v Club Irapuato            2-1
+           Dorados de Sinaloa      v Atlante                  1-1
+
+
+» Apertura, Matchday 2
+  Fri Jul/25
+    19.00  Atlante                 v Estudiantes de Altamira  2-1
+    19.30  Mineros de Zacatecas    v Club Necaxa              2-0
+  Sat Jul/26
+    18.00  Mérida FC               v Alebrijes de Oaxaca      4-2
+           Club Zacatepec          v Correcaminos UAT         1-1
+    19.00  Atlético San Luis       v Dorados de Sinaloa       4-0
+           Club Irapuato           v Deportivo Tepic          0-0
+    20.00  Club Celaya             v Lobos BUAP               0-2
+
+
+» Apertura, Matchday 3
+  Fri Aug/1
+    17.00  Lobos BUAP              v Mineros de Zacatecas     0-1
+    20.30  Deportivo Tepic         v Correcaminos UAT         2-1
+  Sat Aug/2
+    16.00  Club Necaxa             v Club Zacatepec           2-0
+    18.00  Estudiantes de Altamira v Atlético San Luis        1-0
+    19.00  Alebrijes de Oaxaca     v Atlante                  4-2
+           Club Irapuato           v Mérida FC                1-0
+    20.00  Dorados de Sinaloa      v Club Celaya              2-2
+
+
+» Apertura, Matchday 4
+  Fri Aug/8
+    19.00  Atlante                 v Club Irapuato            2-1
+    19.30  Mineros de Zacatecas    v Dorados de Sinaloa       1-0
+    20.30  Correcaminos UAT        v Club Necaxa              1-0
+  Sat Aug/9
+    18.00  Mérida FC               v Deportivo Tepic          2-3
+           Club Zacatepec          v Lobos BUAP               1-2
+    19.00  Atlético San Luis       v Alebrijes de Oaxaca      2-0
+    20.00  Club Celaya             v Estudiantes de Altamira  2-0
+
+
+» Apertura, Matchday 5
+  Fri Aug/15
+    17.00  Lobos BUAP              v Correcaminos UAT         2-3
+    20.30  Deportivo Tepic         v Club Necaxa              2-1
+  Sat Aug/16
+    18.00  Estudiantes de Altamira v Mineros de Zacatecas     3-1
+           Mérida FC               v Atlante                  2-4
+    19.00  Alebrijes de Oaxaca     v Club Celaya              1-1
+           Club Irapuato           v Atlético San Luis        0-0
+           Dorados de Sinaloa      v Club Zacatepec           4-3
+
+
+» Apertura, Matchday 6
+  Fri Aug/22
+    19.00  Atlante                 v Deportivo Tepic          1-2
+    19.30  Mineros de Zacatecas    v Alebrijes de Oaxaca      2-2
+    20.30  Correcaminos UAT        v Dorados de Sinaloa       2-2
+  Sat Aug/23
+    16.00  Club Necaxa             v Lobos BUAP               1-0
+    18.00  Club Zacatepec          v Estudiantes de Altamira  2-1
+    19.00  Atlético San Luis       v Mérida FC                2-1
+    20.00  Club Celaya             v Club Irapuato            0-1
+
+
+» Apertura, Matchday 7
+  Fri Aug/29
+    19.00  Atlante                 v Atlético San Luis        1-1
+    20.30  Deportivo Tepic         v Lobos BUAP               0-0
+  Sat Aug/30
+    18.00  Estudiantes de Altamira v Correcaminos UAT         1-0
+           Mérida FC               v Club Celaya              3-0
+    19.00  Alebrijes de Oaxaca     v Club Zacatepec           1-1
+           Club Irapuato           v Mineros de Zacatecas     2-4
+           Dorados de Sinaloa      v Club Necaxa              0-1
+
+
+» Apertura, Matchday 8
+  Fri Sep/12
+    17.00  Lobos BUAP              v Dorados de Sinaloa       3-0
+    19.30  Mineros de Zacatecas    v Mérida FC                0-0
+    20.30  Correcaminos UAT        v Alebrijes de Oaxaca      1-0
+  Sat Sep/13
+    16.00  Club Necaxa             v Estudiantes de Altamira  1-2
+    18.00  Club Zacatepec          v Club Irapuato            3-0
+    19.00  Atlético San Luis       v Deportivo Tepic          1-3
+    20.00  Club Celaya             v Atlante                  2-2
+
+
+» Apertura, Matchday 9
+  Sat Sep/20
+    18.00  Estudiantes de Altamira v Lobos BUAP               0-2
+    19.00  Atlante                 v Mineros de Zacatecas     1-1
+    20.30  Deportivo Tepic         v Dorados de Sinaloa       1-2
+  Sun Sep/21
+    18.00  Mérida FC               v Club Zacatepec           0-1
+    19.00  Atlético San Luis       v Club Celaya              4-1
+           Alebrijes de Oaxaca     v Club Necaxa              1-1
+           Club Irapuato           v Correcaminos UAT         0-1
+
+
+» Apertura, Matchday 10
+  Fri Sep/26
+    17.00  Lobos BUAP              v Alebrijes de Oaxaca      1-2
+    19.30  Mineros de Zacatecas    v Atlético San Luis        2-1
+    20.30  Correcaminos UAT        v Mérida FC                2-1
+  Sat Sep/27
+    16.00  Club Necaxa             v Club Irapuato            3-0
+           Club Celaya             v Deportivo Tepic          1-3
+    18.00  Club Zacatepec          v Atlante                  1-1
+    20.00  Dorados de Sinaloa      v Estudiantes de Altamira  1-0
+
+
+» Apertura, Matchday 11
+  Fri Oct/3
+    19.00  Atlante                 v Correcaminos UAT         2-1
+    20.30  Deportivo Tepic         v Estudiantes de Altamira  1-0
+  Sat Oct/4
+    18.00  Mérida FC               v Club Necaxa              2-2
+    19.00  Atlético San Luis       v Club Zacatepec           1-0
+           Alebrijes de Oaxaca     v Dorados de Sinaloa       2-2
+           Club Irapuato           v Lobos BUAP               2-2
+    20.00  Club Celaya             v Mineros de Zacatecas     0-1
+
+
+» Apertura, Matchday 12
+  Fri Oct/17
+    17.00  Lobos BUAP              v Mérida FC                3-1
+    20.30  Correcaminos UAT        v Atlético San Luis        1-0
+    21.30  Deportivo Tepic         v Mineros de Zacatecas     0-1
+  Sat Oct/18
+    16.00  Club Necaxa             v Atlante                  0-0
+    18.00  Estudiantes de Altamira v Alebrijes de Oaxaca      2-1
+           Club Zacatepec          v Club Celaya              1-0
+    20.00  Dorados de Sinaloa      v Club Irapuato            0-1
+
+
+» Apertura, Matchday 13
+  Fri Oct/24
+    19.00  Atlante                 v Lobos BUAP               1-0
+    19.30  Mineros de Zacatecas    v Club Zacatepec           1-2
+  Sat Oct/25
+    18.00  Mérida FC               v Dorados de Sinaloa       1-1
+    19.00  Atlético San Luis       v Club Necaxa              0-1
+           Alebrijes de Oaxaca     v Deportivo Tepic          1-1
+           Club Irapuato           v Estudiantes de Altamira  0-1
+    21.00  Club Celaya             v Correcaminos UAT         0-1
+
+
+» Apertura Playoffs, Round 1
+  Sat Nov/1
+    12.00  Lobos BUAP              v Mineros de Zacatecas     1-2
+    19.00  Atlante                 v Club Necaxa              2-1
+  Sun Nov/2
+    18.00  Estudiantes de Altamira v Correcaminos UAT         0-0
+  Fri Nov/7
+    19.30  Mineros de Zacatecas    v Lobos BUAP               1-1
+  Sat Nov/8
+    18.00  Club Necaxa             v Atlante                  2-0
+    20.00  Correcaminos UAT        v Estudiantes de Altamira  1-2
+
+
+» Apertura Playoffs, Semifinals
+  Sat Nov/15
+    18.00  Club Necaxa             v Mineros de Zacatecas     1-0
+  Sun Nov/16
+    17.00  Estudiantes de Altamira v Deportivo Tepic          1-2
+  Fri Nov/21
+    19.30  Mineros de Zacatecas    v Club Necaxa              2-1
+  Sat Nov/22
+    18.00  Deportivo Tepic         v Estudiantes de Altamira  1-1
+
+
+» Apertura Playoffs, Final
+  Sat Nov/29
+    18.00  Club Necaxa             v Deportivo Tepic          0-0
+  Sat Dec/6
+    18.00  Deportivo Tepic         v Club Necaxa              4-5 pen.
+
+
+» Clausura, Matchday 1
+  Fri Jan/9 2015
+    19.30  Mineros de Zacatecas    v Correcaminos UAT         3-4
+    20.00  Club Irapuato           v Alebrijes de Oaxaca      3-1
+           Atlante                 v Dorados de Sinaloa       2-0
+    20.30  Mérida FC               v Estudiantes de Altamira  2-0
+  Sat Jan/10
+    18.00  Club Zacatepec          v Deportivo Tepic          1-1
+    19.00  Atlético San Luis       v Lobos BUAP               1-0
+    20.00  Club Celaya             v Club Necaxa              1-3
+
+
+» Clausura, Matchday 2
+  Fri Jan/16
+    17.00  Lobos BUAP              v Club Celaya              3-0
+    20.30  Correcaminos UAT        v Club Zacatepec           0-0
+  Sat Jan/17
+    17.00  Club Necaxa             v Mineros de Zacatecas     1-1
+           Alebrijes de Oaxaca     v Mérida FC                2-0
+    19.00  Dorados de Sinaloa      v Atlético San Luis        3-1
+    20.00  Deportivo Tepic         v Club Irapuato            2-1
+  Sun Jan/18
+    17.00  Estudiantes de Altamira v Atlante                  0-1
+
+
+» Clausura, Matchday 3
+  Fri Jan/23
+    19.30  Mineros de Zacatecas    v Lobos BUAP               1-1
+    20.00  Atlante                 v Alebrijes de Oaxaca      2-0
+    20.30  Correcaminos UAT        v Deportivo Tepic          1-0
+           Mérida FC               v Club Irapuato            4-4
+  Sat Jan/24
+    18.00  Club Zacatepec          v Club Necaxa              1-2
+    19.00  Atlético San Luis       v Estudiantes de Altamira  3-1
+    20.00  Club Celaya             v Dorados de Sinaloa       1-4
+
+
+» Clausura, Matchday 4
+  Fri Jan/30
+    17.00  Lobos BUAP              v Club Zacatepec           0-0
+    20.00  Club Irapuato           v Atlante                  0-2
+  Sat Jan/31
+    17.00  Alebrijes de Oaxaca     v Atlético San Luis        1-0
+           Club Necaxa             v Correcaminos UAT         2-1
+    18.00  Dorados de Sinaloa      v Mineros de Zacatecas     3-0
+    19.00  Deportivo Tepic         v Mérida FC                3-2
+  Sun Feb/1
+    17.00  Estudiantes de Altamira v Club Celaya              2-1
+
+
+» Clausura, Matchday 5
+  Fri Feb/6
+    19.30  Mineros de Zacatecas    v Estudiantes de Altamira  2-0
+    20.00  Atlante                 v Mérida FC                0-1
+    20.30  Correcaminos UAT        v Lobos BUAP               0-1
+  Sat Feb/7
+    17.00  Club Necaxa             v Deportivo Tepic          0-0
+    18.00  Club Zacatepec          v Dorados de Sinaloa       2-0
+    19.00  Atlético San Luis       v Club Irapuato            1-0
+    20.00  Club Celaya             v Alebrijes de Oaxaca      1-1
+
+
+» Clausura, Matchday 6
+  Fri Feb/13
+    17.00  Lobos BUAP              v Club Necaxa              4-2
+    20.00  Club Irapuato           v Club Celaya              1-0
+    20.30  Mérida FC               v Atlético San Luis        2-1
+  Sat Feb/14
+    17.00  Alebrijes de Oaxaca     v Mineros de Zacatecas     1-3
+    18.00  Dorados de Sinaloa      v Correcaminos UAT         3-1
+    19.00  Deportivo Tepic         v Atlante                  2-1
+  Sun Feb/15
+    17.00  Estudiantes de Altamira v Club Zacatepec           1-0
+
+
+» Clausura, Matchday 7
+  Fri Feb/20
+    17.00  Lobos BUAP              v Deportivo Tepic          2-2
+    19.30  Mineros de Zacatecas    v Club Irapuato            0-0
+    20.30  Correcaminos UAT        v Estudiantes de Altamira  2-0
+  Sat Feb/21
+    17.00  Club Necaxa             v Dorados de Sinaloa       2-1
+    18.00  Club Zacatepec          v Alebrijes de Oaxaca      0-1
+    19.00  Atlético San Luis       v Atlante                  3-0
+    20.00  Club Celaya             v Mérida FC                1-1
+
+
+» Clausura, Matchday 8
+  Fri Feb/27
+    19.00  Atlante                 v Club Celaya              3-3
+    20.00  Club Irapuato           v Club Zacatepec           1-0
+    20.30  Mérida FC               v Mineros de Zacatecas     3-0
+  Sat Feb/28
+    17.00  Alebrijes de Oaxaca     v Correcaminos UAT         2-1
+    19.00  Dorados de Sinaloa      v Lobos BUAP               1-1
+    20.00  Deportivo Tepic         v Atlético San Luis        1-2
+  Sun Mar/1
+    17.00  Estudiantes de Altamira v Club Necaxa              2-0
+
+
+» Clausura, Matchday 9
+  Fri Mar/6
+    17.00  Lobos BUAP              v Estudiantes de Altamira  1-1
+    19.30  Mineros de Zacatecas    v Atlante                  2-0
+    20.30  Correcaminos UAT        v Club Irapuato            3-0
+  Sat Mar/7
+    17.00  Club Necaxa             v Alebrijes de Oaxaca      2-1
+    18.00  Club Zacatepec          v Mérida FC                0-1
+    20.00  Dorados de Sinaloa      v Deportivo Tepic          3-1
+           Club Celaya             v Atlético San Luis        1-0
+
+
+» Clausura, Matchday 10
+  Fri Mar/13
+    19.00  Atlante                 v Club Zacatepec           0-3
+    20.00  Club Irapuato           v Club Necaxa              1-0
+    20.30  Mérida FC               v Correcaminos UAT         2-1
+  Sat Mar/14
+    17.00  Alebrijes de Oaxaca     v Lobos BUAP               1-1
+    19.00  Atlético San Luis       v Mineros de Zacatecas     4-0
+    20.00  Deportivo Tepic         v Club Celaya              3-1
+  Sun Mar/15
+    17.00  Estudiantes de Altamira v Dorados de Sinaloa       2-1
+
+
+» Clausura, Matchday 11
+  Fri Mar/20
+    17.00  Lobos BUAP              v Club Irapuato            2-0
+    19.30  Mineros de Zacatecas    v Club Celaya              2-0
+    20.30  Correcaminos UAT        v Atlante                  2-1
+  Sat Mar/21
+    17.00  Club Necaxa             v Mérida FC                0-0
+    18.00  Club Zacatepec          v Atlético San Luis        0-3
+    19.00  Dorados de Sinaloa      v Alebrijes de Oaxaca      2-1
+  Sun Mar/22
+    17.00  Estudiantes de Altamira v Deportivo Tepic          0-1
+
+
+» Clausura, Matchday 12
+  Fri Apr/3
+    19.00  Atlante                 v Club Necaxa              0-1
+    19.30  Mineros de Zacatecas    v Deportivo Tepic          2-0
+    20.00  Club Irapuato           v Dorados de Sinaloa       0-0
+    20.30  Mérida FC               v Lobos BUAP               2-2
+  Sat Apr/4
+    17.00  Alebrijes de Oaxaca     v Estudiantes de Altamira  3-1
+    19.00  Atlético San Luis       v Correcaminos UAT         0-1
+    20.00  Club Celaya             v Club Zacatepec           3-1
+
+
+» Clausura, Matchday 13
+  Fri Apr/10
+    17.00  Lobos BUAP              v Atlante                  2-0
+    20.30  Correcaminos UAT        v Club Celaya              1-1
+    21.30  Deportivo Tepic         v Alebrijes de Oaxaca      0-3
+  Sat Apr/11
+    16.00  Club Necaxa             v Atlético San Luis        0-1
+    18.00  Estudiantes de Altamira v Club Irapuato            1-1
+           Club Zacatepec          v Mineros de Zacatecas     2-0
+    20.00  Dorados de Sinaloa      v Mérida FC                2-1
+
+
+» Clausura Playoffs, Round 1
+  Wed Apr/15
+    19.30  Club Necaxa             v Mérida FC                1-1
+  Thu Apr/16
+    19.00  Alebrijes de Oaxaca     v Dorados de Sinaloa       0-0
+    21.00  Correcaminos UAT        v Lobos BUAP               1-2
+  Sat Apr/18
+    19.00  Mérida FC               v Club Necaxa              1-3
+  Sun Apr/19
+    17.00  Lobos BUAP              v Correcaminos UAT         0-2
+    20.00  Dorados de Sinaloa      v Alebrijes de Oaxaca      3-1
+
+
+» Clausura Playoffs, Semifinals
+  Wed Apr/22
+    21.00  Correcaminos UAT        v Atlético San Luis        2-0
+  Thu Apr/23
+    19.30  Club Necaxa             v Dorados de Sinaloa       1-2
+  Sat Apr/25
+    19.00  Atlético San Luis       v Correcaminos UAT         2-0
+  Sun Apr/26
+    20.00  Dorados de Sinaloa      v Club Necaxa              2-1
+
+
+» Clausura Playoffs, Final
+  Sat May/2
+    20.00  Dorados de Sinaloa      v Atlético San Luis        3-0
+  Sat May/9
+    19.00  Atlético San Luis       v Dorados de Sinaloa       1-0
+
+
+» Final de Ascenso, Final
+  Sat May/16
+    20.00  Dorados de Sinaloa      v Club Necaxa              1-1
+  Wed May/23 2012
+    20.00  Club Necaxa             v Dorados de Sinaloa       0-2

@@ -1,0 +1,463 @@
+= Ascenso MX 2012/13
+
+# Date       Fri Jul/20 2012 - Sat May/18 2013 (302d)
+# Teams      15
+# Matches    236
+# Stages     Apertura (105)  Apertura Playoffs (12)  Clausura (105)  Clausura Playoffs (12)  Final de Ascenso (2)
+
+
+
+» Apertura, Matchday 1
+  Fri Jul/20 2012
+    20.00  Club Necaxa             v Lobos BUAP               3-1
+           Estudiantes Tecos       v Club Irapuato            0-0
+    20.30  Correcaminos UAT        v Cruz Azul Hidalgo        3-0
+  Sat Jul/21
+    16.00  Pumas Morelos           v Leones Negros            0-1
+    20.00  Dorados de Sinaloa      v Veracruz                 2-1
+    20.50  Club Celaya             v Reboceros de la Piedad   3-0
+  Sun Jul/22
+    12.00  Neza FC                 v Estudiantes de Altamira  1-1
+
+
+» Apertura, Matchday 2
+  Fri Jul/27
+    16.00  Lobos BUAP              v Correcaminos UAT         1-0
+  Sat Jul/28
+    16.45  Leones Negros           v Mérida FC                0-1
+    17.00  Estudiantes de Altamira v Club Necaxa              2-0
+    18.00  Veracruz                v Club Celaya              0-0
+    19.00  Club Irapuato           v Pumas Morelos            2-2
+  Sun Jul/29
+    12.00  Cruz Azul Hidalgo       v Dorados de Sinaloa       1-2
+    16.00  Reboceros de la Piedad  v Estudiantes Tecos        1-1
+
+
+» Apertura, Matchday 3
+  Fri Aug/3
+    20.00  Estudiantes Tecos       v Pumas Morelos            2-0
+    20.30  Correcaminos UAT        v Estudiantes de Altamira  3-1
+  Sat Aug/4
+    18.00  Mérida FC               v Club Irapuato            1-1
+    20.00  Dorados de Sinaloa      v Lobos BUAP               2-2
+  Sun Aug/5
+    12.00  Club Celaya             v Cruz Azul Hidalgo        2-2
+           Neza FC                 v Leones Negros            4-2
+    16.00  Reboceros de la Piedad  v Veracruz                 2-0
+
+
+» Apertura, Matchday 4
+  Fri Aug/10
+    16.00  Lobos BUAP              v Club Celaya              3-0
+    20.45  Leones Negros           v Club Necaxa              1-1
+  Sat Aug/11
+    16.00  Pumas Morelos           v Mérida FC                0-0
+    17.00  Estudiantes de Altamira v Dorados de Sinaloa       0-1
+    18.00  Veracruz                v Estudiantes Tecos        2-1
+    19.00  Club Irapuato           v Neza FC                  1-1
+  Sun Aug/12
+    12.00  Cruz Azul Hidalgo       v Reboceros de la Piedad   1-3
+
+
+» Apertura, Matchday 5
+  Fri Aug/17
+    20.00  Club Necaxa             v Club Irapuato            6-4
+           Estudiantes Tecos       v Mérida FC                2-0
+    20.30  Correcaminos UAT        v Leones Negros            3-1
+  Sat Aug/18
+    18.00  Veracruz                v Cruz Azul Hidalgo        1-1
+    20.50  Club Celaya             v Estudiantes de Altamira  0-1
+  Sun Aug/19
+    12.00  Neza FC                 v Pumas Morelos            1-0
+    16.00  Reboceros de la Piedad  v Lobos BUAP               1-0
+
+
+» Apertura, Matchday 6
+  Fri Aug/24
+    16.00  Lobos BUAP              v Veracruz                 2-1
+    19.00  Estudiantes de Altamira v Reboceros de la Piedad   2-3
+    20.45  Leones Negros           v Dorados de Sinaloa       0-2
+  Sat Aug/25
+    16.00  Pumas Morelos           v Club Necaxa              1-1
+    18.00  Mérida FC               v Neza FC                  1-0
+    19.00  Club Irapuato           v Correcaminos UAT         1-0
+  Sun Aug/26
+    12.00  Cruz Azul Hidalgo       v Estudiantes Tecos        0-0
+
+
+» Apertura, Matchday 7
+  Fri Aug/31
+    20.00  Club Necaxa             v Mérida FC                3-1
+           Estudiantes Tecos       v Neza FC                  0-0
+    20.30  Correcaminos UAT        v Pumas Morelos            4-0
+  Sat Sep/1
+    18.00  Veracruz                v Estudiantes de Altamira  2-2
+    19.00  Dorados de Sinaloa      v Club Irapuato            1-1
+    20.50  Club Celaya             v Leones Negros            1-1
+  Sun Sep/2
+    12.00  Cruz Azul Hidalgo       v Lobos BUAP               1-3
+
+
+» Apertura, Matchday 8
+  Fri Sep/14
+    16.00  Lobos BUAP              v Estudiantes Tecos        1-3
+           Pumas Morelos           v Dorados de Sinaloa       1-1
+    19.00  Estudiantes de Altamira v Cruz Azul Hidalgo        0-1
+    20.45  Leones Negros           v Reboceros de la Piedad   2-1
+  Sat Sep/15
+    18.00  Mérida FC               v Correcaminos UAT         3-1
+    19.00  Club Irapuato           v Club Celaya              0-1
+  Sun Sep/16
+    12.00  Neza FC                 v Club Necaxa              3-3
+
+
+» Apertura, Matchday 9
+  Fri Sep/21
+    16.00  Lobos BUAP              v Estudiantes de Altamira  2-0
+    20.00  Estudiantes Tecos       v Club Necaxa              1-2
+    20.30  Correcaminos UAT        v Neza FC                  0-1
+  Sat Sep/22
+    18.00  Veracruz                v Leones Negros            2-3
+    20.00  Dorados de Sinaloa      v Mérida FC                3-0
+    20.50  Club Celaya             v Pumas Morelos            2-1
+  Sun Sep/23
+    16.00  Reboceros de la Piedad  v Club Irapuato            0-1
+
+
+» Apertura, Matchday 10
+  Fri Sep/28
+    19.00  Estudiantes de Altamira v Estudiantes Tecos        1-2
+    20.45  Leones Negros           v Cruz Azul Hidalgo        0-1
+  Sat Sep/29
+    16.00  Pumas Morelos           v Reboceros de la Piedad   0-0
+    18.00  Mérida FC               v Club Celaya              3-1
+    19.00  Club Irapuato           v Veracruz                 1-1
+    20.00  Club Necaxa             v Correcaminos UAT         2-1
+  Sun Sep/30
+    12.00  Neza FC                 v Dorados de Sinaloa       3-2
+
+
+» Apertura, Matchday 11
+  Fri Oct/5
+    16.00  Lobos BUAP              v Leones Negros            2-1
+    20.00  Estudiantes Tecos       v Correcaminos UAT         0-0
+  Sat Oct/6
+    18.00  Veracruz                v Pumas Morelos            1-0
+    20.00  Dorados de Sinaloa      v Club Necaxa              1-1
+    20.50  Club Celaya             v Neza FC                  1-2
+  Sun Oct/7
+    12.00  Cruz Azul Hidalgo       v Club Irapuato            3-0
+    16.00  Reboceros de la Piedad  v Mérida FC                1-1
+
+
+» Apertura, Matchday 12
+  Fri Oct/12
+    20.00  Club Necaxa             v Club Celaya              1-0
+    20.30  Correcaminos UAT        v Dorados de Sinaloa       2-1
+    20.45  Leones Negros           v Estudiantes de Altamira  0-2
+  Sat Oct/13
+    16.00  Pumas Morelos           v Cruz Azul Hidalgo        1-2
+    18.00  Mérida FC               v Veracruz                 1-0
+    19.00  Club Irapuato           v Lobos BUAP               2-0
+  Sun Oct/14
+    12.00  Neza FC                 v Reboceros de la Piedad   0-2
+
+
+» Apertura, Matchday 13
+  Fri Oct/19
+    16.00  Lobos BUAP              v Pumas Morelos            2-0
+    19.00  Estudiantes de Altamira v Club Irapuato            2-1
+    20.00  Estudiantes Tecos       v Dorados de Sinaloa       2-1
+  Sat Oct/20
+    16.00  Reboceros de la Piedad  v Club Necaxa              1-4
+    18.00  Veracruz                v Neza FC                  0-0
+    20.50  Club Celaya             v Correcaminos UAT         1-1
+  Sun Oct/21
+    12.00  Cruz Azul Hidalgo       v Mérida FC                0-0
+
+
+» Apertura, Matchday 14
+  Fri Oct/26
+    20.00  Estudiantes Tecos       v Leones Negros            2-1
+  Sat Oct/27
+    16.00  Pumas Morelos           v Estudiantes de Altamira  2-0
+    18.00  Mérida FC               v Lobos BUAP               0-0
+    19.00  Club Necaxa             v Veracruz                 1-0
+           Dorados de Sinaloa      v Club Celaya              4-3
+    19.30  Correcaminos UAT        v Reboceros de la Piedad   1-1
+  Sun Oct/28
+    12.00  Neza FC                 v Cruz Azul Hidalgo        0-0
+
+
+» Apertura, Matchday 15
+  Fri Nov/2
+    12.00  Leones Negros           v Club Irapuato            1-1
+    16.00  Lobos BUAP              v Neza FC                  1-3
+    19.00  Estudiantes de Altamira v Mérida FC                0-2
+  Sat Nov/3
+    18.00  Veracruz                v Correcaminos UAT         3-0
+    20.50  Club Celaya             v Estudiantes Tecos        3-0
+  Sun Nov/4
+    12.00  Cruz Azul Hidalgo       v Club Necaxa              1-2
+    12.30  Reboceros de la Piedad  v Dorados de Sinaloa       5-0
+
+
+» Apertura Playoffs, Round 1
+  Sat Nov/10
+    15.00  Reboceros de la Piedad  v Estudiantes Tecos        2-1
+    18.00  Mérida FC               v Lobos BUAP               3-0
+  Sun Nov/11
+    20.00  Dorados de Sinaloa      v Neza FC                  1-0
+  Sat Nov/17
+    16.00  Lobos BUAP              v Mérida FC                4-0
+    20.00  Estudiantes Tecos       v Reboceros de la Piedad   1-3
+  Sun Nov/18
+    12.00  Neza FC                 v Dorados de Sinaloa       1-2
+
+
+» Apertura Playoffs, Semifinals
+  Wed Nov/21
+    21.30  Dorados de Sinaloa      v Club Necaxa              1-1
+  Thu Nov/22
+    15.00  Reboceros de la Piedad  v Lobos BUAP               1-2
+  Sat Nov/24
+    20.00  Club Necaxa             v Dorados de Sinaloa       2-2
+  Sun Nov/25
+    16.00  Lobos BUAP              v Reboceros de la Piedad   0-2
+
+
+» Apertura Playoffs, Final
+  Wed Nov/28
+    21.30  Dorados de Sinaloa      v Reboceros de la Piedad   1-0
+  Sat Dec/1
+    15.00  Reboceros de la Piedad  v Dorados de Sinaloa       3-1 a.e.t.
+
+
+» Clausura, Matchday 1
+  Fri Jan/4 2013
+    16.00  Lobos BUAP              v Club Necaxa              1-0
+    20.30  Club Irapuato           v Estudiantes Tecos        1-0
+  Sat Jan/5
+    18.00  Estudiantes de Altamira v Neza FC                  1-3
+           Veracruz                v Dorados de Sinaloa       2-0
+  Sun Jan/6
+    12.00  Leones Negros           v Pumas Morelos            3-0
+           Cruz Azul Hidalgo       v Correcaminos UAT         0-1
+    12.30  Reboceros de la Piedad  v Club Celaya              3-1
+
+
+» Clausura, Matchday 2
+  Fri Jan/11
+    20.00  Club Necaxa             v Estudiantes de Altamira  3-3
+           Estudiantes Tecos       v Reboceros de la Piedad   2-1
+    20.30  Correcaminos UAT        v Lobos BUAP               1-0
+  Sat Jan/12
+    16.00  Pumas Morelos           v Club Irapuato            3-0
+    19.00  Mérida FC               v Leones Negros            0-1
+           Dorados de Sinaloa      v Cruz Azul Hidalgo        1-0
+    20.50  Club Celaya             v Veracruz                 2-2
+
+
+» Clausura, Matchday 3
+  Fri Jan/18
+    16.00  Lobos BUAP              v Dorados de Sinaloa       3-0
+    20.30  Leones Negros           v Neza FC                  1-0
+  Sat Jan/19
+    16.00  Pumas Morelos           v Estudiantes Tecos        1-1
+    18.00  Estudiantes de Altamira v Correcaminos UAT         0-1
+           Veracruz                v Reboceros de la Piedad   1-0
+    19.00  Club Irapuato           v Mérida FC                0-1
+  Sun Jan/20
+    12.00  Cruz Azul Hidalgo       v Club Celaya              3-4
+
+
+» Clausura, Matchday 4
+  Fri Jan/25
+    20.00  Club Necaxa             v Leones Negros            1-2
+           Estudiantes Tecos       v Veracruz                 0-1
+  Sat Jan/26
+    19.00  Mérida FC               v Pumas Morelos            1-1
+           Dorados de Sinaloa      v Estudiantes de Altamira  2-3
+    20.50  Club Celaya             v Lobos BUAP               1-0
+  Sun Jan/27
+    12.00  Neza FC                 v Club Irapuato            1-0
+    12.30  Reboceros de la Piedad  v Cruz Azul Hidalgo        0-1
+
+
+» Clausura, Matchday 5
+  Fri Feb/1
+    16.00  Lobos BUAP              v Reboceros de la Piedad   2-1
+    20.30  Leones Negros           v Correcaminos UAT         1-0
+           Club Irapuato           v Club Necaxa              1-1
+  Sat Feb/2
+    16.00  Pumas Morelos           v Neza FC                  3-1
+    18.00  Estudiantes de Altamira v Club Celaya              1-1
+    19.00  Mérida FC               v Estudiantes Tecos        1-1
+  Sun Feb/3
+    12.00  Cruz Azul Hidalgo       v Veracruz                 0-0
+
+
+» Clausura, Matchday 6
+  Fri Feb/8
+    20.00  Club Necaxa             v Pumas Morelos            1-0
+           Estudiantes Tecos       v Cruz Azul Hidalgo        1-0
+    20.30  Correcaminos UAT        v Club Irapuato            3-1
+    21.00  Dorados de Sinaloa      v Leones Negros            0-0
+  Sat Feb/9
+    18.00  Veracruz                v Lobos BUAP               2-2
+  Sun Feb/10
+    12.00  Neza FC                 v Mérida FC                1-1
+    12.30  Reboceros de la Piedad  v Estudiantes de Altamira  0-0
+
+
+» Clausura, Matchday 7
+  Fri Feb/15
+    16.00  Lobos BUAP              v Cruz Azul Hidalgo        1-0
+    20.30  Leones Negros           v Club Celaya              1-0
+  Sat Feb/16
+    16.10  Pumas Morelos           v Correcaminos UAT         0-3
+    18.00  Estudiantes de Altamira v Veracruz                 3-0
+    19.00  Club Irapuato           v Dorados de Sinaloa       0-0
+           Mérida FC               v Club Necaxa              1-0
+  Sun Feb/17
+    12.00  Neza FC                 v Estudiantes Tecos        1-0
+
+
+» Clausura, Matchday 8
+  Fri Feb/22
+    20.00  Estudiantes Tecos       v Lobos BUAP               1-0
+           Club Necaxa             v Neza FC                  2-0
+  Sat Feb/23
+    19.00  Dorados de Sinaloa      v Pumas Morelos            0-1
+    20.30  Correcaminos UAT        v Mérida FC                1-1
+    20.50  Club Celaya             v Club Irapuato            0-0
+  Sun Feb/24
+    12.00  Cruz Azul Hidalgo       v Estudiantes de Altamira  2-2
+    12.30  Reboceros de la Piedad  v Leones Negros            1-2
+
+
+» Clausura, Matchday 9
+  Fri Mar/1
+    20.00  Club Necaxa             v Estudiantes Tecos        0-0
+    20.30  Leones Negros           v Veracruz                 0-2
+  Sat Mar/2
+    16.00  Pumas Morelos           v Club Celaya              0-0
+    18.00  Estudiantes de Altamira v Lobos BUAP               0-2
+    19.00  Club Irapuato           v Reboceros de la Piedad   3-3
+           Mérida FC               v Dorados de Sinaloa       1-1
+  Sun Mar/3
+    12.00  Neza FC                 v Correcaminos UAT         0-1
+
+
+» Clausura, Matchday 10
+  Fri Mar/8
+    19.30  Estudiantes Tecos       v Estudiantes de Altamira  2-0
+    20.30  Correcaminos UAT        v Club Necaxa              3-3
+  Sat Mar/9
+    18.00  Veracruz                v Club Irapuato            3-0
+    19.00  Dorados de Sinaloa      v Neza FC                  1-0
+    20.50  Club Celaya             v Mérida FC                1-1
+  Sun Mar/10
+    12.00  Cruz Azul Hidalgo       v Leones Negros            0-1
+    12.30  Reboceros de la Piedad  v Pumas Morelos            0-0
+
+
+» Clausura, Matchday 11
+  Fri Mar/15
+    20.00  Club Necaxa             v Dorados de Sinaloa       1-0
+    20.30  Correcaminos UAT        v Estudiantes Tecos        0-1
+           Leones Negros           v Lobos BUAP               1-2
+  Sat Mar/16
+    16.00  Pumas Morelos           v Veracruz                 1-3
+    19.00  Mérida FC               v Reboceros de la Piedad   0-1
+           Club Irapuato           v Cruz Azul Hidalgo        1-2
+  Sun Mar/17
+    12.00  Neza FC                 v Club Celaya              1-1
+
+
+» Clausura, Matchday 12
+  Fri Mar/29
+    16.00  Lobos BUAP              v Club Irapuato            1-0
+  Sat Mar/30
+    16.00  Reboceros de la Piedad  v Neza FC                  1-0
+    18.00  Estudiantes de Altamira v Leones Negros            1-1
+           Veracruz                v Mérida FC                5-3
+    19.00  Dorados de Sinaloa      v Correcaminos UAT         1-0
+    20.50  Club Celaya             v Club Necaxa              1-1
+  Sun Mar/31
+    12.00  Cruz Azul Hidalgo       v Pumas Morelos            1-1
+
+
+» Clausura, Matchday 13
+  Fri Apr/5
+    20.00  Club Necaxa             v Reboceros de la Piedad   2-1
+    20.30  Correcaminos UAT        v Club Celaya              0-1
+  Sat Apr/6
+    16.00  Pumas Morelos           v Lobos BUAP               2-0
+    19.00  Mérida FC               v Cruz Azul Hidalgo        1-2
+           Club Irapuato           v Estudiantes de Altamira  0-2
+           Dorados de Sinaloa      v Estudiantes Tecos        2-1
+  Sun Apr/7
+    12.00  Neza FC                 v Veracruz                 5-1
+
+
+» Clausura, Matchday 14
+  Fri Apr/12
+    16.00  Lobos BUAP              v Mérida FC                2-0
+    20.30  Leones Negros           v Estudiantes Tecos        0-0
+  Sat Apr/13
+    18.00  Estudiantes de Altamira v Pumas Morelos            1-0
+           Veracruz                v Club Necaxa              1-1
+    20.50  Club Celaya             v Dorados de Sinaloa       2-2
+  Sun Apr/14
+    12.00  Cruz Azul Hidalgo       v Neza FC                  1-5
+    12.30  Reboceros de la Piedad  v Correcaminos UAT         1-2
+
+
+» Clausura, Matchday 15
+  Fri Apr/19
+    20.00  Club Necaxa             v Cruz Azul Hidalgo        7-1
+           Estudiantes Tecos       v Club Celaya              1-2
+    20.30  Correcaminos UAT        v Veracruz                 1-0
+  Sat Apr/20
+    19.00  Mérida FC               v Estudiantes de Altamira  1-1
+           Club Irapuato           v Leones Negros            0-1
+           Dorados de Sinaloa      v Reboceros de la Piedad   1-0
+  Sun Apr/21
+    12.00  Neza FC                 v Lobos BUAP               1-0
+
+
+» Clausura Playoffs, Round 1
+  Wed Apr/24
+    16.00  Neza FC                 v Lobos BUAP               2-1 (1-1)
+    19.00  Club Celaya             v Correcaminos UAT         1-1 (1-1)
+    21.00  Club Necaxa             v Veracruz                 3-2 (1-1)
+  Sat Apr/27
+    16.30  Veracruz                v Club Necaxa              1-3
+    18.30  Lobos BUAP              v Neza FC                  0-1
+    20.30  Correcaminos UAT        v Club Celaya              3-0
+
+
+» Clausura Playoffs, Semifinals
+  Wed May/1
+    21.00  Club Necaxa             v Correcaminos UAT         3-1 (1-0)
+  Thu May/2
+    16.00  Neza FC                 v Leones Negros            2-1
+  Sat May/4
+    20.30  Correcaminos UAT        v Club Necaxa              3-3
+  Sun May/5
+    19.00  Leones Negros           v Neza FC                  0-2
+
+
+» Clausura Playoffs, Final
+  Wed May/8
+    16.30  Neza FC                 v Club Necaxa              3-0
+  Sat May/11
+    21.00  Club Necaxa             v Neza FC                  0-1
+
+
+» Final de Ascenso, Final
+  Wed May/15
+    16.00  Reboceros de la Piedad  v Neza FC                  0-1
+  Sat May/18
+    15.00  Neza FC                 v Reboceros de la Piedad   3-5 pen.
