@@ -17,6 +17,8 @@ in the Football.TXT format include:
 North America
 
 - [**United States & Canada**](north-america/major-league-soccer) - Major League Soccer (MLS)
+- [**Mexico**](north-america/mexico) - Liga MX, Liga de Expansión MX
+
 
 Asia
 
