@@ -1,0 +1,584 @@
+= Liga MX 2015/16
+
+# Date       Fri Jul/24 2015 - Sun May/29 2016 (310d)
+# Teams      18
+# Matches    334
+# Stages     Apertura (153)  Apertura Playoffs (14)  Clausura (153)  Clausura Playoffs (14)
+
+
+
+» Apertura, Matchday 1
+  Fri Jul/24 2015
+    19.30  CD Veracruz             v Deportivo Guadalajara    2-0 (0-0)
+  Sat Jul/25
+    17.00  Cruz Azul               v Monarcas Morelia         0-3 (0-2)
+    19.00  UANL Tigres             v Deportivo Toluca         0-1 (0-1)
+    20.06  CF Pachuca              v Club Tijuana             2-1 (1-0)
+    20.30  Atlas Guadalajara       v Gallos Blancos           0-2 (0-1)
+    21.00  Santos Laguna           v Club León                1-3 (0-1)
+           Dorados de Sinaloa      v Chiapas FC               0-0
+  Sun Jul/26
+    12.00  Pumas UNAM              v CF Monterrey             3-0 (3-0)
+    17.00  Puebla FC               v CF América               4-2 (3-1)
+
+
+» Apertura, Matchday 2
+  Fri Jul/31
+    19.30  Gallos Blancos          v CF Pachuca               1-2 (1-1)
+    21.30  Club Tijuana            v Dorados de Sinaloa       1-2 (1-0)
+  Sat Aug/1
+    17.00  CF América              v Atlas Guadalajara        1-3 (1-1)
+    20.06  Club León               v CD Veracruz              4-1 (0-1)
+    20.30  Monarcas Morelia        v UANL Tigres              1-0 (0-0)
+    21.00  Chiapas FC              v Santos Laguna            2-1 (0-1)
+  Sun Aug/2
+    12.00  Deportivo Toluca        v Pumas UNAM               2-1 (1-0)
+    17.00  Deportivo Guadalajara   v Cruz Azul                0-1 (0-0)
+  Fri Oct/9
+    20.30  CF Monterrey            v Puebla FC                1-1 (1-0)
+
+
+» Apertura, Matchday 3
+  Fri Aug/7
+    19.30  CD Veracruz             v Chiapas FC               2-1 (0-1)
+    21.30  Santos Laguna           v Club Tijuana             0-1 (0-0)
+  Sat Aug/8
+    17.00  Cruz Azul               v Club León                2-0 (1-0)
+    20.06  CF Pachuca              v CF América               0-3 (0-1)
+    20.30  Atlas Guadalajara       v CF Monterrey             0-3 (0-2)
+    21.00  Dorados de Sinaloa      v Gallos Blancos           1-1 (0-0)
+  Sun Aug/9
+    12.00  Deportivo Toluca        v Monarcas Morelia         0-1 (0-0)
+    17.00  Puebla FC               v Pumas UNAM               3-2 (1-1)
+    19.00  UANL Tigres             v Deportivo Guadalajara    2-2 (2-0)
+
+
+» Apertura, Matchday 4
+  Tue Aug/11
+    20.30  CF América              v Dorados de Sinaloa       4-0 (1-0)
+           Gallos Blancos          v Santos Laguna            1-2 (1-1)
+    21.00  CF Monterrey            v CF Pachuca               4-3 (1-2)
+    22.00  Club Tijuana            v CD Veracruz              1-3 (0-0)
+  Wed Aug/12
+    20.00  Puebla FC               v Deportivo Toluca         1-0 (1-0)
+    20.06  Club León               v UANL Tigres              2-1 (2-0)
+    20.30  Deportivo Guadalajara   v Monarcas Morelia         2-0 (2-0)
+    21.00  Chiapas FC              v Cruz Azul                2-1 (1-1)
+           Pumas UNAM              v Atlas Guadalajara        5-0 (3-0)
+
+
+» Apertura, Matchday 5
+  Fri Aug/14
+    19.30  CD Veracruz             v Gallos Blancos           2-2 (2-2)
+    21.30  Santos Laguna           v CF América               0-2 (0-1)
+  Sat Aug/15
+    17.00  Cruz Azul               v Club Tijuana             1-3 (1-2)
+    18.30  Monarcas Morelia        v Club León                3-4 (1-2)
+    19.00  UANL Tigres             v Chiapas FC               4-1 (2-0)
+    20.06  CF Pachuca              v Pumas UNAM               1-2 (0-1)
+    20.30  Atlas Guadalajara       v Puebla FC                2-1 (2-0)
+    21.00  Dorados de Sinaloa      v CF Monterrey             1-4 (0-2)
+  Sun Aug/16
+    12.00  Deportivo Toluca        v Deportivo Guadalajara    3-1 (2-0)
+
+
+» Apertura, Matchday 6
+  Fri Aug/21
+    19.30  Gallos Blancos          v Cruz Azul                4-2 (2-0)
+    21.30  Club Tijuana            v UANL Tigres              1-2 (0-0)
+  Sat Aug/22
+    17.15  CF América              v CD Veracruz              3-1 (2-0)
+    19.00  CF Monterrey            v Santos Laguna            1-1 (0-0)
+    20.06  Club León               v Deportivo Guadalajara    1-0 (1-0)
+    20.30  Atlas Guadalajara       v Deportivo Toluca         1-2 (1-1)
+    21.00  Chiapas FC              v Monarcas Morelia         3-1 (1-1)
+  Sun Aug/23
+    12.00  Pumas UNAM              v Dorados de Sinaloa       2-0 (1-0)
+    17.00  Puebla FC               v CF Pachuca               3-2 (1-2)
+
+
+» Apertura, Matchday 7
+  Fri Aug/28
+    19.30  CD Veracruz             v CF Monterrey             2-1 (1-1)
+    21.30  Santos Laguna           v Pumas UNAM               3-4 (2-3)
+  Sat Aug/29
+    17.00  Cruz Azul               v CF América               0-2 (0-0)
+    19.00  UANL Tigres             v Gallos Blancos           5-1 (4-1)
+    20.06  CF Pachuca              v Atlas Guadalajara        1-1 (0-1)
+    20.30  Monarcas Morelia        v Club Tijuana             1-2 (0-0)
+    21.00  Dorados de Sinaloa      v Puebla FC                1-0 (0-0)
+  Sun Aug/30
+    12.00  Deportivo Toluca        v Club León                1-3 (1-0)
+    17.30  Deportivo Guadalajara   v Chiapas FC               4-1 (2-0)
+
+
+» Apertura, Matchday 8
+  Fri Sep/11
+    19.30  Gallos Blancos          v Monarcas Morelia         0-1 (0-1)
+    21.30  Club Tijuana            v Deportivo Guadalajara    2-1 (1-1)
+  Sat Sep/12
+    17.00  CF América              v UANL Tigres              0-1 (0-1)
+    19.00  CF Monterrey            v Cruz Azul                1-1 (0-1)
+    20.06  CF Pachuca              v Deportivo Toluca         3-4 (3-1)
+    20.30  Atlas Guadalajara       v Dorados de Sinaloa       3-2 (2-0)
+    21.00  Chiapas FC              v Club León                6-2 (3-1)
+  Sun Sep/13
+    12.00  Pumas UNAM              v CD Veracruz              3-0 (3-0)
+    17.00  Puebla FC               v Santos Laguna            0-1 (0-0)
+
+
+» Apertura, Matchday 9
+  Fri Sep/18
+    19.30  CD Veracruz             v Puebla FC                2-1 (0-1)
+    21.30  Santos Laguna           v Atlas Guadalajara        0-2 (0-0)
+  Sat Sep/19
+    17.00  Cruz Azul               v Pumas UNAM               2-1 (1-1)
+    19.00  UANL Tigres             v CF Monterrey             3-1 (0-1)
+    20.06  Club León               v Club Tijuana             2-1 (1-0)
+    20.30  Monarcas Morelia        v CF América               0-3 (0-0)
+    21.00  Dorados de Sinaloa      v CF Pachuca               1-2 (1-1)
+  Sun Sep/20
+    12.00  Deportivo Toluca        v Chiapas FC               1-1 (0-1)
+    17.00  Deportivo Guadalajara   v Gallos Blancos           2-1 (1-0)
+
+
+» Apertura, Matchday 10
+  Fri Sep/25
+    19.30  Gallos Blancos          v Club León                3-0 (1-0)
+    21.30  Club Tijuana            v Chiapas FC               1-1 (0-0)
+  Sat Sep/26
+    17.00  CF América              v Deportivo Guadalajara    1-2 (1-2)
+    19.00  CF Monterrey            v Monarcas Morelia         2-2 (1-1)
+    20.06  CF Pachuca              v Santos Laguna            0-0
+    20.30  Atlas Guadalajara       v CD Veracruz              0-1 (0-0)
+    21.00  Dorados de Sinaloa      v Deportivo Toluca         1-2 (1-0)
+  Sun Sep/27
+    12.00  Pumas UNAM              v UANL Tigres              1-0 (0-0)
+    17.00  Puebla FC               v Cruz Azul                2-1 (2-1)
+
+
+» Apertura, Matchday 11
+  Tue Sep/29
+    20.00  Deportivo Toluca        v Club Tijuana             4-1 (1-0)
+    20.06  Club León               v CF América               3-0 (2-0)
+    20.30  Deportivo Guadalajara   v CF Monterrey             2-1 (1-1)
+    21.00  Chiapas FC              v Gallos Blancos           0-0
+           Santos Laguna           v Dorados de Sinaloa       1-1 (1-0)
+           CD Veracruz             v CF Pachuca               0-1 (0-0)
+  Wed Sep/30
+    18.45  Monarcas Morelia        v Pumas UNAM               2-2 (2-2)
+    20.30  Cruz Azul               v Atlas Guadalajara        1-1 (0-1)
+    20.45  UANL Tigres             v Puebla FC                0-1 (0-1)
+
+
+» Apertura, Matchday 12
+  Fri Oct/2
+    19.30  Gallos Blancos          v Club Tijuana             2-1 (0-0)
+  Sat Oct/3
+    17.00  CF América              v Chiapas FC               2-1 (1-1)
+    19.00  Santos Laguna           v Deportivo Toluca         0-0
+           CF Monterrey            v Club León                4-0 (3-0)
+    20.30  Atlas Guadalajara       v UANL Tigres              0-1 (0-0)
+  Sun Oct/4
+    12.00  Pumas UNAM              v Deportivo Guadalajara    1-0 (1-0)
+    17.00  Puebla FC               v Monarcas Morelia         1-3 (0-1)
+  Tue Nov/10
+    21.00  Dorados de Sinaloa      v CD Veracruz              0-0
+  Sat Nov/14
+    20.06  CF Pachuca              v Cruz Azul                1-2 (0-1)
+
+
+» Apertura, Matchday 13
+  Fri Oct/16
+    19.30  CD Veracruz             v Santos Laguna            0-3 (0-2)
+    21.30  Club Tijuana            v CF América               0-2 (0-2)
+  Sat Oct/17
+    17.00  Cruz Azul               v Dorados de Sinaloa       1-1 (1-0)
+    19.00  UANL Tigres             v CF Pachuca               2-1 (1-0)
+    20.06  Club León               v Pumas UNAM               1-3 (0-1)
+    20.30  Monarcas Morelia        v Atlas Guadalajara        0-1 (0-1)
+    21.00  Chiapas FC              v CF Monterrey             2-2 (1-1)
+  Sun Oct/18
+    12.00  Deportivo Toluca        v Gallos Blancos           4-2 (3-1)
+    17.00  Deportivo Guadalajara   v Puebla FC                1-1 (1-1)
+
+
+» Apertura, Matchday 14
+  Fri Oct/23
+    19.30  CD Veracruz             v Deportivo Toluca         3-2 (3-1)
+    21.30  Santos Laguna           v Cruz Azul                1-2 (1-1)
+  Sat Oct/24
+    17.00  CF América              v Gallos Blancos           0-1 (0-0)
+    19.00  CF Monterrey            v Club Tijuana             3-1 (1-0)
+    19.06  CF Pachuca              v Monarcas Morelia         2-0 (0-0)
+    21.00  Dorados de Sinaloa      v UANL Tigres              0-0
+  Sun Oct/25
+    12.00  Pumas UNAM              v Chiapas FC               2-3 (1-2)
+    17.00  Puebla FC               v Club León                1-0 (1-0)
+  Wed Nov/11
+    20.30  Atlas Guadalajara       v Deportivo Guadalajara    0-1 (0-0)
+
+
+» Apertura, Matchday 15
+  Fri Oct/30
+    19.30  Gallos Blancos          v CF Monterrey             3-1 (2-0)
+    21.30  Club Tijuana            v Pumas UNAM               1-2 (1-1)
+  Sat Oct/31
+    17.00  Cruz Azul               v CD Veracruz              1-1 (1-0)
+    19.00  UANL Tigres             v Santos Laguna            2-2 (1-0)
+    20.06  Club León               v Atlas Guadalajara        2-1 (2-1)
+    20.30  Monarcas Morelia        v Dorados de Sinaloa       4-0 (1-0)
+    21.00  Chiapas FC              v Puebla FC                1-0 (1-0)
+  Sun Nov/1
+    12.00  Deportivo Toluca        v CF América               2-3 (0-2)
+    17.00  Deportivo Guadalajara   v CF Pachuca               4-4 (3-1)
+
+
+» Apertura, Matchday 16
+  Fri Nov/6
+    19.30  CD Veracruz             v UANL Tigres              1-3 (0-2)
+    21.30  Santos Laguna           v Monarcas Morelia         2-3 (2-1)
+  Sat Nov/7
+    17.00  Cruz Azul               v Deportivo Toluca         1-2 (0-2)
+    19.00  CF Monterrey            v CF América               2-1 (0-1)
+    20.06  CF Pachuca              v Club León                3-2 (1-2)
+    20.30  Atlas Guadalajara       v Chiapas FC               2-3 (2-2)
+    21.00  Dorados de Sinaloa      v Deportivo Guadalajara    2-1 (0-0)
+  Sun Nov/8
+    12.00  Pumas UNAM              v Gallos Blancos           2-1 (1-0)
+    17.00  Puebla FC               v Club Tijuana             2-1 (2-0)
+
+
+» Apertura, Matchday 17
+  Fri Nov/20
+    19.30  Gallos Blancos          v Puebla FC                0-0
+    21.30  Club Tijuana            v Atlas Guadalajara        2-0 (0-0)
+  Sat Nov/21
+    17.00  CF América              v Pumas UNAM               1-1 (1-0)
+    19.00  UANL Tigres             v Cruz Azul                0-0
+    20.06  Club León               v Dorados de Sinaloa       3-0 (2-0)
+    20.30  Monarcas Morelia        v CD Veracruz              1-2 (1-1)
+    21.00  Chiapas FC              v CF Pachuca               3-2 (3-1)
+  Sun Nov/22
+    12.00  Deportivo Toluca        v CF Monterrey             3-1 (0-0)
+    17.00  Deportivo Guadalajara   v Santos Laguna            0-3 (0-1)
+
+
+» Apertura Playoffs, Quarterfinals
+  Wed Nov/25
+    19.00  CF América              v Club León                4-1 (3-1)
+    21.00  UANL Tigres             v Chiapas FC               2-1 (1-0)
+  Sun Nov/29
+    12.00  CD Veracruz             v Pumas UNAM               0-1 (0-1)
+    17.00  Puebla FC               v Deportivo Toluca         0-1 (0-0)
+  Sat Nov/28
+    18.00  Chiapas FC              v UANL Tigres              0-1 (0-1)
+    20.06  Club León               v CF América               2-1 (1-0)
+  Sun Nov/29
+    12.00  Pumas UNAM              v CD Veracruz              1-0 (1-0)
+    17.00  Deportivo Toluca        v Puebla FC                1-0 (0-0)
+
+
+» Apertura Playoffs, Semifinals
+  Thu Dec/3
+    19.00  CF América              v Pumas UNAM               0-3 (0-0)
+    21.00  UANL Tigres             v Deportivo Toluca         0-0
+  Sun Dec/6
+    12.00  Pumas UNAM              v CF América               1-3 (0-2)
+    18.00  Deportivo Toluca        v UANL Tigres              0-2 (0-0)
+
+
+» Apertura Playoffs, Final
+  Thu Dec/10
+    21.00  UANL Tigres             v Pumas UNAM               3-0 (2-0)
+  Sun Dec/13
+    20.30  Pumas UNAM              v UANL Tigres              2-4 pen. 4-1 a.e.t. (3-0, 1-0)
+
+
+» Clausura, Matchday 1
+  Fri Jan/8 2016
+    19.30  Gallos Blancos          v Atlas Guadalajara        1-3 (1-2)
+    21.30  Club Tijuana            v CF Pachuca               1-1 (1-1)
+  Sat Jan/9
+    17.00  CF América              v Puebla FC                0-0
+    19.00  CF Monterrey            v Pumas UNAM               1-0 (0-0)
+    20.06  Club León               v Santos Laguna            2-0 (0-0)
+    20.30  Monarcas Morelia        v Cruz Azul                2-2 (1-1)
+    21.00  Chiapas FC              v Dorados de Sinaloa       1-0 (0-0)
+  Sun Jan/10
+    12.00  Deportivo Toluca        v UANL Tigres              1-0 (0-0)
+    17.00  Deportivo Guadalajara   v CD Veracruz              2-2 (1-1)
+
+
+» Clausura, Matchday 2
+  Fri Jan/15
+    19.30  CD Veracruz             v Club León                1-3 (0-1)
+    21.30  Santos Laguna           v Chiapas FC               1-0 (0-0)
+  Sat Jan/16
+    17.00  Cruz Azul               v Deportivo Guadalajara    1-1 (1-1)
+    19.00  UANL Tigres             v Monarcas Morelia         2-0 (0-0)
+    20.06  CF Pachuca              v Gallos Blancos           1-0 (1-0)
+    20.30  Atlas Guadalajara       v CF América               0-3 (0-1)
+    21.00  Dorados de Sinaloa      v Club Tijuana             0-1 (0-1)
+  Sun Jan/17
+    12.00  Pumas UNAM              v Deportivo Toluca         3-2 (1-0)
+    17.00  Puebla FC               v CF Monterrey             1-3 (1-1)
+
+
+» Clausura, Matchday 3
+  Fri Jan/22
+    19.30  Gallos Blancos          v Dorados de Sinaloa       3-0 (2-0)
+    21.30  Club Tijuana            v Santos Laguna            1-3 (0-1)
+  Sat Jan/23
+    17.00  CF América              v CF Pachuca               1-4 (0-2)
+    19.00  CF Monterrey            v Atlas Guadalajara        1-0 (1-0)
+    20.06  Club León               v Cruz Azul                3-2 (0-1)
+    20.30  Monarcas Morelia        v Deportivo Toluca         1-1 (0-1)
+    21.00  Chiapas FC              v CD Veracruz              1-1 (1-1)
+  Sun Jan/24
+    12.00  Pumas UNAM              v Puebla FC                0-1 (0-1)
+    17.00  Deportivo Guadalajara   v UANL Tigres              2-2 (1-0)
+
+
+» Clausura, Matchday 4
+  Fri Jan/29
+    21.30  CD Veracruz             v Club Tijuana             2-2 (2-2)
+           Santos Laguna           v Gallos Blancos           2-0 (2-0)
+  Sat Jan/30
+    17.00  Cruz Azul               v Chiapas FC               2-1 (0-1)
+    18.30  Monarcas Morelia        v Deportivo Guadalajara    2-0 (1-0)
+    19.00  UANL Tigres             v Club León                3-1 (3-1)
+    20.06  CF Pachuca              v CF Monterrey             3-1 (0-0)
+    20.30  Atlas Guadalajara       v Pumas UNAM               1-1 (1-0)
+    21.00  Dorados de Sinaloa      v CF América               0-3 (0-2)
+  Sun Jan/31
+    12.00  Deportivo Toluca        v Puebla FC                1-1 (1-0)
+
+
+» Clausura, Matchday 5
+  Fri Feb/5
+    19.30  Gallos Blancos          v CD Veracruz              2-1 (1-1)
+    21.00  Chiapas FC              v UANL Tigres              1-3 (1-1)
+    21.30  Club Tijuana            v Cruz Azul                1-1 (1-1)
+  Sat Feb/6
+    17.00  CF América              v Santos Laguna            2-0 (1-0)
+    19.00  CF Monterrey            v Dorados de Sinaloa       3-0 (2-0)
+           Puebla FC               v Atlas Guadalajara        4-1 (4-0)
+    20.06  Club León               v Monarcas Morelia         1-2 (0-0)
+    21.00  Deportivo Guadalajara   v Deportivo Toluca         1-1 (0-1)
+  Sun Feb/7
+    12.00  Pumas UNAM              v CF Pachuca               1-1 (1-0)
+
+
+» Clausura, Matchday 6
+  Fri Feb/12
+    19.30  CD Veracruz             v CF América               1-1 (0-1)
+    20.30  Deportivo Toluca        v Atlas Guadalajara        1-1 (0-0)
+    21.30  Santos Laguna           v CF Monterrey             1-2 (0-1)
+  Sat Feb/13
+    17.00  Cruz Azul               v Gallos Blancos           2-1 (1-0)
+    19.00  UANL Tigres             v Club Tijuana             1-2 (0-1)
+    21.00  Dorados de Sinaloa      v Pumas UNAM               2-3 (0-2)
+  Sun Feb/14
+    12.00  Deportivo Guadalajara   v Club León                0-1 (0-0)
+    19.00  CF Pachuca              v Puebla FC                5-2 (1-2)
+  Sat Mar/26
+    20.30  Monarcas Morelia        v Chiapas FC               2-0 (1-0)
+
+
+» Clausura, Matchday 7
+  Fri Feb/19
+    19.30  Gallos Blancos          v UANL Tigres              2-2 (1-1)
+    21.30  Club Tijuana            v Monarcas Morelia         1-1 (0-0)
+  Sat Feb/20
+    17.00  CF América              v Cruz Azul                3-3 (2-1)
+    19.00  CF Monterrey            v CD Veracruz              5-1 (4-1)
+    20.06  Club León               v Deportivo Toluca         5-1 (1-1)
+    20.30  Atlas Guadalajara       v CF Pachuca               1-0 (0-0)
+    21.00  Chiapas FC              v Deportivo Guadalajara    1-1 (0-1)
+  Sun Feb/21
+    12.00  Pumas UNAM              v Santos Laguna            1-1 (1-1)
+    17.00  Puebla FC               v Dorados de Sinaloa       3-2 (0-1)
+
+
+» Clausura, Matchday 8
+  Fri Feb/26
+    21.30  CD Veracruz             v Pumas UNAM               0-0
+  Sat Feb/27
+    17.00  Cruz Azul               v CF Monterrey             4-0 (3-0)
+    19.00  Santos Laguna           v Puebla FC                1-1 (0-1)
+           UANL Tigres             v CF América               4-1 (0-0)
+    20.06  Club León               v Chiapas FC               1-3 (0-2)
+    20.30  Monarcas Morelia        v Gallos Blancos           1-1 (0-1)
+    21.00  Deportivo Toluca        v CF Pachuca               0-1 (0-1)
+           Dorados de Sinaloa      v Atlas Guadalajara        2-1 (1-0)
+  Sun Feb/28
+    17.00  Deportivo Guadalajara   v Club Tijuana             1-1 (1-1)
+
+
+» Clausura, Matchday 9
+  Fri Mar/4
+    21.30  Club Tijuana            v Club León                0-0
+  Sat Mar/5
+    17.00  CF América              v Monarcas Morelia         4-1 (2-0)
+    18.30  Gallos Blancos          v Deportivo Guadalajara    0-2 (0-1)
+    19.00  CF Monterrey            v UANL Tigres              1-0 (0-0)
+    20.06  CF Pachuca              v Dorados de Sinaloa       2-2 (2-1)
+    20.30  Atlas Guadalajara       v Santos Laguna            1-2 (1-1)
+    21.00  Chiapas FC              v Deportivo Toluca         3-2 (2-1)
+  Sun Mar/6
+    12.00  Pumas UNAM              v Cruz Azul                2-2 (1-2)
+    17.00  Puebla FC               v CD Veracruz              1-1 (1-0)
+
+
+» Clausura, Matchday 10
+  Fri Mar/11
+    21.30  CD Veracruz             v Atlas Guadalajara        3-2 (1-1)
+           Santos Laguna           v CF Pachuca               3-2 (3-0)
+  Sat Mar/12
+    17.00  Cruz Azul               v Puebla FC                1-1 (1-0)
+    19.00  UANL Tigres             v Pumas UNAM               0-0
+    20.06  Club León               v Gallos Blancos           2-0 (0-0)
+    20.30  Monarcas Morelia        v CF Monterrey             1-3 (0-0)
+    21.00  Chiapas FC              v Club Tijuana             1-2 (0-0)
+  Sun Mar/13
+    12.00  Deportivo Toluca        v Dorados de Sinaloa       3-0 (1-0)
+    19.30  Deportivo Guadalajara   v CF América               1-2 (0-0)
+
+
+» Clausura, Matchday 11
+  Fri Mar/18
+    19.30  Gallos Blancos          v Chiapas FC               1-1 (0-0)
+    21.30  Club Tijuana            v Deportivo Toluca         0-0
+  Sat Mar/19
+    17.00  CF América              v Club León                2-1 (1-0)
+    19.00  CF Monterrey            v Deportivo Guadalajara    1-3 (1-1)
+    20.06  CF Pachuca              v CD Veracruz              6-0 (2-0)
+    20.30  Atlas Guadalajara       v Cruz Azul                0-2 (0-2)
+    21.00  Dorados de Sinaloa      v Santos Laguna            3-1 (1-0)
+  Sun Mar/20
+    17.00  Puebla FC               v UANL Tigres              0-0
+    18.00  Pumas UNAM              v Monarcas Morelia         4-2 (1-1)
+
+
+» Clausura, Matchday 12
+  Fri Apr/1
+    20.30  Deportivo Toluca        v Santos Laguna            0-0
+    21.30  CD Veracruz             v Dorados de Sinaloa       0-0
+           Club Tijuana            v Gallos Blancos           2-4 (2-1)
+  Sat Apr/2
+    17.00  Cruz Azul               v CF Pachuca               0-0
+    19.00  UANL Tigres             v Atlas Guadalajara        2-2 (2-0)
+    20.06  Club León               v CF Monterrey             1-2 (1-0)
+    20.30  Monarcas Morelia        v Puebla FC                2-0 (0-0)
+    21.00  Chiapas FC              v CF América               0-2 (0-1)
+  Sun Apr/3
+    20.30  Deportivo Guadalajara   v Pumas UNAM               4-0 (2-0)
+
+
+» Clausura, Matchday 13
+  Fri Apr/8
+    19.30  Gallos Blancos          v Deportivo Toluca         0-0
+    21.30  Santos Laguna           v CD Veracruz              2-0 (1-0)
+  Sat Apr/9
+    17.00  CF América              v Club Tijuana             6-1 (2-1)
+    19.00  CF Monterrey            v Chiapas FC               6-0 (2-0)
+    20.06  CF Pachuca              v UANL Tigres              2-1 (0-1)
+    20.30  Atlas Guadalajara       v Monarcas Morelia         1-2 (0-1)
+    21.00  Dorados de Sinaloa      v Cruz Azul                3-0 (1-0)
+  Sun Apr/10
+    17.00  Puebla FC               v Deportivo Guadalajara    0-3 (0-1)
+    18.30  Pumas UNAM              v Club León                1-2 (1-2)
+
+
+» Clausura, Matchday 14
+  Fri Apr/15
+    19.30  Gallos Blancos          v CF América               1-0 (1-0)
+    21.30  Club Tijuana            v CF Monterrey             1-2 (0-0)
+  Sat Apr/16
+    12.45  Deportivo Toluca        v CD Veracruz              4-2 (3-0)
+    17.00  Cruz Azul               v Santos Laguna            0-1 (0-1)
+    19.00  UANL Tigres             v Dorados de Sinaloa       5-2 (3-1)
+    20.06  Club León               v Puebla FC                4-1 (0-1)
+    20.30  Monarcas Morelia        v CF Pachuca               1-0 (0-0)
+    21.00  Chiapas FC              v Pumas UNAM               1-2 (0-1)
+  Sun Apr/17
+    17.00  Deportivo Guadalajara   v Atlas Guadalajara        1-0 (0-0)
+
+
+» Clausura, Matchday 15
+  Fri Apr/22
+    20.00  Pumas UNAM              v Club Tijuana             3-1 (1-0)
+    21.30  CD Veracruz             v Cruz Azul                2-1 (1-0)
+  Sat Apr/23
+    17.00  CF América              v Deportivo Toluca         0-1 (0-1)
+    19.00  CF Monterrey            v Gallos Blancos           3-2 (2-0)
+           Santos Laguna           v UANL Tigres              2-1 (1-0)
+    20.06  CF Pachuca              v Deportivo Guadalajara    1-1 (0-0)
+    20.30  Atlas Guadalajara       v Club León                1-1 (1-0)
+    21.00  Dorados de Sinaloa      v Monarcas Morelia         1-0 (0-0)
+  Sun Apr/24
+    17.00  Puebla FC               v Chiapas FC               2-1 (1-1)
+
+
+» Clausura, Matchday 16
+  Fri Apr/29
+    19.30  Gallos Blancos          v Pumas UNAM               2-1 (0-1)
+    21.30  Club Tijuana            v Puebla FC                0-0
+  Sat Apr/30
+    17.00  CF América              v CF Monterrey             3-3 (2-1)
+    19.00  UANL Tigres             v CD Veracruz              0-0
+    20.06  Club León               v CF Pachuca               0-0
+    20.30  Monarcas Morelia        v Santos Laguna            3-2 (2-2)
+    21.00  Chiapas FC              v Atlas Guadalajara        0-3 (0-2)
+  Sun May/1
+    12.00  Deportivo Toluca        v Cruz Azul                0-2 (0-1)
+    17.00  Deportivo Guadalajara   v Dorados de Sinaloa       2-1 (1-0)
+
+
+» Clausura, Matchday 17
+  Fri May/6
+    19.30  CD Veracruz             v Monarcas Morelia         1-2 (1-0)
+    21.30  Santos Laguna           v Deportivo Guadalajara    0-1 (0-0)
+  Sat May/7
+    17.00  Cruz Azul               v UANL Tigres              0-3 (0-2)
+    19.00  CF Monterrey            v Deportivo Toluca         1-2 (1-1)
+    20.06  CF Pachuca              v Chiapas FC               2-1 (2-0)
+    20.30  Atlas Guadalajara       v Club Tijuana             0-0
+    21.00  Dorados de Sinaloa      v Club León                0-1 (0-0)
+  Sun May/8
+    12.00  Pumas UNAM              v CF América               1-1 (0-1)
+    17.00  Puebla FC               v Gallos Blancos           3-1 (2-1)
+
+
+» Clausura Playoffs, Quarterfinals
+  Wed May/11
+    19.00  UANL Tigres             v CF Monterrey             1-3 (1-2)
+    21.00  Monarcas Morelia        v Club León                1-1 (0-0)
+  Thu May/12
+    19.00  Santos Laguna           v CF Pachuca               1-1 (0-1)
+    21.00  Deportivo Guadalajara   v CF América               0-0
+  Sat May/14
+    19.00  CF Monterrey            v UANL Tigres              1-2 (0-2)
+    21.06  Club León               v Monarcas Morelia         4-1 (1-0)
+  Sun May/15
+    18.00  CF América              v Deportivo Guadalajara    2-1 (1-1)
+    20.06  CF Pachuca              v Santos Laguna            3-2 (1-1)
+
+
+» Clausura Playoffs, Semifinals
+  Wed May/18
+    20.30  CF América              v CF Monterrey             1-0 (0-0)
+  Thu May/19
+    20.06  Club León               v CF Pachuca               1-1 (1-1)
+  Sat May/21
+    20.30  CF Monterrey            v CF América               4-2 (1-0)
+  Sun May/22
+    20.06  CF Pachuca              v Club León                2-1 (1-0)
+
+
+» Clausura Playoffs, Final
+  Thu May/26
+    20.05  CF Pachuca              v CF Monterrey             1-0 (0-0)
+  Sun May/29
+    20.36  CF Monterrey            v CF Pachuca               1-1 (1-0)
