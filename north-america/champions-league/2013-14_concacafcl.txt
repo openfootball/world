@@ -1,0 +1,160 @@
+= CONCACAF Champions League 2013/14
+
+# Date       Tue Aug/6 2013 - Wed Apr/23 2014 (260d)
+# Teams      24
+# Matches    62
+
+
+
+» Gruppe 1
+  Thu Aug/8 2013
+    21.00  Árabe Unido (PAN)       v W Connection FC (TRI)    3-1 (2-0)
+  Tue Aug/20
+    19.00  W Connection FC (TRI)   v Houston Dynamo (USA)     0-0
+  Tue Aug/27
+    19.00  Houston Dynamo (USA)    v Árabe Unido (PAN)        2-1 (1-1)
+  Thu Sep/19
+    19.00  W Connection FC (TRI)   v Árabe Unido (PAN)        0-2 (0-1)
+  Wed Sep/25
+    19.00  Houston Dynamo (USA)    v W Connection FC (TRI)    2-0 (1-0)
+  Thu Oct/24
+    19.00  Árabe Unido (PAN)       v Houston Dynamo (USA)     1-0 (0-0)
+
+
+» Gruppe 2
+  Wed Aug/7
+    21.00  Real Estelí FC (NCA)    v Sporting Kansas City (USA)  0-2 (0-1)
+  Wed Aug/21
+    21.00  Real Estelí FC (NCA)    v Olimpia (HON)            0-1 (0-0)
+  Tue Aug/27
+    21.00  Olimpia (HON)           v Sporting Kansas City (USA)  0-2 (0-1)
+  Tue Sep/17
+    19.00  Sporting Kansas City (USA) v Real Estelí FC (NCA)     1-1 (0-0)
+  Tue Sep/24
+    21.00  Olimpia (HON)           v Real Estelí FC (NCA)     1-0 (0-0)
+  Wed Oct/23
+    19.00  Sporting Kansas City (USA) v Olimpia (HON)            0-0
+
+
+» Gruppe 3
+  Thu Aug/8
+    19.00  Valencia Leogane (HAI)  v CS Herediano (CRC)       1-6 (0-2)
+  Thu Aug/22
+    19.00  Cruz Azul (MEX)         v CS Herediano (CRC)       3-0 (3-0)
+  Wed Aug/28
+    19.00  Valencia Leogane (HAI)  v Cruz Azul (MEX)          1-2 (0-1)
+  Wed Sep/18
+    21.00  CS Herediano (CRC)      v Valencia Leogane (HAI)   4-2 (2-0)
+  Tue Sep/24
+    19.00  Cruz Azul (MEX)         v Valencia Leogane (HAI)   3-0 (2-0)
+  Tue Oct/22
+    21.00  CS Herediano (CRC)      v Cruz Azul (MEX)          1-2 (0-1)
+
+
+» Gruppe 4
+  Wed Aug/7
+    21.00  Sporting San Miguelito (PAN) v CF América (MEX)         0-1 (0-1)
+  Thu Aug/22
+    21.00  Sporting San Miguelito (PAN) v LD Alajuelense (CRC)     1-0 (1-0)
+  Thu Aug/29
+    21.00  LD Alajuelense (CRC)    v CF América (MEX)         1-0 (0-0)
+  Tue Sep/17
+    21.00  CF América (MEX)        v Sporting San Miguelito (PAN)  3-0 (1-0)
+  Thu Sep/26
+    21.00  LD Alajuelense (CRC)    v Sporting San Miguelito (PAN)  2-0 (0-0)
+  Tue Oct/22
+    19.00  CF América (MEX)        v LD Alajuelense (CRC)     0-1 (0-0)
+
+
+» Gruppe 5
+  Wed Aug/7
+    19.00  Impact de Montréal (CAN) v San Jose Earthquakes (USA)  1-0 (1-0)
+  Wed Aug/21
+    21.00  Deportivo Heredia (GUA) v Impact de Montréal (CAN)  1-0 (0-0)
+  Wed Aug/28
+    21.00  Deportivo Heredia (GUA) v San Jose Earthquakes (USA)  1-0 (0-0)
+  Tue Sep/17
+    21.00  San Jose Earthquakes (USA) v Impact de Montréal (CAN)  3-0 (1-0)
+  Tue Sep/24
+    19.00  Impact de Montréal (CAN) v Deportivo Heredia (GUA)  2-0 (1-0)
+  Wed Oct/23
+    21.00  San Jose Earthquakes (USA) v Deportivo Heredia (GUA)  1-0 (0-0)
+
+
+» Gruppe 6
+  Tue Aug/6
+    19.00  Deportivo Toluca (MEX)  v Caledonia AIA Fire (TRI)  3-1 (2-0)
+  Thu Aug/22
+    21.00  CSD Comunicaciones (GUA) v Deportivo Toluca (MEX)   1-2 (1-2)
+  Thu Aug/29
+    19.00  Caledonia AIA Fire (TRI) v CSD Comunicaciones (GUA)  0-3 (0-1)
+  Wed Sep/18
+    19.00  Caledonia AIA Fire (TRI) v Deportivo Toluca (MEX)   1-5 (0-3)
+  Wed Sep/25
+    21.00  CSD Comunicaciones (GUA) v Caledonia AIA Fire (TRI)  2-0 (2-0)
+  Wed Oct/23
+    19.00  Deportivo Toluca (MEX)  v CSD Comunicaciones (GUA)  5-1 (2-0)
+
+
+» Gruppe 7
+  Tue Aug/6
+    21.00  Luis Ángel Firpo (SLV)  v Club Tijuana (MEX)       0-0
+  Tue Aug/20
+    21.00  Victoria (HON)          v Club Tijuana (MEX)       2-3 (0-2)
+  Wed Aug/28
+    21.00  Club Tijuana (MEX)      v Luis Ángel Firpo (SLV)   1-0 (0-0)
+  Thu Sep/19
+    21.00  Luis Ángel Firpo (SLV)  v Victoria (HON)           2-1 (0-1)
+  Thu Sep/26
+    21.00  Club Tijuana (MEX)      v Victoria (HON)           6-0 (3-0)
+  Wed Oct/23
+    21.00  Victoria (HON)          v Luis Ángel Firpo (SLV)   1-4 (0-1)
+
+
+» Gruppe 8
+  Thu Aug/8
+    21.00  Isidro Metapán (SLV)    v CS Cartaginés (CRC)      2-4 (1-2)
+  Tue Aug/20
+    21.00  Los Angeles Galaxy (USA) v CS Cartaginés (CRC)      2-0 (0-0)
+  Tue Aug/27
+    21.00  CS Cartaginés (CRC)     v Isidro Metapán (SLV)     0-0
+  Wed Sep/18
+    21.00  Los Angeles Galaxy (USA) v Isidro Metapán (SLV)     1-0 (1-0)
+  Wed Sep/25
+    21.00  CS Cartaginés (CRC)     v Los Angeles Galaxy (USA)  0-3 (0-3)
+  Thu Oct/24
+    21.00  Isidro Metapán (SLV)    v Los Angeles Galaxy (USA)  4-0 (4-0)
+
+
+» Quarterfinals
+  Mon Mar/10 2014
+    20.00  LD Alajuelense (CRC)    v Árabe Unido (PAN)        0-0
+  Tue Mar/11
+    20.00  San Jose Earthquakes (USA) v Deportivo Toluca (MEX)   1-1 (0-0)
+  Wed Mar/12
+    18.00  Sporting Kansas City (USA) v Cruz Azul (MEX)          1-0 (1-0)
+    20.00  Los Angeles Galaxy (USA) v Club Tijuana (MEX)       1-0 (1-0)
+  Tue Mar/18
+    20.00  Club Tijuana (MEX)      v Los Angeles Galaxy (USA)  4-2 (3-0)
+  Wed Mar/19
+    18.00  Deportivo Toluca (MEX)  v San Jose Earthquakes (USA)  5-4 pen. 1-1 a.e.t. (1-1, 0-0)
+    20.00  Cruz Azul (MEX)         v Sporting Kansas City (USA)  5-1 (2-1)
+  Thu Mar/20
+    20.00  Árabe Unido (PAN)       v LD Alajuelense (CRC)     0-2 (0-1)
+
+
+» Semifinals
+  Tue Apr/1
+    18.00  LD Alajuelense (CRC)    v Deportivo Toluca (MEX)   0-1 (0-0)
+    20.00  Club Tijuana (MEX)      v Cruz Azul (MEX)          1-0 (0-0)
+  Tue Apr/8
+    19.00  Deportivo Toluca (MEX)  v LD Alajuelense (CRC)     2-0 (1-0)
+  Wed Apr/9
+    19.00  Cruz Azul (MEX)         v Club Tijuana (MEX)       2-0 (1-0)
+
+
+» Final
+  Tue Apr/15
+    19.00  Cruz Azul (MEX)         v Deportivo Toluca (MEX)   0-0
+  Wed Apr/23
+    19.00  Deportivo Toluca (MEX)  v Cruz Azul (MEX)          1-1 (0-1)

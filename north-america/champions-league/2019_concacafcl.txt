@@ -1,0 +1,65 @@
+= CONCACAF Champions League 2019
+
+# Date       Tue Feb/19 - Wed May/1 2019 (71d)
+# Teams      16
+# Matches    30
+
+
+
+» Round of 16
+  Tue Feb/19 2019
+    19.00  Deportivo Saprissa (CRC) v UANL Tigres (MEX)        1-0 (0-0)
+           Independiente de La Chorrera (PAN) v Toronto FC (CAN)         4-0 (1-0)
+    21.00  Deportivo Guastatoya (GUA) v Houston Dynamo (USA)     0-1 (0-0)
+  Wed Feb/20
+    19.00  Marathón (HON)          v Santos Laguna (MEX)      2-6 (0-3)
+           CD Pantoja (DOM)        v New York RB (USA)        0-2 (0-1)
+    21.00  Alianza (SLV)           v CF Monterrey (MEX)       0-0
+  Thu Feb/21
+    19.00  Sporting Kansas City (USA) v Deportivo Toluca (MEX)   3-0 (1-0)
+    21.00  CS Herediano (CRC)      v Atlanta United FC (USA)  3-1 (2-1)
+  Tue Feb/26
+    19.00  Toronto FC (CAN)        v Independiente de La Chorrera (PAN)  1-1 (1-0)
+    20.30  Houston Dynamo (USA)    v Deportivo Guastatoya (GUA)  2-1 (0-0)
+    21.00  UANL Tigres (MEX)       v Deportivo Saprissa (CRC)  5-1 (4-1)
+  Wed Feb/27
+    19.00  Santos Laguna (MEX)     v Marathón (HON)           5-0 (3-0)
+           New York RB (USA)       v CD Pantoja (DOM)         3-0 (2-0)
+    21.00  CF Monterrey (MEX)      v Alianza (SLV)            1-0 (0-0)
+  Thu Feb/28
+    19.00  Atlanta United FC (USA) v CS Herediano (CRC)       4-0 (2-0)
+    21.00  Deportivo Toluca (MEX)  v Sporting Kansas City (USA)  0-2 (0-1)
+
+
+» Quarterfinals
+  Tue Mar/5
+    19.00  New York RB (USA)       v Santos Laguna (MEX)      0-2 (0-1)
+    21.00  Houston Dynamo (USA)    v UANL Tigres (MEX)        0-2 (0-0)
+  Wed Mar/6
+    19.00  Independiente de La Chorrera (PAN) v Sporting Kansas City (USA)  2-1 (1-0)
+    21.00  CF Monterrey (MEX)      v Atlanta United FC (USA)  3-0 (1-0)
+  Tue Mar/12
+    19.00  Santos Laguna (MEX)     v New York RB (USA)        4-2 (0-2)
+    21.00  UANL Tigres (MEX)       v Houston Dynamo (USA)     1-0 (0-0)
+  Wed Mar/13
+    18.00  Atlanta United FC (USA) v CF Monterrey (MEX)       1-0 (0-0)
+  Thu Mar/14
+    18.00  Sporting Kansas City (USA) v Independiente de La Chorrera (PAN)  3-0 (0-0)
+
+
+» Semifinals
+  Wed Apr/3
+    20.00  UANL Tigres (MEX)       v Santos Laguna (MEX)      3-0 (3-0)
+  Thu Apr/4
+    20.00  CF Monterrey (MEX)      v Sporting Kansas City (USA)  5-0 (2-0)
+  Wed Apr/10
+    19.00  Santos Laguna (MEX)     v UANL Tigres (MEX)        3-2 (1-2)
+  Thu Apr/11
+    20.00  Sporting Kansas City (USA) v CF Monterrey (MEX)       2-5 (2-2)
+
+
+» Final
+  Tue Apr/23
+    21.00  UANL Tigres (MEX)       v CF Monterrey (MEX)       0-1 (0-1)
+  Wed May/1
+    21.00  CF Monterrey (MEX)      v UANL Tigres (MEX)        1-1 (1-0)

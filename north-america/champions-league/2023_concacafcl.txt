@@ -1,0 +1,65 @@
+= CONCACAF Champions League 2023
+
+# Date       Tue Mar/7 - Sun Jun/4 2023 (89d)
+# Teams      16
+# Matches    30
+
+
+
+» Round of 16
+  Tue Mar/7 2023
+    17.00  Violette AC (HAI)       v Austin FC (USA)          3-0 (2-0)
+    19.00  Alianza (SLV)           v Philadelphia Union (USA)  0-0
+    21.00  UANL Tigres (MEX)       v Orlando City (USA)       0-0
+  Wed Mar/8
+    17.00  Tauro FC (PAN)          v Club León (MEX)          0-1 (0-0)
+    19.00  Olimpia (HON)           v Atlas Guadalajara (MEX)  4-1 (1-1)
+    21.00  Vancouver Whitecaps (CAN) v Real España (HON)        5-0 (1-0)
+  Thu Mar/9
+    19.00  Motagua (HON)           v CF Pachuca (MEX)         0-0
+    21.00  LD Alajuelense (CRC)    v Los Angeles FC (USA)     0-3 (0-0)
+  Tue Mar/14
+    18.00  Austin FC (USA)         v Violette AC (HAI)        2-0 (0-0)
+           Philadelphia Union (USA) v Alianza (SLV)            4-0 (1-0)
+    20.15  Atlas Guadalajara (MEX) v Olimpia (HON)            4-0 (1-0)
+  Wed Mar/15
+    16.00  Real España (HON)       v Vancouver Whitecaps (CAN)  3-2 (0-0)
+    18.15  Orlando City (USA)      v UANL Tigres (MEX)        1-1 (0-1)
+    20.30  Los Angeles FC (USA)    v LD Alajuelense (CRC)     1-2 (0-1)
+  Thu Mar/16
+    18.00  Club León (MEX)         v Tauro FC (PAN)           2-0 (2-0)
+    20.15  CF Pachuca (MEX)        v Motagua (HON)            1-1 (0-0)
+
+
+» Quarterfinals
+  Tue Apr/4
+    18.00  Philadelphia Union (USA) v Atlas Guadalajara (MEX)  1-0 (0-0)
+    20.00  Club León (MEX)         v Violette AC (HAI)        5-0 (1-0)
+  Wed Apr/5
+    18.00  Motagua (HON)           v UANL Tigres (MEX)        0-1 (0-1)
+    20.00  Vancouver Whitecaps (CAN) v Los Angeles FC (USA)     0-3 (0-0)
+  Tue Apr/11
+    18.00  Violette AC (HAI)       v Club León (MEX)          2-1 (2-1)
+    20.15  Los Angeles FC (USA)    v Vancouver Whitecaps (CAN)  3-0 (2-0)
+  Wed Apr/12
+    20.00  Atlas Guadalajara (MEX) v Philadelphia Union (USA)  2-2 (2-1)
+  Thu Apr/13
+    20.00  UANL Tigres (MEX)       v Motagua (HON)            5-0 (1-0)
+
+
+» Semifinals
+  Tue Apr/25
+    20.00  UANL Tigres (MEX)       v Club León (MEX)          2-1 (2-1)
+  Wed Apr/26
+    19.00  Philadelphia Union (USA) v Los Angeles FC (USA)     1-1 (0-0)
+  Tue May/2
+    20.00  Los Angeles FC (USA)    v Philadelphia Union (USA)  3-0 (1-0)
+  Wed May/3
+    20.00  Club León (MEX)         v UANL Tigres (MEX)        3-1 (2-0)
+
+
+» Final
+  Wed May/31
+    20.00  Club León (MEX)         v Los Angeles FC (USA)     2-1 (2-0)
+  Sun Jun/4
+    19.00  Los Angeles FC (USA)    v Club León (MEX)          0-1 (0-1)

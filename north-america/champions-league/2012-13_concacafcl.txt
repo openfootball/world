@@ -1,0 +1,160 @@
+= CONCACAF Champions League 2012/13
+
+# Date       Tue Jul/31 2012 - Wed May/1 2013 (274d)
+# Teams      24
+# Matches    62
+
+
+
+» Gruppe 1
+  Wed Aug/1 2012
+    19.00  Toronto FC (CAN)        v CD Águila (SLV)          5-1 (3-1)
+  Tue Aug/21
+    19.00  Santos Laguna (MEX)     v CD Águila (SLV)          5-0 (4-0)
+  Tue Aug/28
+    19.00  Toronto FC (CAN)        v Santos Laguna (MEX)      1-3 (0-0)
+  Wed Sep/19
+    21.00  CD Águila (SLV)         v Santos Laguna (MEX)      0-4 (0-0)
+  Tue Sep/25
+    21.00  CD Águila (SLV)         v Toronto FC (CAN)         0-3 (0-2)
+  Wed Oct/24
+    19.00  Santos Laguna (MEX)     v Toronto FC (CAN)         1-0 (0-0)
+
+
+» Gruppe 2
+  Tue Jul/31
+    21.00  CS Herediano (CRC)      v Real Salt Lake (USA)     1-0 (1-0)
+  Tue Aug/21
+    21.00  Real Salt Lake (USA)    v Tauro FC (PAN)           2-0 (0-0)
+  Thu Aug/30
+    19.00  Tauro FC (PAN)          v CS Herediano (CRC)       0-1 (0-0)
+  Tue Sep/18
+    19.00  Tauro FC (PAN)          v Real Salt Lake (USA)     0-1 (0-0)
+  Tue Sep/25
+    21.00  CS Herediano (CRC)      v Tauro FC (PAN)           2-1 (2-1)
+  Tue Oct/23
+    21.00  Real Salt Lake (USA)    v CS Herediano (CRC)       0-0
+
+
+» Gruppe 3
+  Thu Aug/2
+    21.00  Olimpia (HON)           v FAS (SLV)                3-0 (2-0)
+  Wed Aug/22
+    21.00  FAS (SLV)               v Houston Dynamo (USA)     1-3 (0-2)
+  Thu Aug/30
+    21.00  Olimpia (HON)           v Houston Dynamo (USA)     1-1 (1-0)
+  Thu Sep/20
+    19.00  Houston Dynamo (USA)    v FAS (SLV)                4-0 (2-0)
+  Thu Sep/27
+    21.00  FAS (SLV)               v Olimpia (HON)            2-1 (0-0)
+  Tue Oct/23
+    19.00  Houston Dynamo (USA)    v Olimpia (HON)            1-1 (0-1)
+
+
+» Gruppe 4
+  Thu Aug/2
+    21.00  Seattle Sounders (USA)  v Caledonia AIA Fire (TRI)  3-1 (3-0)
+  Wed Aug/22
+    19.00  Caledonia AIA Fire (TRI) v Marathón (HON)           0-0
+  Thu Aug/30
+    19.00  Caledonia AIA Fire (TRI) v Seattle Sounders (USA)   1-3 (0-1)
+  Wed Sep/19
+    21.00  Marathón (HON)          v Seattle Sounders (USA)   2-3 (1-1)
+  Wed Sep/26
+    21.00  Marathón (HON)          v Caledonia AIA Fire (TRI)  2-1 (0-0)
+  Wed Oct/24
+    21.00  Seattle Sounders (USA)  v Marathón (HON)           3-1 (2-1)
+
+
+» Gruppe 5
+  Wed Aug/1
+    21.00  Isidro Metapán (SLV)    v Puerto Rico Islanders (PUR)  3-1 (0-1)
+  Thu Aug/23
+    21.00  Los Angeles Galaxy (USA) v Isidro Metapán (SLV)     5-2 (3-1)
+  Wed Aug/29
+    21.00  Los Angeles Galaxy (USA) v Puerto Rico Islanders (PUR)  4-0 (1-0)
+  Wed Sep/19
+    19.00  Puerto Rico Islanders (PUR) v Los Angeles Galaxy (USA)  0-0
+  Thu Sep/27
+    19.00  Puerto Rico Islanders (PUR) v Isidro Metapán (SLV)     3-0 (1-0)
+  Thu Oct/25
+    21.00  Isidro Metapán (SLV)    v Los Angeles Galaxy (USA)  2-3 (0-1)
+
+
+» Gruppe 6
+  Wed Aug/1
+    21.00  UANL Tigres (MEX)       v Real Estelí FC (NCA)     4-0 (2-0)
+  Wed Aug/22
+    21.00  LD Alajuelense (CRC)    v UANL Tigres (MEX)        2-2 (1-1)
+  Tue Aug/28
+    21.00  Real Estelí FC (NCA)    v LD Alajuelense (CRC)     0-1 (0-1)
+  Tue Sep/18
+    21.00  Real Estelí FC (NCA)    v UANL Tigres (MEX)        1-1 (0-0)
+  Wed Sep/26
+    21.00  LD Alajuelense (CRC)    v Real Estelí FC (NCA)     1-0 (0-0)
+  Wed Oct/24
+    21.00  UANL Tigres (MEX)       v LD Alajuelense (CRC)     5-0 (3-0)
+
+
+» Gruppe 7
+  Tue Jul/31
+    19.00  CF Monterrey (MEX)      v Chorrillo FC (PAN)       5-0 (2-0)
+  Thu Aug/23
+    19.00  Chorrillo FC (PAN)      v CSD Municipal (GUA)      1-2 (0-0)
+  Wed Aug/29
+    21.00  CSD Municipal (GUA)     v CF Monterrey (MEX)       0-1 (0-0)
+  Thu Sep/20
+    21.00  CSD Municipal (GUA)     v Chorrillo FC (PAN)       2-1 (1-1)
+  Tue Sep/25
+    21.00  CF Monterrey (MEX)      v CSD Municipal (GUA)      3-0 (1-0)
+  Tue Oct/23
+    21.00  Chorrillo FC (PAN)      v CF Monterrey (MEX)       0-6 (0-3)
+
+
+» Gruppe 8
+  Thu Aug/2
+    19.00  W Connection FC (TRI)   v Xelaju MC (GUA)          2-2 (2-0)
+  Tue Aug/21
+    21.00  Xelaju MC (GUA)         v Deportivo Guadalajara (MEX)  1-0 (0-0)
+  Wed Aug/29
+    19.00  Deportivo Guadalajara (MEX) v W Connection FC (TRI)    4-0 (0-0)
+  Tue Sep/18
+    21.00  Xelaju MC (GUA)         v W Connection FC (TRI)    3-2 (2-1)
+  Wed Sep/26
+    19.00  W Connection FC (TRI)   v Deportivo Guadalajara (MEX)  1-1 (0-1)
+  Thu Oct/25
+    21.00  Deportivo Guadalajara (MEX) v Xelaju MC (GUA)          2-1 (1-0)
+
+
+» Quarterfinals
+  Tue Mar/5 2013
+    19.00  Houston Dynamo (USA)    v Santos Laguna (MEX)      1-0 (0-0)
+  Wed Mar/6
+    19.00  Xelaju MC (GUA)         v CF Monterrey (MEX)       1-3 (0-2)
+    21.00  UANL Tigres (MEX)       v Seattle Sounders (USA)   1-0 (0-0)
+  Thu Mar/7
+    19.00  CS Herediano (CRC)      v Los Angeles Galaxy (USA)  0-0
+  Tue Mar/12
+    18.00  CF Monterrey (MEX)      v Xelaju MC (GUA)          1-1 (0-1)
+    20.00  Seattle Sounders (USA)  v UANL Tigres (MEX)        3-1 (0-1)
+  Wed Mar/13
+    18.00  Santos Laguna (MEX)     v Houston Dynamo (USA)     3-0 (2-0)
+    20.00  Los Angeles Galaxy (USA) v CS Herediano (CRC)       4-1 (1-0)
+
+
+» Semifinals
+  Tue Apr/2
+    20.00  Seattle Sounders (USA)  v Santos Laguna (MEX)      0-1 (0-0)
+  Wed Apr/3
+    20.00  Los Angeles Galaxy (USA) v CF Monterrey (MEX)       1-2 (1-0)
+  Tue Apr/9
+    19.00  Santos Laguna (MEX)     v Seattle Sounders (USA)   1-1 (1-0)
+  Wed Apr/10
+    21.00  CF Monterrey (MEX)      v Los Angeles Galaxy (USA)  1-0 (0-0)
+
+
+» Final
+  Wed Apr/24
+    21.00  Santos Laguna (MEX)     v CF Monterrey (MEX)       0-0
+  Wed May/1
+    21.00  CF Monterrey (MEX)      v Santos Laguna (MEX)      4-2 (0-1)

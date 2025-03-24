@@ -1,0 +1,63 @@
+= CONCACAF Champions League 2018
+
+# Date       Tue Feb/20 - Wed Apr/25 2018 (64d)
+# Teams      16
+# Matches    30
+
+
+
+» Round of 16
+  Tue Feb/20 2018
+    19.00  CS Herediano (CRC)      v UANL Tigres (MEX)        2-2 (0-1)
+    21.00  Colorado Rapids (USA)   v Toronto FC (CAN)         0-2 (0-0)
+  Wed Feb/21
+    19.00  Tauro FC (PAN)          v FC Dallas (USA)          1-0 (0-0)
+           Deportivo Saprissa (CRC) v CF América (MEX)         1-5 (0-3)
+    21.00  Motagua (HON)           v Club Tijuana (MEX)       0-1 (0-0)
+  Thu Feb/22
+    19.00  Cibao FC (DOM)          v Deportivo Guadalajara (MEX)  0-2 (0-1)
+    21.00  Santa Tecla FC (SLV)    v Seattle Sounders (USA)   2-1 (0-1)
+           Olimpia (HON)           v New York RB (USA)        1-1 (0-1)
+  Tue Feb/27
+    19.00  UANL Tigres (MEX)       v CS Herediano (CRC)       3-1 (0-0)
+           Toronto FC (CAN)        v Colorado Rapids (USA)    0-0
+    21.00  Club Tijuana (MEX)      v Motagua (HON)            1-1 (1-0)
+  Wed Feb/28
+    19.00  Deportivo Guadalajara (MEX) v Cibao FC (DOM)           5-0 (1-0)
+           FC Dallas (USA)         v Tauro FC (PAN)           3-2 (1-2)
+    21.00  CF América (MEX)        v Deportivo Saprissa (CRC)  1-1 (1-0)
+  Thu Mar/1
+    19.00  New York RB (USA)       v Olimpia (HON)            2-0 (0-0)
+    21.00  Seattle Sounders (USA)  v Santa Tecla FC (SLV)     4-0 (0-0)
+
+
+» Quarterfinals
+  Tue Mar/6
+    19.00  CF América (MEX)        v Tauro FC (PAN)           4-0 (1-0)
+    21.00  Club Tijuana (MEX)      v New York RB (USA)        0-2 (0-1)
+  Wed Mar/7
+    19.00  Toronto FC (CAN)        v UANL Tigres (MEX)        2-1 (0-0)
+    21.00  Seattle Sounders (USA)  v Deportivo Guadalajara (MEX)  1-0 (0-0)
+  Tue Mar/13
+    18.00  New York RB (USA)       v Club Tijuana (MEX)       3-1 (1-1)
+    20.00  UANL Tigres (MEX)       v Toronto FC (CAN)         3-2 (0-0)
+  Wed Mar/14
+    18.00  Tauro FC (PAN)          v CF América (MEX)         1-3 (0-2)
+    20.00  Deportivo Guadalajara (MEX) v Seattle Sounders (USA)   3-0 (0-0)
+
+
+» Semifinals
+  Tue Apr/3
+    19.00  Toronto FC (CAN)        v CF América (MEX)         3-1 (2-1)
+  Wed Apr/4
+    21.00  Deportivo Guadalajara (MEX) v New York RB (USA)        1-0 (1-0)
+  Tue Apr/10
+    19.00  New York RB (USA)       v Deportivo Guadalajara (MEX)  0-0
+    21.00  CF América (MEX)        v Toronto FC (CAN)         1-1 (0-1)
+
+
+» Final
+  Tue Apr/17
+    19.15  Toronto FC (CAN)        v Deportivo Guadalajara (MEX)  1-2 (1-1)
+  Wed Apr/25
+    20.30  Deportivo Guadalajara (MEX) v Toronto FC (CAN)         4-2 pen. (1-2, 1-2)

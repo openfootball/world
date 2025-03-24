@@ -1,0 +1,161 @@
+= CONCACAF Champions League 2016/17
+
+# Date       Tue Aug/2 2016 - Wed Apr/26 2017 (267d)
+# Teams      24
+# Matches    62
+
+
+
+» Group A
+  Wed Aug/3 2016
+    19.00  W Connection FC (TRI)   v Pumas UNAM (MEX)         2-4 (1-1)
+  Thu Aug/18
+    21.00  Pumas UNAM (MEX)        v Honduras Progreso (HON)  2-0 (0-0)
+  Thu Aug/25
+    19.00  W Connection FC (TRI)   v Honduras Progreso (HON)  1-1 (1-0)
+  Thu Sep/15
+    21.00  Honduras Progreso (HON) v Pumas UNAM (MEX)         2-1 (0-1)
+  Thu Sep/29
+    21.00  Honduras Progreso (HON) v W Connection FC (TRI)    1-0 (1-0)
+  Thu Oct/20
+    21.00  Pumas UNAM (MEX)        v W Connection FC (TRI)    8-1 (3-0)
+
+
+» Group B
+  Wed Aug/3
+    21.00  Portland Timbers (USA)  v Dragón (SLV)             2-1 (1-0)
+  Thu Aug/18
+    21.00  Deportivo Saprissa (CRC) v Dragón (SLV)             6-0 (4-0)
+  Thu Aug/25
+    21.00  Dragón (SLV)            v Deportivo Saprissa (CRC)  0-0
+  Wed Sep/14
+    21.00  Deportivo Saprissa (CRC) v Portland Timbers (USA)   4-2 (2-1)
+  Tue Sep/27
+    21.00  Dragón (SLV)            v Portland Timbers (USA)   1-2 (0-0)
+  Wed Oct/19
+    21.00  Portland Timbers (USA)  v Deportivo Saprissa (CRC)  1-1 (0-1)
+
+
+» Group C
+  Tue Aug/2
+    19.00  Central FC (TRI)        v Vancouver Whitecaps (CAN)  0-1 (0-1)
+  Tue Aug/16
+    19.00  Central FC (TRI)        v Sporting Kansas City (USA)  2-2 (0-0)
+  Tue Aug/23
+    21.00  Vancouver Whitecaps (CAN) v Sporting Kansas City (USA)  3-0 (2-0)
+  Tue Sep/13
+    19.00  Sporting Kansas City (USA) v Vancouver Whitecaps (CAN)  1-2 (0-1)
+  Wed Sep/28
+    21.00  Vancouver Whitecaps (CAN) v Central FC (TRI)         4-1 (2-1)
+  Wed Oct/19
+    19.00  Sporting Kansas City (USA) v Central FC (TRI)         3-1 (0-1)
+
+
+» Group D
+  Wed Aug/3
+    21.00  Don Bosco FC (HAI)      v CF Monterrey (MEX)       0-3 (0-3)
+  Wed Aug/17
+    19.00  CF Monterrey (MEX)      v Árabe Unido (PAN)        2-3 (1-2)
+  Wed Aug/24
+    19.00  Don Bosco FC (HAI)      v Árabe Unido (PAN)        2-5 (1-3)
+  Wed Sep/14
+    19.00  Árabe Unido (PAN)       v CF Monterrey (MEX)       2-1 (1-0)
+  Wed Sep/28
+    21.00  CF Monterrey (MEX)      v Don Bosco FC (HAI)       3-0 (2-0)
+  Tue Oct/18
+    19.00  Árabe Unido (PAN)       v Don Bosco FC (HAI)       2-0 (1-0)
+
+
+» Group E
+  Tue Aug/2
+    21.00  CF Pachuca (MEX)        v Olimpia (HON)            1-0 (1-0)
+  Tue Aug/16
+    21.00  Olimpia (HON)           v Police United (BLZ)      4-0 (2-0)
+  Tue Aug/23
+    21.00  CF Pachuca (MEX)        v Police United (BLZ)      3-0 (0-0)
+  Tue Sep/13
+    19.00  Police United (BLZ)     v CF Pachuca (MEX)         0-11 (0-5)
+  Thu Sep/29
+    19.00  Police United (BLZ)     v Olimpia (HON)            1-5 (1-3)
+  Wed Oct/19
+    21.00  Olimpia (HON)           v CF Pachuca (MEX)         4-4 (2-2)
+
+
+» Group F
+  Wed Aug/3
+    19.00  New York RB (USA)       v Antigua GFC (GUA)        3-0 (1-0)
+  Tue Aug/16
+    21.00  Alianza (SLV)           v New York RB (USA)        1-1 (0-0)
+  Tue Aug/23
+    19.00  Alianza (SLV)           v Antigua GFC (GUA)        1-1 (0-0)
+  Thu Sep/15
+    19.00  New York RB (USA)       v Alianza (SLV)            1-0 (0-0)
+  Tue Sep/27
+    19.00  Antigua GFC (GUA)       v New York RB (USA)        0-0
+  Tue Oct/18
+    21.00  Antigua GFC (GUA)       v Alianza (SLV)            1-3 (0-1)
+
+
+» Gruppe G
+  Thu Aug/4
+    21.00  Plaza Amador (PAN)      v CS Herediano (CRC)       1-1 (1-0)
+  Wed Aug/17
+    21.00  CS Herediano (CRC)      v UANL Tigres (MEX)        1-3 (0-0)
+  Wed Aug/24
+    21.00  UANL Tigres (MEX)       v Plaza Amador (PAN)       3-1 (1-1)
+  Thu Sep/15
+    21.00  CS Herediano (CRC)      v Plaza Amador (PAN)       2-0 (1-0)
+  Wed Sep/28
+    19.00  Plaza Amador (PAN)      v UANL Tigres (MEX)        1-0 (1-0)
+  Tue Oct/18
+    21.00  UANL Tigres (MEX)       v CS Herediano (CRC)       3-0 (2-0)
+
+
+» Gruppe H
+  Thu Aug/4
+    19.00  FC Dallas (USA)         v Real Estelí FC (NCA)     2-1 (1-0)
+  Thu Aug/18
+    19.00  Deportivo Suchitepéquez (GUA) v Real Estelí FC (NCA)     1-0 (0-0)
+  Wed Aug/24
+    21.00  Real Estelí FC (NCA)    v FC Dallas (USA)          1-1 (1-1)
+  Tue Sep/13
+    21.00  Real Estelí FC (NCA)    v Deportivo Suchitepéquez (GUA)  1-1 (0-0)
+  Wed Sep/28
+    19.00  FC Dallas (USA)         v Deportivo Suchitepéquez (GUA)  0-0
+  Thu Oct/20
+    19.00  Deportivo Suchitepéquez (GUA) v FC Dallas (USA)          2-5 (2-2)
+
+
+» Quarterfinals
+  Tue Feb/21 2017
+    20.00  Deportivo Saprissa (CRC) v CF Pachuca (MEX)         0-0
+  Wed Feb/22
+    19.00  New York RB (USA)       v Vancouver Whitecaps (CAN)  1-1 (0-1)
+    21.00  UANL Tigres (MEX)       v Pumas UNAM (MEX)         1-1 (1-0)
+  Thu Feb/23
+    19.00  FC Dallas (USA)         v Árabe Unido (PAN)        4-0 (1-0)
+  Tue Feb/28
+    21.00  CF Pachuca (MEX)        v Deportivo Saprissa (CRC)  4-0 (2-0)
+  Wed Mar/1
+    19.00  Árabe Unido (PAN)       v FC Dallas (USA)          2-1 (0-1)
+    21.00  Pumas UNAM (MEX)        v UANL Tigres (MEX)        0-3 (0-1)
+  Thu Mar/2
+    21.00  Vancouver Whitecaps (CAN) v New York RB (USA)        2-0 (1-0)
+
+
+» Semifinals
+  Tue Mar/14
+    20.00  UANL Tigres (MEX)       v Vancouver Whitecaps (CAN)  2-0 (0-0)
+  Wed Mar/15
+    18.00  FC Dallas (USA)         v CF Pachuca (MEX)         2-1 (1-1)
+  Tue Apr/4
+    21.00  CF Pachuca (MEX)        v FC Dallas (USA)          3-1 (1-0)
+  Wed Apr/5
+    21.00  Vancouver Whitecaps (CAN) v UANL Tigres (MEX)        1-2 (1-0)
+
+
+» Final
+  Tue Apr/18
+    21.00  UANL Tigres (MEX)       v CF Pachuca (MEX)         1-1 (1-1)
+  Wed Apr/26
+    21.00  CF Pachuca (MEX)        v UANL Tigres (MEX)        1-0 (0-0)

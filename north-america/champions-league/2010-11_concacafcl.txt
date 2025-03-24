@@ -1,0 +1,140 @@
+= CONCACAF Champions League 2010/11
+
+# Date       Tue Aug/17 2010 - Wed Apr/27 2011 (253d)
+# Teams      16
+# Matches    62
+
+
+
+» Group A
+  Tue Aug/17 2010
+    19.00  Toronto FC (CAN)        v Cruz Azul (MEX)          2-1 (2-0)
+  Wed Aug/18
+    21.00  Real Salt Lake (USA)    v Árabe Unido (PAN)        2-1 (1-1)
+  Tue Aug/24
+    19.00  Árabe Unido (PAN)       v Toronto FC (CAN)         1-0 (1-0)
+  Wed Aug/25
+    19.00  Cruz Azul (MEX)         v Real Salt Lake (USA)     5-4 (1-2)
+  Wed Sep/15
+    21.00  Árabe Unido (PAN)       v Cruz Azul (MEX)          0-6 (0-3)
+           Real Salt Lake (USA)    v Toronto FC (CAN)         4-1 (2-1)
+  Tue Sep/21
+    21.00  Cruz Azul (MEX)         v Toronto FC (CAN)         0-0
+  Wed Sep/22
+    19.00  Árabe Unido (PAN)       v Real Salt Lake (USA)     2-3 (1-3)
+  Tue Sep/28
+    19.00  Cruz Azul (MEX)         v Árabe Unido (PAN)        2-0 (1-0)
+           Toronto FC (CAN)        v Real Salt Lake (USA)     1-1 (1-0)
+  Tue Oct/19
+    19.00  Toronto FC (CAN)        v Árabe Unido (PAN)        1-0 (1-0)
+    21.00  Real Salt Lake (USA)    v Cruz Azul (MEX)          3-1 (1-0)
+
+
+» Group B
+  Wed Aug/18
+    19.00  Columbus Crew (USA)     v CSD Municipal (GUA)      1-0 (1-0)
+           Joe Public FC (TRI)     v Santos Laguna (MEX)      2-5 (2-2)
+  Tue Aug/24
+    21.00  Santos Laguna (MEX)     v Columbus Crew (USA)      1-0 (0-0)
+  Thu Aug/26
+    21.00  CSD Municipal (GUA)     v Joe Public FC (TRI)      1-1 (0-0)
+  Tue Sep/14
+    19.00  Columbus Crew (USA)     v Joe Public FC (TRI)      3-0 (0-0)
+    21.00  CSD Municipal (GUA)     v Santos Laguna (MEX)      2-2 (1-2)
+  Tue Sep/21
+    19.00  Columbus Crew (USA)     v Santos Laguna (MEX)      1-0 (0-0)
+  Thu Sep/23
+    19.00  Joe Public FC (TRI)     v CSD Municipal (GUA)      2-3 (1-1)
+  Wed Sep/29
+    21.00  CSD Municipal (GUA)     v Columbus Crew (USA)      2-1 (2-1)
+           Santos Laguna (MEX)     v Joe Public FC (TRI)      5-1 (2-1)
+  Tue Oct/19
+    19.00  Santos Laguna (MEX)     v CSD Municipal (GUA)      6-1 (3-1)
+  Thu Oct/21
+    19.00  Joe Public FC (TRI)     v Columbus Crew (USA)      1-4 (1-1)
+
+
+» Group C
+  Tue Aug/17
+    21.05  CF Monterrey (MEX)      v Deportivo Saprissa (CRC)  1-0 (1-0)
+  Thu Aug/19
+    21.00  Marathón (HON)          v Seattle Sounders (USA)   2-1 (2-1)
+  Wed Aug/25
+    21.00  Seattle Sounders (USA)  v CF Monterrey (MEX)       0-2 (0-1)
+  Thu Aug/26
+    21.00  Deportivo Saprissa (CRC) v Marathón (HON)           4-1 (1-1)
+  Tue Sep/14
+    19.00  CF Monterrey (MEX)      v Marathón (HON)           2-0 (1-0)
+    21.00  Deportivo Saprissa (CRC) v Seattle Sounders (USA)   2-0 (0-0)
+  Wed Sep/22
+    19.00  CF Monterrey (MEX)      v Seattle Sounders (USA)   3-2 (0-2)
+    21.00  Marathón (HON)          v Deportivo Saprissa (CRC)  2-1 (0-0)
+  Tue Sep/28
+    21.00  Deportivo Saprissa (CRC) v CF Monterrey (MEX)       2-2 (1-2)
+  Wed Sep/29
+    21.00  Seattle Sounders (USA)  v Marathón (HON)           2-0 (1-0)
+  Tue Oct/19
+    21.00  Seattle Sounders (USA)  v Deportivo Saprissa (CRC)  1-2 (1-1)
+  Wed Oct/20
+    21.00  Marathón (HON)          v CF Monterrey (MEX)       0-1 (0-0)
+
+
+» Group D
+  Tue Aug/17
+    19.00  Puerto Rico Islanders (PUR) v Olimpia (HON)            1-1 (1-0)
+  Wed Aug/18
+    21.00  FAS (SLV)               v Deportivo Toluca (MEX)   0-0
+  Wed Aug/25
+    19.00  Puerto Rico Islanders (PUR) v FAS (SLV)                4-1 (3-1)
+  Thu Aug/26
+    19.00  Deportivo Toluca (MEX)  v Olimpia (HON)            4-0 (2-0)
+  Wed Sep/15
+    19.00  Deportivo Toluca (MEX)  v Puerto Rico Islanders (PUR)  3-0 (1-0)
+  Thu Sep/16
+    19.00  Olimpia (HON)           v FAS (SLV)                2-0 (1-0)
+  Wed Sep/22
+    21.00  FAS (SLV)               v Puerto Rico Islanders (PUR)  0-0
+  Thu Sep/23
+    21.00  Olimpia (HON)           v Deportivo Toluca (MEX)   2-1 (2-1)
+  Wed Sep/29
+    19.00  Puerto Rico Islanders (PUR) v Deportivo Toluca (MEX)   3-2 (0-2)
+  Thu Sep/30
+    21.00  FAS (SLV)               v Olimpia (HON)            1-4 (0-2)
+  Wed Oct/20
+    19.00  Deportivo Toluca (MEX)  v FAS (SLV)                5-0 (1-0)
+    21.00  Olimpia (HON)           v Puerto Rico Islanders (PUR)  3-0 (0-0)
+
+
+» Quarterfinals
+  Tue Feb/22 2011
+    19.00  Columbus Crew (USA)     v Real Salt Lake (USA)     0-0
+    21.00  Cruz Azul (MEX)         v Santos Laguna (MEX)      2-0 (0-0)
+  Wed Feb/23
+    19.00  Deportivo Toluca (MEX)  v CF Monterrey (MEX)       0-1 (0-0)
+  Thu Feb/24
+    19.00  Deportivo Saprissa (CRC) v Olimpia (HON)            1-0 (1-0)
+  Tue Mar/1
+    19.00  Santos Laguna (MEX)     v Cruz Azul (MEX)          1-3 (0-1)
+    21.00  Real Salt Lake (USA)    v Columbus Crew (USA)      4-1 (2-0)
+  Wed Mar/2
+    19.00  CF Monterrey (MEX)      v Deportivo Toluca (MEX)   1-0 (0-0)
+  Thu Mar/3
+    19.00  Olimpia (HON)           v Deportivo Saprissa (CRC)  1-2 (0-1)
+
+
+» Semifinals
+  Tue Mar/15
+    20.00  Real Salt Lake (USA)    v Deportivo Saprissa (CRC)  2-0 (1-0)
+  Wed Mar/16
+    20.00  CF Monterrey (MEX)      v Cruz Azul (MEX)          2-1 (1-0)
+  Tue Apr/5
+    21.00  Deportivo Saprissa (CRC) v Real Salt Lake (USA)     2-1 (0-0)
+  Wed Apr/6
+    19.00  Cruz Azul (MEX)         v CF Monterrey (MEX)       1-1 (1-0)
+
+
+» Final
+  Wed Apr/20
+    21.00  CF Monterrey (MEX)      v Real Salt Lake (USA)     2-2 (1-1)
+  Wed Apr/27
+    21.00  Real Salt Lake (USA)    v CF Monterrey (MEX)       0-1 (0-1)

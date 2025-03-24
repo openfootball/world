@@ -1,0 +1,161 @@
+= CONCACAF Champions League 2014/15
+
+# Date       Tue Aug/5 2014 - Wed Apr/29 2015 (267d)
+# Teams      24
+# Matches    62
+
+
+
+» Gruppe 1
+  Wed Aug/6 2014
+    19.00  CF Pachuca (MEX)        v Real España (HON)        4-1 (2-0)
+  Thu Aug/21
+    21.00  Real España (HON)       v CSD Municipal (GUA)      1-1 (1-0)
+  Wed Aug/27
+    21.00  CSD Municipal (GUA)     v CF Pachuca (MEX)         3-7 (1-4)
+  Wed Sep/17
+    21.00  CSD Municipal (GUA)     v Real España (HON)        3-0 (1-0)
+  Wed Sep/24
+    19.00  CF Pachuca (MEX)        v CSD Municipal (GUA)      4-1 (2-0)
+  Wed Oct/22
+    21.00  Real España (HON)       v CF Pachuca (MEX)         3-2 (2-2)
+
+
+» Gruppe 2
+  Wed Aug/6
+    21.00  Real Estelí FC (NCA)    v Deportivo Saprissa (CRC)  1-1 (1-0)
+  Tue Aug/19
+    21.00  Real Estelí FC (NCA)    v Sporting Kansas City (USA)  1-1 (1-1)
+  Tue Aug/26
+    21.00  Deportivo Saprissa (CRC) v Real Estelí FC (NCA)     3-0 (1-0)
+  Thu Sep/18
+    19.00  Sporting Kansas City (USA) v Deportivo Saprissa (CRC)  3-1 (1-1)
+  Tue Sep/23
+    19.00  Sporting Kansas City (USA) v Real Estelí FC (NCA)     3-0 (1-0)
+  Thu Oct/23
+    21.00  Deportivo Saprissa (CRC) v Sporting Kansas City (USA)  2-0 (1-0)
+
+
+» Gruppe 3
+  Tue Aug/5
+    19.00  Impact de Montréal (CAN) v FAS (SLV)                1-0 (1-0)
+  Wed Aug/20
+    21.00  FAS (SLV)               v Impact de Montréal (CAN)  2-3 (1-2)
+  Tue Aug/26
+    19.00  New York RB (USA)       v FAS (SLV)                2-0 (1-0)
+  Wed Sep/17
+    19.00  Impact de Montréal (CAN) v New York RB (USA)        1-0 (1-0)
+  Wed Sep/24
+    21.00  FAS (SLV)               v New York RB (USA)        0-0
+  Wed Oct/22
+    19.00  New York RB (USA)       v Impact de Montréal (CAN)  1-1 (0-0)
+
+
+» Gruppe 4
+  Thu Aug/7
+    21.00  Tauro FC (PAN)          v Waterhouse FC (JAM)      1-2 (0-2)
+  Wed Aug/20
+    19.00  D.C. United (USA)       v Waterhouse FC (JAM)      1-0 (1-0)
+  Thu Aug/28
+    19.00  Waterhouse FC (JAM)     v Tauro FC (PAN)           4-1 (2-0)
+  Tue Sep/16
+    19.00  Waterhouse FC (JAM)     v D.C. United (USA)        1-2 (0-1)
+  Wed Sep/24
+    19.00  D.C. United (USA)       v Tauro FC (PAN)           2-0 (0-0)
+  Tue Oct/21
+    19.00  Tauro FC (PAN)          v D.C. United (USA)        0-1 (0-1)
+
+
+» Gruppe 5
+  Tue Aug/5
+    19.00  Alpha United (GUY)      v Olimpia (HON)            0-1 (0-1)
+  Tue Aug/19
+    19.00  Alpha United (GUY)      v Portland Timbers (USA)   1-4 (1-2)
+  Thu Aug/28
+    21.00  Olimpia (HON)           v Alpha United (GUY)       6-0 (3-0)
+  Tue Sep/16
+    21.00  Portland Timbers (USA)  v Olimpia (HON)            4-2 (2-2)
+  Tue Sep/23
+    21.00  Portland Timbers (USA)  v Alpha United (GUY)       6-0 (2-0)
+  Tue Oct/21
+    21.00  Olimpia (HON)           v Portland Timbers (USA)   3-1 (2-0)
+
+
+» Gruppe 6
+  Tue Aug/5
+    19.00  Cruz Azul (MEX)         v LD Alajuelense (CRC)     1-1 (0-0)
+  Tue Aug/19
+    21.00  Chorrillo FC (PAN)      v Cruz Azul (MEX)          1-0 (0-0)
+  Thu Aug/28
+    21.00  LD Alajuelense (CRC)    v Chorrillo FC (PAN)       1-0 (1-0)
+  Tue Sep/16
+    19.00  Cruz Azul (MEX)         v Chorrillo FC (PAN)       3-0 (2-0)
+  Thu Sep/25
+    21.00  Chorrillo FC (PAN)      v LD Alajuelense (CRC)     1-1 (1-1)
+  Tue Oct/21
+    21.00  LD Alajuelense (CRC)    v Cruz Azul (MEX)          1-1 (1-1)
+
+
+» Gruppe 7
+  Tue Aug/5
+    21.00  Isidro Metapán (SLV)    v Club León (MEX)          2-4 (1-2)
+  Thu Aug/21
+    21.00  CS Herediano (CRC)      v Isidro Metapán (SLV)     4-0 (3-0)
+  Wed Aug/27
+    19.00  Club León (MEX)         v CS Herediano (CRC)       1-1 (0-0)
+  Thu Sep/18
+    21.00  Isidro Metapán (SLV)    v CS Herediano (CRC)       2-4 (1-1)
+  Wed Sep/24
+    21.00  CS Herediano (CRC)      v Club León (MEX)          2-1 (1-0)
+  Thu Oct/23
+    19.00  Club León (MEX)         v Isidro Metapán (SLV)     4-1 (0-0)
+
+
+» Gruppe 8
+  Thu Aug/7
+    21.00  Comunicaciones (GUA)    v Bayamón FC (PUR)         5-0 (3-0)
+  Tue Aug/19
+    19.00  CF América (MEX)        v Bayamón FC (PUR)         6-1 (5-0)
+  Tue Aug/26
+    21.00  Comunicaciones (GUA)    v CF América (MEX)         1-1 (1-1)
+  Wed Sep/17
+    19.00  Bayamón FC (PUR)        v CF América (MEX)         1-10 (0-6)
+  Thu Sep/25
+    19.00  Bayamón FC (PUR)        v Comunicaciones (GUA)     0-2 (0-1)
+  Tue Oct/21
+    19.00  CF América (MEX)        v Comunicaciones (GUA)     2-0 (1-0)
+
+
+» Quarterfinals
+  Tue Feb/24 2015
+    19.00  Olimpia (HON)           v CS Herediano (CRC)       1-1 (1-0)
+    21.00  CF Pachuca (MEX)        v Impact de Montréal (CAN)  2-2 (0-1)
+  Wed Feb/25
+    20.00  Deportivo Saprissa (CRC) v CF América (MEX)         0-3 (0-0)
+  Thu Feb/26
+    19.00  LD Alajuelense (CRC)    v D.C. United (USA)        5-2 (3-1)
+  Tue Mar/3
+    19.00  Impact de Montréal (CAN) v CF Pachuca (MEX)         1-1 (0-0)
+  Wed Mar/4
+    19.00  D.C. United (USA)       v LD Alajuelense (CRC)     2-1 (1-0)
+    21.00  CF América (MEX)        v Deportivo Saprissa (CRC)  2-0 (1-0)
+  Thu Mar/5
+    19.00  CS Herediano (CRC)      v Olimpia (HON)            2-0 (0-0)
+
+
+» Semifinals
+  Tue Mar/17
+    20.00  CS Herediano (CRC)      v CF América (MEX)         3-0 (0-0)
+  Wed Mar/18
+    18.00  Impact de Montréal (CAN) v LD Alajuelense (CRC)     2-0 (2-0)
+  Tue Apr/7
+    21.00  LD Alajuelense (CRC)    v Impact de Montréal (CAN)  4-2 (0-1)
+  Wed Apr/8
+    21.00  CF América (MEX)        v CS Herediano (CRC)       6-0 (5-0)
+
+
+» Final
+  Wed Apr/22
+    20.00  CF América (MEX)        v Impact de Montréal (CAN)  1-1 (0-1)
+  Wed Apr/29
+    19.00  Impact de Montréal (CAN) v CF América (MEX)         2-4 (1-0)

@@ -1,0 +1,58 @@
+= CONCACAF Champions League 2020
+
+# Date       Tue Feb/18 - Tue Dec/22 2020 (308d)
+# Teams      16
+# Matches    27
+
+
+
+» Round of 16
+  Tue Feb/18 2020
+    19.00  Portmore United (JAM)   v Cruz Azul (MEX)          1-2 (0-0)
+    21.00  Motagua (HON)           v Atlanta United FC (USA)  1-1 (1-1)
+           Club León (MEX)         v Los Angeles FC (USA)     2-0 (1-0)
+  Wed Feb/19
+    19.00  Alianza (SLV)           v UANL Tigres (MEX)        2-1 (0-1)
+           Deportivo Saprissa (CRC) v Impact de Montréal (CAN)  2-2 (0-2)
+    21.00  Comunicaciones (GUA)    v CF América (MEX)         1-1 (0-0)
+  Thu Feb/20
+    19.00  AD San Carlos (CRC)     v New York City FC (USA)   3-5 (1-2)
+    21.00  Olimpia (HON)           v Seattle Sounders (USA)   2-2 (0-1)
+  Tue Feb/25
+    19.00  Atlanta United FC (USA) v Motagua (HON)            3-0 (1-0)
+    21.15  Cruz Azul (MEX)         v Portmore United (JAM)    4-0 (1-0)
+  Wed Feb/26
+    17.00  New York City FC (USA)  v AD San Carlos (CRC)      1-0 (1-0)
+    19.00  UANL Tigres (MEX)       v Alianza (SLV)            4-2 (3-2)
+           Impact de Montréal (CAN) v Deportivo Saprissa (CRC)  0-0
+    21.15  CF América (MEX)        v Comunicaciones (GUA)     5-3 pen. (1-1, 0-0)
+  Thu Feb/27
+    21.00  Los Angeles FC (USA)    v Club León (MEX)          3-0 (1-0)
+           Seattle Sounders (USA)  v Olimpia (HON)            2-4 pen. (2-2, 1-1)
+
+
+» Quarterfinals
+  Tue Mar/10
+    18.00  Impact de Montréal (CAN) v Olimpia (HON)            1-2 (0-2)
+  Wed Mar/11
+    18.00  New York City FC (USA)  v UANL Tigres (MEX)        0-1 (0-0)
+    20.30  CF América (MEX)        v Atlanta United FC (USA)  3-0 (3-0)
+  Wed Dec/16
+    21.30  Los Angeles FC (USA)    v Cruz Azul (MEX)          2-1 (1-1)
+           Cruz Azul (MEX)         v Los Angeles FC (USA)     [cancelled]
+  Tue Dec/15
+    19.00  Olimpia (HON)           v Impact de Montréal (CAN)  0-1 (0-0)
+    21.30  UANL Tigres (MEX)       v New York City FC (USA)   4-0 (1-0)
+  Wed Dec/16
+    19.00  Atlanta United FC (USA) v CF América (MEX)         1-0 (0-0)
+
+
+» Semifinals
+  Sat Dec/19
+    19.00  UANL Tigres (MEX)       v Olimpia (HON)            3-0 (1-0)
+    21.30  Los Angeles FC (USA)    v CF América (MEX)         3-1 (0-1)
+
+
+» Final
+  Tue Dec/22
+    21.00  Los Angeles FC (USA)    v UANL Tigres (MEX)        1-2 (0-0)
