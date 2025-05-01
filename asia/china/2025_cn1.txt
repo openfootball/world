@@ -36,94 +36,95 @@
 
 » Matchday 3
   Fri Mar/28
-    19.00  Qingdao West Coast      v Shanghai Port FC
-    19.35  Wuhan Three Towns       v Zhejiang Professional
-    20.00  Shenzhen Peng City      v Yunnan Yukun
+    19.00  Qingdao West Coast      v Shanghai Port FC         3-3 (3-1)
+    19.35  Wuhan Three Towns       v Zhejiang Professional    0-4 (0-4)
+    20.00  Shenzhen Peng City      v Yunnan Yukun             3-4 (1-2)
   Sat Mar/29
-    15.30  Dalian Yingbo           v Changchun Yatai
-           Tianjin Jinmen Tiger    v Qingdao Hainiu
-    18.00  Henan FC                v Shanghai Shenhua
-    19.00  Meizhou Hakka           v Shandong Taishan
-    19.35  Beijing Guoan           v Chengdu Rongcheng
+    15.30  Dalian Yingbo           v Changchun Yatai          2-0 (1-0)
+           Tianjin Jinmen Tiger    v Qingdao Hainiu           1-0 (1-0)
+    18.00  Henan FC                v Shanghai Shenhua         1-3 (1-0)
+    19.00  Meizhou Hakka           v Shandong Taishan         3-4 (3-1)
+    19.35  Beijing Guoan           v Chengdu Rongcheng        1-1 (1-0)
 
 
 » Matchday 4
   Tue Apr/1
-    19.00  Henan FC                v Qingdao West Coast
-    19.35  Zhejiang Professional   v Shenzhen Peng City
+    19.00  Henan FC                v Qingdao West Coast       2-3 (1-0)
+    19.35  Zhejiang Professional   v Shenzhen Peng City       3-0 (1-0)
   Wed Apr/2
-    15.30  Changchun Yatai         v Wuhan Three Towns
-    18.00  Shanghai Shenhua        v Yunnan Yukun
-    19.00  Qingdao Hainiu          v Dalian Yingbo
-    19.35  Shandong Taishan        v Chengdu Rongcheng
-           Tianjin Jinmen Tiger    v Beijing Guoan
-    20.00  Shanghai Port FC        v Meizhou Hakka
+    15.30  Changchun Yatai         v Wuhan Three Towns        1-1 (1-1)
+    18.00  Shanghai Shenhua        v Yunnan Yukun             3-1 (0-1)
+    19.00  Qingdao Hainiu          v Dalian Yingbo            1-1 (0-1)
+    19.35  Shandong Taishan        v Chengdu Rongcheng        0-3 (0-2)
+           Tianjin Jinmen Tiger    v Beijing Guoan            2-2 (0-1)
+    20.00  Shanghai Port FC        v Meizhou Hakka            2-1 (2-0)
 
 
 » Matchday 5
   Sat Apr/5
-    19.35  Shenzhen Peng City      v Henan FC
+    19.35  Shenzhen Peng City      v Henan FC                 1-3 (0-1)
   Sun Apr/6
-    15.30  Changchun Yatai         v Shandong Taishan
-    18.30  Qingdao West Coast      v Tianjin Jinmen Tiger
-    19.00  Meizhou Hakka           v Wuhan Three Towns
-           Chengdu Rongcheng       v Dalian Yingbo
-    19.35  Shanghai Port FC        v Shanghai Shenhua
-           Beijing Guoan           v Zhejiang Professional
-    20.00  Yunnan Yukun            v Qingdao Hainiu
+    15.30  Changchun Yatai         v Shandong Taishan         1-2 (0-1)
+    18.30  Qingdao West Coast      v Tianjin Jinmen Tiger     2-2 (1-2)
+    19.00  Meizhou Hakka           v Wuhan Three Towns        3-1 (0-1)
+           Chengdu Rongcheng       v Dalian Yingbo            2-0 (1-0)
+    19.35  Shanghai Port FC        v Shanghai Shenhua         1-1 (1-0)
+           Beijing Guoan           v Zhejiang Professional    2-0 (1-0)
+    20.00  Yunnan Yukun            v Qingdao Hainiu           1-0 (0-0)
 
 
 » Matchday 6
   Fri Apr/11
-    19.35  Shandong Taishan        v Shenzhen Peng City
-           Meizhou Hakka           v Changchun Yatai
-    20.00  Beijing Guoan           v Qingdao West Coast
+           Beijing Guoan           v Qingdao West Coast       [postponed]
+    19.35  Shandong Taishan        v Shenzhen Peng City       4-0 (4-0)
+           Meizhou Hakka           v Changchun Yatai          1-3 (0-2)
   Sat Apr/12
-    15.30  Dalian Yingbo           v Tianjin Jinmen Tiger
-    18.00  Henan FC                v Shanghai Port FC
-    19.00  Qingdao Hainiu          v Chengdu Rongcheng
-    19.35  Wuhan Three Towns       v Yunnan Yukun
-    20.00  Shanghai Shenhua        v Zhejiang Professional
+    15.30  Dalian Yingbo           v Tianjin Jinmen Tiger     1-1 (0-1)
+    19.00  Qingdao Hainiu          v Chengdu Rongcheng        0-1 (0-1)
+    19.35  Wuhan Three Towns       v Yunnan Yukun             3-1 (3-0)
+    20.00  Shanghai Shenhua        v Zhejiang Professional    3-2 (1-0)
+  Thu May/15
+    15.00  Henan FC                v Shanghai Port FC
 
 
 » Matchday 7
   Tue Apr/15
-    18.30  Qingdao West Coast      v Shandong Taishan
-    19.35  Wuhan Three Towns       v Beijing Guoan
-    20.00  Shenzhen Peng City      v Changchun Yatai
+    18.30  Qingdao West Coast      v Shandong Taishan         1-5 (0-1)
+    19.35  Wuhan Three Towns       v Beijing Guoan            4-4 (1-3)
+    20.00  Shenzhen Peng City      v Changchun Yatai          3-1 (1-1)
   Wed Apr/16
-    18.00  Tianjin Jinmen Tiger    v Shanghai Port FC
-    19.00  Dalian Yingbo           v Henan FC
-           Zhejiang Professional   v Meizhou Hakka
-    19.35  Chengdu Rongcheng       v Yunnan Yukun
-    20.00  Shanghai Shenhua        v Qingdao Hainiu
+    18.00  Tianjin Jinmen Tiger    v Shanghai Port FC         1-4 (0-3)
+    19.00  Dalian Yingbo           v Henan FC                 1-0 (0-0)
+           Zhejiang Professional   v Meizhou Hakka            2-2 (2-0)
+    19.35  Chengdu Rongcheng       v Yunnan Yukun             1-1 (1-0)
+    20.00  Shanghai Shenhua        v Qingdao Hainiu           3-2 (2-2)
 
 
 » Matchday 8
   Sat Apr/19
-    19.00  Shanghai Shenhua        v Wuhan Three Towns
-    19.35  Beijing Guoan           v Shandong Taishan
+    19.00  Shanghai Shenhua        v Wuhan Three Towns        2-0 (1-0)
+    19.35  Beijing Guoan           v Shandong Taishan         6-1 (2-1)
   Sun Apr/20
-    15.30  Changchun Yatai         v Yunnan Yukun
-    18.30  Henan FC                v Qingdao Hainiu
-           Qingdao West Coast      v Dalian Yingbo
-    19.00  Meizhou Hakka           v Shenzhen Peng City
-    19.35  Tianjin Jinmen Tiger    v Zhejiang Professional
-           Shanghai Port FC        v Chengdu Rongcheng
+    15.30  Changchun Yatai         v Yunnan Yukun             0-0
+    18.30  Henan FC                v Qingdao Hainiu           3-1 (0-1)
+           Qingdao West Coast      v Dalian Yingbo            2-0 (0-0)
+    19.00  Meizhou Hakka           v Shenzhen Peng City       3-0 (0-0)
+    19.35  Tianjin Jinmen Tiger    v Zhejiang Professional    2-0 (0-0)
+           Shanghai Port FC        v Chengdu Rongcheng        1-3 (1-2)
 
 
 » Matchday 9
   Fri Apr/25
-    19.35  Beijing Guoan           v Henan FC
-    20.00  Yunnan Yukun            v Shanghai Port FC
+    19.35  Beijing Guoan           v Henan FC                 1-0 (1-0)
+    20.00  Yunnan Yukun            v Shanghai Port FC         2-3 (0-1)
   Sat Apr/26
-    15.30  Changchun Yatai         v Chengdu Rongcheng
-    19.00  Shenzhen Peng City      v Dalian Yingbo
-    19.35  Shandong Taishan        v Shanghai Shenhua
+    15.30  Changchun Yatai         v Chengdu Rongcheng        1-2 (0-1)
+    19.00  Shenzhen Peng City      v Dalian Yingbo            1-1 (0-1)
+    19.35  Shandong Taishan        v Shanghai Shenhua         0-1 (0-0)
   Sun Apr/27
-    15.30  Zhejiang Professional   v Qingdao West Coast
-    19.00  Wuhan Three Towns       v Tianjin Jinmen Tiger
-    19.35  Qingdao Hainiu          v Meizhou Hakka
+    19.00  Wuhan Three Towns       v Tianjin Jinmen Tiger     2-1 (0-1)
+    19.35  Qingdao Hainiu          v Meizhou Hakka            1-1 (0-1)
+    20.00  Zhejiang Professional   v Qingdao West Coast       2-1 (0-0)
 
 
 » Matchday 10

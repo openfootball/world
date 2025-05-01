@@ -199,7 +199,7 @@
   Sun Jan/26
     17.00  Western Sydney Wanderers v Auckland FC              0-1 (0-0)
   Tue Apr/22
-    19.00  Brisbane Roar           v Adelaide United
+    19.00  Brisbane Roar           v Adelaide United          1-1 (0-1)
 
 
 » Matchday 17
@@ -287,63 +287,63 @@
 
 » Matchday 24
   Fri Mar/28
-    19.35  Macarthur FC            v Newcastle United Jets
+    19.35  Macarthur FC            v Newcastle United Jets    3-3 (0-2)
   Sat Mar/29
-    15.00  Wellington Phoenix      v Western Sydney Wanderers
-    17.00  Sydney FC               v Melbourne City FC
-    19.35  Melbourne Victory       v Adelaide United
+    15.00  Wellington Phoenix      v Western Sydney Wanderers  2-2 (1-1)
+    17.00  Sydney FC               v Melbourne City FC        2-3 (2-2)
+    19.35  Melbourne Victory       v Adelaide United          5-3 (2-1)
   Sun Mar/30
-    15.00  Central Coast Mariners  v Perth Glory
-    17.00  Brisbane Roar           v Auckland FC
+    15.00  Central Coast Mariners  v Perth Glory              3-1 (2-1)
+    17.00  Brisbane Roar           v Auckland FC              0-2 (0-1)
 
 
 » Matchday 25
   Fri Apr/4
-    19.35  Brisbane Roar           v Macarthur FC
+    19.35  Brisbane Roar           v Macarthur FC             1-5 (1-1)
   Sat Apr/5
-    15.00  Auckland FC             v Western Sydney Wanderers
-    17.00  Melbourne City FC       v Central Coast Mariners
-    18.00  Western United          v Perth Glory
-    19.35  Adelaide United         v Sydney FC
+    15.00  Auckland FC             v Western Sydney Wanderers  1-1 (1-0)
+    17.00  Melbourne City FC       v Central Coast Mariners   1-0 (1-0)
+    18.00  Western United          v Perth Glory              3-1 (1-0)
+    19.35  Adelaide United         v Sydney FC                2-3 (0-1)
   Sun Apr/6
-    17.00  Newcastle United Jets   v Wellington Phoenix
+    17.00  Newcastle United Jets   v Wellington Phoenix       1-2 (0-2)
 
 
 » Matchday 26
   Fri Apr/11
-    19.35  Melbourne City FC       v Brisbane Roar
+    19.35  Melbourne City FC       v Brisbane Roar            3-2 (0-1)
   Sat Apr/12
-    15.00  Wellington Phoenix      v Melbourne Victory
-    17.00  Sydney FC               v Auckland FC
-    19.35  Newcastle United Jets   v Central Coast Mariners
-    21.45  Perth Glory             v Adelaide United
+    15.00  Wellington Phoenix      v Melbourne Victory        2-3 (1-2)
+    17.00  Sydney FC               v Auckland FC              2-2 (2-1)
+    19.35  Newcastle United Jets   v Central Coast Mariners   6-0 (2-0)
+    21.45  Perth Glory             v Adelaide United          4-1 (2-1)
   Sun Apr/13
-    17.00  Western Sydney Wanderers v Western United
+    17.00  Western Sydney Wanderers v Western United           2-0 (1-0)
 
 
 » Matchday 27
   Thu Apr/17
-    19.35  Brisbane Roar           v Western United
+    19.35  Brisbane Roar           v Western United           2-1 (2-1)
   Fri Apr/18
-    19.35  Adelaide United         v Wellington Phoenix
+    19.35  Adelaide United         v Wellington Phoenix       3-2 (2-2)
   Sat Apr/19
-    17.00  Melbourne Victory       v Auckland FC
-    19.35  Western Sydney Wanderers v Melbourne City FC
+    17.00  Melbourne Victory       v Auckland FC              0-2 (0-0)
+    19.35  Western Sydney Wanderers v Melbourne City FC        2-2 (2-1)
   Sun Apr/20
-    15.00  Sydney FC               v Newcastle United Jets
-    17.00  Central Coast Mariners  v Macarthur FC
+    15.00  Sydney FC               v Newcastle United Jets    3-2 (1-2)
+    17.00  Central Coast Mariners  v Macarthur FC             2-2 (2-1)
 
 
 » Matchday 28
   Fri Apr/25
-    19.35  Macarthur FC            v Melbourne Victory
+    19.35  Macarthur FC            v Melbourne Victory        1-2 (0-2)
   Sat Apr/26
-    15.00  Brisbane Roar           v Wellington Phoenix
-    17.00  Newcastle United Jets   v Western Sydney Wanderers
-    19.35  Melbourne City FC       v Adelaide United
+    15.00  Brisbane Roar           v Wellington Phoenix       1-0 (0-0)
+    17.00  Newcastle United Jets   v Western Sydney Wanderers  0-1 (0-0)
+    19.35  Melbourne City FC       v Adelaide United          0-0
   Sun Apr/27
-    15.00  Auckland FC             v Perth Glory
-    17.00  Western United          v Sydney FC
+    15.00  Auckland FC             v Perth Glory              1-0 (0-0)
+    17.00  Western United          v Sydney FC                1-0 (1-0)
 
 
 » Matchday 29

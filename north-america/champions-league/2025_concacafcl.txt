@@ -1,8 +1,8 @@
 = CONCACAF Champions League 2025
 
-# Date       Tue Feb/4 - Wed Apr/9 2025 (64d)
+# Date       Tue Feb/4 - Sun Jun/1 2025 (117d)
 # Teams      27
-# Matches    46
+# Matches    51
 
 
 
@@ -70,14 +70,30 @@
 
 » Quarterfinals
   Tue Apr/1
-    19.15  CF América (MEX)        v Cruz Azul (MEX)
-    21.15  Los Angeles Galaxy (USA) v UANL Tigres (MEX)
+    19.15  CF América (MEX)        v Cruz Azul (MEX)          0-0
+    21.15  Los Angeles Galaxy (USA) v UANL Tigres (MEX)        0-0
   Wed Apr/2
-    19.30  Vancouver Whitecaps (CAN) v Pumas UNAM (MEX)
-    21.30  Los Angeles FC (USA)    v Inter Miami CF (USA)
+    19.30  Vancouver Whitecaps (CAN) v Pumas UNAM (MEX)         1-1 (0-0)
+    21.30  Los Angeles FC (USA)    v Inter Miami CF (USA)     1-0 (0-0)
   Tue Apr/8
-    19.00  UANL Tigres (MEX)       v Los Angeles Galaxy (USA)
-    21.30  Cruz Azul (MEX)         v CF América (MEX)
+    19.00  UANL Tigres (MEX)       v Los Angeles Galaxy (USA)  3-2 (2-1)
+    21.30  Cruz Azul (MEX)         v CF América (MEX)         2-1 (1-0)
   Wed Apr/9
-    18.00  Inter Miami CF (USA)    v Los Angeles FC (USA)
-    20.30  Pumas UNAM (MEX)        v Vancouver Whitecaps (CAN)
+    18.00  Inter Miami CF (USA)    v Los Angeles FC (USA)     3-1 (1-1)
+    20.30  Pumas UNAM (MEX)        v Vancouver Whitecaps (CAN)  2-2 (1-1)
+
+
+» Semifinals
+  Wed Apr/23
+    20.00  UANL Tigres (MEX)       v Cruz Azul (MEX)          1-1 (0-0)
+  Thu Apr/24
+    20.30  Vancouver Whitecaps (CAN) v Inter Miami CF (USA)     2-0 (1-0)
+  Wed Apr/30
+    18.00  Inter Miami CF (USA)    v Vancouver Whitecaps (CAN)
+  Thu May/1
+    20.00  Cruz Azul (MEX)         v UANL Tigres (MEX)
+
+
+» Final
+  Sun Jun/1
+           N.N.                    v N.N.
