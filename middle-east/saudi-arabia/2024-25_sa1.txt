@@ -1,0 +1,511 @@
+= Saudi Arabia Saudi Professional League 2024/25
+
+# Date       Thu Aug/22 2024 - Mon May/26 2025 (277d)
+# Teams      18
+# Matches    306
+
+
+
+» Matchday 1
+  Thu Aug/22 2024
+    19.10  Al Taawoun              v Al Fayha                 1-0 (0-0)
+    21.00  Al Wehda                v Al Riyadh                3-3 (1-0)
+           Al Nassr                v Al Ra'ed                 1-1 (1-0)
+  Fri Aug/23
+    19.10  Damac FC                v Al Khaleej               0-1 (0-1)
+    21.00  Al Ahli SFC             v Al Orobah                2-0 (1-0)
+           Al Qadsiah              v Al Fateh                 3-0 (1-0)
+  Sat Aug/24
+    19.10  Al Kholood              v Al Ittihad               0-1 (0-0)
+    21.00  Al Okhdood              v Al Hilal                 0-3 (0-3)
+           Al Shabab               v Al Ettifaq               0-1 (0-0)
+
+
+» Matchday 2
+  Tue Aug/27
+    18.45  Al Fateh                v Al Ahli SFC              1-0 (0-0)
+    21.00  Al Ra'ed                v Al Qadsiah               0-1 (0-0)
+           Al Fayha                v Al Nassr                 1-4 (0-2)
+  Wed Aug/28
+    18.45  Al Ettifaq              v Al Okhdood               1-0 (0-0)
+    21.00  Al Hilal                v Damac FC                 3-2 (1-0)
+           Al Wehda                v Al Orobah                2-1 (1-1)
+  Thu Aug/29
+    18.55  Al Riyadh               v Al Kholood               3-1 (1-0)
+    21.00  Al Khaleej              v Al Shabab                0-1 (0-0)
+           Al Ittihad              v Al Taawoun               2-1 (0-0)
+
+
+» Matchday 3
+  Fri Sep/13
+    18.45  Al Taawoun              v Al Khaleej               2-0 (1-0)
+    18.50  Damac FC                v Al Okhdood               3-1 (3-0)
+    21.00  Al Nassr                v Al Ahli SFC              1-1 (0-0)
+  Sat Sep/14
+    18.20  Al Fateh                v Al Ettifaq               1-2 (0-1)
+    18.45  Al Fayha                v Al Ra'ed                 0-5 (0-3)
+    21.00  Al Riyadh               v Al Hilal                 0-3 (0-0)
+  Sun Sep/15
+    18.20  Al Qadsiah              v Al Shabab                0-1 (0-1)
+    18.50  Al Kholood              v Al Orobah                3-3 (1-1)
+    21.00  Al Ittihad              v Al Wehda                 7-1 (3-1)
+
+
+» Matchday 4
+  Thu Sep/19
+    18.40  Al Okhdood              v Al Qadsiah               0-0
+    18.55  Al Orobah               v Al Fateh                 1-0 (0-0)
+    21.00  Al Wehda                v Al Kholood               0-1 (0-0)
+  Fri Sep/20
+    18.15  Al Khaleej              v Al Fayha                 0-0
+    18.55  Al Ahli SFC             v Damac FC                 4-2 (1-1)
+    21.00  Al Ettifaq              v Al Nassr                 0-3 (0-1)
+  Sat Sep/21
+    18.30  Al Shabab               v Al Taawoun               1-0 (1-0)
+    18.35  Al Ra'ed                v Al Riyadh                1-2 (0-0)
+    21.00  Al Hilal                v Al Ittihad               3-1 (3-0)
+
+
+» Matchday 5
+  Fri Sep/27
+    18.20  Al Nassr                v Al Wehda                 2-0 (1-0)
+    21.00  Al Qadsiah              v Al Ahli SFC              1-0 (1-0)
+           Al Ittihad              v Al Khaleej               4-1 (0-1)
+  Sat Sep/28
+    18.10  Al Fateh                v Al Okhdood               2-4 (2-1)
+    18.45  Al Orobah               v Damac FC                 1-0 (1-0)
+    21.00  Al Kholood              v Al Hilal                 2-4 (0-3)
+  Sun Sep/29
+    18.25  Al Fayha                v Al Riyadh                2-0 (2-0)
+    21.00  Al Taawoun              v Al Ettifaq               1-1 (1-0)
+           Al Shabab               v Al Ra'ed                 2-1 (1-1)
+
+
+» Matchday 6
+  Thu Oct/3
+    18.00  Al Ettifaq              v Al Ra'ed                 0-1 (0-1)
+    21.00  Al Okhdood              v Al Ittihad               1-2 (0-0)
+           Al Wehda                v Al Fayha                 2-2 (1-0)
+  Fri Oct/4
+    18.00  Al Khaleej              v Al Kholood               1-0 (0-0)
+    18.15  Al Riyadh               v Al Qadsiah               2-1 (1-0)
+    21.00  Damac FC                v Al Shabab                1-0 (0-0)
+  Sat Oct/5
+    18.15  Al Nassr                v Al Orobah                3-0 (2-0)
+    18.25  Al Taawoun              v Al Fateh                 2-0 (1-0)
+    21.00  Al Ahli SFC             v Al Hilal                 1-2 (1-0)
+
+
+» Matchday 7
+  Fri Oct/18
+    17.45  Al Khaleej              v Al Ahli SFC              0-3 (0-0)
+    18.00  Al Hilal                v Al Fayha                 3-0 (1-0)
+    21.00  Al Shabab               v Al Nassr                 1-2 (0-0)
+  Sat Oct/19
+    18.05  Al Ra'ed                v Al Wehda                 2-2 (0-0)
+    18.20  Damac FC                v Al Taawoun               2-2 (0-1)
+    21.00  Al Ittihad              v Al Qadsiah               3-1 (1-1)
+  Sun Oct/20
+    17.45  Al Fateh                v Al Kholood               1-1 (0-1)
+    18.20  Al Okhdood              v Al Riyadh                0-1 (0-0)
+    21.00  Al Ettifaq              v Al Orobah                2-3 (2-1)
+
+
+» Matchday 8
+  Thu Oct/24
+    18.15  Al Orobah               v Al Shabab                0-3 (0-1)
+    21.00  Al Riyadh               v Al Ittihad               0-1 (0-1)
+           Al Wehda                v Al Khaleej               1-3 (1-0)
+  Fri Oct/25
+    17.40  Al Qadsiah              v Damac FC                 2-1 (1-0)
+    18.05  Al Kholood              v Al Nassr                 3-3 (2-2)
+    21.00  Al Ahli SFC             v Al Okhdood               1-1 (0-1)
+  Sat Oct/26
+    18.00  Al Fayha                v Al Ettifaq               1-1 (1-0)
+    18.05  Al Ra'ed                v Al Fateh                 2-1 (1-0)
+    21.00  Al Hilal                v Al Taawoun               2-0 (1-0)
+
+
+» Matchday 9
+  Thu Oct/31
+    17.50  Al Shabab               v Al Wehda                 3-1 (1-0)
+    18.10  Al Okhdood              v Al Orobah                4-0 (1-0)
+    21.00  Al Ittihad              v Al Ahli SFC              1-0 (1-0)
+  Fri Nov/1
+    17.35  Al Khaleej              v Al Ra'ed                 4-0 (2-0)
+    18.15  Damac FC                v Al Riyadh                2-2 (1-1)
+    21.00  Al Nassr                v Al Hilal                 1-1 (1-0)
+  Sat Nov/2
+    17.35  Al Fateh                v Al Fayha                 1-1 (0-1)
+    17.55  Al Taawoun              v Al Kholood               1-1 (1-1)
+    21.00  Al Ettifaq              v Al Qadsiah               0-2 (0-2)
+
+
+» Matchday 10
+  Thu Nov/7
+    17.30  Al Qadsiah              v Al Fayha                 2-0 (2-0)
+    18.00  Al Kholood              v Al Shabab                0-2 (0-0)
+    20.00  Al Orobah               v Al Ittihad               0-2 (0-1)
+  Fri Nov/8
+    17.45  Al Hilal                v Al Ettifaq               3-1 (1-0)
+    18.20  Al Ahli SFC             v Al Ra'ed                 2-0 (0-0)
+    20.00  Al Riyadh               v Al Nassr                 0-1 (0-1)
+  Sat Nov/9
+    17.30  Al Fateh                v Al Khaleej               1-2 (0-0)
+    18.15  Al Wehda                v Damac FC                 2-3 (0-1)
+    20.00  Al Taawoun              v Al Okhdood               1-0 (0-0)
+
+
+» Matchday 11
+  Fri Nov/22
+    17.50  Al Fayha                v Al Ahli SFC              0-1 (0-1)
+    18.05  Al Okhdood              v Al Shabab                1-1 (0-1)
+    20.00  Al Nassr                v Al Qadsiah               1-2 (1-1)
+  Sat Nov/23
+    16.20  Al Ra'ed                v Al Orobah                3-1 (2-1)
+    18.15  Al Wehda                v Al Taawoun               1-0 (1-0)
+    20.00  Al Khaleej              v Al Hilal                 3-2 (1-2)
+  Sun Nov/24
+    16.40  Damac FC                v Al Kholood               2-1 (1-1)
+    17.40  Al Riyadh               v Al Ettifaq               0-0
+    20.00  Al Ittihad              v Al Fateh                 2-0 (0-0)
+
+
+» Matchday 12
+  Thu Nov/28
+    17.45  Al Fayha                v Al Orobah                0-1 (0-0)
+    18.05  Al Okhdood              v Al Kholood               1-2 (0-1)
+    20.00  Al Fateh                v Al Riyadh                1-2 (1-0)
+  Fri Nov/29
+    17.25  Al Qadsiah              v Al Khaleej               1-0 (0-0)
+    17.40  Al Nassr                v Damac FC                 2-0 (1-0)
+    20.00  Al Ahli SFC             v Al Wehda                 1-0 (0-0)
+  Sat Nov/30
+    16.20  Al Ra'ed                v Al Taawoun               0-1 (0-0)
+    17.25  Al Ettifaq              v Al Ittihad               0-4 (0-1)
+    20.00  Al Shabab               v Al Hilal                 1-2 (1-1)
+
+
+» Matchday 13
+  Thu Dec/5
+    18.10  Damac FC                v Al Fayha                 2-2 (1-0)
+    18.15  Al Wehda                v Al Okhdood               2-3 (1-3)
+    20.00  Al Shabab               v Al Fateh                 2-2 (0-0)
+  Fri Dec/6
+    17.50  Al Kholood              v Al Qadsiah               0-3 (0-1)
+    17.55  Al Orobah               v Al Riyadh                0-1 (0-0)
+    20.00  Al Ittihad              v Al Nassr                 2-1 (0-0)
+  Sat Dec/7
+    15.55  Al Khaleej              v Al Ettifaq               1-2 (1-1)
+    20.00  Al Taawoun              v Al Ahli SFC              2-4 (2-1)
+           Al Hilal                v Al Ra'ed                 3-2 (1-1)
+
+
+» Matchday 14
+  Thu Jan/9 2025
+    17.45  Al Fateh                v Al Wehda                 1-2 (0-2)
+    18.00  Al Riyadh               v Al Khaleej               2-2 (0-1)
+    20.00  Al Nassr                v Al Okhdood               3-1 (2-1)
+  Fri Jan/10
+    17.40  Al Ettifaq              v Al Kholood               2-3 (1-1)
+    18.05  Al Ra'ed                v Damac FC                 0-2 (0-1)
+    20.00  Al Ahli SFC             v Al Shabab                3-2 (2-0)
+  Sat Jan/11
+    16.45  Al Orobah               v Al Hilal                 0-5 (0-1)
+    17.40  Al Qadsiah              v Al Taawoun               0-3 (0-2)
+    20.00  Al Fayha                v Al Ittihad               1-1 (0-0)
+
+
+» Matchday 15
+  Wed Jan/15
+    18.05  Al Shabab               v Al Riyadh                2-1 (0-0)
+    18.30  Damac FC                v Al Ettifaq               0-3 (0-2)
+    20.00  Al Kholood              v Al Ahli SFC              1-0 (0-0)
+  Thu Jan/16
+    16.55  Al Okhdood              v Al Fayha                 1-2 (1-1)
+    18.05  Al Hilal                v Al Fateh                 9-0 (4-0)
+    20.00  Al Ittihad              v Al Ra'ed                 4-1 (2-0)
+  Fri Jan/17
+    16.15  Al Khaleej              v Al Orobah                3-0 (2-0)
+    18.40  Al Wehda                v Al Qadsiah               0-3 (0-1)
+    20.00  Al Taawoun              v Al Nassr                 1-1 (1-0)
+
+
+» Matchday 16
+  Mon Jan/20
+    18.10  Al Fayha                v Al Kholood               1-0 (0-0)
+    18.15  Al Ra'ed                v Al Okhdood               0-2 (0-1)
+    20.00  Al Ettifaq              v Al Ahli SFC              1-2 (0-1)
+  Tue Jan/21
+    17.50  Al Khaleej              v Al Nassr                 1-3 (0-0)
+    18.10  Al Riyadh               v Al Taawoun               1-0 (0-0)
+    20.00  Al Hilal                v Al Wehda                 4-1 (2-0)
+  Wed Jan/22
+    17.00  Al Orobah               v Al Qadsiah               0-2 (0-2)
+    17.55  Al Fateh                v Damac FC                 2-1 (0-0)
+    20.00  Al Ittihad              v Al Shabab                2-1 (2-1)
+
+
+» Matchday 17
+  Sat Jan/25
+    16.50  Al Kholood              v Al Ra'ed                 2-1 (0-1)
+    20.00  Al Wehda                v Al Ettifaq               2-2 (1-0)
+  Sun Jan/26
+    18.20  Al Taawoun              v Al Orobah                0-0
+    18.30  Al Okhdood              v Al Khaleej               1-2 (0-0)
+    18.45  Al Ahli SFC             v Al Riyadh                5-0 (1-0)
+    20.00  Al Nassr                v Al Fateh                 3-1 (1-0)
+  Mon Jan/27
+    17.05  Damac FC                v Al Ittihad               2-1 (1-1)
+    18.10  Al Shabab               v Al Fayha                 2-1 (1-0)
+    20.00  Al Qadsiah              v Al Hilal                 2-1 (1-0)
+
+
+» Matchday 18
+  Thu Jan/30
+    17.00  Al Orobah               v Al Ahli SFC              0-2 (0-1)
+    18.15  Al Riyadh               v Al Wehda                 1-0 (0-0)
+    20.00  Al Ra'ed                v Al Nassr                 1-2 (0-1)
+  Fri Jan/31
+    16.45  Al Fayha                v Al Taawoun               0-0
+    18.15  Al Hilal                v Al Okhdood               4-0 (3-0)
+    20.00  Al Ettifaq              v Al Shabab                3-1 (2-1)
+  Sat Feb/1
+    16.25  Al Khaleej              v Damac FC                 1-1 (1-1)
+    18.00  Al Fateh                v Al Qadsiah               1-1 (0-1)
+    20.00  Al Ittihad              v Al Kholood               4-3 (2-2)
+
+
+» Matchday 19
+  Thu Feb/6
+    18.05  Al Qadsiah              v Al Ra'ed                 2-0 (1-0)
+    18.20  Al Shabab               v Al Khaleej               5-1 (1-1)
+    20.00  Al Taawoun              v Al Ittihad               1-2 (1-1)
+  Fri Feb/7
+    16.05  Al Orobah               v Al Wehda                 4-2 (2-1)
+    18.20  Al Nassr                v Al Fayha                 3-0 (1-0)
+    20.00  Al Ahli SFC             v Al Fateh                 2-0 (1-0)
+  Sat Feb/8
+    16.55  Al Kholood              v Al Riyadh                3-2 (0-1)
+    18.40  Al Okhdood              v Al Ettifaq               0-2 (0-1)
+    20.00  Damac FC                v Al Hilal                 2-2 (0-1)
+
+
+» Matchday 20
+  Thu Feb/13
+    17.10  Al Okhdood              v Damac FC                 0-0
+    18.25  Al Shabab               v Al Qadsiah               2-3 (1-0)
+    20.30  Al Ahli SFC             v Al Nassr                 2-3 (0-1)
+  Fri Feb/14
+    17.10  Al Orobah               v Al Kholood               2-0 (0-0)
+    18.05  Al Ettifaq              v Al Fateh                 1-2 (1-2)
+    20.00  Al Hilal                v Al Riyadh                1-1 (0-1)
+  Sat Feb/15
+    16.35  Al Khaleej              v Al Taawoun               0-1 (0-0)
+    18.30  Al Ra'ed                v Al Fayha                 0-2 (0-0)
+    20.30  Al Wehda                v Al Ittihad               1-4 (1-2)
+
+
+» Matchday 21
+  Thu Feb/20
+    18.15  Al Fateh                v Al Orobah                1-0 (1-0)
+    18.30  Al Fayha                v Al Khaleej               0-0
+    20.00  Al Riyadh               v Al Ra'ed                 1-3 (0-2)
+  Fri Feb/21
+    17.20  Damac FC                v Al Ahli SFC              0-2 (0-1)
+    18.10  Al Qadsiah              v Al Okhdood               2-0 (1-0)
+    20.00  Al Nassr                v Al Ettifaq               2-3 (0-0)
+  Sat Feb/22
+    16.00  Al Kholood              v Al Wehda                 1-0 (1-0)
+    17.05  Al Taawoun              v Al Shabab                2-2 (1-2)
+    21.15  Al Ittihad              v Al Hilal                 4-1 (2-1)
+
+
+» Matchday 22
+  Mon Feb/24
+    17.15  Al Okhdood              v Al Fateh                 1-3 (1-1)
+    18.50  Damac FC                v Al Orobah                1-2 (0-0)
+  Tue Feb/25
+    17.10  Al Ra'ed                v Al Shabab                1-2 (0-1)
+    18.30  Al Hilal                v Al Kholood               5-1 (4-0)
+    20.00  Al Wehda                v Al Nassr                 0-2 (0-0)
+    20.30  Al Ahli SFC             v Al Qadsiah               4-1 (3-0)
+  Wed Feb/26
+    18.15  Al Ettifaq              v Al Taawoun               1-0 (0-0)
+    18.30  Al Riyadh               v Al Fayha                 0-0
+    20.00  Al Khaleej              v Al Ittihad               1-1 (0-0)
+
+
+» Matchday 23
+  Fri Feb/28
+    22.00  Al Orobah               v Al Nassr                 2-1 (1-0)
+           Al Hilal                v Al Ahli SFC              2-3 (0-0)
+           Al Shabab               v Damac FC                 2-0 (0-0)
+  Sat Mar/1
+    22.00  Al Fayha                v Al Wehda                 0-0
+           Al Kholood              v Al Khaleej               2-1 (2-1)
+           Al Fateh                v Al Taawoun               1-2 (1-0)
+  Sun Mar/2
+    22.00  Al Ra'ed                v Al Ettifaq               1-1 (0-0)
+           Al Ittihad              v Al Okhdood               1-1 (1-0)
+           Al Qadsiah              v Al Riyadh                1-0 (0-0)
+
+
+» Matchday 24
+  Thu Mar/6
+    22.00  Al Qadsiah              v Al Ittihad               1-1 (0-0)
+           Al Kholood              v Al Fateh                 2-1 (1-0)
+    23.00  Al Wehda                v Al Ra'ed                 3-1 (1-1)
+  Fri Mar/7
+    22.00  Al Ahli SFC             v Al Khaleej               2-2 (1-2)
+           Al Fayha                v Al Hilal                 0-2 (0-1)
+           Al Nassr                v Al Shabab                2-2 (2-1)
+  Sat Mar/8
+    22.00  Al Riyadh               v Al Okhdood               1-0 (0-0)
+           Al Orobah               v Al Ettifaq               1-2 (0-1)
+           Al Taawoun              v Damac FC                 3-0 (3-0)
+
+
+» Matchday 25
+  Thu Mar/13
+    22.00  Al Ittihad              v Al Riyadh                2-1 (0-0)
+           Al Shabab               v Al Orobah                6-0 (2-0)
+           Al Fateh                v Al Ra'ed                 3-1 (1-0)
+  Fri Mar/14
+    22.00  Al Khaleej              v Al Wehda                 0-2 (0-1)
+           Damac FC                v Al Qadsiah               1-0 (0-0)
+           Al Nassr                v Al Kholood               3-1 (3-0)
+  Sat Mar/15
+    22.00  Al Ettifaq              v Al Fayha                 0-2 (0-1)
+           Al Taawoun              v Al Hilal                 0-2 (0-1)
+           Al Okhdood              v Al Ahli SFC              2-1 (0-1)
+
+
+» Matchday 26
+  Fri Apr/4
+    17.30  Al Kholood              v Al Taawoun               0-2 (0-0)
+    17.45  Al Orobah               v Al Okhdood               0-1 (0-1)
+    21.00  Al Hilal                v Al Nassr                 1-3 (0-1)
+  Sat Apr/5
+    17.05  Al Qadsiah              v Al Ettifaq               1-1 (1-0)
+    17.15  Al Riyadh               v Damac FC                 0-0
+    21.00  Al Ahli SFC             v Al Ittihad               2-2 (0-0)
+  Sun Apr/6
+    17.25  Al Fayha                v Al Fateh                 1-1 (0-1)
+    19.00  Al Ra'ed                v Al Khaleej               1-2 (1-0)
+    21.00  Al Wehda                v Al Shabab                1-3 (0-1)
+
+
+» Matchday 27
+  Thu Apr/10
+    18.50  Al Shabab               v Al Kholood               2-0 (2-0)
+    19.00  Damac FC                v Al Wehda                 0-1 (0-0)
+    21.00  Al Ittihad              v Al Orobah                2-0 (1-0)
+  Fri Apr/11
+    18.55  Al Okhdood              v Al Taawoun               1-1 (1-0)
+    19.00  Al Ra'ed                v Al Ahli SFC              0-2 (0-1)
+    21.00  Al Ettifaq              v Al Hilal                 1-1 (1-0)
+  Sat Apr/12
+    18.35  Al Khaleej              v Al Fateh                 1-5 (1-1)
+    19.00  Al Fayha                v Al Qadsiah               2-1 (1-0)
+    21.00  Al Nassr                v Al Riyadh                2-1 (0-1)
+
+
+» Matchday 28
+  Thu Apr/17
+    18.40  Al Ettifaq              v Al Riyadh                1-0 (0-0)
+    18.50  Al Hilal                v Al Khaleej               3-0 (1-0)
+           Al Shabab               v Al Okhdood               0-0
+    21.00  Al Fateh                v Al Ittihad               2-0 (1-0)
+  Fri Apr/18
+    19.05  Al Kholood              v Damac FC                 1-3 (0-2)
+    19.20  Al Ahli SFC             v Al Fayha                 5-0 (3-0)
+    21.00  Al Qadsiah              v Al Nassr                 2-1 (1-0)
+  Sat Apr/19
+    19.25  Al Orobah               v Al Ra'ed                 0-4 (0-1)
+    21.00  Al Taawoun              v Al Wehda                 0-2 (0-1)
+
+
+» Matchday 29
+  Mon Apr/21
+    18.55  Al Hilal                v Al Shabab                2-2 (1-1)
+    21.00  Al Ittihad              v Al Ettifaq               3-2 (3-1)
+  Tue Apr/22
+    19.05  Damac FC                v Al Nassr                 2-3 (1-1)
+    19.20  Al Wehda                v Al Ahli SFC              2-3 (0-1)
+  Wed Apr/23
+    18.55  Al Riyadh               v Al Fateh                 2-2 (1-1)
+    19.10  Al Kholood              v Al Okhdood               0-1 (0-0)
+    21.00  Al Khaleej              v Al Qadsiah               1-1 (1-0)
+  Thu Apr/24
+    19.30  Al Orobah               v Al Fayha                 2-2 (2-0)
+    21.00  Al Taawoun              v Al Ra'ed                 4-3 (3-1)
+
+
+» Matchday 30
+  Thu May/1
+    19.00  Al Okhdood              v Al Wehda
+           Al Riyadh               v Al Orobah
+    21.00  Al Fateh                v Al Shabab
+  Fri May/2
+    18.50  Al Ettifaq              v Al Khaleej
+    19.05  Al Fayha                v Damac FC
+    21.00  Al Qadsiah              v Al Kholood
+  Wed May/7
+    19.15  Al Ra'ed                v Al Hilal
+    19.25  Al Ahli SFC             v Al Taawoun
+    21.00  Al Nassr                v Al Ittihad
+
+
+» Matchday 31
+  Sat May/10
+    19.20  Al Kholood              v Al Ettifaq
+    19.25  Al Wehda                v Al Fateh
+    21.00  Al Khaleej              v Al Riyadh
+  Sun May/11
+    19.05  Al Shabab               v Al Ahli SFC
+    19.10  Damac FC                v Al Ra'ed
+    19.15  Al Taawoun              v Al Qadsiah
+    21.00  Al Ittihad              v Al Fayha
+  Mon May/12
+    19.05  Al Hilal                v Al Orobah
+    21.00  Al Okhdood              v Al Nassr
+
+
+» Matchday 32
+  Wed May/14
+    20.00  Al Fayha                v Al Okhdood
+           Al Nassr                v Al Taawoun
+           Al Ra'ed                v Al Ittihad
+           Al Orobah               v Al Khaleej
+           Al Fateh                v Al Hilal
+           Al Ahli SFC             v Al Kholood
+           Al Ettifaq              v Damac FC
+           Al Riyadh               v Al Shabab
+           Al Qadsiah              v Al Wehda
+
+
+» Matchday 33
+  Tue May/20
+    20.00  Damac FC                v Al Fateh
+           Al Ahli SFC             v Al Ettifaq
+           Al Nassr                v Al Khaleej
+           Al Taawoun              v Al Riyadh
+           Al Shabab               v Al Ittihad
+           Al Okhdood              v Al Ra'ed
+           Al Wehda                v Al Hilal
+           Al Kholood              v Al Fayha
+           Al Qadsiah              v Al Orobah
+
+
+» Matchday 34
+  Mon May/26
+           Al Khaleej              v Al Okhdood
+           Al Fateh                v Al Nassr
+           Al Ittihad              v Damac FC
+           Al Ra'ed                v Al Kholood
+           Al Orobah               v Al Taawoun
+           Al Fayha                v Al Shabab
+           Al Hilal                v Al Qadsiah
+           Al Riyadh               v Al Ahli SFC
+           Al Ettifaq              v Al Wehda
