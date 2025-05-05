@@ -444,13 +444,13 @@
 
 » Matchday 30
   Thu May/1
-    19.00  Al Okhdood              v Al Wehda
-           Al Riyadh               v Al Orobah
-    21.00  Al Fateh                v Al Shabab
+    19.00  Al Okhdood              v Al Wehda                 1-2 (0-0)
+           Al Riyadh               v Al Orobah                2-4 (2-1)
+    21.00  Al Fateh                v Al Shabab                3-1 (3-1)
   Fri May/2
-    18.50  Al Ettifaq              v Al Khaleej
-    19.05  Al Fayha                v Damac FC
-    21.00  Al Qadsiah              v Al Kholood
+    18.50  Al Ettifaq              v Al Khaleej               2-1 (1-1)
+    19.05  Al Fayha                v Damac FC                 2-1 (0-1)
+    21.00  Al Qadsiah              v Al Kholood               4-1 (3-0)
   Wed May/7
     19.15  Al Ra'ed                v Al Hilal
     19.25  Al Ahli SFC             v Al Taawoun
@@ -500,7 +500,7 @@
 
 » Matchday 34
   Mon May/26
-           Al Khaleej              v Al Okhdood
+    20.00  Al Khaleej              v Al Okhdood
            Al Fateh                v Al Nassr
            Al Ittihad              v Damac FC
            Al Ra'ed                v Al Kholood

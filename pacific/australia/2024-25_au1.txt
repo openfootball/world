@@ -1,7 +1,7 @@
 = Australia | A-League 2024/25
 
 # Date       Fri Oct/18 2024 - Sat May/31 2025 (225d)
-# Teams      20
+# Teams      14
 # Matches    176
 # Stages     Regular Season (169)  Finals (7)
 
@@ -348,29 +348,30 @@
 
 » Matchday 29
   Fri May/2
-    17.30  Wellington Phoenix      v Perth Glory
-    19.35  Central Coast Mariners  v Brisbane Roar
+    19.35  Central Coast Mariners  v Brisbane Roar            1-2 (1-1)
   Sat May/3
-    17.00  Melbourne City FC       v Sydney FC
-    18.00  Western United          v Auckland FC
-    19.35  Macarthur FC            v Western Sydney Wanderers
+    17.00  Melbourne City FC       v Sydney FC                5-1 (3-0)
+    18.00  Western United          v Auckland FC              4-2 (2-0)
+    19.35  Macarthur FC            v Western Sydney Wanderers  1-3 (1-1)
   Sun May/4
-    17.00  Melbourne Victory       v Newcastle United Jets
+    15.00  Wellington Phoenix      v Perth Glory              0-2 (0-1)
+    17.00  Melbourne Victory       v Newcastle United Jets    1-1 (0-0)
 
 
 » Finals, Elimination Final
   Fri May/9
-           3. Punktrunde           v 6. Punktrunde
-           4. Punktrunde           v 5. Punktrunde
+    19.35  Western United          v Adelaide United
+  Sat May/10
+    19.35  Western Sydney Wanderers v Melbourne Victory
 
 
 » Finals, Semi-Final
   Fri May/16
-           Sieger EF               v 1. Punktrunde
-           Sieger EF               v 2. Punktrunde
+           Sieger EF               v Auckland FC
+           Sieger EF               v Melbourne City FC
   Fri May/23
-           1. Punktrunde           v Sieger EF
-           2. Punktrunde           v Sieger EF
+           Auckland FC             v Sieger EF
+           Melbourne City FC       v Sieger EF
 
 
 » Finals, Final
