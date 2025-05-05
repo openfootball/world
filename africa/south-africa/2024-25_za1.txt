@@ -1,0 +1,435 @@
+= South Africa Premier League 2024/25
+
+# Date       Sat Sep/14 2024 - Sat May/24 2025 (252d)
+# Teams      16
+# Matches    240
+
+
+
+» Matchday 1
+  Sat Sep/14 2024
+    15.00  Royal AM                v Cape Town City FC        [cancelled]
+    17.30  Marumo Gallants         v Kaizer Chiefs            1-2 (1-1)
+    20.00  Polokwane City FC       v AmaZulu FC               2-1 (1-1)
+  Sun Sep/15
+    15.00  Richards Bay FC         v TS Galaxy                1-0 (1-0)
+  Tue Sep/17
+    19.30  Mamelodi Sundowns       v SuperSport United        2-0 (0-0)
+  Wed Sep/18
+    19.30  Orlando Pirates         v Chippa United            2-1 (1-1)
+           Sekhukhune United       v Magesi FC                1-0 (1-0)
+           Stellenbosch FC         v Golden Arrows            0-2 (0-0)
+
+
+» Matchday 2
+  Sat Sep/21
+    15.00  Golden Arrows           v Marumo Gallants          2-0 (2-0)
+           Magesi FC               v Polokwane City FC        0-2 (0-1)
+    17.30  SuperSport United       v Royal AM                 [cancelled]
+    20.00  Chippa United           v Richards Bay FC          1-0 (1-0)
+  Wed Jan/8 2025
+    19.30  Cape Town City FC       v Orlando Pirates          1-0 (0-0)
+           Kaizer Chiefs           v Stellenbosch FC          2-1 (1-1)
+           AmaZulu FC              v Sekhukhune United        0-2 (0-1)
+  Tue Feb/11
+    19.30  TS Galaxy               v Mamelodi Sundowns        1-0 (1-0)
+
+
+» Matchday 3
+  Tue Sep/24 2024
+    15.00  Orlando Pirates         v Polokwane City FC        3-0 (0-0)
+    17.30  Mamelodi Sundowns       v Marumo Gallants          4-1 (2-0)
+    19.30  Royal AM                v Richards Bay FC          [cancelled]
+  Wed Sep/25
+    19.30  AmaZulu FC              v Kaizer Chiefs            1-3 (0-3)
+           Sekhukhune United       v Chippa United            1-1 (0-1)
+           Stellenbosch FC         v Cape Town City FC        3-0 (1-0)
+           SuperSport United       v TS Galaxy                1-0 (0-0)
+  Thu Sep/26
+    12.00  Golden Arrows           v Magesi FC                0-1 (0-0)
+
+
+» Matchday 4
+  Sat Sep/28
+    15.00  Sekhukhune United       v Golden Arrows            2-0 (1-0)
+    15.30  Kaizer Chiefs           v Mamelodi Sundowns        1-2 (1-2)
+    17.30  Magesi FC               v Royal AM                 [cancelled]
+    20.00  Cape Town City FC       v SuperSport United        1-0 (1-0)
+           Marumo Gallants         v AmaZulu FC               1-0 (1-0)
+  Sun Sep/29
+    15.00  Richards Bay FC         v Orlando Pirates          0-1 (0-0)
+           Chippa United           v TS Galaxy                2-1 (1-1)
+    17.30  Polokwane City FC       v Stellenbosch FC          1-1 (1-1)
+
+
+» Matchday 5
+  Fri Oct/25
+    19.30  Orlando Pirates         v AmaZulu FC               2-1 (2-0)
+  Sat Oct/26
+    15.00  Richards Bay FC         v Stellenbosch FC          0-0
+           Marumo Gallants         v TS Galaxy                1-1 (0-0)
+           Royal AM                v Sekhukhune United        [cancelled]
+    18.00  SuperSport United       v Kaizer Chiefs            1-0 (1-0)
+    20.00  Chippa United           v Golden Arrows            2-0 (1-0)
+  Sun Oct/27
+    15.00  Cape Town City FC       v Magesi FC                0-0
+           Polokwane City FC       v Mamelodi Sundowns        1-0 (0-0)
+
+
+» Matchday 6
+  Tue Oct/29
+    19.30  AmaZulu FC              v Chippa United            2-0 (2-0)
+           Sekhukhune United       v Richards Bay FC          2-0 (0-0)
+           TS Galaxy               v Orlando Pirates          0-2 (0-1)
+  Wed Oct/30
+    19.30  Golden Arrows           v SuperSport United        0-0
+           Magesi FC               v Kaizer Chiefs            2-2 (1-0)
+           Mamelodi Sundowns       v Cape Town City FC        3-0 (2-0)
+           Royal AM                v Polokwane City FC        [cancelled]
+  Thu Oct/31
+    19.30  Stellenbosch FC         v Marumo Gallants          1-0 (0-0)
+
+
+» Matchday 7
+  Fri Nov/29
+    19.30  SuperSport United       v Marumo Gallants          0-1 (0-1)
+  Sat Nov/30
+    15.30  Richards Bay FC         v AmaZulu FC               1-3 (0-1)
+    17.45  Kaizer Chiefs           v Royal AM                 [cancelled]
+    20.00  Mamelodi Sundowns       v Sekhukhune United        3-0 (1-0)
+           Chippa United           v Magesi FC                2-0 (2-0)
+  Sun Dec/1
+    15.30  Golden Arrows           v Cape Town City FC        3-2 (2-0)
+           Orlando Pirates         v Stellenbosch FC          0-1 (0-1)
+    17.45  Polokwane City FC       v TS Galaxy                1-1 (0-1)
+
+
+» Matchday 8
+  Tue Nov/26
+    19.30  Chippa United           v SuperSport United        0-0
+           Sekhukhune United       v TS Galaxy                1-3 (0-2)
+    21.00  Royal AM                v Golden Arrows            [cancelled]
+  Wed Nov/27
+    19.30  Cape Town City FC       v Polokwane City FC        1-0 (0-0)
+           Kaizer Chiefs           v Richards Bay FC          2-1 (1-0)
+  Tue Dec/24
+    15.00  AmaZulu FC              v Mamelodi Sundowns        0-1 (0-0)
+           Orlando Pirates         v Marumo Gallants          8-1 (1-1)
+  Sat Mar/29 2025
+    17.45  Magesi FC               v Stellenbosch FC          1-0 (0-0)
+
+
+» Matchday 9
+  Fri Dec/6 2024
+    19.30  Richards Bay FC         v SuperSport United        0-1 (0-0)
+  Sat Dec/7
+    15.30  TS Galaxy               v AmaZulu FC               1-0 (0-0)
+    17.45  Marumo Gallants         v Magesi FC                3-1 (0-1)
+    20.00  Sekhukhune United       v Cape Town City FC        1-0 (0-0)
+  Sun Dec/8
+    15.30  Polokwane City FC       v Kaizer Chiefs            2-0 (1-0)
+  Tue Dec/10
+           Stellenbosch FC         v Royal AM                 [cancelled]
+  Wed May/7 2025
+    19.30  Mamelodi Sundowns       v Chippa United
+  Tue May/13
+    19.30  Orlando Pirates         v Golden Arrows
+
+
+» Matchday 10
+  Fri Dec/13 2024
+    19.30  AmaZulu FC              v Royal AM                 [cancelled]
+  Sat Dec/14
+    15.30  Golden Arrows           v Richards Bay FC          0-1 (0-0)
+    17.30  Chippa United           v Cape Town City FC        0-1 (0-0)
+    20.00  SuperSport United       v Magesi FC                1-0 (0-0)
+  Sun Dec/15
+    15.30  Polokwane City FC       v Marumo Gallants          1-0 (1-0)
+  Mon Dec/16
+    15.30  TS Galaxy               v Kaizer Chiefs            1-1 (1-0)
+  Wed Dec/18
+    19.30  Stellenbosch FC         v Mamelodi Sundowns        0-1 (0-1)
+  Wed Apr/30 2025
+    19.30  Orlando Pirates         v Sekhukhune United        0-1 (0-0)
+
+
+» Matchday 11
+  Sat Dec/28 2024
+    15.30  Golden Arrows           v Polokwane City FC        0-0
+           Richards Bay FC         v Mamelodi Sundowns        0-2 (0-1)
+    17.45  Sekhukhune United       v Marumo Gallants          1-0 (0-0)
+    20.00  SuperSport United       v Stellenbosch FC          1-1 (1-1)
+  Sun Dec/29
+    15.30  Cape Town City FC       v AmaZulu FC               0-1 (0-1)
+           Magesi FC               v Orlando Pirates          0-1 (0-1)
+           Royal AM                v TS Galaxy                [cancelled]
+    17.45  Kaizer Chiefs           v Chippa United            1-0 (1-0)
+
+
+» Matchday 12
+  Tue Oct/22
+    19.30  Orlando Pirates         v SuperSport United        2-0 (1-0)
+  Wed Oct/23
+    19.30  Chippa United           v Stellenbosch FC          0-2 (0-2)
+           Mamelodi Sundowns       v Royal AM                 [cancelled]
+  Sat Jan/4 2025
+    15.30  AmaZulu FC              v Golden Arrows            0-0
+           TS Galaxy               v Magesi FC                0-0
+    20.00  Marumo Gallants         v Richards Bay FC          0-0
+  Sun Jan/5
+    15.30  Polokwane City FC       v Sekhukhune United        1-1 (1-1)
+    17.45  Cape Town City FC       v Kaizer Chiefs            1-0 (0-0)
+
+
+» Matchday 13
+  Wed Nov/6 2024
+    19.30  Stellenbosch FC         v TS Galaxy                1-1 (1-0)
+  Sat Jan/11 2025
+           Chippa United           v Royal AM                 [cancelled]
+    15.30  Magesi FC               v AmaZulu FC               0-1 (0-0)
+           Marumo Gallants         v Cape Town City FC        1-0 (1-0)
+  Sun Jan/12
+    15.30  Kaizer Chiefs           v Golden Arrows            0-1 (0-0)
+    17.45  SuperSport United       v Sekhukhune United        0-3 (0-0)
+  Sat Feb/8
+    15.30  Mamelodi Sundowns       v Orlando Pirates          4-1 (2-0)
+    20.00  Richards Bay FC         v Polokwane City FC        2-0 (0-0)
+
+
+» Matchday 14
+  Fri Jan/17
+    19.30  SuperSport United       v Polokwane City FC        0-1 (0-1)
+           Cape Town City FC       v Richards Bay FC          2-1 (1-1)
+  Sat Jan/18
+    15.30  Golden Arrows           v TS Galaxy                1-1 (1-1)
+    20.00  Chippa United           v Marumo Gallants          2-2 (2-1)
+  Sun Jan/19
+    15.30  Kaizer Chiefs           v Sekhukhune United        1-0 (0-0)
+  Wed Jan/22
+    19.30  Magesi FC               v Mamelodi Sundowns        1-2 (1-0)
+  Thu Jan/23
+           Royal AM                v Orlando Pirates          [cancelled]
+    19.30  AmaZulu FC              v Stellenbosch FC          0-5 (0-1)
+
+
+» Matchday 15
+  Fri Jan/31
+    19.30  Richards Bay FC         v Magesi FC                0-0
+  Sat Feb/1
+           Marumo Gallants         v Royal AM                 [cancelled]
+    15.30  Orlando Pirates         v Kaizer Chiefs            1-0 (0-0)
+           Stellenbosch FC         v Sekhukhune United        1-1 (1-1)
+    17.30  Polokwane City FC       v Chippa United            1-0 (1-0)
+    20.00  AmaZulu FC              v SuperSport United        2-1 (1-1)
+  Sun Feb/2
+    15.30  TS Galaxy               v Cape Town City FC        2-0 (2-0)
+    17.45  Mamelodi Sundowns       v Golden Arrows            4-0 (1-0)
+
+
+» Matchday 16
+  Tue Feb/4
+           Royal AM                v Stellenbosch FC          [cancelled]
+    19.30  Kaizer Chiefs           v AmaZulu FC               2-2 (1-1)
+           Richards Bay FC         v Marumo Gallants          2-1 (0-0)
+  Wed Feb/5
+    12.00  Magesi FC               v Chippa United            1-4 (1-3)
+    19.30  Cape Town City FC       v Golden Arrows            1-1 (0-1)
+           Sekhukhune United       v Orlando Pirates          1-2 (0-1)
+           SuperSport United       v Mamelodi Sundowns        0-3 (0-2)
+           TS Galaxy               v Polokwane City FC        0-0
+
+
+» Matchday 17
+  Tue Nov/5 2024
+    19.30  Orlando Pirates         v Richards Bay FC          1-0 (1-0)
+  Wed Nov/6
+    19.30  Mamelodi Sundowns       v Polokwane City FC        2-0 (1-0)
+  Fri Feb/7 2025
+    19.30  AmaZulu FC              v Marumo Gallants          2-0 (1-0)
+           Stellenbosch FC         v Kaizer Chiefs            0-1 (0-1)
+  Sat Feb/8
+    15.30  Magesi FC               v Cape Town City FC        2-0 (1-0)
+    20.00  TS Galaxy               v Chippa United            1-0 (0-0)
+  Sun Feb/9
+           Golden Arrows           v Royal AM                 [cancelled]
+    15.30  Sekhukhune United       v SuperSport United        1-1 (0-0)
+
+
+» Matchday 18
+  Tue Feb/18
+           Richards Bay FC         v Royal AM                 [cancelled]
+    19.30  Cape Town City FC       v Chippa United            0-2 (0-0)
+           Kaizer Chiefs           v SuperSport United        1-4 (1-2)
+           Polokwane City FC       v Magesi FC                0-1 (0-1)
+           TS Galaxy               v Stellenbosch FC          2-3 (1-1)
+  Wed Feb/19
+    19.30  Marumo Gallants         v Mamelodi Sundowns        1-3 (1-0)
+           Sekhukhune United       v AmaZulu FC               4-2 (1-1)
+  Tue May/6
+    19.30  Golden Arrows           v Orlando Pirates
+
+
+» Matchday 19
+  Fri Feb/21
+           Royal AM                v Kaizer Chiefs            [cancelled]
+    19.30  Stellenbosch FC         v Richards Bay FC          1-1 (0-1)
+  Sat Feb/22
+    15.30  Chippa United           v Sekhukhune United        0-1 (0-1)
+           Orlando Pirates         v Cape Town City FC        2-1 (0-1)
+    17.45  Mamelodi Sundowns       v TS Galaxy                4-1 (3-1)
+    20.00  AmaZulu FC              v Magesi FC                3-0 (1-0)
+  Sun Feb/23
+           SuperSport United       v Golden Arrows            [postponed]
+    15.30  Marumo Gallants         v Polokwane City FC        0-0
+
+
+» Matchday 20
+  Fri Feb/28
+    19.30  Stellenbosch FC         v Polokwane City FC        1-1 (0-0)
+  Sat Mar/1
+    15.30  Magesi FC               v SuperSport United        1-0 (0-0)
+           Mamelodi Sundowns       v Kaizer Chiefs            1-0 (1-0)
+    17.30  TS Galaxy               v Golden Arrows            2-0 (1-0)
+    17.45  Marumo Gallants         v Orlando Pirates          2-0 (1-0)
+    20.00  Richards Bay FC         v Chippa United            0-0
+  Sun Mar/2
+           Sekhukhune United       v Royal AM                 [cancelled]
+    15.30  AmaZulu FC              v Cape Town City FC        2-0 (1-0)
+
+
+» Matchday 21
+  Tue Mar/4
+    19.30  Kaizer Chiefs           v Magesi FC                1-0 (0-0)
+           Marumo Gallants         v Stellenbosch FC          0-1 (0-0)
+  Wed Mar/5
+           Polokwane City FC       v Royal AM                 [cancelled]
+    19.30  Cape Town City FC       v TS Galaxy                1-1 (1-1)
+           Chippa United           v Orlando Pirates          0-1 (0-1)
+           Golden Arrows           v Mamelodi Sundowns        1-1 (1-1)
+           Richards Bay FC         v Sekhukhune United        2-1 (0-1)
+           SuperSport United       v AmaZulu FC               0-0
+
+
+» Matchday 22
+  Tue Mar/11
+           Royal AM                v Chippa United            [cancelled]
+    19.30  Magesi FC               v Richards Bay FC          1-0 (1-0)
+           Mamelodi Sundowns       v AmaZulu FC               2-0 (0-0)
+           Stellenbosch FC         v Orlando Pirates          0-0
+           TS Galaxy               v SuperSport United        3-1 (2-0)
+  Wed Mar/12
+    19.30  Kaizer Chiefs           v Cape Town City FC        0-0
+           Marumo Gallants         v Sekhukhune United        1-2 (0-0)
+           Polokwane City FC       v Golden Arrows            0-1 (0-0)
+
+
+» Matchday 23
+  Fri Mar/14
+           Royal AM                v SuperSport United        [cancelled]
+    19.30  AmaZulu FC              v TS Galaxy                1-2 (1-2)
+  Sat Mar/15
+    15.30  Cape Town City FC       v Marumo Gallants          0-1 (0-1)
+           Magesi FC               v Golden Arrows            1-0 (1-0)
+    20.00  Chippa United           v Polokwane City FC        2-0 (0-0)
+  Sun Mar/16
+    15.30  Orlando Pirates         v Mamelodi Sundowns        2-1 (2-0)
+           Richards Bay FC         v Kaizer Chiefs            2-0 (0-0)
+    17.45  Sekhukhune United       v Stellenbosch FC          1-2 (1-1)
+
+
+» Matchday 24
+  Tue Feb/25
+    19.30  Stellenbosch FC         v Magesi FC                2-1 (2-1)
+  Wed Feb/26
+    19.30  Sekhukhune United       v Mamelodi Sundowns        2-4 (1-2)
+  Sat Mar/29
+           Orlando Pirates         v Royal AM                 [cancelled]
+    15.30  Chippa United           v AmaZulu FC               2-1 (2-1)
+           Golden Arrows           v Kaizer Chiefs            2-1 (1-1)
+  Sun Mar/30
+    15.30  Polokwane City FC       v Richards Bay FC          3-1 (1-0)
+    17.30  TS Galaxy               v Marumo Gallants          1-2 (0-1)
+    17.45  SuperSport United       v Cape Town City FC        0-0
+
+
+» Matchday 25
+  Fri Apr/4
+    19.30  AmaZulu FC              v Richards Bay FC          1-0 (0-0)
+  Sat Apr/5
+           Royal AM                v Magesi FC                [cancelled]
+    15.00  Golden Arrows           v Chippa United            0-0
+           Marumo Gallants         v SuperSport United        1-1 (0-1)
+           Polokwane City FC       v Orlando Pirates          0-1 (0-0)
+    19.00  Kaizer Chiefs           v TS Galaxy                1-1 (1-0)
+  Sun Apr/6
+    17.30  Cape Town City FC       v Sekhukhune United        1-2 (0-2)
+  Sun May/11
+    15.00  Mamelodi Sundowns       v Stellenbosch FC
+
+
+» Matchday 26
+  Tue Apr/15
+    19.30  Stellenbosch FC         v AmaZulu FC               1-0 (1-0)
+  Fri Apr/18
+           Royal AM                v Mamelodi Sundowns        [cancelled]
+    19.30  Richards Bay FC         v Cape Town City FC        1-0 (0-0)
+  Sat Apr/19
+    15.00  Marumo Gallants         v Golden Arrows            1-1 (1-0)
+    17.30  Chippa United           v Kaizer Chiefs            0-0
+           Sekhukhune United       v Polokwane City FC        2-0 (1-0)
+  Sun Apr/20
+           SuperSport United       v Orlando Pirates          [postponed]
+    15.00  Magesi FC               v TS Galaxy                2-1 (1-1)
+
+
+» Matchday 27
+  Fri Apr/25
+           Orlando Pirates         v Magesi FC                [postponed]
+  Sat Apr/26
+           Cape Town City FC       v Royal AM                 [cancelled]
+    15.00  Kaizer Chiefs           v Marumo Gallants          1-2 (1-1)
+           Polokwane City FC       v SuperSport United        1-1 (1-1)
+           Golden Arrows           v AmaZulu FC               0-1 (0-0)
+  Sun Apr/27
+    15.00  TS Galaxy               v Sekhukhune United        1-1 (0-0)
+  Wed Apr/30
+    19.30  Mamelodi Sundowns       v Richards Bay FC          3-0 (2-0)
+           Stellenbosch FC         v Chippa United            1-0 (0-0)
+
+
+» Matchday 28
+  Fri May/2
+    19.30  AmaZulu FC              v Polokwane City FC        1-1 (1-0)
+           Royal AM                v Marumo Gallants          [cancelled]
+  Sat May/3
+    15.00  Golden Arrows           v Stellenbosch FC          0-3 (0-1)
+    15.30  Kaizer Chiefs           v Orlando Pirates          1-2 (1-1)
+    17.30  Magesi FC               v Sekhukhune United        1-1 (1-0)
+    17.45  SuperSport United       v Chippa United            2-0 (1-0)
+    20.00  Cape Town City FC       v Mamelodi Sundowns        0-2 (0-1)
+  Sun May/4
+    15.00  TS Galaxy               v Richards Bay FC          0-1 (0-0)
+
+
+» Matchday 29
+  Sat May/17
+    15.00  Mamelodi Sundowns       v Magesi FC
+           Marumo Gallants         v Chippa United
+           Orlando Pirates         v TS Galaxy
+           Polokwane City FC       v Cape Town City FC
+           Richards Bay FC         v Golden Arrows
+           Royal AM                v AmaZulu FC               [cancelled]
+           Sekhukhune United       v Kaizer Chiefs
+           Stellenbosch FC         v SuperSport United
+
+
+» Matchday 30
+  Sat May/24
+    15.00  AmaZulu FC              v Orlando Pirates
+           Cape Town City FC       v Stellenbosch FC
+           Chippa United           v Mamelodi Sundowns
+           Golden Arrows           v Sekhukhune United
+           Kaizer Chiefs           v Polokwane City FC
+           Magesi FC               v Marumo Gallants
+           SuperSport United       v Richards Bay FC
+           TS Galaxy               v Royal AM                 [cancelled]

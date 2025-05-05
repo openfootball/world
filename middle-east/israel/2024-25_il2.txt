@@ -1,0 +1,516 @@
+= Israel National League 2024/25
+
+# Date       Thu Aug/22 2024 - Mon May/19 2025 (270d)
+# Teams      16
+# Matches    296
+# Stages     Regular Season (240)  Promotion (28)  Relegation (28)
+
+
+
+» Matchday 1
+  Thu Aug/22 2024
+    19.00  Hapoel Ramat Gan        v Hapoel Kfar Saba         2-0 (2-0)
+           Maccabi Kabilio Jaffa   v Maccabi Herzliya         1-1 (1-0)
+           Hapoel Nir Ramat HaSharon v Hapoel Kfar Shalem       3-4 (1-1)
+           Hapoel Ra'anana         v Hapoel Nof HaGalil       2-2 (1-0)
+  Mon Aug/26
+    19.00  Bnei Yehuda Tel Aviv    v MS Kafr Qasim            1-1 (1-0)
+           Hapoel Rishon LeZion    v Hapoel Tel Aviv          2-1 (0-0)
+           Hapoel Petach-Tikva     v Hapoel Umm al-Fahm       2-1 (1-0)
+  Wed Oct/9
+    19.00  Hapoel Afula            v Hapoel Acre FC           1-1 (1-1)
+
+
+» Matchday 2
+  Thu Aug/29
+    19.00  Hapoel Nof HaGalil      v Hapoel Ramat Gan         1-2 (1-2)
+           Hapoel Kfar Shalem      v Hapoel Ra'anana          3-1 (1-1)
+           Hapoel Tel Aviv         v Hapoel Petach-Tikva      2-2 (1-0)
+           MS Kafr Qasim           v Hapoel Rishon LeZion     1-1 (0-0)
+           Hapoel Acre FC          v Bnei Yehuda Tel Aviv     1-3 (1-0)
+  Mon Sep/2
+    19.00  Hapoel Umm al-Fahm      v Hapoel Nir Ramat HaSharon  0-3 (0-2)
+           Maccabi Herzliya        v Hapoel Afula             2-2 (2-1)
+           Hapoel Kfar Saba        v Maccabi Kabilio Jaffa    2-1 (0-0)
+
+
+» Matchday 3
+  Thu Sep/5
+    19.00  Hapoel Afula            v Hapoel Kfar Saba         1-1 (1-1)
+           Hapoel Rishon LeZion    v Hapoel Acre FC           0-1 (0-0)
+           Hapoel Nir Ramat HaSharon v Hapoel Tel Aviv          1-2 (0-1)
+           Hapoel Nof HaGalil      v Hapoel Kfar Shalem       1-3 (1-3)
+  Mon Sep/9
+    19.00  Maccabi Kabilio Jaffa   v Hapoel Ramat Gan         3-0 (2-0)
+           Bnei Yehuda Tel Aviv    v Maccabi Herzliya         3-1 (1-0)
+           Hapoel Ra'anana         v Hapoel Umm al-Fahm       2-1 (2-1)
+  Mon Sep/23
+    19.00  Hapoel Petach-Tikva     v MS Kafr Qasim            1-0 (1-0)
+
+
+» Matchday 4
+  Thu Sep/12
+    19.00  Hapoel Ramat Gan        v Hapoel Kfar Shalem       0-6 (0-3)
+           Hapoel Umm al-Fahm      v Hapoel Nof HaGalil       0-1 (0-1)
+           MS Kafr Qasim           v Hapoel Nir Ramat HaSharon  2-0 (1-0)
+           Maccabi Herzliya        v Hapoel Rishon LeZion     2-5 (1-0)
+           Maccabi Kabilio Jaffa   v Hapoel Afula             2-2 (1-1)
+  Mon Sep/16
+    19.00  Hapoel Tel Aviv         v Hapoel Ra'anana          1-1 (0-0)
+           Hapoel Acre FC          v Hapoel Petach-Tikva      0-1 (0-1)
+           Hapoel Kfar Saba        v Bnei Yehuda Tel Aviv     1-1 (0-0)
+
+
+» Matchday 5
+  Thu Sep/19
+    19.00  Hapoel Afula            v Hapoel Ramat Gan         0-4 (0-1)
+           Hapoel Petach-Tikva     v Maccabi Herzliya         1-0 (1-0)
+           Hapoel Nir Ramat HaSharon v Hapoel Acre FC           3-1 (1-0)
+           Hapoel Ra'anana         v MS Kafr Qasim            1-2 (0-2)
+           Hapoel Nof HaGalil      v Hapoel Tel Aviv          3-4 (2-1)
+  Mon Sep/23
+    19.00  Bnei Yehuda Tel Aviv    v Maccabi Kabilio Jaffa    1-0 (0-0)
+           Hapoel Rishon LeZion    v Hapoel Kfar Saba         1-2 (1-1)
+           Hapoel Kfar Shalem      v Hapoel Umm al-Fahm       1-0 (0-0)
+
+
+» Matchday 6
+  Thu Sep/26
+    19.00  Hapoel Ramat Gan        v Hapoel Umm al-Fahm       3-0 (1-0)
+           Maccabi Herzliya        v Hapoel Nir Ramat HaSharon  2-1 (2-0)
+           Hapoel Kfar Saba        v Hapoel Petach-Tikva      2-3 (2-3)
+           Maccabi Kabilio Jaffa   v Hapoel Rishon LeZion     2-0 (1-0)
+  Mon Sep/30
+    19.00  Hapoel Tel Aviv         v Hapoel Kfar Shalem       3-0 (1-0)
+           Hapoel Afula            v Bnei Yehuda Tel Aviv     2-2 (1-0)
+           Hapoel Ra'anana         v Hapoel Acre FC           2-1 (0-1)
+  Tue Nov/5
+    19.00  MS Kafr Qasim           v Hapoel Nof HaGalil       2-0 (1-0)
+
+
+» Matchday 7
+  Sun Oct/6
+    19.00  Bnei Yehuda Tel Aviv    v Hapoel Ramat Gan         1-3 (1-1)
+           Hapoel Rishon LeZion    v Hapoel Afula             2-0 (0-0)
+           Hapoel Petach-Tikva     v Maccabi Kabilio Jaffa    0-0
+           Hapoel Nir Ramat HaSharon v Hapoel Kfar Saba         2-2 (1-1)
+           Hapoel Ra'anana         v Maccabi Herzliya         1-2 (1-0)
+           Hapoel Nof HaGalil      v Hapoel Acre FC           1-2 (0-1)
+           Hapoel Kfar Shalem      v MS Kafr Qasim            1-1 (0-1)
+           Hapoel Umm al-Fahm      v Hapoel Tel Aviv          1-1 (0-1)
+
+
+» Matchday 8
+  Sun Oct/13
+    20.00  Hapoel Ramat Gan        v Hapoel Tel Aviv          1-3 (1-0)
+           MS Kafr Qasim           v Hapoel Umm al-Fahm       1-1 (0-0)
+           Hapoel Acre FC          v Hapoel Kfar Shalem       0-1 (0-0)
+           Maccabi Herzliya        v Hapoel Nof HaGalil       2-1 (2-0)
+           Hapoel Afula            v Hapoel Petach-Tikva      0-2 (0-0)
+  Mon Oct/14
+    19.00  Hapoel Kfar Saba        v Hapoel Ra'anana          2-2 (1-2)
+           Maccabi Kabilio Jaffa   v Hapoel Nir Ramat HaSharon  2-4 (0-2)
+           Bnei Yehuda Tel Aviv    v Hapoel Rishon LeZion     1-0 (0-0)
+
+
+» Matchday 9
+  Fri Oct/18
+    16.00  Hapoel Rishon LeZion    v Hapoel Ramat Gan         0-1 (0-0)
+           Hapoel Nir Ramat HaSharon v Hapoel Afula             3-1 (0-0)
+           Hapoel Nof HaGalil      v Hapoel Kfar Saba         0-1 (0-1)
+           Hapoel Umm al-Fahm      v Hapoel Acre FC           1-2 (1-2)
+           Hapoel Tel Aviv         v MS Kafr Qasim            0-1 (0-0)
+  Mon Oct/21
+    19.00  Hapoel Petach-Tikva     v Bnei Yehuda Tel Aviv     4-1 (2-0)
+           Hapoel Ra'anana         v Maccabi Kabilio Jaffa    1-1 (0-1)
+           Hapoel Kfar Shalem      v Maccabi Herzliya         2-1 (1-0)
+
+
+» Matchday 10
+  Fri Oct/25
+    16.00  Hapoel Ramat Gan        v MS Kafr Qasim            3-0 (1-0)
+           Hapoel Acre FC          v Hapoel Tel Aviv          0-1 (0-0)
+           Maccabi Herzliya        v Hapoel Umm al-Fahm       2-2 (1-1)
+           Hapoel Kfar Saba        v Hapoel Kfar Shalem       2-2 (0-0)
+           Maccabi Kabilio Jaffa   v Hapoel Nof HaGalil       0-3 (0-2)
+           Hapoel Afula            v Hapoel Ra'anana          0-4 (0-2)
+           Bnei Yehuda Tel Aviv    v Hapoel Nir Ramat HaSharon  3-0 (1-0)
+           Hapoel Rishon LeZion    v Hapoel Petach-Tikva      0-2 (0-2)
+
+
+» Matchday 11
+  Tue Oct/29
+    19.00  Hapoel Petach-Tikva     v Hapoel Ramat Gan         1-1 (1-1)
+           Hapoel Nir Ramat HaSharon v Hapoel Rishon LeZion     4-1 (0-0)
+           Hapoel Ra'anana         v Bnei Yehuda Tel Aviv     0-1 (0-0)
+           Hapoel Nof HaGalil      v Hapoel Afula             1-1 (0-1)
+           Hapoel Kfar Shalem      v Maccabi Kabilio Jaffa    4-1 (2-0)
+           Hapoel Umm al-Fahm      v Hapoel Kfar Saba         2-1 (0-0)
+           Hapoel Tel Aviv         v Maccabi Herzliya         3-0 (1-0)
+           MS Kafr Qasim           v Hapoel Acre FC           4-0 (2-0)
+
+
+» Matchday 12
+  Fri Nov/1
+    15.00  Hapoel Ramat Gan        v Hapoel Acre FC           2-0 (1-0)
+           Maccabi Herzliya        v MS Kafr Qasim            1-0 (0-0)
+           Maccabi Kabilio Jaffa   v Hapoel Umm al-Fahm       3-1 (0-1)
+           Bnei Yehuda Tel Aviv    v Hapoel Nof HaGalil       0-2 (0-0)
+           Hapoel Petach-Tikva     v Hapoel Nir Ramat HaSharon  3-2 (0-1)
+  Mon Nov/4
+    19.00  Hapoel Kfar Saba        v Hapoel Tel Aviv          2-2 (2-2)
+           Hapoel Afula            v Hapoel Kfar Shalem       1-3 (1-0)
+           Hapoel Rishon LeZion    v Hapoel Ra'anana          2-0 (1-0)
+
+
+» Matchday 13
+  Fri Nov/8
+    15.00  Hapoel Nir Ramat HaSharon v Hapoel Ramat Gan         0-4 (0-1)
+           Hapoel Ra'anana         v Hapoel Petach-Tikva      1-1 (0-1)
+           Hapoel Nof HaGalil      v Hapoel Rishon LeZion     3-2 (2-2)
+           Hapoel Tel Aviv         v Maccabi Kabilio Jaffa    3-1 (2-0)
+           Hapoel Acre FC          v Maccabi Herzliya         0-2 (0-1)
+  Mon Nov/11
+    19.00  Hapoel Kfar Shalem      v Bnei Yehuda Tel Aviv     2-1 (0-0)
+           Hapoel Umm al-Fahm      v Hapoel Afula             0-0
+           MS Kafr Qasim           v Hapoel Kfar Saba         0-1 (0-0)
+
+
+» Matchday 14
+  Fri Dec/6
+    15.00  Hapoel Kfar Saba        v Hapoel Acre FC           0-2 (0-0)
+           Maccabi Kabilio Jaffa   v MS Kafr Qasim            1-1 (1-0)
+           Hapoel Afula            v Hapoel Tel Aviv          1-1 (0-1)
+           Bnei Yehuda Tel Aviv    v Hapoel Umm al-Fahm       2-0 (1-0)
+           Hapoel Petach-Tikva     v Hapoel Nof HaGalil       2-3 (2-2)
+  Mon Dec/9
+    19.00  Hapoel Ramat Gan        v Maccabi Herzliya         6-0 (4-0)
+           Hapoel Rishon LeZion    v Hapoel Kfar Shalem       1-4 (1-2)
+           Hapoel Nir Ramat HaSharon v Hapoel Ra'anana          4-0 (4-0)
+
+
+» Matchday 15
+  Fri Dec/13
+    15.00  Hapoel Ra'anana         v Hapoel Ramat Gan         0-1 (0-0)
+           Hapoel Nof HaGalil      v Hapoel Nir Ramat HaSharon  1-4 (0-2)
+           Hapoel Kfar Shalem      v Hapoel Petach-Tikva      2-0 (1-0)
+           Hapoel Umm al-Fahm      v Hapoel Rishon LeZion     0-1 (0-0)
+           MS Kafr Qasim           v Hapoel Afula             0-0
+  Mon Dec/16
+    19.00  Hapoel Tel Aviv         v Bnei Yehuda Tel Aviv     2-1 (1-0)
+           Hapoel Acre FC          v Maccabi Kabilio Jaffa    2-1 (1-0)
+           Maccabi Herzliya        v Hapoel Kfar Saba         1-0 (1-0)
+
+
+» Matchday 16
+  Fri Dec/20
+    15.00  Maccabi Herzliya        v Maccabi Kabilio Jaffa    1-1 (1-1)
+           Hapoel Acre FC          v Hapoel Afula             2-1 (0-1)
+           Hapoel Umm al-Fahm      v Hapoel Petach-Tikva      0-1 (0-0)
+           Hapoel Kfar Shalem      v Hapoel Nir Ramat HaSharon  1-3 (1-2)
+           Hapoel Nof HaGalil      v Hapoel Ra'anana          0-0
+  Mon Dec/23
+    19.00  Hapoel Kfar Saba        v Hapoel Ramat Gan         2-2 (1-2)
+           MS Kafr Qasim           v Bnei Yehuda Tel Aviv     0-1 (0-1)
+           Hapoel Tel Aviv         v Hapoel Rishon LeZion     3-0 (1-0)
+
+
+» Matchday 17
+  Fri Jan/3 2025
+    15.00  Hapoel Ramat Gan        v Hapoel Nof HaGalil       3-1 (1-0)
+           Hapoel Ra'anana         v Hapoel Kfar Shalem       2-2 (1-2)
+           Bnei Yehuda Tel Aviv    v Hapoel Acre FC           0-1 (0-0)
+           Hapoel Afula            v Maccabi Herzliya         2-3 (1-2)
+           Maccabi Kabilio Jaffa   v Hapoel Kfar Saba         0-1 (0-0)
+  Mon Jan/6
+    19.00  Hapoel Nir Ramat HaSharon v Hapoel Umm al-Fahm       2-1 (1-0)
+           Hapoel Petach-Tikva     v Hapoel Tel Aviv          0-1 (0-0)
+           Hapoel Rishon LeZion    v MS Kafr Qasim            0-1 (0-1)
+
+
+» Matchday 18
+  Fri Jan/10
+    15.00  Hapoel Ramat Gan        v Maccabi Kabilio Jaffa    2-1 (0-1)
+           Maccabi Herzliya        v Bnei Yehuda Tel Aviv     3-2 (2-0)
+           Hapoel Acre FC          v Hapoel Rishon LeZion     1-2 (0-0)
+           MS Kafr Qasim           v Hapoel Petach-Tikva      0-2 (0-1)
+           Hapoel Tel Aviv         v Hapoel Nir Ramat HaSharon  4-2 (1-1)
+  Mon Jan/13
+    19.00  Hapoel Kfar Saba        v Hapoel Afula             2-0 (1-0)
+           Hapoel Umm al-Fahm      v Hapoel Ra'anana          2-3 (0-2)
+           Hapoel Kfar Shalem      v Hapoel Nof HaGalil       4-3 (2-1)
+
+
+» Matchday 19
+  Fri Jan/17
+    15.00  Hapoel Nof HaGalil      v Hapoel Umm al-Fahm       2-1 (1-0)
+           Hapoel Rishon LeZion    v Maccabi Herzliya         2-0 (1-0)
+           Bnei Yehuda Tel Aviv    v Hapoel Kfar Saba         1-1 (1-1)
+           Hapoel Afula            v Maccabi Kabilio Jaffa    2-2 (1-1)
+  Mon Jan/20
+    19.00  Hapoel Kfar Shalem      v Hapoel Ramat Gan         0-2 (0-0)
+           Hapoel Ra'anana         v Hapoel Tel Aviv          0-1 (0-1)
+           Hapoel Nir Ramat HaSharon v MS Kafr Qasim            1-0 (0-0)
+           Hapoel Petach-Tikva     v Hapoel Acre FC           3-0 (0-0)
+
+
+» Matchday 20
+  Fri Jan/24
+    15.00  Maccabi Kabilio Jaffa   v Bnei Yehuda Tel Aviv     1-2 (0-1)
+           Hapoel Kfar Saba        v Hapoel Rishon LeZion     2-2 (1-0)
+           Maccabi Herzliya        v Hapoel Petach-Tikva      1-2 (0-0)
+           MS Kafr Qasim           v Hapoel Ra'anana          1-1 (0-0)
+           Hapoel Umm al-Fahm      v Hapoel Kfar Shalem       0-2 (0-1)
+  Mon Jan/27
+    19.00  Hapoel Ramat Gan        v Hapoel Afula             3-1 (2-1)
+           Hapoel Acre FC          v Hapoel Nir Ramat HaSharon  2-0 (1-0)
+           Hapoel Tel Aviv         v Hapoel Nof HaGalil       2-0 (1-0)
+
+
+» Matchday 21
+  Fri Jan/31
+    15.00  Hapoel Acre FC          v Hapoel Ra'anana          0-2 (0-0)
+           Hapoel Umm al-Fahm      v Hapoel Ramat Gan         1-0 (0-0)
+           Hapoel Kfar Shalem      v Hapoel Tel Aviv          1-1 (0-0)
+           Hapoel Nof HaGalil      v MS Kafr Qasim            0-1 (0-1)
+           Hapoel Nir Ramat HaSharon v Maccabi Herzliya         2-2 (2-1)
+           Hapoel Petach-Tikva     v Hapoel Kfar Saba         1-0 (1-0)
+           Hapoel Rishon LeZion    v Maccabi Kabilio Jaffa    1-1 (1-1)
+           Bnei Yehuda Tel Aviv    v Hapoel Afula             0-1 (0-1)
+
+
+» Matchday 22
+  Tue Feb/4
+    19.00  Hapoel Ramat Gan        v Bnei Yehuda Tel Aviv     2-0 (0-0)
+           Hapoel Afula            v Hapoel Rishon LeZion     0-1 (0-0)
+           Maccabi Kabilio Jaffa   v Hapoel Petach-Tikva      0-3 (0-1)
+           Hapoel Kfar Saba        v Hapoel Nir Ramat HaSharon  2-0 (1-0)
+           Maccabi Herzliya        v Hapoel Ra'anana          1-0 (1-0)
+           Hapoel Acre FC          v Hapoel Nof HaGalil       2-0 (0-0)
+           MS Kafr Qasim           v Hapoel Kfar Shalem       1-1 (0-0)
+           Hapoel Tel Aviv         v Hapoel Umm al-Fahm       4-0 (2-0)
+
+
+» Matchday 23
+  Fri Feb/7
+    15.00  Hapoel Tel Aviv         v Hapoel Ramat Gan         1-0 (0-0)
+           Hapoel Umm al-Fahm      v MS Kafr Qasim            0-2 (0-1)
+           Hapoel Nof HaGalil      v Maccabi Herzliya         0-1 (0-0)
+           Hapoel Ra'anana         v Hapoel Kfar Saba         2-1 (1-1)
+           Hapoel Nir Ramat HaSharon v Maccabi Kabilio Jaffa    1-0 (0-0)
+  Mon Feb/10
+    19.00  Hapoel Kfar Shalem      v Hapoel Acre FC           4-1 (2-0)
+           Hapoel Petach-Tikva     v Hapoel Afula             5-0 (3-0)
+           Hapoel Rishon LeZion    v Bnei Yehuda Tel Aviv     1-2 (1-1)
+
+
+» Matchday 24
+  Fri Feb/14
+    15.00  Hapoel Ramat Gan        v Hapoel Rishon LeZion     0-0
+           Maccabi Kabilio Jaffa   v Hapoel Ra'anana          0-0
+           Hapoel Kfar Saba        v Hapoel Nof HaGalil       2-0 (2-0)
+           Maccabi Herzliya        v Hapoel Kfar Shalem       2-1 (1-1)
+           MS Kafr Qasim           v Hapoel Tel Aviv          1-2 (1-1)
+  Mon Feb/17
+    19.00  Bnei Yehuda Tel Aviv    v Hapoel Petach-Tikva      1-1 (1-1)
+           Hapoel Afula            v Hapoel Nir Ramat HaSharon  2-0 (2-0)
+           Hapoel Acre FC          v Hapoel Umm al-Fahm       1-0 (1-0)
+
+
+» Matchday 25
+  Fri Feb/21
+    15.00  MS Kafr Qasim           v Hapoel Ramat Gan         1-0 (0-0)
+           Hapoel Tel Aviv         v Hapoel Acre FC           3-0 (0-0)
+           Hapoel Nof HaGalil      v Maccabi Kabilio Jaffa    0-1 (0-0)
+           Hapoel Ra'anana         v Hapoel Afula             1-0 (0-0)
+           Hapoel Petach-Tikva     v Hapoel Rishon LeZion     3-0 (0-0)
+  Mon Feb/24
+    19.00  Hapoel Umm al-Fahm      v Maccabi Herzliya         2-1 (1-0)
+           Hapoel Kfar Shalem      v Hapoel Kfar Saba         2-1 (0-0)
+           Hapoel Nir Ramat HaSharon v Bnei Yehuda Tel Aviv     0-2 (0-2)
+
+
+» Matchday 26
+  Fri Feb/28
+    15.00  Hapoel Rishon LeZion    v Hapoel Nir Ramat HaSharon  6-1 (3-1)
+           Bnei Yehuda Tel Aviv    v Hapoel Ra'anana          0-1 (0-0)
+           Hapoel Afula            v Hapoel Nof HaGalil       0-0
+           Maccabi Kabilio Jaffa   v Hapoel Kfar Shalem       3-2 (3-0)
+           Hapoel Kfar Saba        v Hapoel Umm al-Fahm       2-0 (0-0)
+  Mon Mar/3
+    19.00  Hapoel Ramat Gan        v Hapoel Petach-Tikva      1-2 (0-0)
+           Maccabi Herzliya        v Hapoel Tel Aviv          0-3 (0-2)
+           Hapoel Acre FC          v MS Kafr Qasim            1-0 (0-0)
+
+
+» Matchday 27
+  Fri Mar/7
+    15.00  Hapoel Acre FC          v Hapoel Ramat Gan         0-0
+           Hapoel Tel Aviv         v Hapoel Kfar Saba         3-0 (3-0)
+           Hapoel Umm al-Fahm      v Maccabi Kabilio Jaffa    0-0
+           Hapoel Kfar Shalem      v Hapoel Afula             2-0 (2-0)
+           Hapoel Nir Ramat HaSharon v Hapoel Petach-Tikva      0-1 (0-0)
+  Mon Mar/10
+    19.00  MS Kafr Qasim           v Maccabi Herzliya         3-1 (0-0)
+           Hapoel Nof HaGalil      v Bnei Yehuda Tel Aviv     0-2 (0-2)
+           Hapoel Ra'anana         v Hapoel Rishon LeZion     2-3 (1-0)
+
+
+» Matchday 28
+  Fri Mar/14
+    15.00  Hapoel Ramat Gan        v Hapoel Nir Ramat HaSharon  8-1 (3-0)
+           Hapoel Petach-Tikva     v Hapoel Ra'anana          1-0 (1-0)
+           Bnei Yehuda Tel Aviv    v Hapoel Kfar Shalem       1-0 (0-0)
+           Hapoel Afula            v Hapoel Umm al-Fahm       2-2 (1-1)
+           Maccabi Kabilio Jaffa   v Hapoel Tel Aviv          0-3 (0-0)
+  Mon Mar/17
+    19.00  Hapoel Rishon LeZion    v Hapoel Nof HaGalil       1-0 (1-0)
+           Hapoel Kfar Saba        v MS Kafr Qasim            1-0 (1-0)
+           Maccabi Herzliya        v Hapoel Acre FC           0-2 (0-0)
+
+
+» Matchday 29
+  Fri Mar/21
+    15.00  Maccabi Herzliya        v Hapoel Ramat Gan         1-1 (1-1)
+           Hapoel Tel Aviv         v Hapoel Afula             1-0 (0-0)
+           Hapoel Umm al-Fahm      v Bnei Yehuda Tel Aviv     1-0 (0-0)
+           Hapoel Nof HaGalil      v Hapoel Petach-Tikva      0-1 (0-1)
+           Hapoel Ra'anana         v Hapoel Nir Ramat HaSharon  0-0
+  Mon Mar/24
+    19.00  Hapoel Acre FC          v Hapoel Kfar Saba         1-1 (0-1)
+           MS Kafr Qasim           v Maccabi Kabilio Jaffa    1-1 (1-1)
+           Hapoel Kfar Shalem      v Hapoel Rishon LeZion     2-1 (1-0)
+
+
+» Matchday 30
+  Fri Mar/28
+    16.00  Hapoel Ramat Gan        v Hapoel Ra'anana          1-2 (0-1)
+           Hapoel Nir Ramat HaSharon v Hapoel Nof HaGalil       1-1 (0-0)
+           Hapoel Petach-Tikva     v Hapoel Kfar Shalem       1-0 (0-0)
+           Hapoel Rishon LeZion    v Hapoel Umm al-Fahm       3-1 (0-0)
+           Bnei Yehuda Tel Aviv    v Hapoel Tel Aviv          1-4 (0-4)
+           Hapoel Afula            v MS Kafr Qasim            2-0 (1-0)
+           Maccabi Kabilio Jaffa   v Hapoel Acre FC           3-2 (1-0)
+           Hapoel Kfar Saba        v Maccabi Herzliya         0-1 (0-0)
+
+
+» Promotion, Matchday 1
+  Fri Apr/4
+    16.00  Hapoel Ramat Gan        v Hapoel Rishon LeZion     2-0 (0-0)
+  Mon Apr/7
+    19.00  Hapoel Tel Aviv         v Bnei Yehuda Tel Aviv     3-0 (3-0)
+           Hapoel Petach-Tikva     v Hapoel Kfar Saba         1-0 (1-0)
+           Hapoel Kfar Shalem      v Maccabi Herzliya         0-2 (0-1)
+
+
+» Promotion, Matchday 2
+  Fri Apr/11
+    16.00  Maccabi Herzliya        v Hapoel Ramat Gan         0-2 (0-2)
+           Hapoel Kfar Saba        v Hapoel Kfar Shalem       1-0 (0-0)
+           Hapoel Tel Aviv         v Hapoel Petach-Tikva      0-0
+  Tue Apr/15
+    19.00  Bnei Yehuda Tel Aviv    v Hapoel Rishon LeZion     2-4 (1-3)
+
+
+» Promotion, Matchday 3
+  Thu Apr/17
+    18.30  Hapoel Kfar Shalem      v Hapoel Tel Aviv          2-0 (0-0)
+  Mon Apr/21
+    19.00  Hapoel Petach-Tikva     v Bnei Yehuda Tel Aviv     1-0 (1-0)
+           Hapoel Ramat Gan        v Hapoel Kfar Saba         4-2 (2-1)
+           Hapoel Rishon LeZion    v Maccabi Herzliya         1-3 (1-2)
+
+
+» Promotion, Matchday 4
+  Fri Apr/25
+    16.00  Bnei Yehuda Tel Aviv    v Maccabi Herzliya         3-2 (1-0)
+           Hapoel Kfar Saba        v Hapoel Rishon LeZion     1-1 (0-1)
+  Mon Apr/28
+    19.00  Hapoel Tel Aviv         v Hapoel Ramat Gan         1-0 (1-0)
+           Hapoel Petach-Tikva     v Hapoel Kfar Shalem       5-0 (3-0)
+
+
+» Promotion, Matchday 5
+  Fri May/2
+    16.00  Hapoel Kfar Shalem      v Bnei Yehuda Tel Aviv     0-4 (0-1)
+  Mon May/5
+    19.00  Hapoel Ramat Gan        v Hapoel Petach-Tikva
+           Hapoel Rishon LeZion    v Hapoel Tel Aviv
+           Maccabi Herzliya        v Hapoel Kfar Saba
+
+
+» Promotion, Matchday 6
+  Fri May/9
+    16.00  Bnei Yehuda Tel Aviv    v Hapoel Kfar Saba
+  Mon May/12
+    19.00  Hapoel Tel Aviv         v Maccabi Herzliya
+           Hapoel Petach-Tikva     v Hapoel Rishon LeZion
+           Hapoel Kfar Shalem      v Hapoel Ramat Gan
+
+
+» Promotion, Matchday 7
+  Fri May/16
+    16.00  Hapoel Rishon LeZion    v Hapoel Kfar Shalem
+  Mon May/19
+    19.00  Hapoel Ramat Gan        v Bnei Yehuda Tel Aviv
+           Maccabi Herzliya        v Hapoel Petach-Tikva
+           Hapoel Kfar Saba        v Hapoel Tel Aviv
+
+
+» Relegation, Matchday 1
+  Fri Apr/4
+    16.00  MS Kafr Qasim           v Maccabi Kabilio Jaffa    1-1 (1-1)
+           Hapoel Acre FC          v Hapoel Afula             2-1 (1-0)
+           Hapoel Ra'anana         v Hapoel Nof HaGalil       0-0
+           Hapoel Nir Ramat HaSharon v Hapoel Umm al-Fahm       3-3 (2-1)
+
+
+» Relegation, Matchday 2
+  Fri Apr/11
+    16.00  MS Kafr Qasim           v Hapoel Acre FC           2-1 (1-1)
+  Mon Apr/14
+    19.00  Maccabi Kabilio Jaffa   v Hapoel Umm al-Fahm       2-0 (0-0)
+           Hapoel Nof HaGalil      v Hapoel Nir Ramat HaSharon  2-0 (0-0)
+           Hapoel Afula            v Hapoel Ra'anana          0-0
+
+
+» Relegation, Matchday 3
+  Thu Apr/17
+    18.30  Hapoel Acre FC          v Maccabi Kabilio Jaffa    0-0
+           Hapoel Nir Ramat HaSharon v Hapoel Afula             0-0
+           Hapoel Umm al-Fahm      v Hapoel Nof HaGalil       0-0
+  Mon Apr/21
+    19.00  Hapoel Ra'anana         v MS Kafr Qasim            1-1 (1-1)
+
+
+» Relegation, Matchday 4
+  Fri Apr/25
+    16.00  Maccabi Kabilio Jaffa   v Hapoel Nof HaGalil       1-1 (0-0)
+           Hapoel Afula            v Hapoel Umm al-Fahm       3-2 (0-1)
+           MS Kafr Qasim           v Hapoel Nir Ramat HaSharon  0-3 (0-2)
+  Mon Apr/28
+    19.00  Hapoel Acre FC          v Hapoel Ra'anana          2-0 (0-0)
+
+
+» Relegation, Matchday 5
+  Fri May/2
+    16.00  Hapoel Ra'anana         v Maccabi Kabilio Jaffa    1-2 (1-1)
+           Hapoel Nir Ramat HaSharon v Hapoel Acre FC           1-2 (1-0)
+           Hapoel Umm al-Fahm      v MS Kafr Qasim            1-0 (1-0)
+           Hapoel Nof HaGalil      v Hapoel Afula             2-1 (1-1)
+
+
+» Relegation, Matchday 6
+  Fri May/9
+    16.00  Maccabi Kabilio Jaffa   v Hapoel Afula
+           MS Kafr Qasim           v Hapoel Nof HaGalil
+           Hapoel Acre FC          v Hapoel Umm al-Fahm
+           Hapoel Ra'anana         v Hapoel Nir Ramat HaSharon
+
+
+» Relegation, Matchday 7
+  Fri May/16
+    16.00  Hapoel Nir Ramat HaSharon v Maccabi Kabilio Jaffa
+           Hapoel Umm al-Fahm      v Hapoel Ra'anana
+           Hapoel Nof HaGalil      v Hapoel Acre FC
+           Hapoel Afula            v MS Kafr Qasim

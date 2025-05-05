@@ -1,8 +1,8 @@
 = CAF Champions League 2024/25
 
-# Date       Fri Aug/16 2024 - Wed Apr/9 2025 (236d)
+# Date       Fri Aug/16 2024 - Sun Jun/1 2025 (289d)
 # Teams      59
-# Matches    142
+# Matches    148
 
 
 
@@ -207,13 +207,29 @@
 
 » Quarterfinals
   Tue Apr/1
-    15.00  Mamelodi Sundowns (RSA) v Espérance de Tunis (TUN)
-    21.00  Al Ahly SC (EGY)        v Al Hilal Omdurman (SDN)
-           Pyramids FC (EGY)       v FAR de Rabat (MAR)
-           MC Alger (ALG)          v Orlando Pirates (RSA)
+    15.00  Mamelodi Sundowns (RSA) v Espérance de Tunis (TUN)  1-0 (0-0)
+    21.00  Al Ahly SC (EGY)        v Al Hilal Omdurman (SDN)  1-0 (1-0)
+           Pyramids FC (EGY)       v FAR de Rabat (MAR)       4-1 (3-1)
+           MC Alger (ALG)          v Orlando Pirates (RSA)    0-1 (0-0)
   Tue Apr/8
-    21.00  Al Hilal Omdurman (SDN) v Al Ahly SC (EGY)
-           FAR de Rabat (MAR)      v Pyramids FC (EGY)
-           Espérance de Tunis (TUN) v Mamelodi Sundowns (RSA)
+    21.00  Al Hilal Omdurman (SDN) v Al Ahly SC (EGY)         0-1 (0-0)
+           FAR de Rabat (MAR)      v Pyramids FC (EGY)        2-0 (1-0)
+           Espérance de Tunis (TUN) v Mamelodi Sundowns (RSA)  0-0
   Wed Apr/9
-    18.00  Orlando Pirates (RSA)   v MC Alger (ALG)
+    18.00  Orlando Pirates (RSA)   v MC Alger (ALG)           0-0
+
+
+» Semifinals
+  Sat Apr/19
+    15.00  Mamelodi Sundowns (RSA) v Al Ahly SC (EGY)         0-0
+    18.00  Orlando Pirates (RSA)   v Pyramids FC (EGY)        0-0
+  Fri Apr/25
+    19.00  Al Ahly SC (EGY)        v Mamelodi Sundowns (RSA)  1-1 (1-0)
+    21.00  Pyramids FC (EGY)       v Orlando Pirates (RSA)    3-2 (1-1)
+
+
+» Final
+  Sat May/24
+           Mamelodi Sundowns (RSA) v Pyramids FC (EGY)
+  Sun Jun/1
+           Pyramids FC (EGY)       v Mamelodi Sundowns (RSA)

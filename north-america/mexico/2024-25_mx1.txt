@@ -2,8 +2,8 @@
 
 # Date       Fri Jul/5 2024 - Sun May/11 2025 (310d)
 # Teams      18
-# Matches    330
-# Stages     Apertura (153)  Apertura Playoffs (17)  Clausura (153)  Clausura Playoffs (7)
+# Matches    334
+# Stages     Apertura (153)  Apertura Playoffs (17)  Clausura (153)  Clausura Playoffs (11)
 
 
 
@@ -568,13 +568,18 @@
 
 » Clausura Playoffs, Play-in round 2
   Sun May/4
-           CF Monterrey            v Pumas UNAM
+    19.30  CF Monterrey            v Pumas UNAM               2-0 (0-0)
 
 
 » Clausura Playoffs, Quarterfinals
+  Wed May/7
+           CF Monterrey            v Deportivo Toluca
   Thu May/8
            Club Necaxa             v UANL Tigres
            Club León               v Cruz Azul
+           CF Pachuca              v CF América
   Sun May/11
            UANL Tigres             v Club Necaxa
            Cruz Azul               v Club León
+           CF América              v CF Pachuca
+           Deportivo Toluca        v CF Monterrey

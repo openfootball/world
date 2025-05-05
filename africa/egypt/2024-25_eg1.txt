@@ -278,55 +278,55 @@
 
 » Championship, Matchday 2
   Sat Apr/12
-    16.00  Pharco FC               v Ceramica Cleopatra
-    19.00  Pyramids FC             v Al Ahly SC
+    16.00  Pharco FC               v Ceramica Cleopatra       0-2 (0-0)
+    19.00  Pyramids FC             v Al Ahly SC               1-1 (0-0)
   Sun Apr/13
-    16.00  Al Masry Club           v PetroJet FC
-    19.00  Haras El Hodood         v Zamalek
+    16.00  Al Masry Club           v PetroJet FC              4-0 (1-0)
+    19.00  Haras El Hodood         v Zamalek                  0-2 (0-1)
 
 
 » Championship, Matchday 3
   Wed Apr/30
-    16.00  Haras El Hodood         v Pyramids FC
-    19.00  PetroJet FC             v Al Ahly SC
+    17.00  Haras El Hodood         v Pyramids FC              1-2 (0-1)
+    20.00  PetroJet FC             v Al Ahly SC               2-3 (2-2)
   Thu May/1
-    16.00  Ceramica Cleopatra      v National Bank SC
-    19.00  Al Masry Club           v Zamalek
+    17.00  Ceramica Cleopatra      v National Bank SC         2-4 (1-0)
+    20.00  Al Masry Club           v Zamalek                  0-0
 
 
 » Championship, Matchday 4
   Sun May/4
-    16.00  Pharco FC               v Pyramids FC
-    19.00  Al Ahly SC              v Haras El Hodood
+    17.00  Pharco FC               v Pyramids FC              3-2 (0-0)
+    20.00  Al Ahly SC              v Haras El Hodood          5-0 (2-0)
   Mon May/5
-    16.00  PetroJet FC             v Ceramica Cleopatra
-    19.00  National Bank SC        v Zamalek
+    17.00  PetroJet FC             v Ceramica Cleopatra
+    20.00  National Bank SC        v Zamalek
 
 
 » Championship, Matchday 5
   Thu May/8
-    19.00  Al Ahly SC              v Al Masry Club
+    20.00  Al Ahly SC              v Al Masry Club
   Fri May/9
-    16.00  Ceramica Cleopatra      v Zamalek
-    19.00  Pharco FC               v PetroJet FC
+    17.00  Ceramica Cleopatra      v Zamalek
+    20.00  Pharco FC               v PetroJet FC
            National Bank SC        v Pyramids FC
 
 
 » Championship, Matchday 6
   Tue May/13
-    16.00  Pharco FC               v Al Masry Club
+    17.00  Pharco FC               v Al Masry Club
            Ceramica Cleopatra      v Al Ahly SC
-    19.00  Haras El Hodood         v National Bank SC
+    20.00  Haras El Hodood         v National Bank SC
            Zamalek                 v Pyramids FC
 
 
 » Championship, Matchday 7
   Sat May/17
-    16.00  PetroJet FC             v Pyramids FC
-    19.00  Al Ahly SC              v National Bank SC
+    17.00  PetroJet FC             v Pyramids FC
+    20.00  Al Ahly SC              v National Bank SC
   Sun May/18
-    16.00  Al Masry Club           v Ceramica Cleopatra
-    19.00  Pharco FC               v Haras El Hodood
+    17.00  Al Masry Club           v Ceramica Cleopatra
+    20.00  Pharco FC               v Haras El Hodood
 
 
 » Championship, Matchday 8
@@ -338,8 +338,9 @@
 
 
 » Championship, Matchday 9
-  Fri May/30
+  Wed May/28
            Ceramica Cleopatra      v Pyramids FC
+  Fri May/30
            PetroJet FC             v National Bank SC
            Al Masry Club           v Haras El Hodood
            Zamalek                 v Pharco FC
@@ -357,65 +358,65 @@
 
 » Relegation, Matchday 2
   Thu Apr/10
-    16.00  ENPPI                   v Future FC
-    19.00  Ismaily                 v Ittihad El Iskandary
+    16.00  ENPPI                   v Future FC                2-1 (0-1)
+    19.00  Ismaily                 v Ittihad El Iskandary     0-0
   Fri Apr/11
-    16.00  ZED FC                  v El Gouna
-    19.00  Ghazl Al Mehalla        v Smouha Sporting Club
+    16.00  ZED FC                  v El Gouna                 1-2 (0-1)
+    19.00  Ghazl Al Mehalla        v Smouha Sporting Club     1-0 (1-0)
 
 
 » Relegation, Matchday 3
   Mon Apr/28
-    16.00  El Gouna                v Smouha Sporting Club
-    19.00  Ismaily                 v ZED FC
-           Tala'ea El Gaish SC     v Ittihad El Iskandary
+    17.00  El Gouna                v Smouha Sporting Club     1-1 (1-0)
+    20.00  Ismaily                 v ZED FC                   0-2 (0-0)
+           Tala'ea El Gaish SC     v Ittihad El Iskandary     1-2 (0-1)
   Tue Apr/29
-    19.00  ENPPI                   v Ghazl Al Mehalla
+    20.00  ENPPI                   v Ghazl Al Mehalla         1-0 (0-0)
 
 
 » Relegation, Matchday 4
   Fri May/2
-    16.00  Smouha Sporting Club    v Ismaily
-    19.00  ZED FC                  v Tala'ea El Gaish SC
+    17.00  Smouha Sporting Club    v Ismaily                  1-1 (1-0)
+    20.00  ZED FC                  v Tala'ea El Gaish SC      0-0
   Sat May/3
-    16.00  ENPPI                   v El Gouna
-    19.00  Future FC               v Ghazl Al Mehalla
+    17.00  ENPPI                   v El Gouna                 0-1 (0-1)
+    20.00  Future FC               v Ghazl Al Mehalla         2-1 (2-0)
 
 
 » Relegation, Matchday 5
   Tue May/6
-    16.00  Smouha Sporting Club    v Tala'ea El Gaish SC
-    19.00  ZED FC                  v Ittihad El Iskandary
+    17.00  Smouha Sporting Club    v Tala'ea El Gaish SC
+    20.00  ZED FC                  v Ittihad El Iskandary
   Wed May/7
-    16.00  El Gouna                v Future FC
-    19.00  Ismaily                 v ENPPI
+    17.00  El Gouna                v Future FC
+    20.00  Ismaily                 v ENPPI
 
 
 » Relegation, Matchday 6
   Sat May/10
-    19.00  Ittihad El Iskandary    v Ghazl Al Mehalla
+    20.00  Ittihad El Iskandary    v Ghazl Al Mehalla
   Sun May/11
-    16.00  Smouha Sporting Club    v ENPPI
-    19.00  El Gouna                v Tala'ea El Gaish SC
+    17.00  Smouha Sporting Club    v ENPPI
+    20.00  El Gouna                v Tala'ea El Gaish SC
            ZED FC                  v Future FC
 
 
 » Relegation, Matchday 7
   Thu May/15
-    16.00  Tala'ea El Gaish SC     v ENPPI
-    19.00  Ismaily                 v Future FC
+    17.00  Tala'ea El Gaish SC     v ENPPI
+    20.00  Ismaily                 v Future FC
   Fri May/16
-    16.00  Smouha Sporting Club    v Ittihad El Iskandary
-    19.00  Ghazl Al Mehalla        v El Gouna
+    17.00  Smouha Sporting Club    v Ittihad El Iskandary
+    20.00  Ghazl Al Mehalla        v El Gouna
 
 
 » Relegation, Matchday 8
   Sun May/25
-    16.00  ENPPI                   v ZED FC
-    19.00  Ismaily                 v El Gouna
+    17.00  ENPPI                   v ZED FC
+    20.00  Ismaily                 v El Gouna
            Future FC               v Ittihad El Iskandary
   Mon May/26
-    19.00  Tala'ea El Gaish SC     v Ghazl Al Mehalla
+    20.00  Tala'ea El Gaish SC     v Ghazl Al Mehalla
 
 
 » Relegation, Matchday 9

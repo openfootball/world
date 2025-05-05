@@ -1,0 +1,566 @@
+= Costa Rica Primera División 2024/25
+
+# Date       Fri Jul/19 2024 - Wed May/7 2025 (292d)
+# Teams      12
+# Matches    272
+# Stages     Apertura (132)  Apertura Playoffs (8)  Clausura (132)
+
+
+
+» Apertura, Matchday 1
+  Fri Jul/19 2024
+    16.03  AD Guanacasteca         v AD San Carlos            0-3    [awarded]
+    20.00  Puntarenas FC           v Municipal Liberia        0-0
+  Sat Jul/20
+    17.00  CS Cartaginés           v Santa Ana                4-0 (2-0)
+    18.00  Sporting FC             v Deportivo Saprissa       3-1 (2-1)
+    20.00  Municipal Pérez Zeledón v CS Herediano             0-0
+  Sun Jul/21
+    18.00  LD Alajuelense          v Santos de Guápiles       2-1 (1-1)
+
+
+» Apertura, Matchday 2
+  Tue Jul/23
+    17.00  Santa Ana               v Sporting FC              0-2 (0-0)
+    20.00  CS Herediano            v Puntarenas FC            2-0 (2-0)
+  Wed Jul/24
+    18.00  Municipal Liberia       v LD Alajuelense           1-2 (0-2)
+           AD San Carlos           v CS Cartaginés            0-0
+    20.30  Deportivo Saprissa      v AD Guanacasteca          3-1 (0-0)
+  Thu Jul/25
+    18.00  Santos de Guápiles      v Municipal Pérez Zeledón  3-3 (2-1)
+
+
+» Apertura, Matchday 3
+  Sat Jul/27
+    19.00  AD Guanacasteca         v CS Herediano             2-1 (1-0)
+    20.00  AD San Carlos           v Municipal Liberia        1-2 (0-2)
+  Sun Jul/28
+    11.00  CS Cartaginés           v Santos de Guápiles       2-1 (1-0)
+    15.00  Puntarenas FC           v Deportivo Saprissa       2-3 (1-1)
+    18.00  LD Alajuelense          v Santa Ana                1-1 (1-0)
+  Mon Jul/29
+    19.00  Municipal Pérez Zeledón v Sporting FC              0-2 (0-1)
+
+
+» Apertura, Matchday 4
+  Fri Aug/2
+    19.00  Santos de Guápiles      v Puntarenas FC            0-0
+  Sat Aug/3
+    15.00  Sporting FC             v AD Guanacasteca          2-2 (1-0)
+    17.00  Deportivo Saprissa      v Municipal Liberia        2-2 (2-1)
+    20.00  Santa Ana               v CS Herediano             1-1 (0-0)
+  Sun Aug/4
+    11.00  CS Cartaginés           v LD Alajuelense           0-1 (0-0)
+    16.00  Municipal Pérez Zeledón v AD San Carlos            0-0
+
+
+» Apertura, Matchday 5
+  Fri Aug/9
+    20.00  Municipal Liberia       v Santos de Guápiles       4-0 (2-0)
+  Sat Aug/10
+    17.00  AD Guanacasteca         v CS Cartaginés            1-3 (1-1)
+    18.00  AD San Carlos           v Santa Ana                5-1 (3-0)
+    20.00  LD Alajuelense          v Municipal Pérez Zeledón  2-1 (1-0)
+  Sun Aug/11
+    16.00  Puntarenas FC           v Sporting FC              1-2 (0-1)
+    18.00  CS Herediano            v Deportivo Saprissa       2-0 (0-0)
+
+
+» Apertura, Matchday 6
+  Fri Aug/16
+    20.00  Santa Ana               v Deportivo Saprissa       0-3 (0-0)
+  Sat Aug/17
+    18.00  Santos de Guápiles      v AD San Carlos            0-4 (0-1)
+  Sun Aug/18
+    11.00  CS Cartaginés           v CS Herediano             3-1 (1-0)
+    16.00  Municipal Pérez Zeledón v Puntarenas FC            1-0 (1-0)
+    18.00  Sporting FC             v Municipal Liberia        1-0 (0-0)
+  Sat Sep/7
+    19.00  LD Alajuelense          v AD Guanacasteca          4-0 (3-0)
+
+
+» Apertura, Matchday 7
+  Sat Aug/24
+    19.00  AD San Carlos           v LD Alajuelense           0-0
+    20.00  Deportivo Saprissa      v CS Cartaginés            1-0 (1-0)
+  Sun Aug/25
+    15.00  Municipal Liberia       v Municipal Pérez Zeledón  1-0 (1-0)
+           Puntarenas FC           v Santa Ana                1-2 (0-1)
+    18.00  CS Herediano            v Sporting FC              2-0 (0-0)
+  Sat Oct/12
+    19.00  AD Guanacasteca         v Santos de Guápiles       2-1 (2-0)
+
+
+» Apertura, Matchday 8
+  Fri Aug/30
+    19.00  Sporting FC             v AD San Carlos            2-3 (0-2)
+    20.00  Santa Ana               v Municipal Liberia        2-1 (1-0)
+  Sat Aug/31
+    18.00  CS Cartaginés           v Puntarenas FC            1-0 (1-0)
+    20.00  Santos de Guápiles      v CS Herediano             3-4 (2-1)
+  Sun Sep/1
+    16.00  LD Alajuelense          v Deportivo Saprissa       1-1 (0-1)
+    19.00  Municipal Pérez Zeledón v AD Guanacasteca          1-1 (0-0)
+
+
+» Apertura, Matchday 9
+  Tue Sep/10
+    16.00  Municipal Liberia       v CS Cartaginés            3-0 (1-0)
+    20.00  CS Herediano            v AD San Carlos            1-2 (1-2)
+    20.30  Sporting FC             v Santos de Guápiles       1-1 (0-1)
+  Wed Sep/11
+    16.00  AD Guanacasteca         v Santa Ana                1-0 (0-0)
+    20.00  Deportivo Saprissa      v Municipal Pérez Zeledón  2-2 (0-1)
+  Thu Sep/12
+    15.00  Puntarenas FC           v LD Alajuelense           1-1 (0-1)
+
+
+» Apertura, Matchday 10
+  Sat Sep/14
+    16.00  Santos de Guápiles      v Deportivo Saprissa       1-2 (0-1)
+    20.00  Municipal Liberia       v AD Guanacasteca          0-1 (0-0)
+  Sun Sep/15
+    11.00  CS Cartaginés           v Sporting FC              1-0 (0-0)
+    16.00  Santa Ana               v Municipal Pérez Zeledón  0-0
+    18.00  AD San Carlos           v Puntarenas FC            2-1 (1-1)
+  Tue Nov/19
+    20.00  LD Alajuelense          v CS Herediano             2-0 (0-0)
+
+
+» Apertura, Matchday 11
+  Tue Sep/17
+    20.00  CS Herediano            v Municipal Liberia        5-4 (0-1)
+  Wed Sep/18
+    16.00  Santa Ana               v Santos de Guápiles       1-1 (1-1)
+    18.30  Puntarenas FC           v AD Guanacasteca          0-0
+    20.00  Deportivo Saprissa      v AD San Carlos            3-2 (2-2)
+  Thu Sep/19
+    20.00  Sporting FC             v LD Alajuelense           0-1 (0-0)
+           Municipal Pérez Zeledón v CS Cartaginés            0-0
+
+
+» Apertura, Matchday 12
+  Sat Sep/21
+    20.00  CS Herediano            v Santa Ana                2-1 (1-0)
+  Sun Sep/22
+    15.00  Puntarenas FC           v Municipal Pérez Zeledón  1-1 (0-0)
+    16.00  LD Alajuelense          v CS Cartaginés            2-1 (0-1)
+    19.00  AD Guanacasteca         v Sporting FC              2-1 (0-0)
+  Mon Sep/23
+    19.00  AD San Carlos           v Santos de Guápiles       2-2 (2-1)
+  Thu Nov/28
+    20.00  Municipal Liberia       v Deportivo Saprissa       0-1 (0-0)
+
+
+» Apertura, Matchday 13
+  Fri Sep/27
+    20.00  Santa Ana               v AD San Carlos            3-4 (1-2)
+  Sat Sep/28
+    15.00  Santos de Guápiles      v Municipal Liberia        0-1 (0-0)
+    17.00  CS Cartaginés           v AD Guanacasteca          1-1 (0-1)
+    20.00  Deportivo Saprissa      v CS Herediano             1-0 (0-0)
+  Sun Sep/29
+    17.00  Municipal Pérez Zeledón v LD Alajuelense           2-2 (2-2)
+  Mon Sep/30
+    19.00  Sporting FC             v Puntarenas FC            1-0 (1-0)
+
+
+» Apertura, Matchday 14
+  Fri Oct/4
+    20.00  Municipal Liberia       v Santa Ana                2-3 (0-2)
+  Sat Oct/5
+    16.00  AD Guanacasteca         v Municipal Pérez Zeledón  1-0 (1-0)
+    19.00  AD San Carlos           v Sporting FC              2-0 (0-0)
+    20.00  CS Herediano            v CS Cartaginés            0-2 (0-1)
+  Sun Oct/6
+    15.00  Santos de Guápiles      v LD Alajuelense           1-3 (1-1)
+    16.00  Deportivo Saprissa      v Puntarenas FC            2-3 (1-1)
+
+
+» Apertura, Matchday 15
+  Wed Oct/16
+    16.00  Municipal Pérez Zeledón v Santos de Guápiles       3-1 (2-0)
+    20.00  LD Alajuelense          v Municipal Liberia        2-2 (0-1)
+           Puntarenas FC           v CS Herediano             0-2 (0-1)
+  Thu Oct/17
+    16.00  CS Cartaginés           v AD San Carlos            4-4 (1-3)
+    18.00  Sporting FC             v Santa Ana                1-0 (0-0)
+    20.00  AD Guanacasteca         v Deportivo Saprissa       2-0 (0-0)
+
+
+» Apertura, Matchday 16
+  Sat Oct/19
+    17.00  Municipal Liberia       v Puntarenas FC            4-2 (1-1)
+    20.00  CS Herediano            v LD Alajuelense           1-1 (1-1)
+  Sun Oct/20
+    15.00  Santos de Guápiles      v AD Guanacasteca          4-0 (1-0)
+    16.00  Deportivo Saprissa      v Sporting FC              1-0 (1-0)
+    18.30  AD San Carlos           v Municipal Pérez Zeledón  1-1 (1-0)
+  Mon Oct/21
+    20.00  Santa Ana               v CS Cartaginés            2-1 (2-0)
+
+
+» Apertura, Matchday 17
+  Fri Oct/25
+    19.00  Puntarenas FC           v Santos de Guápiles       1-0 (0-0)
+    20.00  Municipal Pérez Zeledón v Santa Ana                2-1 (1-0)
+  Sat Oct/26
+    17.00  CS Cartaginés           v Deportivo Saprissa       2-1 (0-0)
+    20.00  LD Alajuelense          v AD San Carlos            3-1 (0-1)
+  Sun Oct/27
+    15.00  AD Guanacasteca         v Municipal Liberia        2-0 (1-0)
+    16.00  Sporting FC             v CS Herediano             1-3 (0-2)
+
+
+» Apertura, Matchday 18
+  Fri Nov/1
+    19.00  AD San Carlos           v AD Guanacasteca          2-2 (2-1)
+    20.00  Municipal Liberia       v Sporting FC              1-1 (0-1)
+  Sat Nov/2
+    16.00  Santos de Guápiles      v CS Cartaginés            1-0 (1-0)
+    20.00  Deportivo Saprissa      v LD Alajuelense           3-0 (2-0)
+  Sun Nov/3
+    11.00  Santa Ana               v Puntarenas FC            1-1 (1-1)
+    16.00  CS Herediano            v Municipal Pérez Zeledón  4-1 (1-1)
+
+
+» Apertura, Matchday 19
+  Tue Nov/5
+    20.00  CS Cartaginés           v Municipal Liberia        2-1 (1-1)
+  Wed Nov/6
+    19.00  AD San Carlos           v CS Herediano             0-0
+    20.00  LD Alajuelense          v Sporting FC              1-0 (1-0)
+  Thu Nov/7
+    15.00  Santos de Guápiles      v Santa Ana                1-0 (1-0)
+    20.00  Municipal Pérez Zeledón v Deportivo Saprissa       1-2 (0-0)
+  Wed Nov/20
+    19.00  AD Guanacasteca         v Puntarenas FC            2-1 (1-0)
+
+
+» Apertura, Matchday 20
+  Sat Nov/9
+    18.00  Puntarenas FC           v CS Cartaginés            3-2 (2-0)
+    20.00  CS Herediano            v AD Guanacasteca          2-1 (1-0)
+  Sun Nov/10
+    11.00  Santa Ana               v LD Alajuelense           0-2 (0-2)
+    16.00  Deportivo Saprissa      v Santos de Guápiles       3-3 (2-1)
+    18.00  Sporting FC             v Municipal Pérez Zeledón  0-1 (0-0)
+  Tue Nov/19
+    16.00  Municipal Liberia       v AD San Carlos            1-2 (1-0)
+
+
+» Apertura, Matchday 21
+  Sat Nov/23
+    16.00  Santos de Guápiles      v Sporting FC              2-1 (0-1)
+    19.00  AD San Carlos           v Deportivo Saprissa       0-0
+    20.00  LD Alajuelense          v Puntarenas FC            4-0 (3-0)
+  Sun Nov/24
+    11.00  CS Cartaginés           v Municipal Pérez Zeledón  2-0 (1-0)
+    16.00  Municipal Liberia       v CS Herediano             1-1 (1-0)
+  Mon Nov/25
+    20.00  Santa Ana               v AD Guanacasteca          2-1 (1-1)
+
+
+» Apertura, Matchday 22
+  Sat Nov/30
+    17.00  AD Guanacasteca         v LD Alajuelense           1-0 (0-0)
+    20.00  Municipal Pérez Zeledón v Municipal Liberia        0-1 (0-0)
+  Sun Dec/1
+    15.00  CS Herediano            v Santos de Guápiles       0-2 (0-2)
+           Puntarenas FC           v AD San Carlos            0-1 (0-1)
+           Deportivo Saprissa      v Santa Ana                2-1 (1-0)
+           Sporting FC             v CS Cartaginés            6-2 (4-1)
+
+
+» Apertura Playoffs, Semifinals
+  Fri Dec/6
+    19.30  AD San Carlos           v Deportivo Saprissa       2-2 (0-0)
+  Sun Dec/8
+    17.00  CS Herediano            v LD Alajuelense           2-0 (2-0)
+  Tue Dec/10
+    20.00  Deportivo Saprissa      v AD San Carlos            2-0 (2-0)
+  Wed Dec/11
+    20.00  LD Alajuelense          v CS Herediano             2-2 (1-1)
+
+
+» Apertura Playoffs, Final
+  Sun Dec/15
+    17.00  CS Herediano            v Deportivo Saprissa       3-0 (1-0)
+  Wed Dec/18
+    20.15  Deportivo Saprissa      v CS Herediano             2-0 (2-0)
+
+
+» Apertura Playoffs, Gran Final
+  Sun Dec/22
+    17.00  CS Herediano            v LD Alajuelense           2-0 (1-0)
+  Fri Dec/27
+    18.00  LD Alajuelense          v CS Herediano             2-1 (1-0)
+
+
+» Clausura, Matchday 1
+  Fri Jan/10 2025
+    19.00  AD Guanacasteca         v Municipal Liberia        1-0 (0-0)
+  Sat Jan/11
+    19.00  AD San Carlos           v Deportivo Saprissa       0-1 (0-1)
+    20.00  LD Alajuelense          v Santa Ana                6-3 (4-2)
+  Sun Jan/12
+    11.00  CS Cartaginés           v Santos de Guápiles       5-0 (3-0)
+    15.00  Puntarenas FC           v CS Herediano             1-1 (1-0)
+           Municipal Pérez Zeledón v Sporting FC              1-1 (0-1)
+
+
+» Clausura, Matchday 2
+  Tue Jan/14
+    20.00  Municipal Liberia       v LD Alajuelense           1-3 (0-1)
+  Wed Jan/15
+    16.00  Santos de Guápiles      v AD San Carlos            1-1 (1-0)
+    17.00  Santa Ana               v Puntarenas FC            1-2 (1-1)
+    20.00  CS Herediano            v AD Guanacasteca          4-1 (2-1)
+  Thu Jan/16
+    18.00  Sporting FC             v CS Cartaginés            1-1 (0-0)
+    20.00  Deportivo Saprissa      v Municipal Pérez Zeledón  0-0
+
+
+» Clausura, Matchday 3
+  Sat Jan/18
+    15.00  Puntarenas FC           v Santos de Guápiles       2-1 (2-0)
+  Sun Jan/19
+    11.00  CS Cartaginés           v Municipal Liberia        0-1 (0-1)
+    18.00  Municipal Pérez Zeledón v Santa Ana                1-0 (1-0)
+  Mon Jan/20
+    19.00  AD San Carlos           v Sporting FC              0-1 (0-1)
+  Tue Feb/4
+    20.00  AD Guanacasteca         v Deportivo Saprissa       2-0 (2-0)
+  Wed Feb/5
+    20.00  LD Alajuelense          v CS Herediano             1-1 (1-0)
+
+
+» Clausura, Matchday 4
+  Wed Jan/22
+    16.00  Municipal Liberia       v Santa Ana                4-0 (2-0)
+  Thu Jan/23
+    16.00  AD Guanacasteca         v Municipal Pérez Zeledón  0-1 (0-1)
+    20.00  CS Cartaginés           v AD San Carlos            2-1 (1-0)
+  Wed Feb/12
+    19.00  Sporting FC             v LD Alajuelense           0-1 (0-1)
+    20.00  Deportivo Saprissa      v Puntarenas FC            0-0
+  Thu Feb/13
+    20.00  Santos de Guápiles      v CS Herediano             2-2 (1-1)
+
+
+» Clausura, Matchday 5
+  Sat Jan/25
+    16.00  Municipal Liberia       v Santos de Guápiles       0-1 (0-0)
+    20.00  CS Herediano            v Deportivo Saprissa       3-1 (2-1)
+  Sun Jan/26
+    11.00  Santa Ana               v Sporting FC              1-2 (1-0)
+    18.00  LD Alajuelense          v Municipal Pérez Zeledón  0-0
+           AD San Carlos           v AD Guanacasteca          1-1 (0-0)
+  Wed Mar/5
+    19.00  Puntarenas FC           v CS Cartaginés            1-0 (0-0)
+
+
+» Clausura, Matchday 6
+  Tue Jan/28
+    18.30  Sporting FC             v Municipal Liberia        2-1 (1-0)
+  Wed Jan/29
+    16.00  AD Guanacasteca         v Puntarenas FC            1-1 (0-1)
+    19.00  AD San Carlos           v LD Alajuelense           0-0
+    20.00  Deportivo Saprissa      v Santos de Guápiles       1-0 (1-0)
+  Thu Jan/30
+    20.00  Municipal Pérez Zeledón v CS Herediano             0-1 (0-1)
+  Thu Feb/13
+    20.00  CS Cartaginés           v Santa Ana                2-1 (2-0)
+
+
+» Clausura, Matchday 7
+  Sat Feb/1
+    16.00  Santa Ana               v AD San Carlos            2-2 (1-1)
+    18.00  Santos de Guápiles      v AD Guanacasteca          1-0 (1-0)
+    20.00  Municipal Liberia       v Deportivo Saprissa       2-3 (1-2)
+  Sun Feb/2
+    15.00  CS Herediano            v Sporting FC              2-0 (0-0)
+           Puntarenas FC           v Municipal Pérez Zeledón  2-1 (1-0)
+    19.00  LD Alajuelense          v CS Cartaginés            1-0 (0-0)
+
+
+» Clausura, Matchday 8
+  Fri Feb/7
+    19.00  Municipal Pérez Zeledón v AD San Carlos            1-0 (0-0)
+  Sat Feb/8
+    16.00  Santos de Guápiles      v Santa Ana                2-3 (1-1)
+    20.00  CS Herediano            v Municipal Liberia        2-1 (1-0)
+  Sun Feb/9
+    11.00  Deportivo Saprissa      v LD Alajuelense           1-1 (0-1)
+    15.00  AD Guanacasteca         v CS Cartaginés            1-0 (0-0)
+    17.00  Sporting FC             v Puntarenas FC            2-4 (0-2)
+
+
+» Clausura, Matchday 9
+  Fri Feb/14
+    19.00  Municipal Liberia       v Municipal Pérez Zeledón  2-1 (2-0)
+  Sat Feb/15
+    19.00  LD Alajuelense          v AD Guanacasteca          1-0 (0-0)
+  Sun Feb/16
+    11.00  CS Cartaginés           v CS Herediano             0-1 (0-0)
+    15.00  Santa Ana               v Deportivo Saprissa       2-1 (1-0)
+    17.00  AD San Carlos           v Puntarenas FC            0-1 (0-1)
+  Mon Feb/17
+    19.00  Sporting FC             v Santos de Guápiles       0-3 (0-0)
+
+
+» Clausura, Matchday 10
+  Fri Feb/21
+    19.00  AD Guanacasteca         v Santa Ana                0-0
+  Sat Feb/22
+    17.00  Puntarenas FC           v Municipal Liberia        2-0 (1-0)
+    20.00  CS Herediano            v AD San Carlos            2-1 (0-1)
+  Sun Feb/23
+    15.00  Deportivo Saprissa      v Sporting FC              2-0 (2-0)
+    16.00  Santos de Guápiles      v LD Alajuelense           0-0
+    19.00  Municipal Pérez Zeledón v CS Cartaginés            0-1 (0-0)
+
+
+» Clausura, Matchday 11
+  Fri Feb/28
+    19.00  AD San Carlos           v Municipal Liberia        1-0 (0-0)
+    20.00  LD Alajuelense          v Puntarenas FC            0-0
+  Sat Mar/1
+    17.00  Municipal Pérez Zeledón v Santos de Guápiles       2-1 (0-0)
+  Sun Mar/2
+    11.00  Santa Ana               v CS Herediano             1-1 (1-0)
+    18.00  CS Cartaginés           v Deportivo Saprissa       2-1 (0-1)
+  Mon Mar/3
+    19.00  Sporting FC             v AD Guanacasteca          2-1 (2-1)
+
+
+» Clausura, Matchday 12
+  Sat Mar/8
+    16.00  Santos de Guápiles      v CS Cartaginés            1-1 (1-1)
+    17.00  Municipal Liberia       v Sporting FC              1-0 (1-0)
+    20.00  CS Herediano            v LD Alajuelense           1-2 (1-1)
+  Sun Mar/9
+    11.00  Santa Ana               v Municipal Pérez Zeledón  0-0
+    15.00  Deportivo Saprissa      v AD San Carlos            3-0 (1-0)
+    17.00  Puntarenas FC           v AD Guanacasteca          2-2 (1-2)
+
+
+» Clausura, Matchday 13
+  Fri Mar/14
+    19.00  AD Guanacasteca         v Santos de Guápiles       0-1 (0-1)
+  Sat Mar/15
+    19.00  AD San Carlos           v Santa Ana                1-1 (0-0)
+    20.00  Municipal Pérez Zeledón v Puntarenas FC            0-1 (0-1)
+  Sun Mar/16
+    11.00  CS Cartaginés           v LD Alajuelense           1-1 (1-1)
+    16.00  Deportivo Saprissa      v Municipal Liberia        1-1 (1-1)
+    18.00  Sporting FC             v CS Herediano             1-3 (1-1)
+
+
+» Clausura, Matchday 14
+  Tue Mar/25
+    21.00  Municipal Liberia       v AD Guanacasteca          1-1 (1-1)
+  Wed Mar/26
+    19.00  Puntarenas FC           v Sporting FC              2-1 (0-1)
+    20.00  CS Herediano            v Municipal Pérez Zeledón  3-0 (2-0)
+  Thu Mar/27
+    16.00  Santa Ana               v CS Cartaginés            0-1 (0-1)
+    20.00  Santos de Guápiles      v Deportivo Saprissa       2-0 (1-0)
+           LD Alajuelense          v AD San Carlos            0-0
+
+
+» Clausura, Matchday 15
+  Sat Mar/29
+    20.00  AD Guanacasteca         v AD San Carlos            0-2 (0-2)
+  Sun Mar/30
+    11.00  CS Cartaginés           v Puntarenas FC            1-0 (0-0)
+    16.00  Deportivo Saprissa      v CS Herediano             1-0 (1-0)
+    18.00  Sporting FC             v Santa Ana                3-1 (1-1)
+  Mon Mar/31
+    18.00  Santos de Guápiles      v Municipal Liberia        0-1 (0-0)
+    20.00  Municipal Pérez Zeledón v LD Alajuelense           1-2 (0-1)
+
+
+» Clausura, Matchday 16
+  Fri Apr/4
+    19.00  AD San Carlos           v Municipal Pérez Zeledón  0-2 (0-1)
+  Sat Apr/5
+    16.00  Santa Ana               v AD Guanacasteca          0-0
+    19.00  Sporting FC             v Deportivo Saprissa       0-1 (0-1)
+    20.00  CS Herediano            v CS Cartaginés            1-1 (0-0)
+  Sun Apr/6
+    15.00  Municipal Liberia       v Puntarenas FC            1-1 (0-1)
+    18.00  LD Alajuelense          v Santos de Guápiles       2-0 (1-0)
+
+
+» Clausura, Matchday 17
+  Fri Apr/11
+    19.00  Municipal Liberia       v CS Herediano             0-1 (0-0)
+    20.00  Puntarenas FC           v AD San Carlos            1-0 (1-0)
+  Sat Apr/12
+    16.00  CS Cartaginés           v Municipal Pérez Zeledón  3-0 (2-0)
+    18.00  Santos de Guápiles      v Sporting FC              2-3 (1-2)
+    20.00  Deportivo Saprissa      v Santa Ana                3-0 (3-0)
+  Sun Apr/13
+    15.00  AD Guanacasteca         v LD Alajuelense           1-1 (1-1)
+
+
+» Clausura, Matchday 18
+  Tue Apr/15
+    16.00  Municipal Pérez Zeledón v AD Guanacasteca          3-0 (2-0)
+    20.00  CS Herediano            v Santos de Guápiles       2-1 (2-1)
+           Puntarenas FC           v Deportivo Saprissa       1-2 (0-1)
+  Wed Apr/16
+    16.00  Santa Ana               v Municipal Liberia        1-4 (0-3)
+    19.00  AD San Carlos           v CS Cartaginés            1-2 (0-1)
+    20.00  LD Alajuelense          v Sporting FC              0-0
+
+
+» Clausura, Matchday 19
+  Sun Apr/20
+           CS Cartaginés           v AD Guanacasteca          3-0    [awarded]
+  Sat Apr/19
+    16.00  Santos de Guápiles      v Puntarenas FC            1-1 (1-1)
+    18.00  Municipal Liberia       v AD San Carlos            0-1 (0-1)
+  Sun Apr/20
+    16.00  CS Herediano            v Santa Ana                2-1 (0-1)
+    18.00  Sporting FC             v Municipal Pérez Zeledón  0-0
+  Mon Apr/21
+    20.00  LD Alajuelense          v Deportivo Saprissa       1-1 (1-1)
+
+
+» Clausura, Matchday 20
+  Fri Apr/25
+    20.00  Santa Ana               v Santos de Guápiles       3-3 (1-1)
+  Sun Apr/27
+           AD Guanacasteca         v Sporting FC              0-3    [awarded]
+  Sat Apr/26
+    16.00  AD San Carlos           v CS Herediano             1-1 (0-0)
+    20.00  Deportivo Saprissa      v CS Cartaginés            1-1 (1-1)
+  Sun Apr/27
+    15.00  Municipal Pérez Zeledón v Municipal Liberia        1-5 (0-3)
+    17.00  Puntarenas FC           v LD Alajuelense           0-2 (0-2)
+
+
+» Clausura, Matchday 21
+  Fri May/2
+    19.00  Sporting FC             v AD San Carlos            1-0 (0-0)
+  Sat May/3
+    16.00  Santos de Guápiles      v Municipal Pérez Zeledón  3-1 (2-1)
+    17.00  Municipal Liberia       v CS Cartaginés            0-1 (0-0)
+    20.00  CS Herediano            v Puntarenas FC            1-1 (0-0)
+  Sun May/4
+    11.00  Santa Ana               v LD Alajuelense           1-1 (0-0)
+    16.00  Deportivo Saprissa      v AD Guanacasteca          3-0    [awarded]
+
+
+» Clausura, Matchday 22
+  Tue May/6
+    18.00  AD San Carlos           v Santos de Guápiles
+  Wed May/7
+    15.00  AD Guanacasteca         v CS Herediano             0-3    [awarded]
+    20.00  LD Alajuelense          v Municipal Liberia
+           CS Cartaginés           v Sporting FC
+           Puntarenas FC           v Santa Ana
+           Municipal Pérez Zeledón v Deportivo Saprissa
