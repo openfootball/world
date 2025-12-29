@@ -36,6 +36,7 @@ Africa
 - [**Egypt**](africa/egypt) - Premiership
 - [**Morocco**](africa/morocco) - Botola Pro 1
 - [**Algeria**](africa/algeria) - Ligue 1
+- [**Nigeria**](africa/nigeria) - Premier Football League
 - and others
 
 Middle East
