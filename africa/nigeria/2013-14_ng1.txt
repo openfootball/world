@@ -1,0 +1,613 @@
+= Nigeria | Premier Football League 2013/2014
+
+# Date       Thu Mar/07 2013 - Sat Nov/16 2013 (254d)
+# Teams      20
+# Matches    380
+
+
+
+» Matchday 1
+  07.03.
+    16:00  Abia Warriors FC           v Kaduna United FC           2-0
+    16:00  Taraba FC                  v Nasarawa United FC         1-0
+  09.03.
+    16:00  Akwa United FC             v Gombe United FC            1-0
+    16:00  Heartland FC               v Rivers United FC           1-1
+    16:00  Lobi Stars FC              v Crown FC                   1-0
+  09.04.
+    16:00  Giwa FC                    v Kano Pillars FC            1-1 (1-0)
+    16:00  Rangers International FC   v Nembe City FC              3-0
+  13.03.
+    16:00  Bayelsa United FC          v Sharks FC                  1-0 (1-0)
+    16:00  Sunshine Stars FC          v Enyimba FC                 0-0 (0-0)
+    16:00  Warri Wolves FC            v El-Kanemi Warriors FC      1-0 (0-0)
+
+
+
+» Matchday 2
+  14.03.
+    16:15  Kaduna United FC           v Taraba FC                  3-1 (1-1)
+  16.03.
+    16:00  Crown FC                   v Heartland FC               1-0
+    16:00  Enyimba FC                 v Rangers International FC   2-1
+    16:00  Gombe United FC            v Bayelsa United FC          0-0
+    16:00  Kano Pillars FC            v Sunshine Stars FC          2-2
+    16:00  Nasarawa United FC         v Akwa United FC             1-1
+    16:00  Sharks FC                  v Lobi Stars FC              1-0
+  16.04.
+    16:00  Nembe City FC              v Warri Wolves FC            1-1
+    16:00  Rivers United FC           v Giwa FC                    1-1
+  26.03.
+    16:00  El-Kanemi Warriors FC      v Abia Warriors FC           2-0 (1-0)
+
+
+
+» Matchday 3
+  03.04.
+    16:00  Bayelsa United FC          v Nasarawa United FC         3-1
+  09.04.
+    16:00  Warri Wolves FC            v Enyimba FC                 0-0 (0-0)
+  11.05.
+    16:00  Sunshine Stars FC          v Giwa FC                    2-0 (0-0)
+  11.06.
+    16:00  Abia Warriors FC           v Nembe City FC              4-0 (1-0)
+  21.03.
+    16:00  Heartland FC               v Sharks FC                  0-0 (0-0)
+  22.03.
+    16:00  Rangers International FC   v Kano Pillars FC            2-1 (1-1)
+    16:00  Taraba FC                  v El-Kanemi Warriors FC      1-0 (0-0)
+  23.03.
+    16:00  Akwa United FC             v Kaduna United FC           2-0 (1-0)
+    16:00  Crown FC                   v Rivers United FC           2-1 (1-1)
+    16:00  Lobi Stars FC              v Gombe United FC            2-0 (0-0)
+
+
+
+» Matchday 4
+  02.04.
+    16:00  Giwa FC                    v Rangers International FC   1-0 (1-0)
+    16:00  Kano Pillars FC            v Warri Wolves FC            2-0 (1-0)
+  09.04.
+    16:00  Kaduna United FC           v Bayelsa United FC          2-0 (1-0)
+  11.05.
+    16:00  Nembe City FC              v Taraba FC                  1-0 (0-0)
+  28.03.
+    16:00  Gombe United FC            v Heartland FC               2-1 (0-1)
+  29.03.
+    16:00  El-Kanemi Warriors FC      v Akwa United FC             1-1
+    16:00  Nasarawa United FC         v Lobi Stars FC              2-0
+    16:00  Rivers United FC           v Sunshine Stars FC          2-1
+    16:00  Sharks FC                  v Crown FC                   3-0
+  30.03.
+    16:00  Enyimba FC                 v Abia Warriors FC           0-1
+
+
+
+» Matchday 5
+  05.04.
+    16:00  Sharks FC                  v Rivers United FC           0-0 (0-0)
+  06.04.
+    16:00  Abia Warriors FC           v Kano Pillars FC            0-0 (0-0)
+    16:00  Akwa United FC             v Nembe City FC              2-0
+    16:00  Bayelsa United FC          v El-Kanemi Warriors FC      1-1
+    16:00  Crown FC                   v Gombe United FC            1-0
+    16:00  Heartland FC               v Nasarawa United FC         0-0 (0-0)
+    16:00  Lobi Stars FC              v Kaduna United FC           1-0
+    16:00  Rangers International FC   v Sunshine Stars FC          0-0 (0-0)
+    16:00  Taraba FC                  v Enyimba FC                 1-0
+    16:00  Warri Wolves FC            v Giwa FC                    2-0
+
+
+
+» Matchday 6
+  12.04.
+    16:00  Kaduna United FC           v Heartland FC               1-1 (1-0)
+    16:00  Rivers United FC           v Rangers International FC   0-0 (0-0)
+  13.04.
+    14:00  El-Kanemi Warriors FC      v Lobi Stars FC              2-0
+    16:00  Enyimba FC                 v Akwa United FC             1-0
+    16:00  Giwa FC                    v Abia Warriors FC           0-0
+    16:00  Gombe United FC            v Sharks FC                  1-0
+    16:00  Kano Pillars FC            v Taraba FC                  3-1
+    16:00  Nasarawa United FC         v Crown FC                   1-0
+    16:00  Nembe City FC              v Bayelsa United FC          0-2
+    16:00  Sunshine Stars FC          v Warri Wolves FC            3-2
+
+
+
+» Matchday 7
+  11.05.
+    16:00  Bayelsa United FC          v Enyimba FC                 2-1 (1-1)
+  19.04.
+    16:00  Sharks FC                  v Nasarawa United FC         2-0
+  20.04.
+    16:00  Abia Warriors FC           v Sunshine Stars FC          1-0 (0-0)
+    16:00  Akwa United FC             v Kano Pillars FC            1-0 (0-0)
+    16:00  Crown FC                   v Kaduna United FC           1-0 (0-0)
+    16:00  Gombe United FC            v Rivers United FC           1-1 (0-0)
+    16:00  Heartland FC               v El-Kanemi Warriors FC      0-0 (0-0)
+    16:00  Lobi Stars FC              v Nembe City FC              1-0 (0-0)
+    16:00  Taraba FC                  v Giwa FC                    0-1 (0-1)
+    16:00  Warri Wolves FC            v Rangers International FC   1-0
+
+
+
+» Matchday 8
+  11.06.
+    15:00  Kano Pillars FC            v Bayelsa United FC          1-0 (1-0)
+  23.04.
+    16:00  El-Kanemi Warriors FC      v Crown FC                   1-0
+    16:00  Enyimba FC                 v Lobi Stars FC              3-0
+    16:00  Giwa FC                    v Akwa United FC             1-0
+    16:00  Kaduna United FC           v Sharks FC                  1-2
+    16:00  Nasarawa United FC         v Gombe United FC            1-0
+    16:00  Nembe City FC              v Heartland FC               1-1
+    16:00  Rangers International FC   v Abia Warriors FC           2-1
+    16:00  Rivers United FC           v Warri Wolves FC            1-0
+    16:00  Sunshine Stars FC          v Taraba FC                  1-0
+
+
+
+» Matchday 9
+  15.06.
+    16:00  Bayelsa United FC          v Giwa FC                    2-1
+  26.04.
+    16:00  Heartland FC               v Enyimba FC                 1-0 (0-0)
+  27.04.
+    15:00  Taraba FC                  v Rangers International FC   2-0 (1-0)
+    16:00  Abia Warriors FC           v Warri Wolves FC            0-1 (0-1)
+    16:00  Akwa United FC             v Sunshine Stars FC          2-2 (0-1)
+    16:00  Crown FC                   v Nembe City FC              1-1 (1-0)
+    16:00  Gombe United FC            v Kaduna United FC           1-0 (1-0)
+    16:00  Lobi Stars FC              v Kano Pillars FC            2-0 (0-0)
+    16:00  Nasarawa United FC         v Rivers United FC           2-1 (1-0)
+    16:00  Sharks FC                  v El-Kanemi Warriors FC      2-0 (1-0)
+
+
+
+» Matchday 10
+  30.04.
+    16:00  El-Kanemi Warriors FC      v Gombe United FC            3-1
+    16:00  Enyimba FC                 v Crown FC                   1-0 (1-0)
+    16:00  Giwa FC                    v Lobi Stars FC              2-1 (0-1)
+    16:00  Kaduna United FC           v Nasarawa United FC         0-0 (0-0)
+    16:00  Kano Pillars FC            v Heartland FC               1-1 (0-1)
+    16:00  Nembe City FC              v Sharks FC                  0-0 (0-0)
+    16:00  Rangers International FC   v Akwa United FC             3-0 (0-0)
+    16:00  Rivers United FC           v Abia Warriors FC           3-0 (2-0)
+    16:00  Sunshine Stars FC          v Bayelsa United FC          2-1
+    16:00  Warri Wolves FC            v Taraba FC                  1-0 (0-0)
+
+
+
+» Matchday 11
+  07.05.
+    16:00  Akwa United FC             v Warri Wolves FC            2-0 (1-0)
+    16:00  Bayelsa United FC          v Rangers International FC   4-3
+    16:00  Crown FC                   v Kano Pillars FC            1-1
+    16:00  Heartland FC               v Giwa FC                    1-0 (1-0)
+    16:00  Kaduna United FC           v Rivers United FC           1-0
+    16:00  Lobi Stars FC              v Sunshine Stars FC          1-1 (1-1)
+    16:00  Nasarawa United FC         v El-Kanemi Warriors FC      1-0 (0-0)
+    16:00  Sharks FC                  v Enyimba FC                 1-1
+    16:00  Taraba FC                  v Abia Warriors FC           1-0
+  08.05.
+    16:00  Gombe United FC            v Nembe City FC              6-0
+
+
+
+» Matchday 12
+  14.05.
+    16:00  Akwa United FC             v Taraba FC                  0-0
+    16:00  Bayelsa United FC          v Abia Warriors FC           1-3
+    16:00  Crown FC                   v Sunshine Stars FC          2-1
+    16:00  El-Kanemi Warriors FC      v Rivers United FC           1-1
+    16:00  Gombe United FC            v Kano Pillars FC            2-3
+    16:00  Kaduna United FC           v Nembe City FC              3-0
+    16:00  Lobi Stars FC              v Warri Wolves FC            4-3
+    16:00  Nasarawa United FC         v Enyimba FC                 3-1
+    16:00  Sharks FC                  v Giwa FC                    2-1
+    16:15  Heartland FC               v Rangers International FC   2-0
+
+
+
+» Matchday 13
+  17.05.
+    16:00  Kano Pillars FC            v Nasarawa United FC         2-0
+    16:00  Rivers United FC           v Akwa United FC             1-0
+    16:00  Sunshine Stars FC          v Sharks FC                  3-3
+  18.05.
+    16:00  Abia Warriors FC           v Lobi Stars FC              2-1
+    16:00  Enyimba FC                 v Kaduna United FC           1-0
+    16:00  Giwa FC                    v Gombe United FC            1-0
+    16:00  Nembe City FC              v El-Kanemi Warriors FC      1-0
+    16:00  Rangers International FC   v Crown FC                   2-0
+    16:00  Taraba FC                  v Bayelsa United FC          2-1
+    16:00  Warri Wolves FC            v Heartland FC               1-0
+
+
+
+» Matchday 14
+  21.05.
+    16:00  Bayelsa United FC          v Akwa United FC             1-0 (1-0)
+    16:00  Crown FC                   v Warri Wolves FC            2-1 (1-1)
+    16:00  El-Kanemi Warriors FC      v Enyimba FC                 1-1 (0-1)
+    16:00  Heartland FC               v Abia Warriors FC           1-1 (0-1)
+    16:00  Kaduna United FC           v Kano Pillars FC            2-2
+    16:00  Lobi Stars FC              v Taraba FC                  3-1 (2-0)
+    16:00  Nasarawa United FC         v Giwa FC                    2-0 (2-0)
+    16:00  Nembe City FC              v Rivers United FC           1-0 (1-0)
+    16:00  Sharks FC                  v Rangers International FC   1-0
+  22.05.
+    16:00  Gombe United FC            v Sunshine Stars FC          1-1
+
+
+
+» Matchday 15
+  24.05.
+    16:00  Rivers United FC           v Bayelsa United FC          2-0 (1-0)
+  25.05.
+    16:00  Abia Warriors FC           v Crown FC                   3-0
+    16:00  Akwa United FC             v Lobi Stars FC              1-0
+    16:00  Enyimba FC                 v Nembe City FC              3-0
+    16:00  Giwa FC                    v Kaduna United FC           4-0
+    16:00  Kano Pillars FC            v El-Kanemi Warriors FC      2-1
+    16:00  Rangers International FC   v Gombe United FC            3-3
+    16:00  Sunshine Stars FC          v Nasarawa United FC         1-0
+    16:00  Taraba FC                  v Heartland FC               1-0
+    16:00  Warri Wolves FC            v Sharks FC                  1-1
+
+
+
+» Matchday 16
+  28.05.
+    16:00  Crown FC                   v Taraba FC                  2-0 (1-0)
+    16:00  El-Kanemi Warriors FC      v Giwa FC                    2-0 (0-0)
+    16:00  Enyimba FC                 v Rivers United FC           1-0 (1-0)
+    16:00  Gombe United FC            v Warri Wolves FC            1-1 (1-1)
+    16:00  Heartland FC               v Akwa United FC             1-0 (1-0)
+    16:00  Lobi Stars FC              v Bayelsa United FC          2-0 (0-0)
+    16:00  Nasarawa United FC         v Rangers International FC   2-0 (0-0)
+    16:00  Nembe City FC              v Kano Pillars FC            1-1 (1-1)
+    16:00  Sharks FC                  v Abia Warriors FC           2-1 (2-0)
+  29.05.
+    16:00  Kaduna United FC           v Sunshine Stars FC          2-0
+
+
+
+» Matchday 17
+  01.06.
+    16:00  Abia Warriors FC           v Gombe United FC            2-1
+    16:00  Akwa United FC             v Crown FC                   2-1
+    16:00  Kano Pillars FC            v Enyimba FC                 1-0
+    16:00  Rangers International FC   v Kaduna United FC           1-0
+    16:00  Sunshine Stars FC          v El-Kanemi Warriors FC      3-2
+    16:00  Taraba FC                  v Sharks FC                  1-0
+    16:00  Warri Wolves FC            v Nasarawa United FC         2-1
+  31.05.
+    16:00  Bayelsa United FC          v Heartland FC               3-4 (1-3)
+    16:00  Giwa FC                    v Nembe City FC              3-0
+    16:00  Rivers United FC           v Lobi Stars FC              3-1 (1-0)
+
+
+
+» Matchday 18
+  04.06.
+    14:00  El-Kanemi Warriors FC      v Kaduna United FC           4-0
+    16:00  Abia Warriors FC           v Akwa United FC             4-1
+    16:00  Enyimba FC                 v Gombe United FC            2-0
+    16:00  Giwa FC                    v Crown FC                   2-0
+    16:00  Kano Pillars FC            v Sharks FC                  4-1
+    16:00  Nembe City FC              v Nasarawa United FC         0-0 (0-0)
+    16:00  Rangers International FC   v Lobi Stars FC              3-1
+    16:00  Rivers United FC           v Taraba FC                  2-0
+    16:00  Sunshine Stars FC          v Heartland FC               2-2
+  05.06.
+    09:00  Warri Wolves FC            v Bayelsa United FC          3-0
+
+
+
+» Matchday 19
+  08.06.
+    16:00  Enyimba FC                 v Giwa FC                    0-0
+    16:00  Gombe United FC            v Taraba FC                  1-0
+    16:00  Heartland FC               v Lobi Stars FC              1-0
+    16:00  Kaduna United FC           v Warri Wolves FC            1-0
+    16:00  Nasarawa United FC         v Abia Warriors FC           3-1
+    16:00  Nembe City FC              v Sunshine Stars FC          2-2
+    16:00  Sharks FC                  v Akwa United FC             1-2
+    16:15  Crown FC                   v Bayelsa United FC          2-2
+  14.06.
+    14:00  Kano Pillars FC            v Rivers United FC           3-1 (1-1)
+    16:00  El-Kanemi Warriors FC      v Rangers International FC   2-1 (1-1)
+
+
+
+» Matchday 20
+  27.07.
+    16:00  Abia Warriors FC           v Nasarawa United FC         2-1 (0-0)
+    16:00  Akwa United FC             v Sharks FC                  1-0 (1-0)
+    16:00  Bayelsa United FC          v Crown FC                   1-0 (1-0)
+    16:00  Giwa FC                    v Enyimba FC                 1-0 (1-0)
+    16:00  Lobi Stars FC              v Heartland FC               2-1 (0-1)
+    16:00  Rangers International FC   v El-Kanemi Warriors FC      2-0 (0-0)
+    16:00  Rivers United FC           v Kano Pillars FC            1-0 (1-0)
+    16:00  Sunshine Stars FC          v Nembe City FC              1-0 (0-0)
+    16:00  Taraba FC                  v Gombe United FC            1-0 (0-0)
+    16:00  Warri Wolves FC            v Kaduna United FC           1-0 (0-0)
+
+
+
+» Matchday 21
+  06.08.
+    14:00  El-Kanemi Warriors FC      v Warri Wolves FC            2-0 (1-0)
+    16:00  Crown FC                   v Lobi Stars FC              0-1
+    16:00  Enyimba FC                 v Sunshine Stars FC          2-0 (1-0)
+    16:00  Gombe United FC            v Akwa United FC             2-0
+    16:00  Kaduna United FC           v Abia Warriors FC           3-2
+    16:00  Kano Pillars FC            v Giwa FC                    3-1 (2-1)
+    16:00  Nasarawa United FC         v Taraba FC                  2-0
+    16:00  Nembe City FC              v Rangers International FC   2-1
+    16:00  Rivers United FC           v Heartland FC               1-0 (1-0)
+    16:00  Sharks FC                  v Bayelsa United FC          2-0 (1-0)
+
+
+
+» Matchday 22
+  10.08.
+    16:00  Abia Warriors FC           v El-Kanemi Warriors FC      2-0 (2-0)
+    16:00  Akwa United FC             v Nasarawa United FC         0-0 (0-0)
+    16:00  Bayelsa United FC          v Gombe United FC            0-1
+    16:00  Giwa FC                    v Rivers United FC           1-1 (1-1)
+    16:00  Heartland FC               v Crown FC                   1-0 (1-0)
+    16:00  Lobi Stars FC              v Sharks FC                  1-0
+    16:00  Rangers International FC   v Enyimba FC                 1-1 (1-1)
+    16:00  Sunshine Stars FC          v Kano Pillars FC            3-0 (1-0)
+    16:00  Taraba FC                  v Kaduna United FC           2-0 (0-0)
+    16:00  Warri Wolves FC            v Nembe City FC              1-0
+
+
+
+» Matchday 23
+  13.08.
+    14:00  El-Kanemi Warriors FC      v Taraba FC                  1-0 (0-0)
+    14:00  Rivers United FC           v Crown FC                   2-0 (1-0)
+    16:00  Enyimba FC                 v Warri Wolves FC            2-0 (1-0)
+    16:00  Giwa FC                    v Sunshine Stars FC          1-0 (0-0)
+    16:00  Gombe United FC            v Lobi Stars FC              3-1
+    16:00  Kaduna United FC           v Akwa United FC             1-0
+    16:00  Kano Pillars FC            v Rangers International FC   3-2 (2-2)
+    16:00  Nasarawa United FC         v Bayelsa United FC          2-1
+    16:00  Nembe City FC              v Abia Warriors FC           1-0 (1-0)
+    16:00  Sharks FC                  v Heartland FC               1-1 (1-0)
+
+
+
+» Matchday 24
+  17.08.
+    16:00  Abia Warriors FC           v Enyimba FC                 3-3 (2-2)
+    16:00  Akwa United FC             v El-Kanemi Warriors FC      1-0 (0-0)
+    16:00  Bayelsa United FC          v Kaduna United FC           3-0 (0-0)
+    16:00  Crown FC                   v Sharks FC                  2-0 (1-0)
+    16:00  Heartland FC               v Gombe United FC            2-0 (2-0)
+    16:00  Lobi Stars FC              v Nasarawa United FC         1-0 (0-0)
+    16:00  Rangers International FC   v Giwa FC                    1-0 (1-0)
+    16:00  Sunshine Stars FC          v Rivers United FC           0-0 (0-0)
+    16:00  Taraba FC                  v Nembe City FC              1-1 (0-1)
+    16:00  Warri Wolves FC            v Kano Pillars FC            2-1 (1-0)
+
+
+
+» Matchday 25
+  23.08.
+    16:00  Gombe United FC            v Crown FC                   2-0 (1-0)
+    16:00  Kano Pillars FC            v Abia Warriors FC           1-0 (1-0)
+    16:00  Rivers United FC           v Sharks FC                  0-0 (0-0)
+    16:00  Sunshine Stars FC          v Rangers International FC   2-1 (1-1)
+  24.08.
+    16:00  El-Kanemi Warriors FC      v Bayelsa United FC          2-0 (1-0)
+    16:00  Enyimba FC                 v Taraba FC                  3-0 (2-0)
+    16:00  Giwa FC                    v Warri Wolves FC            2-0 (1-0)
+    16:00  Kaduna United FC           v Lobi Stars FC              1-0 (1-0)
+    16:00  Nasarawa United FC         v Heartland FC               1-0 (0-0)
+    16:00  Nembe City FC              v Akwa United FC             0-0 (0-0)
+
+
+
+» Matchday 26
+  17.09.
+    14:00  Bayelsa United FC          v Nembe City FC              3-1 (1-0)
+    16:00  Abia Warriors FC           v Giwa FC                    2-0 (1-0)
+    16:00  Akwa United FC             v Enyimba FC                 1-0 (1-0)
+    16:00  Crown FC                   v Nasarawa United FC         3-0 (1-0)
+    16:00  Heartland FC               v Kaduna United FC           2-0 (2-0)
+    16:00  Lobi Stars FC              v El-Kanemi Warriors FC      0-0 (0-0)
+    16:00  Rangers International FC   v Rivers United FC           2-1 (1-0)
+    16:00  Sharks FC                  v Gombe United FC            1-0 (0-0)
+    16:00  Taraba FC                  v Kano Pillars FC            1-1 (0-1)
+    16:00  Warri Wolves FC            v Sunshine Stars FC          1-0 (1-0)
+
+
+
+» Matchday 27
+  21.09.
+    14:00  El-Kanemi Warriors FC      v Heartland FC               2-1 (2-0)
+    16:00  Enyimba FC                 v Bayelsa United FC          4-0 (2-0)
+    16:00  Giwa FC                    v Taraba FC                  3-0 (2-0)
+    16:00  Kaduna United FC           v Crown FC                   5-0 (3-0)
+    16:00  Kano Pillars FC            v Akwa United FC             1-0 (1-0)
+    16:00  Nasarawa United FC         v Sharks FC                  2-0 (1-0)
+    16:00  Rangers International FC   v Warri Wolves FC            1-0 (1-0)
+    16:00  Rivers United FC           v Gombe United FC            2-0 (0-0)
+    16:00  Sunshine Stars FC          v Abia Warriors FC           3-1 (2-0)
+    16:00  Nembe City FC              v Lobi Stars FC              0-3
+
+
+
+» Matchday 28
+  24.09.
+    16:00  Abia Warriors FC           v Rangers International FC   0-0 (0-0)
+    16:00  Akwa United FC             v Giwa FC                    2-0 (1-0)
+    16:00  Bayelsa United FC          v Kano Pillars FC            2-0
+    16:00  Crown FC                   v El-Kanemi Warriors FC      1-0 (1-0)
+    16:00  Gombe United FC            v Nasarawa United FC         1-0
+    16:00  Heartland FC               v Nembe City FC              2-0 (1-0)
+    16:00  Lobi Stars FC              v Enyimba FC                 1-0 (0-0)
+    16:00  Sharks FC                  v Kaduna United FC           3-0 (3-0)
+    16:00  Taraba FC                  v Sunshine Stars FC          2-2
+    16:00  Warri Wolves FC            v Rivers United FC           3-1 (1-0)
+
+
+
+» Matchday 29
+  28.09.
+    14:00  El-Kanemi Warriors FC      v Sharks FC                  1-1 (0-1)
+    16:00  Enyimba FC                 v Heartland FC               0-0 (0-0)
+    16:00  Giwa FC                    v Bayelsa United FC          2-0 (1-0)
+    16:00  Kaduna United FC           v Gombe United FC            3-0 (2-0)
+    16:00  Kano Pillars FC            v Lobi Stars FC              2-0 (2-0)
+    16:00  Nembe City FC              v Crown FC                   1-1 (0-0)
+    16:00  Rangers International FC   v Taraba FC                  1-0 (1-0)
+    16:00  Rivers United FC           v Nasarawa United FC         2-1 (1-0)
+    16:00  Sunshine Stars FC          v Akwa United FC             0-0 (0-0)
+  29.09.
+    09:00  Warri Wolves FC            v Abia Warriors FC           1-0 (0-0)
+
+
+
+» Matchday 30
+  05.10.
+    16:00  Abia Warriors FC           v Rivers United FC           2-1 (1-0)
+    16:00  Akwa United FC             v Rangers International FC   0-0 (0-0)
+    16:00  Bayelsa United FC          v Sunshine Stars FC          2-0 (1-0)
+    16:00  Crown FC                   v Enyimba FC                 0-0 (0-0)
+    16:00  Gombe United FC            v El-Kanemi Warriors FC      0-0 (0-0)
+    16:00  Heartland FC               v Kano Pillars FC            1-0 (1-0)
+    16:00  Lobi Stars FC              v Giwa FC                    2-1 (1-0)
+    16:00  Nasarawa United FC         v Kaduna United FC           3-1 (2-0)
+    16:00  Sharks FC                  v Nembe City FC              3-0 (3-0)
+    16:00  Taraba FC                  v Warri Wolves FC            3-1 (2-0)
+
+
+
+» Matchday 31
+  08.10.
+    12:00  El-Kanemi Warriors FC      v Nasarawa United FC         3-1 (2-1)
+    14:00  Abia Warriors FC           v Taraba FC                  2-0 (1-0)
+    14:00  Enyimba FC                 v Sharks FC                  5-2 (1-2)
+    14:00  Giwa FC                    v Heartland FC               1-0 (1-0)
+    14:00  Kano Pillars FC            v Crown FC                   3-2 (2-0)
+    14:00  Rangers International FC   v Bayelsa United FC          2-1 (2-0)
+    14:00  Rivers United FC           v Kaduna United FC           2-0 (1-0)
+    14:00  Sunshine Stars FC          v Lobi Stars FC              3-0 (2-0)
+    14:00  Warri Wolves FC            v Akwa United FC             2-0 (2-0)
+  09.10.
+    08:00  Nembe City FC              v Gombe United FC            0-3
+
+
+
+» Matchday 32
+  12.10.
+    16:00  Akwa United FC             v Abia Warriors FC           0-0 (0-0)
+    16:00  Bayelsa United FC          v Warri Wolves FC            1-2 (0-2)
+    16:00  Crown FC                   v Giwa FC                    1-1 (0-1)
+    16:00  Gombe United FC            v Enyimba FC                 2-1 (0-0)
+    16:00  Heartland FC               v Sunshine Stars FC          3-0 (3-0)
+    16:00  Kaduna United FC           v El-Kanemi Warriors FC      0-0 (0-0)
+    16:00  Lobi Stars FC              v Rangers International FC   2-0 (2-0)
+    16:00  Nasarawa United FC         v Nembe City FC              3-2 (1-1)
+    16:00  Sharks FC                  v Kano Pillars FC            1-0 (1-0)
+    16:00  Taraba FC                  v Rivers United FC           2-0 (1-0)
+
+
+
+» Matchday 33
+  05.11.
+    10:00  Giwa FC                    v Sharks FC                  2-1 (1-1)
+  16.10.
+    16:00  Abia Warriors FC           v Bayelsa United FC          2-0 (1-0)
+    16:00  Enyimba FC                 v Nasarawa United FC         3-1 (2-0)
+    16:00  Kano Pillars FC            v Gombe United FC            2-0 (1-0)
+    16:00  Nembe City FC              v Kaduna United FC           4-0 (1-0)
+    16:00  Rangers International FC   v Heartland FC               1-0 (1-0)
+    16:00  Rivers United FC           v El-Kanemi Warriors FC      1-0 (0-0)
+    16:00  Sunshine Stars FC          v Crown FC                   2-0 (1-0)
+    16:00  Taraba FC                  v Akwa United FC             2-1 (2-0)
+    16:00  Warri Wolves FC            v Lobi Stars FC              3-0 (0-0)
+
+
+
+» Matchday 34
+  19.10.
+    16:00  Akwa United FC             v Rivers United FC           2-1 (1-1)
+    16:00  Bayelsa United FC          v Taraba FC                  3-0 (1-0)
+    16:00  Crown FC                   v Rangers International FC   0-3 (0-3)
+    16:00  El-Kanemi Warriors FC      v Nembe City FC              3-0 (2-0)
+    16:00  Gombe United FC            v Giwa FC                    1-1 (1-1)
+    16:00  Heartland FC               v Warri Wolves FC            1-0 (0-0)
+    16:00  Kaduna United FC           v Enyimba FC                 0-1 (0-0)
+    16:00  Lobi Stars FC              v Abia Warriors FC           2-1
+    16:00  Nasarawa United FC         v Kano Pillars FC            1-0 (0-0)
+    16:00  Sharks FC                  v Sunshine Stars FC          4-1 (2-1)
+
+
+
+» Matchday 35
+  22.10.
+    16:00  Abia Warriors FC           v Heartland FC               1-1 (0-0)
+    16:00  Akwa United FC             v Bayelsa United FC          1-0 (1-0)
+    16:00  Enyimba FC                 v El-Kanemi Warriors FC      1-0 (0-0)
+    16:00  Kano Pillars FC            v Kaduna United FC           2-1 (1-1)
+    16:00  Rangers International FC   v Sharks FC                  1-0 (1-0)
+    16:00  Rivers United FC           v Nembe City FC              6-0 (3-0)
+    16:00  Sunshine Stars FC          v Gombe United FC            2-0 (0-0)
+    16:00  Taraba FC                  v Lobi Stars FC              2-0 (0-0)
+    16:00  Warri Wolves FC            v Crown FC                   7-1 (5-1)
+  30.10.
+    16:00  Giwa FC                    v Nasarawa United FC         0-3
+
+
+
+» Matchday 36
+  26.10.
+    16:00  Bayelsa United FC          v Rivers United FC           3-1 (2-1)
+    16:00  Crown FC                   v Abia Warriors FC           0-1 (0-1)
+    16:00  El-Kanemi Warriors FC      v Kano Pillars FC            1-3 (1-2)
+    16:00  Gombe United FC            v Rangers International FC   1-0 (1-0)
+    16:00  Heartland FC               v Taraba FC                  0-0 (0-0)
+    16:00  Kaduna United FC           v Giwa FC                    1-1 (0-1)
+    16:00  Lobi Stars FC              v Akwa United FC             1-0 (0-0)
+    16:00  Nasarawa United FC         v Sunshine Stars FC          2-1 (2-1)
+    16:00  Nembe City FC              v Enyimba FC                 1-2 (1-0)
+    16:00  Sharks FC                  v Warri Wolves FC            1-1 (0-1)
+
+
+
+» Matchday 37
+  02.11.
+    16:00  Abia Warriors FC           v Sharks FC                  3-0 (2-0)
+    16:00  Akwa United FC             v Heartland FC               0-1 (0-0)
+    16:00  Bayelsa United FC          v Lobi Stars FC              4-1 (2-1)
+    16:00  Giwa FC                    v El-Kanemi Warriors FC      4-2 (3-2)
+    16:00  Kano Pillars FC            v Nembe City FC              4-0 (2-0)
+    16:00  Rangers International FC   v Nasarawa United FC         0-0 (0-0)
+    16:00  Rivers United FC           v Enyimba FC                 1-1 (0-0)
+    16:00  Sunshine Stars FC          v Kaduna United FC           4-0 (2-0)
+    16:00  Taraba FC                  v Crown FC                   3-0 (2-0)
+    16:00  Warri Wolves FC            v Gombe United FC            1-1 (0-1)
+
+
+
+» Matchday 38
+  16.11.
+    16:00  Crown FC                   v Akwa United FC             3-0 (2-0)
+    16:00  El-Kanemi Warriors FC      v Sunshine Stars FC          3-0 (1-0)
+    16:00  Enyimba FC                 v Kano Pillars FC            3-1 (2-1)
+    16:00  Gombe United FC            v Abia Warriors FC           4-1 (3-0)
+    16:00  Heartland FC               v Bayelsa United FC          1-2 (1-0)
+    16:00  Kaduna United FC           v Rangers International FC   1-2 (1-1)
+    16:00  Lobi Stars FC              v Rivers United FC           1-0 (0-0)
+    16:00  Nasarawa United FC         v Warri Wolves FC            2-2 (0-2)
+    16:00  Nembe City FC              v Giwa FC                    0-4 (0-0)
+    16:00  Sharks FC                  v Taraba FC                  0-1 (0-1)
+
