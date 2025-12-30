@@ -1,0 +1,636 @@
+= Nigeria | Premier Football League 2010/2011
+
+# Date       Fri Jan/01 2010 - Thu Dec/23 2010 (356d)
+# Teams      20
+# Matches    380
+
+
+
+» Matchday 1
+  06.11.
+    16:00  Kaduna United FC           v Kano Pillars FC            1-1
+  07.11.
+    16:00  ABS FC                     v Zamfara United FC          0-0
+    16:00  Enyimba FC                 v Ocean Boys FC              1-0
+    16:00  Gombe United FC            v Heartland FC               2-0
+    16:00  Niger Tornadoes FC         v Crown FC                   1-0
+    16:00  Plateau United FC          v Rivers United FC           0-1
+    16:00  Rangers International FC   v Lobi Stars FC              3-2
+    16:00  Sharks FC                  v JUTH FC                    1-1
+    16:00  Shooting Stars SC          v Sunshine Stars FC          2-1
+    16:00  Warri Wolves FC            v Kwara United FC            1-0
+
+
+
+» Matchday 2
+  13.11.
+    16:00  Crown FC                   v Warri Wolves FC            1-1
+    16:00  JUTH FC                    v Gombe United FC            1-1
+    16:00  Kano Pillars FC            v ABS FC                     1-0
+    16:00  Kwara United FC            v Kaduna United FC           1-1
+    16:00  Rivers United FC           v Rangers International FC   1-0
+  14.11.
+    16:00  Heartland FC               v Niger Tornadoes FC         2-1
+    16:00  Lobi Stars FC              v Sharks FC                  1-1
+    16:00  Ocean Boys FC              v Plateau United FC          1-1
+    16:00  Sunshine Stars FC          v Enyimba FC                 2-1
+    16:00  Zamfara United FC          v Shooting Stars SC          2-2
+
+
+
+» Matchday 3
+  20.11.
+    16:00  Gombe United FC            v Lobi Stars FC              1-0
+    16:00  Kwara United FC            v Kano Pillars FC            1-0
+    16:00  Niger Tornadoes FC         v JUTH FC                    0-0
+    16:00  Plateau United FC          v Sunshine Stars FC          0-1
+    16:00  Sharks FC                  v Rivers United FC           1-0
+    16:00  Shooting Stars SC          v ABS FC                     2-0
+  21.11.
+    16:00  Enyimba FC                 v Zamfara United FC          1-0
+    16:00  Kaduna United FC           v Crown FC                   2-1
+    16:00  Rangers International FC   v Ocean Boys FC              5-2
+    16:00  Warri Wolves FC            v Heartland FC               2-2
+
+
+
+» Matchday 4
+  27.11.
+    16:00  ABS FC                     v Enyimba FC                 1-0
+    16:00  Crown FC                   v Kwara United FC            1-0
+    16:00  JUTH FC                    v Warri Wolves FC            0-1
+    16:00  Kano Pillars FC            v Shooting Stars SC          1-0
+    16:00  Rivers United FC           v Gombe United FC            3-0
+  28.11.
+    16:00  Heartland FC               v Kaduna United FC           2-1
+    16:00  Lobi Stars FC              v Niger Tornadoes FC         2-1
+    16:00  Ocean Boys FC              v Sharks FC                  1-1
+    16:00  Sunshine Stars FC          v Rangers International FC   2-0
+    16:00  Zamfara United FC          v Plateau United FC          3-2
+
+
+
+» Matchday 5
+  04.12.
+    16:00  Gombe United FC            v Ocean Boys FC              1-0
+    16:00  Kwara United FC            v Heartland FC               1-0
+    16:00  Niger Tornadoes FC         v Rivers United FC           1-0
+    16:00  Plateau United FC          v ABS FC                     1-0
+    16:00  Sharks FC                  v Sunshine Stars FC          2-1
+  05.12.
+    16:00  Crown FC                   v Kano Pillars FC            2-0
+    16:00  Enyimba FC                 v Shooting Stars SC          1-0
+    16:00  Kaduna United FC           v JUTH FC                    1-1
+    16:00  Rangers International FC   v Zamfara United FC          5-1
+    16:00  Warri Wolves FC            v Lobi Stars FC              2-1
+
+
+
+» Matchday 6
+  11.12.
+    16:00  ABS FC                     v Rangers International FC   1-0
+    16:00  JUTH FC                    v Kwara United FC            0-2
+    16:00  Kano Pillars FC            v Enyimba FC                 3-0
+    16:00  Rivers United FC           v Warri Wolves FC            1-0
+  12.12.
+    16:00  Heartland FC               v Crown FC                   1-0
+    16:00  Lobi Stars FC              v Kaduna United FC           2-1
+    16:00  Ocean Boys FC              v Niger Tornadoes FC         2-0
+    16:00  Shooting Stars SC          v Plateau United FC          2-1
+    16:00  Sunshine Stars FC          v Gombe United FC            3-1
+    16:00  Zamfara United FC          v Sharks FC                  2-1
+
+
+
+» Matchday 7
+  05.01.
+    16:00  Warri Wolves FC            v Ocean Boys FC              1-0
+  18.12.
+    16:00  Gombe United FC            v Zamfara United FC          2-0
+    16:00  Kwara United FC            v Lobi Stars FC              1-0
+    16:00  Niger Tornadoes FC         v Sunshine Stars FC          0-0
+    16:00  Plateau United FC          v Enyimba FC                 1-0
+    16:00  Sharks FC                  v ABS FC                     1-0
+  19.12.
+    16:00  Crown FC                   v JUTH FC                    1-0
+    16:00  Heartland FC               v Kano Pillars FC            2-0
+    16:00  Kaduna United FC           v Rivers United FC           2-1
+    16:00  Rangers International FC   v Shooting Stars SC          2-0
+
+
+
+» Matchday 8
+  06.01.
+    16:00  Shooting Stars SC          v Sharks FC                  2-0
+  22.12.
+    16:00  ABS FC                     v Gombe United FC            3-2
+    16:00  Lobi Stars FC              v Crown FC                   1-0
+    16:00  Rivers United FC           v Kwara United FC            1-0
+    16:00  Sunshine Stars FC          v Warri Wolves FC            3-1
+    16:00  Zamfara United FC          v Niger Tornadoes FC         2-2
+  23.12.
+    16:00  Enyimba FC                 v Rangers International FC   1-0
+    16:00  JUTH FC                    v Heartland FC               1-0
+    16:00  Kano Pillars FC            v Plateau United FC          5-1
+    16:00  Ocean Boys FC              v Kaduna United FC           2-1 (2-1)
+
+
+
+» Matchday 9
+  01.01.
+    16:00  Gombe United FC            v Shooting Stars SC          1-0
+    16:00  Kwara United FC            v Ocean Boys FC              2-0
+    16:00  Niger Tornadoes FC         v ABS FC                     0-0
+    16:00  Sharks FC                  v Enyimba FC                 2-1
+  02.01.
+    16:00  Crown FC                   v Rivers United FC           0-1
+    16:00  Heartland FC               v Lobi Stars FC              0-0
+    16:00  Kaduna United FC           v Sunshine Stars FC          1-0
+    16:00  Rangers International FC   v Plateau United FC          1-0
+    16:00  Warri Wolves FC            v Zamfara United FC          3-0
+  03.02.
+    16:00  JUTH FC                    v Kano Pillars FC            1-2
+
+
+
+» Matchday 10
+  08.01.
+    16:00  ABS FC                     v Warri Wolves FC            1-0
+    16:00  Kano Pillars FC            v Rangers International FC   1-0
+    16:00  Ocean Boys FC              v Crown FC                   2-0
+    16:00  Rivers United FC           v Heartland FC               1-0
+  09.01.
+    16:00  Enyimba FC                 v Gombe United FC            2-0
+    16:00  Shooting Stars SC          v Niger Tornadoes FC         2-1
+    16:00  Sunshine Stars FC          v Kwara United FC            1-0
+    16:00  Zamfara United FC          v Kaduna United FC           0-1
+  09.02.
+    16:00  Plateau United FC          v Sharks FC                  0-1
+  10.02.
+    16:00  Lobi Stars FC              v JUTH FC                    2-1
+
+
+
+» Matchday 11
+  06.03.
+    16:00  Crown FC                   v Sunshine Stars FC          1-1
+    16:00  Heartland FC               v Ocean Boys FC              4-0 (0-0)
+    16:00  Kaduna United FC           v ABS FC                     1-0
+    16:00  Lobi Stars FC              v Kano Pillars FC            1-0
+    16:00  Niger Tornadoes FC         v Enyimba FC                 1-0
+    16:00  Warri Wolves FC            v Shooting Stars SC          1-0
+  12.01.
+    16:00  Gombe United FC            v Plateau United FC          1-0
+    16:00  JUTH FC                    v Rivers United FC           1-3
+    16:00  Kwara United FC            v Zamfara United FC          3-0
+    16:00  Sharks FC                  v Rangers International FC   1-1
+
+
+
+» Matchday 12
+  15.01.
+    16:00  ABS FC                     v Kwara United FC            3-0
+    16:00  Kano Pillars FC            v Sharks FC                  1-1
+    16:00  Plateau United FC          v Niger Tornadoes FC         2-2
+    16:00  Rivers United FC           v Lobi Stars FC              1-0
+  16.01.
+    16:00  Enyimba FC                 v Warri Wolves FC            0-0
+    16:00  Rangers International FC   v Gombe United FC            1-0
+    16:00  Shooting Stars SC          v Kaduna United FC           1-1
+    16:00  Sunshine Stars FC          v Heartland FC               2-1
+    16:00  Zamfara United FC          v Crown FC                   1-0
+  16.02.
+    16:00  Ocean Boys FC              v JUTH FC                    4-1
+
+
+
+» Matchday 13
+  21.01.
+    16:00  JUTH FC                    v Sunshine Stars FC          0-0
+  22.01.
+    16:00  Gombe United FC            v Sharks FC                  0-0
+    16:00  Heartland FC               v Zamfara United FC          3-0
+    16:00  Kwara United FC            v Shooting Stars SC          1-0
+    16:00  Niger Tornadoes FC         v Rangers International FC   0-0
+    16:00  Rivers United FC           v Kano Pillars FC            1-0
+  23.01.
+    16:00  Crown FC                   v ABS FC                     0-2
+    16:00  Kaduna United FC           v Enyimba FC                 1-0
+    16:00  Lobi Stars FC              v Ocean Boys FC              1-0
+    16:00  Warri Wolves FC            v Plateau United FC          3-1
+
+
+
+» Matchday 14
+  09.02.
+    16:00  Enyimba FC                 v Kwara United FC            3-0
+  16.02.
+    16:00  Kano Pillars FC            v Gombe United FC            2-1
+  29.01.
+    16:00  ABS FC                     v Heartland FC               1-0
+    16:00  Plateau United FC          v Kaduna United FC           0-0
+    16:00  Sharks FC                  v Niger Tornadoes FC         3-0
+  30.01.
+    16:00  Ocean Boys FC              v Rivers United FC           2-0
+    16:00  Rangers International FC   v Warri Wolves FC            0-0
+    16:00  Shooting Stars SC          v Crown FC                   1-1
+    16:00  Sunshine Stars FC          v Lobi Stars FC              2-0
+    16:00  Zamfara United FC          v JUTH FC                    1-0
+
+
+
+» Matchday 15
+  05.02.
+    16:00  Kwara United FC            v Plateau United FC          1-1
+    16:00  Niger Tornadoes FC         v Gombe United FC            1-0
+    16:00  Rivers United FC           v Sunshine Stars FC          1-0
+  06.02.
+    16:00  Crown FC                   v Enyimba FC                 1-2
+    16:00  Heartland FC               v Shooting Stars SC          1-0
+    16:00  JUTH FC                    v ABS FC                     2-2
+    16:00  Kaduna United FC           v Rangers International FC   1-0
+    16:00  Lobi Stars FC              v Zamfara United FC          1-0
+    16:00  Ocean Boys FC              v Kano Pillars FC            1-0
+    16:00  Warri Wolves FC            v Sharks FC                  3-0
+
+
+
+» Matchday 16
+  08.02.
+    16:00  ABS FC                     v Lobi Stars FC              3-1
+    16:00  Gombe United FC            v Warri Wolves FC            1-1
+    16:00  Kano Pillars FC            v Niger Tornadoes FC         0-0
+    16:00  Plateau United FC          v Crown FC                   1-2
+    16:00  Rangers International FC   v Kwara United FC            1-0
+    16:00  Sharks FC                  v Kaduna United FC           2-1
+    16:00  Shooting Stars SC          v JUTH FC                    3-0
+    16:00  Sunshine Stars FC          v Ocean Boys FC              2-0
+    16:00  Zamfara United FC          v Rivers United FC           0-1
+  16.02.
+    16:00  Enyimba FC                 v Heartland FC               1-0 (0-0)
+
+
+
+» Matchday 17
+  19.02.
+    16:00  Kwara United FC            v Sharks FC                  3-0
+    16:00  Rivers United FC           v ABS FC                     2-0
+  20.02.
+    16:00  Crown FC                   v Rangers International FC   0-1
+    16:00  Heartland FC               v Plateau United FC          2-1
+    16:00  Kaduna United FC           v Gombe United FC            3-0
+    16:00  Lobi Stars FC              v Shooting Stars SC          1-0
+    16:00  Ocean Boys FC              v Zamfara United FC          3-1
+    16:00  Sunshine Stars FC          v Kano Pillars FC            3-0
+    16:00  Warri Wolves FC            v Niger Tornadoes FC         1-0
+  21.02.
+    16:00  JUTH FC                    v Enyimba FC                 2-1 (2-0)
+
+
+
+» Matchday 18
+  02.03.
+    17:00  Enyimba FC                 v Lobi Stars FC              3-0 (1-0)
+  09.03.
+    16:00  Rangers International FC   v Heartland FC               1-0
+    16:00  Zamfara United FC          v Sunshine Stars FC          0-1
+  26.02.
+    17:00  Plateau United FC          v JUTH FC                    1-0
+    17:00  Sharks FC                  v Crown FC                   4-3
+  27.02.
+    16:00  Gombe United FC            v Kwara United FC            0-2
+    16:00  Kano Pillars FC            v Warri Wolves FC            1-0
+    17:00  Niger Tornadoes FC         v Kaduna United FC           0-0 (0-0)
+    17:00  Shooting Stars SC          v Rivers United FC           1-1
+  28.02.
+    17:00  ABS FC                     v Ocean Boys FC              2-1
+
+
+
+» Matchday 19
+  12.03.
+    16:00  Kwara United FC            v Niger Tornadoes FC         2-0
+    16:00  Rivers United FC           v Enyimba FC                 2-1
+    16:00  Zamfara United FC          v Kano Pillars FC            1-1
+  13.03.
+    16:00  Crown FC                   v Gombe United FC            2-0
+    16:00  Heartland FC               v Sharks FC                  0-0 (0-0)
+    16:00  JUTH FC                    v Rangers International FC   2-0
+    16:00  Kaduna United FC           v Warri Wolves FC            1-0
+    16:00  Lobi Stars FC              v Plateau United FC          1-0
+    16:00  Ocean Boys FC              v Shooting Stars SC          1-0
+    16:00  Sunshine Stars FC          v ABS FC                     1-0
+
+
+
+» Matchday 20
+  11.05.
+    16:00  Enyimba FC                 v Rivers United FC           3-0
+    16:00  Gombe United FC            v Crown FC                   3-1
+    16:00  Kano Pillars FC            v Zamfara United FC          3-0
+    16:00  Niger Tornadoes FC         v Kwara United FC            2-1
+    16:00  Plateau United FC          v Lobi Stars FC              2-0
+    16:00  Rangers International FC   v JUTH FC                    4-0
+    16:00  Sharks FC                  v Heartland FC               1-0
+    16:00  Warri Wolves FC            v Kaduna United FC           1-0
+    17:00  Shooting Stars SC          v Ocean Boys FC              1-0 (0-0)
+  25.05.
+    16:00  ABS FC                     v Sunshine Stars FC          0-1
+
+
+
+» Matchday 21
+  14.05.
+    16:00  Kwara United FC            v Warri Wolves FC            2-0
+    16:00  Rivers United FC           v Plateau United FC          3-0 (1-0)
+  15.05.
+    16:00  Crown FC                   v Niger Tornadoes FC         2-3
+    16:00  Heartland FC               v Gombe United FC            1-0
+    16:00  JUTH FC                    v Sharks FC                  0-0 (0-0)
+    16:00  Kano Pillars FC            v Kaduna United FC           2-0
+    16:00  Lobi Stars FC              v Rangers International FC   1-0
+    16:00  Ocean Boys FC              v Enyimba FC                 0-0 (0-0)
+    16:00  Sunshine Stars FC          v Shooting Stars SC          1-0
+    16:00  Zamfara United FC          v ABS FC                     1-1
+
+
+
+» Matchday 22
+  18.05.
+    16:00  Enyimba FC                 v Sunshine Stars FC          4-0
+    16:00  Gombe United FC            v JUTH FC                    1-0
+    16:00  Kaduna United FC           v Kwara United FC            3-0
+    16:00  Niger Tornadoes FC         v Heartland FC               3-1
+    16:00  Plateau United FC          v Ocean Boys FC              3-1
+    16:00  Rangers International FC   v Rivers United FC           2-2
+    16:00  Sharks FC                  v Lobi Stars FC              1-0
+    16:00  Shooting Stars SC          v Zamfara United FC          1-0
+    16:00  Warri Wolves FC            v Crown FC                   2-1
+  19.05.
+    16:00  ABS FC                     v Kano Pillars FC            0-1
+
+
+
+» Matchday 23
+  22.05.
+    16:00  ABS FC                     v Shooting Stars SC          4-1
+    16:00  Crown FC                   v Kaduna United FC           1-0
+    16:00  Heartland FC               v Warri Wolves FC            0-0 (0-0)
+    16:00  JUTH FC                    v Niger Tornadoes FC         2-1
+    16:00  Kano Pillars FC            v Kwara United FC            2-1
+    16:00  Lobi Stars FC              v Gombe United FC            0-0 (0-0)
+    16:00  Ocean Boys FC              v Rangers International FC   1-0
+    16:00  Rivers United FC           v Sharks FC                  1-0
+    16:00  Sunshine Stars FC          v Plateau United FC          4-1 (0-0)
+    16:00  Zamfara United FC          v Enyimba FC                 1-0
+
+
+
+» Matchday 24
+  01.06.
+    16:00  Enyimba FC                 v ABS FC                     1-0
+    16:00  Gombe United FC            v Rivers United FC           1-0
+    16:00  Kwara United FC            v Crown FC                   2-0
+    16:00  Niger Tornadoes FC         v Lobi Stars FC              1-1
+    16:00  Plateau United FC          v Zamfara United FC          2-0
+    16:00  Rangers International FC   v Sunshine Stars FC          1-0
+    16:00  Sharks FC                  v Ocean Boys FC              1-0
+    16:00  Shooting Stars SC          v Kano Pillars FC            2-1 (1-0)
+    16:00  Warri Wolves FC            v JUTH FC                    2-1 (1-1)
+  15.06.
+    16:00  Kaduna United FC           v Heartland FC               1-0
+
+
+
+» Matchday 25
+  04.06.
+    16:00  Rivers United FC           v Niger Tornadoes FC         3-0
+  05.06.
+    16:00  ABS FC                     v Plateau United FC          2-2
+    16:00  Heartland FC               v Kwara United FC            2-1
+    16:00  JUTH FC                    v Kaduna United FC           1-0
+    16:00  Kano Pillars FC            v Crown FC                   1-0
+    16:00  Lobi Stars FC              v Warri Wolves FC            1-0
+    16:00  Ocean Boys FC              v Gombe United FC            2-0
+    16:00  Shooting Stars SC          v Enyimba FC                 1-0 (0-0)
+    16:00  Sunshine Stars FC          v Sharks FC                  2-0
+    16:00  Zamfara United FC          v Rangers International FC   0-0 (0-0)
+
+
+
+» Matchday 26
+  08.06.
+    16:00  Enyimba FC                 v Kano Pillars FC            1-0
+    16:00  Kwara United FC            v JUTH FC                    1-0
+    16:00  Niger Tornadoes FC         v Ocean Boys FC              3-0
+    16:00  Plateau United FC          v Shooting Stars SC          1-0
+    16:00  Rangers International FC   v ABS FC                     2-0
+    16:00  Sharks FC                  v Zamfara United FC          2-2
+  09.06.
+    16:00  Crown FC                   v Heartland FC               1-0 (1-0)
+    16:00  Warri Wolves FC            v Rivers United FC           4-1
+  20.08.
+    16:00  Kaduna United FC           v Lobi Stars FC              4-2
+  29.06.
+    16:00  Gombe United FC            v Sunshine Stars FC          3-0
+
+
+
+» Matchday 27
+  12.06.
+    16:00  ABS FC                     v Sharks FC                  1-1 (0-0)
+    16:00  Enyimba FC                 v Plateau United FC          3-0
+    16:00  JUTH FC                    v Crown FC                   0-1
+    16:00  Kano Pillars FC            v Heartland FC               3-0 (0-0)
+    16:00  Lobi Stars FC              v Kwara United FC            2-1
+    16:00  Ocean Boys FC              v Warri Wolves FC            1-1
+    16:00  Shooting Stars SC          v Rangers International FC   0-1
+    16:00  Zamfara United FC          v Gombe United FC            1-0
+  15.06.
+    16:00  Sunshine Stars FC          v Niger Tornadoes FC         2-0
+  29.06.
+    16:00  Rivers United FC           v Kaduna United FC           1-0
+
+
+
+» Matchday 28
+  09.10.
+    16:00  Rangers International FC   v Enyimba FC                 1-0 (0-0)
+  18.06.
+    16:00  Gombe United FC            v ABS FC                     3-0
+    16:00  Kwara United FC            v Rivers United FC           1-1
+    16:00  Plateau United FC          v Kano Pillars FC            2-2
+    16:00  Sharks FC                  v Shooting Stars SC          1-1
+  19.06.
+    16:00  Crown FC                   v Lobi Stars FC              0-1
+    16:00  Kaduna United FC           v Ocean Boys FC              2-0
+    16:00  Niger Tornadoes FC         v Zamfara United FC          1-0
+    16:00  Warri Wolves FC            v Sunshine Stars FC          2-0
+  29.06.
+    16:00  Heartland FC               v JUTH FC                    4-2
+
+
+
+» Matchday 29
+  25.06.
+    16:00  Kano Pillars FC            v JUTH FC                    1-0
+    16:00  Lobi Stars FC              v Heartland FC               3-0
+    16:00  Plateau United FC          v Rangers International FC   0-1
+  26.06.
+    16:00  ABS FC                     v Niger Tornadoes FC         0-1
+    16:00  Enyimba FC                 v Sharks FC                  1-0
+    16:00  Ocean Boys FC              v Kwara United FC            1-1
+    16:00  Shooting Stars SC          v Gombe United FC            1-1
+    16:00  Sunshine Stars FC          v Kaduna United FC           4-1 (3-0)
+    16:00  Zamfara United FC          v Warri Wolves FC            1-0
+  31.07.
+    16:00  Rivers United FC           v Crown FC                   2-0
+
+
+
+» Matchday 30
+  02.07.
+    16:00  Kwara United FC            v Sunshine Stars FC          3-2
+    16:00  Sharks FC                  v Plateau United FC          2-1
+  03.07.
+    16:00  Crown FC                   v Ocean Boys FC              1-0
+    16:00  Gombe United FC            v Enyimba FC                 0-0 (0-0)
+    16:00  Heartland FC               v Rivers United FC           2-0
+    16:00  JUTH FC                    v Lobi Stars FC              0-0 (0-0)
+    16:00  Kaduna United FC           v Zamfara United FC          2-0
+    16:00  Niger Tornadoes FC         v Shooting Stars SC          2-0
+    16:00  Rangers International FC   v Kano Pillars FC            0-1
+    16:00  Warri Wolves FC            v ABS FC                     1-0
+
+
+
+» Matchday 31
+  06.07.
+    16:00  ABS FC                     v Kaduna United FC           2-1
+    16:00  Enyimba FC                 v Niger Tornadoes FC         2-0
+    16:00  Kano Pillars FC            v Lobi Stars FC              2-0
+    16:00  Plateau United FC          v Gombe United FC            2-1
+    16:00  Rivers United FC           v JUTH FC                    2-0
+    16:00  Shooting Stars SC          v Warri Wolves FC            1-1
+    16:00  Sunshine Stars FC          v Crown FC                   2-1
+    16:00  Zamfara United FC          v Kwara United FC            1-0
+  12.08.
+    16:00  Ocean Boys FC              v Heartland FC               1-0 (0-0)
+  13.07.
+    16:00  Rangers International FC   v Sharks FC                  2-1
+
+
+
+» Matchday 32
+  09.07.
+    16:00  Gombe United FC            v Rangers International FC   0-0 (0-0)
+    16:00  Kwara United FC            v ABS FC                     0-3
+    16:00  Sharks FC                  v Kano Pillars FC            1-0
+  10.07.
+    16:00  Crown FC                   v Zamfara United FC          3-0
+    16:00  Heartland FC               v Sunshine Stars FC          2-0
+    16:00  JUTH FC                    v Ocean Boys FC              2-0
+    16:00  Kaduna United FC           v Shooting Stars SC          2-0
+    16:00  Lobi Stars FC              v Rivers United FC           2-1
+    16:00  Niger Tornadoes FC         v Plateau United FC          1-1 (1-0)
+    16:00  Warri Wolves FC            v Enyimba FC                 2-0
+
+
+
+» Matchday 33
+  16.07.
+    16:00  Kano Pillars FC            v Rivers United FC           3-2
+    16:00  Plateau United FC          v Warri Wolves FC            2-0
+    16:00  Sharks FC                  v Gombe United FC            1-0
+    16:00  Shooting Stars SC          v Kwara United FC            1-0
+  17.07.
+    16:00  ABS FC                     v Crown FC                   1-0
+    16:00  Rangers International FC   v Niger Tornadoes FC         4-0
+    16:00  Zamfara United FC          v Heartland FC               1-0
+  20.10.
+    16:00  Enyimba FC                 v Kaduna United FC           4-1 (2-0)
+  21.08.
+    16:00  Sunshine Stars FC          v JUTH FC                    2-0
+  24.08.
+    16:00  Ocean Boys FC              v Lobi Stars FC              1-1 (0-0)
+
+
+
+» Matchday 34
+  01.09.
+    16:00  Lobi Stars FC              v Sunshine Stars FC          1-1
+  06.10.
+    15:00  Kwara United FC            v Enyimba FC                 2-1
+  23.07.
+    16:00  Gombe United FC            v Kano Pillars FC            2-1
+    16:00  Rivers United FC           v Ocean Boys FC              0-0
+  24.07.
+    16:00  Crown FC                   v Shooting Stars SC          2-2
+    16:00  Heartland FC               v ABS FC                     2-0
+    16:00  JUTH FC                    v Zamfara United FC          2-0
+    16:00  Kaduna United FC           v Plateau United FC          1-1
+  27.07.
+    16:00  Niger Tornadoes FC         v Sharks FC                  3-2
+    16:00  Warri Wolves FC            v Rangers International FC   1-0
+
+
+
+» Matchday 35
+  23.10.
+    15:00  Sharks FC                  v Warri Wolves FC            2-0
+    16:00  ABS FC                     v JUTH FC                    1-0
+    16:00  Enyimba FC                 v Crown FC                   2-1
+    16:00  Gombe United FC            v Niger Tornadoes FC         1-0
+    16:00  Kano Pillars FC            v Ocean Boys FC              2-0
+    16:00  Plateau United FC          v Kwara United FC            7-0
+    16:00  Rangers International FC   v Kaduna United FC           3-0
+    16:00  Shooting Stars SC          v Heartland FC               1-0
+    16:00  Sunshine Stars FC          v Rivers United FC           3-2
+    16:00  Zamfara United FC          v Lobi Stars FC              2-1
+
+
+
+» Matchday 36
+  09.11.
+    16:00  Crown FC                   v Plateau United FC          1-0
+    16:00  Heartland FC               v Enyimba FC                 2-0
+    16:00  JUTH FC                    v Shooting Stars SC          2-1
+    16:00  Kaduna United FC           v Sharks FC                  1-1
+    16:00  Kwara United FC            v Rangers International FC   3-2
+    16:00  Lobi Stars FC              v ABS FC                     0-1
+    16:00  Niger Tornadoes FC         v Kano Pillars FC            1-0
+    16:00  Ocean Boys FC              v Sunshine Stars FC          2-2
+    16:00  Rivers United FC           v Zamfara United FC          4-0
+    16:00  Warri Wolves FC            v Gombe United FC            2-1
+
+
+
+» Matchday 37
+  13.11.
+    16:00  ABS FC                     v Rivers United FC           0-1
+    16:00  Enyimba FC                 v JUTH FC                    2-0
+    16:00  Gombe United FC            v Kaduna United FC           2-0
+    16:00  Kano Pillars FC            v Sunshine Stars FC          1-0
+    16:00  Niger Tornadoes FC         v Warri Wolves FC            1-1
+    16:00  Plateau United FC          v Heartland FC               1-0
+    16:00  Rangers International FC   v Crown FC                   2-1
+    16:00  Sharks FC                  v Kwara United FC            1-0
+    16:00  Shooting Stars SC          v Lobi Stars FC              1-0
+    16:00  Zamfara United FC          v Ocean Boys FC              0-1
+
+
+
+» Matchday 38
+  02.11.
+    16:00  Heartland FC               v Rangers International FC   3-1
+    16:00  Kaduna United FC           v Niger Tornadoes FC         3-1
+    16:00  Kwara United FC            v Gombe United FC            1-1
+    16:00  Lobi Stars FC              v Enyimba FC                 1-1
+    16:00  Ocean Boys FC              v ABS FC                     3-0
+    16:00  Rivers United FC           v Shooting Stars SC          1-0
+    16:00  Warri Wolves FC            v Kano Pillars FC            2-1
+    17:00  Crown FC                   v Sharks FC                  1-3 (0-0)
+    17:00  JUTH FC                    v Plateau United FC          0-1 (0-0)
+  04.11.
+    16:00  Sunshine Stars FC          v Zamfara United FC          3-1 (1-1)
+
