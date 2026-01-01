@@ -1,56 +1,9 @@
-= Nigeria | Premier Football League 2018/2019
+= Nigeria Professional Football League 2018/2019
 
-# Date       Sat Jan/13 2018 - Tue Jun/12 2018 (150d)
 # Teams      25
 # Matches    279
-# Stages     NPFL - Championship Group (15)  NPFL (264)
+# Stages     NPFL (264)  NPFL - Championship Group (15)
 
-
-
-======================================================================
-  NPFL - CHAMPIONSHIP GROUP
-======================================================================
-
-
-
-» Matchday 1
-  04.06.
-    15:00  Enyimba FC                 v Rangers International FC   1-0 (0-0)
-    17:00  Kano Pillars FC            v Akwa United FC             2-2 (2-2)
-    19:00  Ifeanyi Ubah FC            v Lobi Stars FC              1-3 (1-1)
-
-
-
-» Matchday 2
-  06.06.
-    15:00  Akwa United FC             v Ifeanyi Ubah FC            2-1 (0-1)
-    17:00  Rangers International FC   v Lobi Stars FC              2-1 (2-0)
-  07.06.
-    09:00  Kano Pillars FC            v Enyimba FC                 2-0 (0-0)
-
-
-
-» Matchday 3
-  08.06.
-    15:00  Kano Pillars FC            v Ifeanyi Ubah FC            2-1 (1-0)
-    17:00  Lobi Stars FC              v Enyimba FC                 1-3 (1-2)
-    19:00  Akwa United FC             v Rangers International FC   3-3 (0-0)
-
-
-
-» Matchday 4
-  10.06.
-    15:00  Rangers International FC   v Kano Pillars FC            1-1 (0-0)
-    17:00  Akwa United FC             v Lobi Stars FC              0-0 (0-0)
-    19:00  Enyimba FC                 v Ifeanyi Ubah FC            3-1 (2-1)
-
-
-
-» Matchday 5
-  12.06.
-    15:00  Ifeanyi Ubah FC            v Rangers International FC   2-4 (0-2)
-    17:00  Enyimba FC                 v Akwa United FC             3-0 (1-0)
-    19:00  Lobi Stars FC              v Kano Pillars FC            0-1 (0-0)
 
 
 ======================================================================
@@ -91,8 +44,8 @@
     16:00  Sunshine Stars FC          v Lobi Stars FC              3-0 (0-0)
   16.01.
     16:00  Abia Warriors FC           v Go Round FC                1-2 (0-1)
-    16:00  Heartland FC               v Plateau United FC          3-0 (0-0)
     16:00  Ifeanyi Ubah FC            v Nasarawa United FC         1-0 (0-0)
+    16:00  Heartland FC               v Plateau United FC          3-0 (0-0)
     16:00  MFM FC                     v Kwara United FC            2-0 (0-0)
     16:00  Niger Tornadoes FC         v Rivers United FC           1-1 (0-0)
   17.01.
@@ -127,9 +80,9 @@
     16:00  Akwa United FC             v Plateau United FC          2-2 (1-0)
     16:00  Bendel FC                  v Kwara United FC            0-0 (0-0)
     16:00  Enyimba FC                 v Lobi Stars FC              0-0 (0-0)
+    16:00  Ifeanyi Ubah FC            v Yobe Stars FC              1-0 (1-0)
     16:00  Gombe United FC            v Kano Pillars FC            2-0 (1-0)
     16:00  Heartland FC               v Go Round FC                1-0 (0-0)
-    16:00  Ifeanyi Ubah FC            v Yobe Stars FC              1-0 (1-0)
     16:00  Katsina United FC          v Wikki Tourists FC          1-0 (0-0)
     16:00  MFM FC                     v Rangers International FC   1-0 (1-0)
     16:00  Niger Tornadoes FC         v Remo Stars FC              0-0 (0-0)
@@ -162,9 +115,9 @@
     16:00  Akwa United FC             v Go Round FC                3-0 (0-0)
     16:00  El-Kanemi Warriors FC      v Yobe Stars FC              2-1 (1-1)
     16:00  Enyimba FC                 v Rivers United FC           2-0 (1-0)
+    16:00  Ifeanyi Ubah FC            v Abia Warriors FC           1-2 (1-1)
     16:00  Gombe United FC            v Plateau United FC          0-0 (0-0)
     16:00  Heartland FC               v Kada City FC               3-2 (1-2)
-    16:00  Ifeanyi Ubah FC            v Abia Warriors FC           1-2 (1-1)
     16:00  Kano Pillars FC            v Nasarawa United FC         3-0 (3-0)
     16:00  Katsina United FC          v Niger Tornadoes FC         3-1 (1-0)
     16:00  MFM FC                     v Wikki Tourists FC          1-0 (0-0)
@@ -179,8 +132,8 @@
 » Matchday 7
   06.02.
     16:00  Abia Warriors FC           v Heartland FC               1-0 (1-0)
-    16:00  Go Round FC                v Kano Pillars FC            2-1 (1-1)
     16:00  Ifeanyi Ubah FC            v Gombe United FC            2-0 (0-0)
+    16:00  Go Round FC                v Kano Pillars FC            2-1 (1-1)
     16:00  Kada City FC               v El-Kanemi Warriors FC      2-1 (0-1)
     16:00  Remo Stars FC              v MFM FC                     0-1 (0-1)
     16:00  Rivers United FC           v Kwara United FC            0-0 (0-0)
@@ -226,9 +179,9 @@
     16:00  Yobe Stars FC              v Plateau United FC          0-0 (0-0)
   14.02.
     16:00  Abia Warriors FC           v Akwa United FC             1-1 (1-1)
+    16:00  Ifeanyi Ubah FC            v El-Kanemi Warriors FC      1-0 (1-0)
     16:00  Go Round FC                v Nasarawa United FC         1-1 (1-1)
     16:00  Heartland FC               v Gombe United FC            1-1 (1-0)
-    16:00  Ifeanyi Ubah FC            v El-Kanemi Warriors FC      1-0 (1-0)
     16:00  Remo Stars FC              v Kwara United FC            2-1 (1-1)
     16:00  Sunshine Stars FC          v Bendel FC                  1-1 (0-0)
   20.03.
@@ -258,8 +211,8 @@
   17.03.
     16:00  Abia Warriors FC           v Plateau United FC          1-1 (0-0)
     16:00  El-Kanemi Warriors FC      v Gombe United FC            0-0 (0-0)
-    16:00  Heartland FC               v Akwa United FC             1-2 (0-1)
     16:00  Ifeanyi Ubah FC            v Kano Pillars FC            1-0 (0-0)
+    16:00  Heartland FC               v Akwa United FC             1-2 (0-1)
     16:00  Kada City FC               v Nasarawa United FC         2-1 (0-0)
     16:00  Katsina United FC          v Kwara United FC            1-0 (1-0)
     16:00  MFM FC                     v Bendel FC                  2-0 (1-0)
@@ -297,9 +250,9 @@
     16:00  Abia Warriors FC           v Nasarawa United FC         0-1 (0-0)
     16:00  Bendel FC                  v Wikki Tourists FC          2-0 (0-0)
     16:00  El-Kanemi Warriors FC      v Akwa United FC             4-1 (1-0)
+    16:00  Ifeanyi Ubah FC            v Plateau United FC          1-0 (0-0)
     16:00  Gombe United FC            v Yobe Stars FC              1-0 (1-0)
     16:00  Heartland FC               v Kano Pillars FC            2-1 (2-1)
-    16:00  Ifeanyi Ubah FC            v Plateau United FC          1-0 (0-0)
     16:00  Katsina United FC          v Lobi Stars FC              2-0 (1-0)
     16:00  MFM FC                     v Enyimba FC                 1-1 (0-0)
     16:00  Niger Tornadoes FC         v Rangers International FC   0-0 (0-0)
@@ -335,9 +288,9 @@
     16:00  Akwa United FC             v Kano Pillars FC            3-0 (1-0)
     16:00  El-Kanemi Warriors FC      v Plateau United FC          1-0 (0-0)
     16:00  Enyimba FC                 v Kwara United FC            2-0 (1-0)
+    16:00  Ifeanyi Ubah FC            v Go Round FC                2-0 (1-0)
     16:00  Gombe United FC            v Delta Force FC             1-0 (0-0)
     16:00  Heartland FC               v Nasarawa United FC         3-1 (2-1)
-    16:00  Ifeanyi Ubah FC            v Go Round FC                2-0 (1-0)
     16:00  Katsina United FC          v Rivers United FC           2-1 (1-0)
     16:00  MFM FC                     v Lobi Stars FC              0-0 (0-0)
     16:00  Niger Tornadoes FC         v Wikki Tourists FC          2-0 (1-0)
@@ -369,9 +322,9 @@
   05.05.
     16:00  Akwa United FC             v Nasarawa United FC         2-1 (2-1)
     16:00  Enyimba FC                 v Rangers International FC   3-1 (2-0)
+    16:00  Ifeanyi Ubah FC            v Delta Force FC             2-1 (1-1)
     16:00  Gombe United FC            v Abia Warriors FC           1-0 (0-0)
     16:00  Heartland FC               v Yobe Stars FC              2-0 (0-0)
-    16:00  Ifeanyi Ubah FC            v Delta Force FC             2-1 (1-1)
     16:00  Kano Pillars FC            v Plateau United FC          1-0 (1-0)
     16:00  Katsina United FC          v Remo Stars FC              3-2 (3-1)
     16:00  Kwara United FC            v Lobi Stars FC              0-0 (0-0)
@@ -422,8 +375,8 @@
     16:00  Niger Tornadoes FC         v MFM FC                     1-0 (1-0)
     16:00  Rangers International FC   v Bendel FC                  1-0 (0-0)
   16.05.
-    16:00  Go Round FC                v Plateau United FC          1-1 (1-0)
     16:00  Ifeanyi Ubah FC            v Heartland FC               1-2 (0-1)
+    16:00  Go Round FC                v Plateau United FC          1-1 (1-0)
     16:00  Katsina United FC          v Sunshine Stars FC          3-1 (3-0)
     16:00  Nasarawa United FC         v Gombe United FC            2-1 (2-0)
     16:00  Remo Stars FC              v Enyimba FC                 0-0 (0-0)
@@ -455,9 +408,9 @@
   26.05.
     16:00  Abia Warriors FC           v Kano Pillars FC            3-0 (1-0)
     16:00  Delta Force FC             v Plateau United FC          0-0 (0-0)
+    16:00  Ifeanyi Ubah FC            v Akwa United FC             2-1 (1-0)
     16:00  Go Round FC                v Gombe United FC            0-1 (0-1)
     16:00  Heartland FC               v El-Kanemi Warriors FC      2-0 (1-0)
-    16:00  Ifeanyi Ubah FC            v Akwa United FC             2-1 (1-0)
     16:00  Katsina United FC          v Enyimba FC                 2-1 (1-0)
     16:00  Niger Tornadoes FC         v Kwara United FC            0-1 (0-1)
     16:00  Remo Stars FC              v Lobi Stars FC              0-0 (0-0)
@@ -465,4 +418,50 @@
     16:00  Sunshine Stars FC          v MFM FC                     4-2 (3-1)
     16:00  Wikki Tourists FC          v Rangers International FC   1-0 (0-0)
     16:00  Yobe Stars FC              v Nasarawa United FC         1-2 (1-2)
+
+
+======================================================================
+  NPFL - CHAMPIONSHIP GROUP
+======================================================================
+
+
+
+» Matchday 1
+  04.06.
+    15:00  Enyimba FC                 v Rangers International FC   1-0 (0-0)
+    17:00  Kano Pillars FC            v Akwa United FC             2-2 (2-2)
+    19:00  Ifeanyi Ubah FC            v Lobi Stars FC              1-3 (1-1)
+
+
+
+» Matchday 2
+  06.06.
+    15:00  Akwa United FC             v Ifeanyi Ubah FC            2-1 (0-1)
+    17:00  Rangers International FC   v Lobi Stars FC              2-1 (2-0)
+  07.06.
+    09:00  Kano Pillars FC            v Enyimba FC                 2-0 (0-0)
+
+
+
+» Matchday 3
+  08.06.
+    15:00  Kano Pillars FC            v Ifeanyi Ubah FC            2-1 (1-0)
+    17:00  Lobi Stars FC              v Enyimba FC                 1-3 (1-2)
+    19:00  Akwa United FC             v Rangers International FC   3-3 (0-0)
+
+
+
+» Matchday 4
+  10.06.
+    15:00  Rangers International FC   v Kano Pillars FC            1-1 (0-0)
+    17:00  Akwa United FC             v Lobi Stars FC              0-0 (0-0)
+    19:00  Enyimba FC                 v Ifeanyi Ubah FC            3-1 (2-1)
+
+
+
+» Matchday 5
+  12.06.
+    15:00  Ifeanyi Ubah FC            v Rangers International FC   2-4 (0-2)
+    17:00  Enyimba FC                 v Akwa United FC             3-0 (1-0)
+    19:00  Lobi Stars FC              v Kano Pillars FC            0-1 (0-0)
 
