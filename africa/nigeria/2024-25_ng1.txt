@@ -1,0 +1,637 @@
+= Nigeria Professional League 2024/2025
+
+# Date       Mon Jan/08 2024 - Tue Dec/31 2024 (358d)
+# Teams      20
+# Matches    380
+
+
+
+» Matchday 1
+  08.09.
+    16:00  Abia Warriors FC           v Remo Stars FC              0-2 (0-0)
+    16:00  Bendel FC                  v Rivers United FC           0-0 (0-0)
+    16:00  Heartland FC               v Enyimba FC                 1-3 (0-0)
+    16:00  Kano Pillars FC            v Ikorodu City FC            3-0 (0-0)
+    16:00  Kwara United FC            v Niger Tornadoes FC         1-2 (0-1)
+    16:00  Nasarawa United FC         v Shooting Stars SC          1-1 (0-0)
+    16:00  Plateau United FC          v Katsina United FC          1-0 (1-0)
+    16:00  Sunshine Stars FC          v Bayelsa United FC          3-0 (1-0)
+  09.09.
+    16:00  Lobi Stars FC              v Akwa United FC             0-0 (0-0)
+  31.08.
+    16:00  Rangers International FC   v El-Kanemi Warriors FC      0-0 (0-0)
+
+
+
+» Matchday 2
+  14.09.
+    15:00  Rivers United FC           v Heartland FC               3-1 (1-1)
+    17:30  Remo Stars FC              v Sunshine Stars FC          1-0 (1-0)
+  15.09.
+    15:00  Akwa United FC             v Abia Warriors FC           1-1 (0-1)
+    16:00  Bayelsa United FC          v Kano Pillars FC            1-1 (0-1)
+    16:00  Katsina United FC          v Bendel FC                  2-1 (1-1)
+    16:00  Niger Tornadoes FC         v Nasarawa United FC         0-0 (0-0)
+    17:30  Shooting Stars SC          v Plateau United FC          1-1 (1-1)
+  23.10.
+    15:00  El-Kanemi Warriors FC      v Kwara United FC            1-1 (0-0)
+  25.09.
+    16:00  Enyimba FC                 v Lobi Stars FC              2-1 (2-1)
+    16:00  Ikorodu City FC            v Rangers International FC   0-1 (0-1)
+
+
+
+» Matchday 3
+  02.10.
+    16:00  Bendel FC                  v Shooting Stars SC          1-0 (0-0)
+    16:00  Enyimba FC                 v Akwa United FC             1-0 (0-0)
+  03.10.
+    16:00  Rangers International FC   v Bayelsa United FC          1-0 (0-0)
+  21.09.
+    14:00  Lobi Stars FC              v Rivers United FC           0-1 (0-0)
+    16:00  Nasarawa United FC         v El-Kanemi Warriors FC      3-4 (2-3)
+  22.09.
+    15:00  Plateau United FC          v Niger Tornadoes FC         1-2 (0-1)
+    16:00  Heartland FC               v Katsina United FC          0-0 (0-0)
+    16:00  Kano Pillars FC            v Remo Stars FC              0-2 (0-1)
+    16:00  Sunshine Stars FC          v Abia Warriors FC           0-0 (0-0)
+    17:30  Kwara United FC            v Ikorodu City FC            0-0 (0-0)
+
+
+
+» Matchday 4
+  28.09.
+    15:00  Ikorodu City FC            v Nasarawa United FC         1-2 (1-1)
+    17:30  Akwa United FC             v Sunshine Stars FC          1-2 (0-1)
+  29.09.
+    15:00  El-Kanemi Warriors FC      v Plateau United FC          2-2 (0-1)
+    15:00  Niger Tornadoes FC         v Bendel FC                  1-1 (0-0)
+    15:00  Rivers United FC           v Enyimba FC                 2-0 (1-0)
+    16:00  Abia Warriors FC           v Kano Pillars FC            2-0 (2-0)
+    16:00  Bayelsa United FC          v Kwara United FC            1-1 (0-0)
+    16:00  Katsina United FC          v Lobi Stars FC              3-0 (1-0)
+    17:30  Remo Stars FC              v Rangers International FC   2-1 (0-0)
+    17:30  Shooting Stars SC          v Heartland FC               1-0 (1-0)
+
+
+
+» Matchday 5
+  05.10.
+    15:00  Lobi Stars FC              v Shooting Stars SC          1-0 (1-0)
+    16:00  Bendel FC                  v El-Kanemi Warriors FC      1-1 (1-1)
+  06.10.
+    14:00  Nasarawa United FC         v Bayelsa United FC          0-0 (0-0)
+    16:00  Heartland FC               v Niger Tornadoes FC         2-0 (1-0)
+    16:00  Kano Pillars FC            v Sunshine Stars FC          2-0 (1-0)
+    16:00  Kwara United FC            v Remo Stars FC              1-0 (0-0)
+    16:00  Plateau United FC          v Ikorodu City FC            1-0 (0-0)
+    16:00  Rangers International FC   v Abia Warriors FC           1-0 (0-0)
+    16:00  Rivers United FC           v Akwa United FC             2-1 (1-0)
+  07.10.
+    08:00  Enyimba FC                 v Katsina United FC          3-0 (3-0)
+
+
+
+» Matchday 6
+  12.10.
+    16:00  Ikorodu City FC            v Bendel FC                  3-0 (0-0)
+    16:00  Sunshine Stars FC          v Rangers International FC   1-0 (1-0)
+  13.10.
+    08:00  Abia Warriors FC           v Kwara United FC            1-0 (0-0)
+    15:00  Bayelsa United FC          v Plateau United FC          1-0 (1-0)
+    15:00  El-Kanemi Warriors FC      v Heartland FC               0-0 (0-0)
+    16:00  Akwa United FC             v Kano Pillars FC            2-0 (1-0)
+    16:00  Katsina United FC          v Rivers United FC           0-0 (0-0)
+    16:00  Niger Tornadoes FC         v Lobi Stars FC              1-1 (0-0)
+    16:00  Remo Stars FC              v Nasarawa United FC         3-0 (0-0)
+    17:30  Shooting Stars SC          v Enyimba FC                 0-0 (0-0)
+
+
+
+» Matchday 7
+  16.10.
+    14:00  Lobi Stars FC              v El-Kanemi Warriors FC      2-2 (1-0)
+    15:00  Rangers International FC   v Kano Pillars FC            3-4 (0-4)
+    16:00  Enyimba FC                 v Niger Tornadoes FC         1-1 (0-1)
+    16:00  Kwara United FC            v Sunshine Stars FC          3-0 (2-0)
+    16:00  Nasarawa United FC         v Abia Warriors FC           3-0 (0-0)
+  17.10.
+    15:00  Bendel FC                  v Bayelsa United FC          3-0 (1-0)
+    16:00  Heartland FC               v Ikorodu City FC            1-1 (0-1)
+    16:00  Katsina United FC          v Akwa United FC             1-0 (1-0)
+    16:00  Plateau United FC          v Remo Stars FC              3-1 (1-0)
+    16:00  Rivers United FC           v Shooting Stars SC          2-0 (0-0)
+
+
+
+» Matchday 8
+  20.10.
+    15:00  Bayelsa United FC          v Heartland FC               1-0 (0-0)
+    15:00  El-Kanemi Warriors FC      v Enyimba FC                 1-0 (1-0)
+    16:00  Abia Warriors FC           v Plateau United FC          3-1 (2-1)
+    16:00  Kano Pillars FC            v Kwara United FC            1-1 (0-0)
+    16:00  Sunshine Stars FC          v Nasarawa United FC         1-0 (1-0)
+    17:30  Remo Stars FC              v Bendel FC                  1-0 (1-0)
+  21.10.
+    15:00  Ikorodu City FC            v Lobi Stars FC              4-2 (2-2)
+    16:00  Niger Tornadoes FC         v Rivers United FC           0-1 (0-0)
+    17:30  Akwa United FC             v Rangers International FC   0-0 (0-0)
+    17:30  Shooting Stars SC          v Katsina United FC          1-0 (0-0)
+
+
+
+» Matchday 9
+  26.10.
+    15:00  Katsina United FC          v Niger Tornadoes FC         1-1 (0-1)
+    16:00  Bendel FC                  v Abia Warriors FC           0-1 (0-1)
+  27.10.
+    16:00  Enyimba FC                 v Ikorodu City FC            2-1 (1-0)
+    16:00  Heartland FC               v Remo Stars FC              1-0 (0-0)
+    16:00  Nasarawa United FC         v Kano Pillars FC            1-0 (1-0)
+    16:00  Plateau United FC          v Sunshine Stars FC          3-0 (1-0)
+    16:00  Rivers United FC           v El-Kanemi Warriors FC      1-1 (1-1)
+    16:00  Shooting Stars SC          v Akwa United FC             2-1 (1-0)
+  28.10.
+    16:00  Kwara United FC            v Rangers International FC   1-1 (1-1)
+    16:00  Lobi Stars FC              v Bayelsa United FC          2-1 (1-1)
+
+
+
+» Matchday 10
+  03.11.
+    15:00  El-Kanemi Warriors FC      v Katsina United FC          1-0 (0-0)
+    16:00  Abia Warriors FC           v Heartland FC               0-2 (0-1)
+    16:00  Akwa United FC             v Kwara United FC            2-1 (1-1)
+    16:00  Bayelsa United FC          v Enyimba FC                 1-1 (1-1)
+    16:00  Ikorodu City FC            v Rivers United FC           2-0 (0-0)
+    16:00  Kano Pillars FC            v Plateau United FC          2-1 (0-0)
+    16:00  Niger Tornadoes FC         v Shooting Stars SC          2-0 (1-0)
+    16:00  Rangers International FC   v Nasarawa United FC         2-0 (0-0)
+    16:00  Remo Stars FC              v Lobi Stars FC              1-0 (0-0)
+    16:00  Sunshine Stars FC          v Bendel FC                  1-2 (1-1)
+
+
+
+» Matchday 11
+  09.11.
+    16:00  Bendel FC                  v Kano Pillars FC            0-1 (0-0)
+    16:00  Lobi Stars FC              v Abia Warriors FC           3-1 (0-0)
+  10.11.
+    15:00  Katsina United FC          v Ikorodu City FC            1-2 (1-1)
+    16:00  Enyimba FC                 v Remo Stars FC              0-0 (0-0)
+    16:00  Heartland FC               v Sunshine Stars FC          1-0 (1-0)
+    16:00  Nasarawa United FC         v Kwara United FC            0-1 (0-1)
+    16:00  Niger Tornadoes FC         v Akwa United FC             1-0 (0-0)
+    16:00  Plateau United FC          v Rangers International FC   0-0 (0-0)
+    16:00  Rivers United FC           v Bayelsa United FC          0-1 (0-1)
+    17:30  Shooting Stars SC          v El-Kanemi Warriors FC      3-0 (2-0)
+
+
+
+» Matchday 12
+  16.11.
+    16:00  Akwa United FC             v Nasarawa United FC         1-0 (1-0)
+  17.11.
+    15:00  El-Kanemi Warriors FC      v Niger Tornadoes FC         1-0 (0-0)
+    15:45  Kano Pillars FC            v Heartland FC               2-2 (0-0)
+    16:00  Abia Warriors FC           v Enyimba FC                 1-1 (1-1)
+    16:00  Bayelsa United FC          v Katsina United FC          1-1 (0-0)
+    16:00  Ikorodu City FC            v Shooting Stars SC          2-1 (0-1)
+    16:00  Kwara United FC            v Plateau United FC          2-0 (0-0)
+    16:00  Rangers International FC   v Bendel FC                  3-2 (2-0)
+    16:00  Remo Stars FC              v Rivers United FC           0-0 (0-0)
+    16:00  Sunshine Stars FC          v Lobi Stars FC              1-0 (0-0)
+
+
+
+» Matchday 13
+  11.12.
+    16:00  Enyimba FC                 v Sunshine Stars FC          0-0 (0-0)
+  23.11.
+    15:00  El-Kanemi Warriors FC      v Akwa United FC             1-0 (1-0)
+    16:00  Bendel FC                  v Kwara United FC            3-1 (2-1)
+    16:00  Heartland FC               v Rangers International FC   0-0 (0-0)
+    16:00  Lobi Stars FC              v Kano Pillars FC            2-2 (2-0)
+    16:00  Niger Tornadoes FC         v Ikorodu City FC            0-0 (0-0)
+  24.11.
+    15:00  Plateau United FC          v Nasarawa United FC         2-0 (0-0)
+    16:00  Katsina United FC          v Remo Stars FC              2-0 (0-0)
+    16:00  Rivers United FC           v Abia Warriors FC           1-0 (0-0)
+    17:30  Shooting Stars SC          v Bayelsa United FC          1-0 (1-0)
+
+
+
+» Matchday 14
+  23.01.
+    15:30  Kano Pillars FC            v Enyimba FC                 2-0 (1-0)
+  27.11.
+    16:00  Abia Warriors FC           v Katsina United FC          2-0 (1-0)
+    16:00  Akwa United FC             v Plateau United FC          1-0 (0-0)
+    16:00  Bayelsa United FC          v Niger Tornadoes FC         4-1 (2-0)
+    16:00  Ikorodu City FC            v El-Kanemi Warriors FC      2-0 (0-0)
+    16:00  Kwara United FC            v Heartland FC               1-0 (1-0)
+    16:00  Nasarawa United FC         v Bendel FC                  2-1 (1-1)
+    16:00  Rangers International FC   v Lobi Stars FC              3-0 (3-0)
+    16:00  Remo Stars FC              v Shooting Stars SC          2-0 (1-0)
+    16:00  Sunshine Stars FC          v Rivers United FC           1-1 (0-1)
+
+
+
+» Matchday 15
+  01.12.
+    15:00  El-Kanemi Warriors FC      v Bayelsa United FC          0-0 (0-0)
+    16:00  Heartland FC               v Nasarawa United FC         3-2 (1-1)
+    16:00  Ikorodu City FC            v Akwa United FC             4-1 (2-1)
+    16:00  Katsina United FC          v Sunshine Stars FC          1-0 (1-0)
+    16:00  Niger Tornadoes FC         v Remo Stars FC              2-1 (2-0)
+    16:00  Rivers United FC           v Kano Pillars FC            1-0 (1-0)
+    17:30  Shooting Stars SC          v Abia Warriors FC           2-0 (2-0)
+  03.12.
+    16:00  Enyimba FC                 v Rangers International FC   0-0 (0-0)
+  30.11.
+    16:00  Bendel FC                  v Plateau United FC          2-1 (1-1)
+    16:00  Lobi Stars FC              v Kwara United FC            1-0 (1-0)
+
+
+
+» Matchday 16
+  07.12.
+    15:00  Nasarawa United FC         v Lobi Stars FC              1-0 (1-0)
+    17:30  Sunshine Stars FC          v Shooting Stars SC          0-1 (0-1)
+  08.12.
+    15:00  Plateau United FC          v Heartland FC               3-2 (1-0)
+    15:30  Kano Pillars FC            v Katsina United FC          1-0 (1-0)
+    16:00  Abia Warriors FC           v Niger Tornadoes FC         2-1 (1-0)
+    16:00  Bayelsa United FC          v Ikorodu City FC            1-0 (0-0)
+    16:00  Rangers International FC   v Rivers United FC           1-0 (1-0)
+    17:30  Remo Stars FC              v El-Kanemi Warriors FC      2-0 (2-0)
+  09.12.
+    16:00  Akwa United FC             v Bendel FC                  1-1 (1-1)
+  27.01.
+    16:00  Kwara United FC            v Enyimba FC                 2-0 (2-0)
+
+
+
+» Matchday 17
+  08.01.
+    16:00  Enyimba FC                 v Nasarawa United FC         2-1 (1-0)
+  14.12.
+    15:00  Lobi Stars FC              v Plateau United FC          1-0 (1-0)
+    17:30  Shooting Stars SC          v Kano Pillars FC            2-0 (1-0)
+  15.12.
+    15:00  El-Kanemi Warriors FC      v Abia Warriors FC           3-0 (2-0)
+    15:00  Katsina United FC          v Rangers International FC   0-0 (0-0)
+    15:00  Niger Tornadoes FC         v Sunshine Stars FC          4-1 (4-0)
+    16:00  Bayelsa United FC          v Akwa United FC             2-1 (1-1)
+    16:00  Heartland FC               v Bendel FC                  1-1 (1-0)
+    16:00  Rivers United FC           v Kwara United FC            2-1 (0-1)
+    17:30  Ikorodu City FC            v Remo Stars FC              1-1 (0-1)
+
+
+
+» Matchday 18
+  21.12.
+    15:00  Kano Pillars FC            v Niger Tornadoes FC         2-1 (1-0)
+    16:00  Sunshine Stars FC          v El-Kanemi Warriors FC      1-0 (0-0)
+    17:30  Bendel FC                  v Lobi Stars FC              1-0 (0-0)
+  22.12.
+    16:00  Abia Warriors FC           v Ikorodu City FC            2-0 (2-0)
+    16:00  Nasarawa United FC         v Rivers United FC           1-1 (1-0)
+    16:00  Rangers International FC   v Shooting Stars SC          0-1 (0-1)
+    16:00  Remo Stars FC              v Bayelsa United FC          2-0 (0-0)
+    17:30  Kwara United FC            v Katsina United FC          1-0 (0-0)
+  23.12.
+    16:00  Akwa United FC             v Heartland FC               2-0 (1-0)
+  26.12.
+    16:00  Plateau United FC          v Enyimba FC                 0-0 (0-0)
+
+
+
+» Matchday 19
+  28.12.
+    17:30  Bayelsa United FC          v Abia Warriors FC           0-1 (0-1)
+  29.12.
+    15:00  El-Kanemi Warriors FC      v Kano Pillars FC            1-0 (1-0)
+    15:00  Niger Tornadoes FC         v Rangers International FC   0-1 (0-1)
+    16:00  Ikorodu City FC            v Sunshine Stars FC          2-1 (1-1)
+    16:00  Katsina United FC          v Nasarawa United FC         1-0 (0-0)
+    16:00  Lobi Stars FC              v Heartland FC               0-0 (0-0)
+    17:30  Remo Stars FC              v Akwa United FC             2-1 (1-1)
+    17:30  Shooting Stars SC          v Kwara United FC            1-0 (1-0)
+  30.12.
+    16:00  Rivers United FC           v Plateau United FC          1-1 (0-0)
+  31.12.
+    16:00  Enyimba FC                 v Bendel FC                  0-0 (0-0)
+
+
+
+» Matchday 20
+  12.02.
+    15:00  Kano Pillars FC            v El-Kanemi Warriors FC      2-1 (0-0)
+    16:00  Bendel FC                  v Enyimba FC                 1-0 (0-0)
+    16:00  Kwara United FC            v Shooting Stars SC          2-0 (1-0)
+  25.01.
+    14:00  Nasarawa United FC         v Katsina United FC          1-0 (1-0)
+    15:00  Rangers International FC   v Niger Tornadoes FC         1-2 (1-1)
+    16:00  Sunshine Stars FC          v Ikorodu City FC            4-3 (3-1)
+    16:15  Abia Warriors FC           v Bayelsa United FC          1-0 (1-0)
+  26.01.
+    16:00  Akwa United FC             v Remo Stars FC              1-2 (1-0)
+    16:00  Heartland FC               v Lobi Stars FC              1-0 (0-0)
+    16:15  Plateau United FC          v Rivers United FC           2-1 (1-0)
+
+
+
+» Matchday 21
+  29.01.
+    15:00  Bayelsa United FC          v Sunshine Stars FC          4-1 (1-1)
+    15:00  El-Kanemi Warriors FC      v Rangers International FC   2-1 (1-0)
+    16:00  Akwa United FC             v Lobi Stars FC              1-1 (0-1)
+    16:00  Ikorodu City FC            v Kano Pillars FC            4-1 (2-1)
+    16:00  Remo Stars FC              v Abia Warriors FC           3-2 (2-2)
+    17:30  Shooting Stars SC          v Nasarawa United FC         2-0 (1-0)
+  30.01.
+    15:00  Enyimba FC                 v Heartland FC               1-1 (0-1)
+    16:00  Katsina United FC          v Plateau United FC          1-0 (0-0)
+    16:00  Niger Tornadoes FC         v Kwara United FC            2-1 (1-0)
+    16:00  Rivers United FC           v Bendel FC                  2-2 (1-1)
+
+
+
+» Matchday 22
+  01.02.
+    17:30  Sunshine Stars FC          v Remo Stars FC              1-2 (0-2)
+  02.02.
+    15:00  Kano Pillars FC            v Bayelsa United FC          0-0 (0-0)
+    15:00  Plateau United FC          v Shooting Stars SC          1-1 (0-0)
+    16:00  Abia Warriors FC           v Akwa United FC             2-0 (1-0)
+    16:00  Heartland FC               v Rivers United FC           2-0 (0-0)
+    16:00  Nasarawa United FC         v Niger Tornadoes FC         2-0 (1-0)
+  03.02.
+    15:00  Lobi Stars FC              v Enyimba FC                 0-1 (0-1)
+    16:00  Bendel FC                  v Katsina United FC          1-0 (1-0)
+    16:00  Rangers International FC   v Ikorodu City FC            2-0 (1-0)
+    17:30  Kwara United FC            v El-Kanemi Warriors FC      2-0 (1-0)
+
+
+
+» Matchday 23
+  07.02.
+    15:00  Katsina United FC          v Heartland FC               1-0 (0-0)
+  08.02.
+    15:00  El-Kanemi Warriors FC      v Nasarawa United FC         1-0 (1-0)
+    16:00  Remo Stars FC              v Kano Pillars FC            2-1 (2-1)
+    17:30  Shooting Stars SC          v Bendel FC                  1-0 (0-0)
+  09.02.
+    15:00  Niger Tornadoes FC         v Plateau United FC          1-1 (0-0)
+    16:00  Abia Warriors FC           v Sunshine Stars FC          3-0 (2-0)
+    16:00  Akwa United FC             v Enyimba FC                 2-1 (1-1)
+    16:00  Bayelsa United FC          v Rangers International FC   0-0 (0-0)
+    16:00  Rivers United FC           v Lobi Stars FC              1-0 (0-0)
+    17:30  Ikorodu City FC            v Kwara United FC            2-1 (1-1)
+
+
+
+» Matchday 24
+  15.02.
+    15:00  Enyimba FC                 v Rivers United FC           1-0 (1-0)
+    16:00  Kano Pillars FC            v Abia Warriors FC           1-0 (1-0)
+    16:00  Kwara United FC            v Bayelsa United FC          1-0 (0-0)
+    16:00  Lobi Stars FC              v Katsina United FC          1-1 (0-0)
+    16:00  Nasarawa United FC         v Ikorodu City FC            0-0 (0-0)
+    16:00  Plateau United FC          v El-Kanemi Warriors FC      2-0 (1-0)
+    17:30  Sunshine Stars FC          v Akwa United FC             1-0 (1-0)
+  16.02.
+    15:00  Rangers International FC   v Remo Stars FC              2-1 (1-0)
+    16:00  Heartland FC               v Shooting Stars SC          2-1 (1-0)
+    17:30  Bendel FC                  v Niger Tornadoes FC         3-0 (1-0)
+
+
+
+» Matchday 25
+  19.02.
+    15:00  El-Kanemi Warriors FC      v Bendel FC                  0-0 (0-0)
+    16:00  Abia Warriors FC           v Rangers International FC   1-0 (1-0)
+    16:00  Akwa United FC             v Rivers United FC           1-1 (0-1)
+    16:00  Bayelsa United FC          v Nasarawa United FC         2-2 (1-2)
+    16:00  Niger Tornadoes FC         v Heartland FC               2-1 (0-1)
+    16:00  Sunshine Stars FC          v Kano Pillars FC            1-1 (0-0)
+    17:30  Ikorodu City FC            v Plateau United FC          2-1 (0-1)
+    17:30  Shooting Stars SC          v Lobi Stars FC              2-2 (1-2)
+  20.02.
+    16:00  Katsina United FC          v Enyimba FC                 2-1 (1-0)
+    17:30  Remo Stars FC              v Kwara United FC            2-0 (0-0)
+
+
+
+» Matchday 26
+  26.02.
+    15:00  Enyimba FC                 v Shooting Stars SC          1-1 (1-1)
+    16:00  Heartland FC               v El-Kanemi Warriors FC      0-0 (0-0)
+    16:00  Kano Pillars FC            v Akwa United FC             1-0 (0-0)
+    16:00  Kwara United FC            v Abia Warriors FC           0-0 (0-0)
+    16:00  Lobi Stars FC              v Niger Tornadoes FC         0-2 (0-1)
+    16:00  Nasarawa United FC         v Remo Stars FC              1-0 (1-0)
+    16:00  Plateau United FC          v Bayelsa United FC          1-0 (0-0)
+    16:00  Rangers International FC   v Sunshine Stars FC          3-0 (3-0)
+  27.02.
+    17:30  Bendel FC                  v Ikorodu City FC            2-1 (0-0)
+  28.02.
+    09:00  Rivers United FC           v Katsina United FC          1-0 (1-0)
+
+
+
+» Matchday 27
+  01.03.
+    16:00  Sunshine Stars FC          v Kwara United FC            4-2 (3-2)
+  02.03.
+    15:00  Abia Warriors FC           v Nasarawa United FC         1-1 (1-1)
+    16:00  Bayelsa United FC          v Bendel FC                  2-1 (1-1)
+    16:00  Kano Pillars FC            v Rangers International FC   2-1 (1-1)
+    16:00  Niger Tornadoes FC         v Enyimba FC                 0-1 (0-0)
+    17:30  Ikorodu City FC            v Heartland FC               2-0 (1-0)
+    17:30  Remo Stars FC              v Plateau United FC          1-0 (0-0)
+  03.03.
+    15:00  Akwa United FC             v Katsina United FC          1-0 (1-0)
+    15:00  El-Kanemi Warriors FC      v Lobi Stars FC              1-0 (0-0)
+    17:30  Shooting Stars SC          v Rivers United FC           0-0 (0-0)
+
+
+
+» Matchday 28
+  07.03.
+    15:00  Katsina United FC          v Shooting Stars SC          1-0 (0-0)
+  08.03.
+    15:00  Rivers United FC           v Niger Tornadoes FC         1-0 (0-0)
+    16:00  Bendel FC                  v Remo Stars FC              2-1 (1-0)
+    16:00  Lobi Stars FC              v Ikorodu City FC            0-1 (0-0)
+  09.03.
+    15:00  Plateau United FC          v Abia Warriors FC           1-0 (0-0)
+    16:00  Enyimba FC                 v El-Kanemi Warriors FC      1-0 (1-0)
+    16:00  Kwara United FC            v Kano Pillars FC            2-0 (1-0)
+    16:00  Nasarawa United FC         v Sunshine Stars FC          1-1 (1-1)
+    16:00  Rangers International FC   v Akwa United FC             1-1 (0-1)
+    17:30  Heartland FC               v Bayelsa United FC          1-1 (0-0)
+
+
+
+» Matchday 29
+  14.03.
+    16:00  Niger Tornadoes FC         v Katsina United FC          1-0 (0-0)
+  15.03.
+    16:00  Rangers International FC   v Kwara United FC            3-0 (2-0)
+  16.03.
+    15:00  El-Kanemi Warriors FC      v Rivers United FC           1-2 (0-0)
+    15:00  Kano Pillars FC            v Nasarawa United FC         1-1 (1-0)
+    16:00  Abia Warriors FC           v Bendel FC                  1-0 (1-0)
+    16:00  Akwa United FC             v Shooting Stars SC          2-0 (0-0)
+    16:00  Bayelsa United FC          v Lobi Stars FC              1-0 (0-0)
+    17:30  Ikorodu City FC            v Enyimba FC                 2-2 (1-0)
+    17:30  Remo Stars FC              v Heartland FC               2-0 (1-0)
+  17.03.
+    16:00  Sunshine Stars FC          v Plateau United FC          2-2 (1-2)
+
+
+
+» Matchday 30
+  09.04.
+    16:00  Lobi Stars FC              v Remo Stars FC              2-2 (2-0)
+  21.03.
+    16:00  Nasarawa United FC         v Rangers International FC   1-0 (0-0)
+  22.03.
+    15:00  Plateau United FC          v Kano Pillars FC            2-1 (0-1)
+    17:30  Bendel FC                  v Sunshine Stars FC          1-0 (1-0)
+  23.03.
+    16:00  Enyimba FC                 v Bayelsa United FC          1-1 (1-1)
+    16:00  Heartland FC               v Abia Warriors FC           0-1 (0-0)
+    16:00  Katsina United FC          v El-Kanemi Warriors FC      3-0 (1-0)
+    16:00  Kwara United FC            v Akwa United FC             0-2 (0-1)
+    16:00  Rivers United FC           v Ikorodu City FC            1-0 (0-0)
+    17:30  Shooting Stars SC          v Niger Tornadoes FC         3-1 (2-0)
+
+
+
+» Matchday 31
+  10.04.
+    17:30  Ikorodu City FC            v Katsina United FC          6-0 (2-0)
+  26.03.
+    16:00  Abia Warriors FC           v Lobi Stars FC              2-0 (1-0)
+    16:00  Bayelsa United FC          v Rivers United FC           1-0 (1-0)
+    16:00  Kano Pillars FC            v Bendel FC                  0-0 (0-0)
+    16:00  Kwara United FC            v Nasarawa United FC         1-0 (0-0)
+    16:00  Sunshine Stars FC          v Heartland FC               0-0 (0-0)
+  27.03.
+    15:00  El-Kanemi Warriors FC      v Shooting Stars SC          2-2 (0-2)
+    16:00  Akwa United FC             v Niger Tornadoes FC         2-0 (1-0)
+    16:00  Rangers International FC   v Plateau United FC          0-1 (0-0)
+    16:00  Remo Stars FC              v Enyimba FC                 2-0 (1-0)
+
+
+
+» Matchday 32
+  05.04.
+    15:15  Heartland FC               v Kano Pillars FC            2-0 (1-0)
+    17:30  Bendel FC                  v Rangers International FC   0-0 (0-0)
+  06.04.
+    16:00  Enyimba FC                 v Abia Warriors FC           2-1 (1-1)
+    16:00  Katsina United FC          v Bayelsa United FC          1-1 (0-1)
+    16:00  Lobi Stars FC              v Sunshine Stars FC          1-1 (0-1)
+    16:00  Nasarawa United FC         v Akwa United FC             2-0 (1-0)
+    16:00  Niger Tornadoes FC         v El-Kanemi Warriors FC      2-0 (1-0)
+    16:00  Plateau United FC          v Kwara United FC            0-0 (0-0)
+    16:00  Rivers United FC           v Remo Stars FC              1-0 (0-0)
+    17:30  Shooting Stars SC          v Ikorodu City FC            0-0 (0-0)
+
+
+
+» Matchday 33
+  11.04.
+    16:00  Bayelsa United FC          v Shooting Stars SC          3-0 (2-0)
+  13.04.
+    15:00  Rangers International FC   v Heartland FC               0-2 (0-1)
+    16:00  Abia Warriors FC           v Rivers United FC           2-0 (1-0)
+    16:00  Akwa United FC             v El-Kanemi Warriors FC      1-1 (1-0)
+    16:00  Kano Pillars FC            v Lobi Stars FC              2-0 (0-0)
+    16:00  Nasarawa United FC         v Plateau United FC          3-2 (1-0)
+    16:00  Remo Stars FC              v Katsina United FC          0-0 (0-0)
+    16:00  Sunshine Stars FC          v Enyimba FC                 2-1 (2-1)
+    17:30  Ikorodu City FC            v Niger Tornadoes FC         3-0 (0-0)
+    17:30  Kwara United FC            v Bendel FC                  0-1 (0-1)
+
+
+
+» Matchday 34
+  19.04.
+    15:00  Katsina United FC          v Abia Warriors FC           5-1 (2-1)
+    16:00  Enyimba FC                 v Kano Pillars FC            2-1 (1-0)
+    16:00  Lobi Stars FC              v Rangers International FC   2-4 (1-2)
+  20.04.
+    15:00  El-Kanemi Warriors FC      v Ikorodu City FC            1-1 (1-1)
+    15:00  Niger Tornadoes FC         v Bayelsa United FC          1-1 (1-0)
+    16:00  Heartland FC               v Kwara United FC            0-0 (0-0)
+    16:00  Plateau United FC          v Akwa United FC             1-0 (1-0)
+    16:00  Rivers United FC           v Sunshine Stars FC          1-0 (0-0)
+    16:00  Shooting Stars SC          v Remo Stars FC              0-1 (0-1)
+    17:30  Bendel FC                  v Nasarawa United FC         1-1 (0-1)
+
+
+
+» Matchday 35
+  25.04.
+    16:00  Kano Pillars FC            v Rivers United FC           2-0 (0-0)
+  27.04.
+    15:00  Nasarawa United FC         v Heartland FC               1-0 (1-0)
+    16:00  Abia Warriors FC           v Shooting Stars SC          3-1 (2-0)
+    16:00  Akwa United FC             v Ikorodu City FC            2-1 (1-1)
+    16:00  Bayelsa United FC          v El-Kanemi Warriors FC      2-1 (1-1)
+    16:00  Kwara United FC            v Lobi Stars FC              4-0 (2-0)
+    16:00  Plateau United FC          v Bendel FC                  2-1 (1-0)
+    16:00  Rangers International FC   v Enyimba FC                 1-2 (0-2)
+    16:00  Sunshine Stars FC          v Katsina United FC          2-0 (0-0)
+    17:30  Remo Stars FC              v Niger Tornadoes FC         1-0 (0-0)
+
+
+
+» Matchday 36
+  07.05.
+    15:00  El-Kanemi Warriors FC      v Remo Stars FC              2-0 (0-0)
+    15:00  Lobi Stars FC              v Nasarawa United FC         1-2 (1-0)
+    16:00  Bendel FC                  v Akwa United FC             1-0 (0-0)
+    16:00  Enyimba FC                 v Kwara United FC            2-0 (2-0)
+    16:00  Heartland FC               v Plateau United FC          2-0 (1-0)
+    16:00  Katsina United FC          v Kano Pillars FC            1-0 (1-0)
+    16:00  Niger Tornadoes FC         v Abia Warriors FC           1-1 (0-0)
+    16:00  Rivers United FC           v Rangers International FC   1-0 (1-0)
+    16:00  Shooting Stars SC          v Sunshine Stars FC          1-0 (0-0)
+    17:30  Ikorodu City FC            v Bayelsa United FC          3-2 (2-2)
+
+
+
+» Matchday 37
+  11.05.
+    15:00  Abia Warriors FC           v El-Kanemi Warriors FC      2-1 (0-1)
+    15:00  Akwa United FC             v Bayelsa United FC          2-0 (1-0)
+    15:00  Bendel FC                  v Heartland FC               1-0 (0-0)
+    15:00  Kano Pillars FC            v Shooting Stars SC          3-1 (0-0)
+    15:00  Kwara United FC            v Rivers United FC           3-1 (1-0)
+    15:00  Nasarawa United FC         v Enyimba FC                 3-2 (2-1)
+    15:00  Plateau United FC          v Lobi Stars FC              2-1 (2-1)
+    15:00  Rangers International FC   v Katsina United FC          4-0 (2-0)
+    15:00  Remo Stars FC              v Ikorodu City FC            4-1 (2-1)
+    15:00  Sunshine Stars FC          v Niger Tornadoes FC         1-2 (1-1)
+
+
+
+» Matchday 38
+  25.05.
+    16:00  Bayelsa United FC          v Remo Stars FC              3-0 (1-0)
+    16:00  El-Kanemi Warriors FC      v Sunshine Stars FC          1-0 (1-0)
+    16:00  Enyimba FC                 v Plateau United FC          0-1 (0-1)
+    16:00  Heartland FC               v Akwa United FC             2-1 (1-0)
+    16:00  Ikorodu City FC            v Abia Warriors FC           3-2 (1-1)
+    16:00  Katsina United FC          v Kwara United FC            1-0 (1-0)
+    16:00  Lobi Stars FC              v Bendel FC                  2-1 (1-1)
+    16:00  Niger Tornadoes FC         v Kano Pillars FC            3-2 (1-1)
+    16:00  Rivers United FC           v Nasarawa United FC         2-1 (1-1)
+    16:00  Shooting Stars SC          v Rangers International FC   5-1 (1-1)
+
