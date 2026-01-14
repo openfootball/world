@@ -1,0 +1,764 @@
+= Nigeria National League 2021/2022
+
+# Teams      46
+# Matches    494
+# Stages     NNL (488)  NNL - Championship Group (6)
+
+
+
+======================================================================
+  NNL
+======================================================================
+
+
+
+» Matchday 1
+  11.02.
+    17:00  EFCC FC                  v Zamfara United FC        2-1
+    17:00  Vandrezzer FC            v Bendel FC                0-0
+  12.02.
+    17:00  ABS FC                   v Yobe Desert Stars FC     2-0
+    17:00  DMD FC                   v Doma United FC           1-1
+    17:00  Edel FC                  v Crown FC                 0-0
+    17:00  El-Kanemi Warriors FC    v Sokoto FC                1-1
+    17:00  Gateway Utd.             v Campos FC                2-0
+    17:00  Green Beret FC           v Adamawa United FC        1-0
+    17:00  Ijebu FC                 v Rovers FC                2-0
+    17:00  Ikorodu City FC          v Giant Brillars FC        0-0
+    17:00  Jigawa Golden Stars FC   v JM Liberty FC            2-0
+    17:00  Malumfashi FC            v Road Safety FC           1-0
+    17:00  One Rocket FC            v Apex Krane FC            1-0
+    17:00  Osun FC                  v Ekiti United FC          2-0
+    17:00  Oyah Sports FC           v FWC Champions FC         1-4
+  13.02.
+    17:00  Abeokuta FC              v Ibom Youths FC           0-0
+    17:00  City FC Abuja            v Mighty Jets FC           2-0
+    17:00  Sporting Lagos FC        v Go Round FC              1-1
+    17:00  Warri Wolves FC          v Abia Comets FC           2-1
+  14.02.
+    17:00  Nigeria Airforce FC      v Kebbi FC                 1-1
+  20.02.
+    16:00  Adoration FC             v J’Atete FC               3-0
+  27.04.
+    16:00  Cynosure FC              v Bayelsa United FC        1-1
+
+
+
+» Matchday 2
+  18.02.
+    16:00  Zamfara United FC        v El-Kanemi Warriors FC    1-1
+    18:00  Vandrezzer FC            v Ikorodu City FC          1-1
+  19.02.
+    16:00  Abia Comets FC           v One Rocket FC            1-0
+    16:00  Adamawa United FC        v Jigawa Golden Stars FC   2-0
+    16:00  Bayelsa United FC        v Edel FC                  1-1
+    16:00  Bendel FC                v J’Atete FC               2-0
+    16:00  Campos FC                v Osun FC                  2-1
+    16:00  Crown FC                 v Warri Wolves FC          2-1
+    16:00  FWC Champions FC         v City FC Abuja            1-2
+    16:00  Giant Brillars FC        v Gateway Utd.             1-0
+    16:00  Ibom Youths FC           v Adoration FC             1-0
+    16:00  Kogi FC                  v Malumfashi FC            0-0
+    16:00  Mighty Jets FC           v EFCC FC                  3-1
+    16:00  Road Safety FC           v Nigeria Airforce FC      3-2
+    16:00  Sokoto FC                v ABS FC                   1-1
+  20.02.
+    16:00  Ekiti United FC          v Abeokuta FC              1-0
+    16:00  Go Round FC              v Ijebu FC                 0-0
+    16:00  Kebbi FC                 v DMD FC                   1-1
+    16:00  Oyah Sports FC           v Yobe Desert Stars FC     0-2
+    16:00  Rovers FC                v Cynosure FC              1-0
+  21.02.
+    16:00  Doma United FC           v Green Beret FC           1-0
+    16:00  Ottasolo FC              v Sporting Lagos FC        0-0
+
+
+
+» Matchday 3
+  20.04.
+    15:00  Adoration FC             v Ekiti United FC          3-0
+  25.02.
+    16:00  EFCC FC                  v FWC Champions FC         0-0
+  26.02.
+    16:00  ABS FC                   v Zamfara United FC        4-0
+    16:00  City FC Abuja            v Oyah Sports FC           3-0
+    16:00  DMD FC                   v Road Safety FC           2-0
+    16:00  Edel FC                  v Rovers FC                2-1
+    16:00  El-Kanemi Warriors FC    v Mighty Jets FC           1-0
+    16:00  Gateway Utd.             v Vandrezzer FC            1-0
+    16:00  Green Beret FC           v Kebbi FC                 3-0
+    16:00  Ijebu FC                 v Ottasolo FC              1-0
+    16:00  Ikorodu City FC          v Bendel FC                1-1
+    16:00  J’Atete FC               v Ibom Youths FC           1-1
+    16:00  Jigawa Golden Stars FC   v Doma United FC           2-0
+    16:00  JM Liberty FC            v Adamawa United FC        2-0
+    16:00  Nigeria Airforce FC      v Kogi FC                  0-0
+    16:00  One Rocket FC            v Crown FC                 1-1
+    16:00  Osun FC                  v Giant Brillars FC        1-0
+    16:00  Yobe Desert Stars FC     v Sokoto FC                2-1
+  27.02.
+    09:00  Cynosure FC              v Go Round FC              1-2
+    16:00  Abeokuta FC              v Campos FC                1-0
+    16:00  Warri Wolves FC          v Bayelsa United FC        3-1
+  28.02.
+    16:00  Apex Krane FC            v Abia Comets FC           0-0
+
+
+
+» Matchday 4
+  04.03.
+    16:00  Malumfashi FC            v Nigeria Airforce FC      1-0
+    18:00  Vandrezzer FC            v Osun FC                  4-2
+  05.03.
+    13:00  Ottasolo FC              v Cynosure FC              0-0
+    16:00  Crown FC                 v Apex Krane FC            2-1
+    16:00  Doma United FC           v JM Liberty FC            2-1
+    16:00  Giant Brillars FC        v Abeokuta FC              1-0
+    16:00  Go Round FC              v Edel FC                  2-1
+    16:00  Ikorodu City FC          v Gateway Utd.             1-0
+    16:00  Kebbi FC                 v Jigawa Golden Stars FC   2-0
+    16:00  Kogi FC                  v DMD FC                   2-2
+    16:00  Mighty Jets FC           v ABS FC                   2-0
+    16:00  Oyah Sports FC           v Sokoto FC                1-3
+    16:00  Road Safety FC           v Green Beret FC           1-0
+    16:00  Rovers FC                v Warri Wolves FC          1-0
+    18:00  Bendel FC                v Ibom Youths FC           3-1
+  06.03.
+    13:00  Sporting Lagos FC        v Ijebu FC                 1-0
+    16:00  Bayelsa United FC        v One Rocket FC            2-1
+    16:00  City FC Abuja            v EFCC FC                  1-0
+    16:00  Ekiti United FC          v J’Atete FC               1-0
+    16:00  Zamfara United FC        v Yobe Desert Stars FC     3-0
+  07.03.
+    16:00  FWC Champions FC         v El-Kanemi Warriors FC    0-1
+  27.04.
+    15:00  Campos FC                v Adoration FC             2-0
+
+
+
+» Matchday 5
+  09.03.
+    15:00  Ibom Youths FC           v Ekiti United FC          2-0
+    16:00  Abeokuta FC              v Vandrezzer FC            1-0
+    16:00  Abia Comets FC           v Crown FC                 3-1
+    16:00  Adamawa United FC        v Doma United FC           1-0
+    16:00  Adoration FC             v Giant Brillars FC        3-1
+    16:00  Apex Krane FC            v Bayelsa United FC        2-1
+    16:00  DMD FC                   v Malumfashi FC            1-0
+    16:00  Edel FC                  v Ottasolo FC              5-0
+    16:00  Gateway Utd.             v Bendel FC                1-0
+    16:00  Green Beret FC           v Kogi FC                  0-0
+    16:00  J’Atete FC               v Campos FC                1-0
+    16:00  Jigawa Golden Stars FC   v Road Safety FC           2-0
+    16:00  JM Liberty FC            v Kebbi FC                 2-0
+    16:00  One Rocket FC            v Rovers FC                1-0
+    16:00  Osun FC                  v Ikorodu City FC          1-0
+    16:00  Warri Wolves FC          v Go Round FC              1-0
+  11.03.
+    16:00  EFCC FC                  v Oyah Sports FC           2-0
+  12.03.
+    16:00  ABS FC                   v FWC Champions FC         1-0
+    16:00  Sokoto FC                v Zamfara United FC        3-0
+    16:00  Yobe Desert Stars FC     v Mighty Jets FC           2-0
+  13.03.
+    16:00  El-Kanemi Warriors FC    v City FC Abuja            2-0
+  30.04.
+    15:00  Cynosure FC              v Sporting Lagos FC        2-2
+
+
+
+» Matchday 6
+  11.03.
+    18:00  Vandrezzer FC            v Adoration FC             3-0
+  12.03.
+    16:00  Campos FC                v Ibom Youths FC           2-2
+    16:00  Gateway Utd.             v Osun FC                  2-1
+    16:00  Giant Brillars FC        v J’Atete FC               3-0
+    16:00  Go Round FC              v One Rocket FC            1-0
+    16:00  Ijebu FC                 v Cynosure FC              0-0
+    16:00  Ikorodu City FC          v Abeokuta FC              4-3
+    16:00  Kogi FC                  v Jigawa Golden Stars FC   1-0
+    16:00  Ottasolo FC              v Warri Wolves FC          2-1
+    16:00  Road Safety FC           v JM Liberty FC            1-0
+    16:00  Rovers FC                v Apex Krane FC            1-0
+    18:00  Bendel FC                v Ekiti United FC          2-1
+  13.03.
+    16:00  Bayelsa United FC        v Abia Comets FC           2-1
+    16:00  Malumfashi FC            v Green Beret FC           2-1
+    16:00  Nigeria Airforce FC      v DMD FC                   1-0
+    16:00  Sporting Lagos FC        v Edel FC                  2-1
+  14.03.
+    16:00  Kebbi FC                 v Adamawa United FC        2-0
+  18.03.
+    16:00  EFCC FC                  v El-Kanemi Warriors FC    1-0
+  19.03.
+    16:00  Mighty Jets FC           v Sokoto FC                0-0
+    16:00  Oyah Sports FC           v Zamfara United FC        0-0
+  20.03.
+    09:00  FWC Champions FC         v Yobe Desert Stars FC     1-1
+    16:00  City FC Abuja            v ABS FC                   2-1
+
+
+
+» Matchday 7
+  04.05.
+    16:00  Crown FC                 v Bayelsa United FC        2-1
+  19.03.
+    16:00  Abia Comets FC           v Rovers FC                0-0
+    16:00  Adamawa United FC        v Road Safety FC           1-0
+    16:00  Apex Krane FC            v Go Round FC              1-1
+    16:00  Doma United FC           v Kebbi FC                 3-0
+    16:00  Edel FC                  v Ijebu FC                 2-1
+    16:00  Green Beret FC           v Nigeria Airforce FC      1-0
+    16:00  Ibom Youths FC           v Giant Brillars FC        2-1
+    16:00  J’Atete FC               v Vandrezzer FC            0-0
+    16:00  Jigawa Golden Stars FC   v Malumfashi FC            2-0
+    16:00  JM Liberty FC            v Kogi FC                  2-2
+    16:00  One Rocket FC            v Ottasolo FC              0-0
+    16:00  Osun FC                  v Bendel FC                0-0
+  20.03.
+    16:00  Abeokuta FC              v Gateway Utd.             0-1
+    16:00  Adoration FC             v Ikorodu City FC          2-1
+    16:00  Ekiti United FC          v Campos FC                1-0
+    16:00  Warri Wolves FC          v Sporting Lagos FC        2-0
+  25.03.
+    16:00  Zamfara United FC        v Mighty Jets FC           1-0
+  26.03.
+    16:00  ABS FC                   v EFCC FC                  1-0
+    16:00  Sokoto FC                v FWC Champions FC         3-1
+    16:00  Yobe Desert Stars FC     v City FC Abuja            1-0
+  27.03.
+    16:00  El-Kanemi Warriors FC    v Oyah Sports FC           2-0
+
+
+
+» Matchday 8
+  01.04.
+    16:00  EFCC FC                  v Yobe Desert Stars FC     1-0
+  02.04.
+    16:00  Oyah Sports FC           v Mighty Jets FC           0-3
+  03.04.
+    16:00  City FC Abuja            v Sokoto FC                2-1
+    16:00  El-Kanemi Warriors FC    v ABS FC                   3-0
+  04.04.
+    16:00  FWC Champions FC         v Zamfara United FC        1-0
+  25.03.
+    16:00  Malumfashi FC            v JM Liberty FC            3-1
+    18:00  Vandrezzer FC            v Ibom Youths FC           1-1
+  26.03.
+    16:00  Cynosure FC              v Edel FC                  2-1
+    16:00  DMD FC                   v Green Beret FC           2-0
+    16:00  Gateway Utd.             v Adoration FC             3-0
+    16:00  Giant Brillars FC        v Ekiti United FC          4-0
+    16:00  Ikorodu City FC          v J’Atete FC               0-0
+    16:00  Kogi FC                  v Adamawa United FC        2-0
+    16:00  Osun FC                  v Abeokuta FC              0-1
+    16:00  Ottasolo FC              v Apex Krane FC            1-0
+    16:00  Road Safety FC           v Doma United FC           1-1
+    16:00  Rovers FC                v Crown FC                 2-1
+    18:00  Bendel FC                v Campos FC                2-1
+  27.03.
+    16:00  Go Round FC              v Abia Comets FC           2-0
+    16:00  Ijebu FC                 v Warri Wolves FC          3-0
+    16:00  Nigeria Airforce FC      v Jigawa Golden Stars FC   1-1
+    16:00  Sporting Lagos FC        v One Rocket FC            1-0
+
+
+
+» Matchday 9
+  02.04.
+    16:00  Abia Comets FC           v Ottasolo FC              4-1
+    16:00  Adamawa United FC        v Malumfashi FC            2-0
+    16:00  Apex Krane FC            v Sporting Lagos FC        1-0
+    16:00  Campos FC                v Giant Brillars FC        2-0
+    16:00  Crown FC                 v Go Round FC              2-0
+    16:00  Doma United FC           v Kogi FC                  2-0
+    16:00  Ibom Youths FC           v Ikorodu City FC          2-1
+    16:00  J’Atete FC               v Gateway Utd.             1-1
+    16:00  Jigawa Golden Stars FC   v DMD FC                   3-1
+    16:00  JM Liberty FC            v Nigeria Airforce FC      2-0
+    16:00  Kebbi FC                 v Road Safety FC           1-0
+    16:00  One Rocket FC            v Ijebu FC                 1-0
+    16:00  Warri Wolves FC          v Cynosure FC              1-0
+  03.04.
+    16:00  Abeokuta FC              v Bendel FC                0-1
+    16:00  Adoration FC             v Osun FC                  4-1
+    16:00  Bayelsa United FC        v Rovers FC                1-0
+    16:00  Ekiti United FC          v Vandrezzer FC            2-1
+  09.04.
+    16:00  ABS FC                   v Oyah Sports FC           3-0
+    16:00  Mighty Jets FC           v FWC Champions FC         2-1
+    16:00  Sokoto FC                v EFCC FC                  1-0
+    16:00  Yobe Desert Stars FC     v El-Kanemi Warriors FC    0-0
+    16:00  Zamfara United FC        v City FC Abuja            2-0
+
+
+
+» Matchday 10
+  06.05.
+    16:00  Cynosure FC              v One Rocket FC            1-0
+  08.04.
+    16:00  Malumfashi FC            v Doma United FC           2-1
+    18:00  Vandrezzer FC            v Campos FC                2-0
+  09.04.
+    16:00  Bendel FC                v Giant Brillars FC        2-1
+    16:00  DMD FC                   v JM Liberty FC            2-0
+    16:00  Edel FC                  v Warri Wolves FC          1-1
+    16:00  Gateway Utd.             v Ibom Youths FC           1-0
+    16:00  Green Beret FC           v Jigawa Golden Stars FC   1-0
+    16:00  Ijebu FC                 v Apex Krane FC            2-2
+    16:00  Kogi FC                  v Kebbi FC                 0-0
+    16:00  Nigeria Airforce FC      v Adamawa United FC        2-0
+    16:00  Osun FC                  v J’Atete FC               1-0
+    16:00  Ottasolo FC              v Crown FC                 2-1
+  10.04.
+    16:00  Abeokuta FC              v Adoration FC             2-0
+    16:00  Go Round FC              v Bayelsa United FC        2-1
+    16:00  Ikorodu City FC          v Ekiti United FC          2-0
+    16:00  Sporting Lagos FC        v Abia Comets FC           2-1
+  13.05.
+    16:00  EFCC FC                  v Sokoto FC                2-0
+  14.05.
+    16:00  Oyah Sports FC           v ABS FC                   0-3
+  15.05.
+    16:00  City FC Abuja            v Zamfara United FC        2-1
+    16:00  El-Kanemi Warriors FC    v Yobe Desert Stars FC     3-0
+  16.05.
+    16:00  FWC Champions FC         v Mighty Jets FC           0-1
+
+
+
+» Matchday 11
+  13.04.
+    16:00  Abia Comets FC           v Ijebu FC                 2-1
+    16:00  Apex Krane FC            v Cynosure FC              1-0
+    16:00  Bayelsa United FC        v Ottasolo FC              3-1
+    16:00  Crown FC                 v Sporting Lagos FC        1-0
+    16:00  One Rocket FC            v Edel FC                  1-0
+    16:00  Rovers FC                v Go Round FC              1-0
+  16.04.
+    14:00  Adoration FC             v Bendel FC                1-0
+    16:00  Adamawa United FC        v DMD FC                   1-0
+    16:00  Campos FC                v Ikorodu City FC          1-1
+    16:00  Giant Brillars FC        v Vandrezzer FC            1-1
+    16:00  Ibom Youths FC           v Osun FC                  3-0
+    16:00  J’Atete FC               v Abeokuta FC              1-0
+    16:00  JM Liberty FC            v Green Beret FC           0-0
+    16:00  Kebbi FC                 v Malumfashi FC            2-1
+    16:00  Road Safety FC           v Kogi FC                  3-0
+  17.04.
+    16:00  Doma United FC           v Nigeria Airforce FC      1-0
+    16:00  Ekiti United FC          v Gateway Utd.             2-1
+  21.05.
+    08:00  Zamfara United FC        v FWC Champions FC         1-0
+    16:00  ABS FC                   v El-Kanemi Warriors FC    1-1
+    16:00  Mighty Jets FC           v Oyah Sports FC           2-1
+    16:00  Sokoto FC                v City FC Abuja            1-0
+    16:00  Yobe Desert Stars FC     v EFCC FC                  2-0
+
+
+
+» Matchday 12
+  13.05.
+    16:00  Malumfashi FC            v Kebbi FC                 2-0
+    16:00  Vandrezzer FC            v Giant Brillars FC        2-0
+  14.05.
+    15:00  Abeokuta FC              v J’Atete FC               1-0
+    16:00  Bendel FC                v Adoration FC             3-1
+    16:00  DMD FC                   v Adamawa United FC        1-0
+    16:00  Green Beret FC           v JM Liberty FC            2-0
+    16:00  Kogi FC                  v Road Safety FC           1-1
+    16:00  Nigeria Airforce FC      v Doma United FC           0-1
+    16:00  Osun FC                  v Ibom Youths FC           3-0
+  15.05.
+    16:00  Gateway Utd.             v Ekiti United FC          1-0
+  16.04.
+    14:00  Ottasolo FC              v Rovers FC                1-1
+    16:00  Cynosure FC              v Abia Comets FC           1-0
+    16:00  Edel FC                  v Apex Krane FC            2-1
+    16:00  Ijebu FC                 v Crown FC                 1-0
+  16.05.
+    16:00  Ikorodu City FC          v Campos FC                1-1
+  17.04.
+    16:00  Sporting Lagos FC        v Bayelsa United FC        1-0
+    16:00  Warri Wolves FC          v One Rocket FC            1-1
+  27.05.
+    16:00  EFCC FC                  v ABS FC                   2-2
+  28.05.
+    16:00  Oyah Sports FC           v El-Kanemi Warriors FC    1-2
+  29.05.
+    16:00  City FC Abuja            v Yobe Desert Stars FC     1-0
+    16:00  Mighty Jets FC           v Zamfara United FC        2-1
+  31.05.
+    08:00  FWC Champions FC         v Sokoto FC                0-1
+
+
+
+» Matchday 13
+  03.06.
+    16:00  Zamfara United FC        v Oyah Sports FC           1-0
+  04.06.
+    16:00  Sokoto FC                v Mighty Jets FC           1-0
+    16:00  Yobe Desert Stars FC     v FWC Champions FC         2-0
+    16:05  ABS FC                   v City FC Abuja            1-1
+  05.06.
+    16:00  El-Kanemi Warriors FC    v EFCC FC                  3-0
+  21.05.
+    16:00  Adamawa United FC        v Nigeria Airforce FC      3-1
+    16:00  Adoration FC             v Abeokuta FC              0-0
+    16:00  Campos FC                v Vandrezzer FC            0-1
+    16:00  Doma United FC           v Malumfashi FC            2-0
+    16:00  Giant Brillars FC        v Bendel FC                1-1
+    16:00  Ibom Youths FC           v Gateway Utd.             0-0
+    16:00  Jigawa Golden Stars FC   v Green Beret FC           1-0
+    16:00  JM Liberty FC            v DMD FC                   1-0
+    16:00  Kebbi FC                 v Kogi FC                  2-2
+  22.05.
+    16:00  Ekiti United FC          v Ikorodu City FC          2-1
+  23.04.
+    16:00  Abia Comets FC           v Edel FC                  2-1
+    16:00  Apex Krane FC            v Warri Wolves FC          0-1
+    16:00  Crown FC                 v Cynosure FC              1-0
+  23.05.
+    16:00  J’Atete FC               v Osun FC                  3-2
+  24.04.
+    16:00  Bayelsa United FC        v Ijebu FC                 2-0
+    16:00  Go Round FC              v Ottasolo FC              2-1
+    16:00  Rovers FC                v Sporting Lagos FC        1-0
+
+
+
+» Matchday 14
+  10.06.
+    16:00  Zamfara United FC        v Sokoto FC                2-0
+  11.06.
+    16:00  Mighty Jets FC           v Yobe Desert Stars FC     0-0
+    16:00  Oyah Sports FC           v EFCC FC                  0-1
+  12.06.
+    16:00  City FC Abuja            v El-Kanemi Warriors FC    1-0
+  13.06.
+    16:00  FWC Champions FC         v ABS FC                   2-2
+  14.05.
+    16:00  Cynosure FC              v Crown FC                 0-1
+    16:00  Edel FC                  v Abia Comets FC           1-0
+    16:00  Ijebu FC                 v Bayelsa United FC        2-0
+  15.05.
+    16:00  Sporting Lagos FC        v Rovers FC                1-2
+    16:00  Warri Wolves FC          v Apex Krane FC            3-0
+  16.05.
+    16:00  Ottasolo FC              v Go Round FC              1-0
+  27.05.
+    18:00  Vandrezzer FC            v Ekiti United FC          3-2
+  28.05.
+    16:00  DMD FC                   v Jigawa Golden Stars FC   1-0
+    16:00  Giant Brillars FC        v Campos FC                2-1
+    16:00  Ikorodu City FC          v Ibom Youths FC           3-0
+    16:00  Kogi FC                  v Doma United FC           2-1
+    16:00  Nigeria Airforce FC      v JM Liberty FC            1-0
+    16:00  Osun FC                  v Adoration FC             3-1
+    16:00  Road Safety FC           v Kebbi FC                 2-4
+    18:00  Bendel FC                v Abeokuta FC              2-0
+  29.05.
+    16:00  Gateway Utd.             v J’Atete FC               1-0
+    16:00  Malumfashi FC            v Adamawa United FC        2-0
+
+
+
+» Matchday 15
+  04.06.
+    15:00  Abeokuta FC              v Osun FC                  2-1
+    16:00  Adamawa United FC        v Kogi FC                  1-0
+    16:00  Adoration FC             v Gateway Utd.             1-0
+    16:00  Campos FC                v Bendel FC                0-1
+    16:00  Doma United FC           v Road Safety FC           1-0
+    16:00  Green Beret FC           v DMD FC                   4-0
+    16:00  Ibom Youths FC           v Vandrezzer FC            1-0
+    16:00  J’Atete FC               v Ikorodu City FC          1-2
+    16:00  Jigawa Golden Stars FC   v Nigeria Airforce FC      3-0
+    16:00  JM Liberty FC            v Malumfashi FC            1-0
+  05.06.
+    16:00  Ekiti United FC          v Giant Brillars FC        1-0
+  06.07.
+    16:00  EFCC FC                  v City FC Abuja            0-0
+  18.06.
+    16:00  ABS FC                   v Mighty Jets FC           1-0
+    16:00  Yobe Desert Stars FC     v Zamfara United FC        3-1
+    16:00  Sokoto FC                v Oyah Sports FC           3-0
+  19.06.
+    16:00  El-Kanemi Warriors FC    v FWC Champions FC         3-0
+  21.05.
+    16:00  Abia Comets FC           v Cynosure FC              1-0
+    16:00  Apex Krane FC            v Edel FC                  2-0
+    16:00  Crown FC                 v Ijebu FC                 2-1
+    16:00  One Rocket FC            v Warri Wolves FC          1-0
+    16:00  Rovers FC                v Ottasolo FC              2-0
+  22.05.
+    16:00  Bayelsa United FC        v Sporting Lagos FC        3-0
+
+
+
+» Matchday 16
+  10.06.
+    12:00  Vandrezzer FC            v J’Atete FC               0-0
+    16:00  Malumfashi FC            v Jigawa Golden Stars FC   2-0
+  11.06.
+    16:00  Bendel FC                v Osun FC                  2-0
+    16:00  Campos FC                v Ekiti United FC          3-0
+    16:00  Giant Brillars FC        v Ibom Youths FC           1-0
+    16:00  Ikorodu City FC          v Adoration FC             1-0
+    16:00  Kebbi FC                 v Doma United FC           1-1
+    16:00  Kogi FC                  v JM Liberty FC            1-1
+    16:00  Nigeria Airforce FC      v Green Beret FC           1-1
+    16:00  Road Safety FC           v Adamawa United FC        1-0
+  12.06.
+    16:00  Gateway Utd.             v Abeokuta FC              1-0
+  14.07.
+    09:00  FWC Champions FC         v EFCC FC                  0-1
+    09:00  Mighty Jets FC           v El-Kanemi Warriors FC    3-2
+    09:00  Oyah Sports FC           v City FC Abuja            2-2
+    09:00  Sokoto FC                v Yobe Desert Stars FC     1-0
+    09:00  Zamfara United FC        v ABS FC                   1-0
+  28.05.
+    12:00  Ijebu FC                 v Abia Comets FC           2-1
+    16:00  Edel FC                  v One Rocket FC            1-0
+    16:00  Ottasolo FC              v Bayelsa United FC        0-3
+    18:00  Cynosure FC              v Apex Krane FC            4-0
+  29.05.
+    16:00  Go Round FC              v Rovers FC                1-0
+    16:00  Sporting Lagos FC        v Crown FC                 2-0
+
+
+
+» Matchday 17
+  04.06.
+    16:00  Abia Comets FC           v Sporting Lagos FC        1-0
+    16:00  Apex Krane FC            v Ijebu FC                 1-1
+    16:00  Crown FC                 v Ottasolo FC              1-0
+    16:00  One Rocket FC            v Cynosure FC              0-1
+  05.06.
+    16:00  Bayelsa United FC        v Go Round FC              2-0
+    16:00  Warri Wolves FC          v Edel FC                  3-1
+  13.08.
+    16:00  ABS FC                   v Sokoto FC                1-1
+    16:00  City FC Abuja            v FWC Champions FC         3-0
+    16:00  EFCC FC                  v Mighty Jets FC           3-2
+    16:00  El-Kanemi Warriors FC    v Zamfara United FC        2-0
+    16:00  Yobe Desert Stars FC     v Oyah Sports FC           5-1
+  18.06.
+    16:00  Abeokuta FC              v Ikorodu City FC          2-1
+    16:00  Adamawa United FC        v Kebbi FC                 1-0
+    16:00  Adoration FC             v Vandrezzer FC            2-0
+    16:00  DMD FC                   v Nigeria Airforce FC      3-0
+    16:00  Green Beret FC           v Malumfashi FC            2-1
+    16:00  Ibom Youths FC           v Campos FC                3-0
+    16:00  J’Atete FC               v Giant Brillars FC        1-0
+    16:00  Jigawa Golden Stars FC   v Kogi FC                  2-0
+    16:00  JM Liberty FC            v Road Safety FC           1-0
+    16:00  Osun FC                  v Gateway Utd.             0-0
+  29.06.
+    16:30  Ekiti United FC          v Bendel FC                0-1
+
+
+
+» Matchday 18
+  06.07.
+    18:00  Bendel FC                v Gateway Utd.             4-0
+  11.06.
+    16:00  Cynosure FC              v Warri Wolves FC          1-0
+    16:00  Ijebu FC                 v One Rocket FC            1-0
+    16:00  Ottasolo FC              v Abia Comets FC           1-0
+  12.06.
+    16:00  Go Round FC              v Crown FC                 2-2
+    16:00  Rovers FC                v Bayelsa United FC        1-1
+    16:00  Sporting Lagos FC        v Apex Krane FC            1-1
+  20.08.
+    16:00  Mighty Jets FC           v City FC Abuja            3-1
+    16:00  Oyah Sports FC           v FWC Champions FC         1-0
+    16:00  Sokoto FC                v El-Kanemi Warriors FC    0-3
+    16:00  Yobe Desert Stars FC     v ABS FC                   3-0
+    16:00  Zamfara United FC        v EFCC FC                  3-0
+  22.06.
+    16:00  Campos FC                v J’Atete FC               0-1
+    16:00  Doma United FC           v Adamawa United FC        3-1
+    16:00  Giant Brillars FC        v Adoration FC             2-1
+    16:00  Ikorodu City FC          v Osun FC                  4-0
+    16:00  Kebbi FC                 v JM Liberty FC            1-0
+    16:00  Kogi FC                  v Green Beret FC           1-0
+    16:00  Malumfashi FC            v DMD FC                   3-1
+    16:00  Road Safety FC           v Jigawa Golden Stars FC   1-0
+    16:00  Vandrezzer FC            v Abeokuta FC              0-0
+    16:00  Ekiti United FC          v Ibom Youths FC           0-3
+
+
+
+» Matchday 19
+  18.06.
+    16:00  Abia Comets FC           v Go Round FC              3-1
+    16:00  Apex Krane FC            v Ottasolo FC              3-0
+    16:00  Crown FC                 v Rovers FC                1-0
+    16:00  Edel FC                  v Cynosure FC              2-1
+    16:00  One Rocket FC            v Sporting Lagos FC        1-0
+  19.06.
+    16:00  Warri Wolves FC          v Ijebu FC                 4-1
+  25.06.
+    16:00  Abeokuta FC              v Giant Brillars FC        2-1
+    16:00  Adoration FC             v Campos FC                1-0
+    16:00  Gateway Utd.             v Ikorodu City FC          2-0
+    16:00  Green Beret FC           v Road Safety FC           1-0
+    16:00  Ibom Youths FC           v Bendel FC                1-2
+    16:00  J’Atete FC               v Ekiti United FC          0-1
+    16:00  Jigawa Golden Stars FC   v Kebbi FC                 3-1
+    16:00  Nigeria Airforce FC      v Malumfashi FC            3-1
+    16:00  Osun FC                  v Vandrezzer FC            1-0
+  26.06.
+    16:00  DMD FC                   v Kogi FC                  2-0
+  27.06.
+    16:00  JM Liberty FC            v Doma United FC           1-2
+
+
+
+» Matchday 20
+  14.07.
+    08:00  Ibom Youths FC           v J’Atete FC               3-4
+    09:00  Adamawa United FC        v JM Liberty FC            2-1
+    09:00  Bendel FC                v Ikorodu City FC          2-0
+    09:00  Campos FC                v Abeokuta FC              1-1
+    09:00  Doma United FC           v Jigawa Golden Stars FC   2-0
+    09:00  Ekiti United FC          v Adoration FC             2-0
+    09:00  Giant Brillars FC        v Osun FC                  2-0
+    09:00  Kebbi FC                 v Green Beret FC           1-0
+    09:00  Kogi FC                  v Nigeria Airforce FC      0-1
+    09:00  Road Safety FC           v DMD FC                   1-1
+    09:00  Vandrezzer FC            v Gateway Utd.             3-1
+  22.06.
+    16:00  Bayelsa United FC        v Crown FC                 5-1
+    16:00  Go Round FC              v Apex Krane FC            2-1
+    16:00  Ijebu FC                 v Edel FC                  2-1
+    16:00  Ottasolo FC              v One Rocket FC            1-1
+    16:00  Rovers FC                v Abia Comets FC           3-2
+    16:00  Sporting Lagos FC        v Warri Wolves FC          1-1
+
+
+
+» Matchday 21
+  06.08.
+    16:00  Abeokuta FC              v Ekiti United FC          3-0
+    16:00  Adoration FC             v Ibom Youths FC           3-2
+    16:00  Gateway Utd.             v Giant Brillars FC        1-1
+    16:00  Ikorodu City FC          v Vandrezzer FC            1-1
+    16:00  Osun FC                  v Campos FC                3-0
+  07.08.
+    16:00  J’Atete FC               v Bendel FC                1-0
+  13.08.
+    14:00  DMD FC                   v Kebbi FC                 1-0
+    16:00  Green Beret FC           v Doma United FC           1-0
+    16:00  Jigawa Golden Stars FC   v Adamawa United FC        2-1
+    16:00  Nigeria Airforce FC      v Road Safety FC           1-0
+  24.08.
+    16:00  Malumfashi FC            v Kogi FC                  2-1
+  25.06.
+    16:00  Abia Comets FC           v Bayelsa United FC        0-1
+    16:00  Cynosure FC              v Ijebu FC                 3-0
+    16:00  Edel FC                  v Sporting Lagos FC        2-1
+    16:00  One Rocket FC            v Go Round FC              2-0
+    18:00  Apex Krane FC            v Rovers FC                3-0
+  26.06.
+    16:00  Warri Wolves FC          v Ottasolo FC              3-0
+
+
+
+» Matchday 22
+  12.08.
+    18:00  Bendel FC                v Vandrezzer FC            1-0
+  13.08.
+    16:00  Ekiti United FC          v Osun FC                  3-0
+    16:00  Giant Brillars FC        v Ikorodu City FC          0-0
+    16:00  Ibom Youths FC           v Abeokuta FC              3-1
+    16:00  J’Atete FC               v Adoration FC             0-0
+    16:00  Campos FC                v Gateway Utd.             0-3
+  14.07.
+    09:00  Bayelsa United FC        v Apex Krane FC            3-0
+    09:00  Crown FC                 v Abia Comets FC           4-0
+    09:00  Go Round FC              v Warri Wolves FC          0-0
+    09:00  Rovers FC                v One Rocket FC            3-0
+    09:00  Sporting Lagos FC        v Cynosure FC              1-0
+    11:00  Ottasolo FC              v Edel FC                  0-0
+  27.08.
+    16:00  Adamawa United FC        v Green Beret FC           2-1
+    16:00  Doma United FC           v DMD FC                   1-0
+    16:00  JM Liberty FC            v Jigawa Golden Stars FC   2-0
+    16:00  Kebbi FC                 v Nigeria Airforce FC      2-3
+    16:00  Road Safety FC           v Malumfashi FC            1-2
+
+
+
+» Matchday 23
+  06.08.
+    16:00  Apex Krane FC            v Crown FC                 1-0
+    16:00  Cynosure FC              v Ottasolo FC              3-1
+    16:00  Edel FC                  v Go Round FC              1-0
+    16:00  Ijebu FC                 v Sporting Lagos FC        1-1
+    16:00  One Rocket FC            v Bayelsa United FC        0-0
+    16:00  Warri Wolves FC          v Rovers FC                2-0
+
+
+
+» Matchday 24
+  13.08.
+    16:00  Abia Comets FC           v Apex Krane FC            1-0
+    16:00  Bayelsa United FC        v Warri Wolves FC          1-0
+    16:00  Crown FC                 v One Rocket FC            2-0
+    16:00  Go Round FC              v Cynosure FC              2-1
+    16:00  Rovers FC                v Edel FC                  1-0
+    16:00  Ottasolo FC              v Ijebu FC                 0-3
+
+
+
+» Matchday 25
+  20.08.
+    13:00  One Rocket FC            v Abia Comets FC           2-1
+    16:00  Cynosure FC              v Rovers FC                1-0
+    16:00  Edel FC                  v Bayelsa United FC        0-0
+    16:00  Ijebu FC                 v Go Round FC              2-0
+    16:00  Warri Wolves FC          v Crown FC                 2-1
+  21.08.
+    16:00  Sporting Lagos FC        v Ottasolo FC              4-1
+
+
+
+» Matchday 26
+  27.08.
+    12:00  Go Round FC              v Sporting Lagos FC        1-0
+    16:00  Abia Comets FC           v Warri Wolves FC          1-0
+    16:00  Apex Krane FC            v One Rocket FC            2-2
+    16:00  Bayelsa United FC        v Cynosure FC              2-0
+    16:00  Crown FC                 v Edel FC                  3-0
+    16:00  Rovers FC                v Ijebu FC                 3-0
+
+
+======================================================================
+  NNL - CHAMPIONSHIP GROUP
+======================================================================
+
+
+
+» Matchday 1
+  16.11.
+    14:00  Bayelsa United FC        v Doma United FC           0-0
+  18.11.
+    16:00  El-Kanemi Warriors FC    v Bendel FC                1-1
+
+
+
+» Matchday 2
+  17.11.
+    14:00  Doma United FC           v El-Kanemi Warriors FC    0-2
+    16:00  Bayelsa United FC        v Bendel FC                0-1
+
+
+
+» Matchday 3
+  19.11.
+    14:00  El-Kanemi Warriors FC    v Bayelsa United FC        0-2
+    16:00  Bendel FC                v Doma United FC           2-1
+
