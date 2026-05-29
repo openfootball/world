@@ -1,12 +1,12 @@
 = Nigeria | Premier Football League 2015/2016
 
-# Date       Fri Feb/20 2015 - Fri Oct/02 2015 (224d)
+# Date       Fri Feb 20 2015 - Fri Oct 02 2015 (224d)
 # Teams      20
 # Matches    360
 
 
 
-» Matchday 1
+▪ Matchday 1
   20.02.
     16:00  Plateau United FC          v Niger Tornadoes FC         2-1 (1-0)
   21.02.
@@ -22,7 +22,7 @@
 
 
 
-» Matchday 2
+▪ Matchday 2
   16.03.
     16:00  Akwa United FC             v Ikorodu City FC            3-0 (1-0)
   24.02.
@@ -39,7 +39,7 @@
 
 
 
-» Matchday 3
+▪ Matchday 3
   13.04.
     16:00  Nasarawa United FC         v Giwa FC                    3-1 (2-1)
     16:00  Sunshine Stars FC          v Enyimba FC                 2-1 (1-1)
@@ -57,7 +57,7 @@
 
 
 
-» Matchday 4
+▪ Matchday 4
   02.03.
     16:00  Abia Warriors FC           v Kano Pillars FC            0-0 (0-0)
     16:00  Akwa United FC             v Heartland FC               3-1 (0-0)
@@ -73,7 +73,7 @@
 
 
 
-» Matchday 5
+▪ Matchday 5
   05.03.
     16:00  Rangers International FC   v Wikki Tourists FC          1-0 (1-0)
   06.03.
@@ -89,7 +89,7 @@
 
 
 
-» Matchday 6
+▪ Matchday 6
   11.03.
     19:00  Akwa United FC             v Plateau United FC          2-0 (1-0)
   13.03.
@@ -108,7 +108,7 @@
 
 
 
-» Matchday 7
+▪ Matchday 7
   04.05.
     16:00  Kano Pillars FC            v Enyimba FC                 1-2 (1-0)
   14.04.
@@ -127,7 +127,7 @@
 
 
 
-» Matchday 8
+▪ Matchday 8
   23.03.
     16:00  Abia Warriors FC           v Wikki Tourists FC          0-0 (0-0)
     16:00  Akwa United FC             v Warri Wolves FC            0-0 (0-0)
@@ -143,7 +143,7 @@
 
 
 
-» Matchday 9
+▪ Matchday 9
   27.03.
     16:00  Abia Warriors FC           v Niger Tornadoes FC         1-0 (0-0)
     16:00  El-Kanemi Warriors FC      v Nasarawa United FC         3-0 (1-0)
@@ -158,7 +158,7 @@
 
 
 
-» Matchday 10
+▪ Matchday 10
   06.04.
     16:00  Akwa United FC             v Abia Warriors FC           1-2 (1-2)
     16:00  Giwa FC                    v Kano Pillars FC            2-0 (1-0)
@@ -175,7 +175,7 @@
 
 
 
-» Matchday 11
+▪ Matchday 11
   01.06.
     16:00  Wikki Tourists FC          v Enyimba FC                 3-1 (1-1)
   09.04.
@@ -193,7 +193,7 @@
 
 
 
-» Matchday 12
+▪ Matchday 12
   15.04.
     19:00  MFM FC                     v Wikki Tourists FC          1-0 (1-0)
   16.04.
@@ -212,7 +212,7 @@
 
 
 
-» Matchday 13
+▪ Matchday 13
   22.04.
     16:00  Rangers International FC   v Nasarawa United FC         2-1 (1-0)
   23.04.
@@ -229,7 +229,7 @@
 
 
 
-» Matchday 14
+▪ Matchday 14
   01.05.
     16:00  Enyimba FC                 v Lobi Stars FC              2-2 (1-1)
     16:00  Ifeanyi Ubah FC            v Abia Warriors FC           0-0 (0-0)
@@ -245,7 +245,7 @@
 
 
 
-» Matchday 15
+▪ Matchday 15
   07.05.
     16:00  Abia Warriors FC           v Giwa FC                    1-0 (1-0)
   08.05.
@@ -261,7 +261,7 @@
 
 
 
-» Matchday 16
+▪ Matchday 16
   11.05.
     16:00  Ifeanyi Ubah FC            v Lobi Stars FC              1-0 (1-0)
     16:00  Ikorodu City FC            v Plateau United FC          2-2 (1-0)
@@ -277,7 +277,7 @@
 
 
 
-» Matchday 17
+▪ Matchday 17
   14.05.
     16:00  Enyimba FC                 v Ifeanyi Ubah FC            2-0 (1-0)
   15.05.
@@ -294,7 +294,7 @@
 
 
 
-» Matchday 18
+▪ Matchday 18
   01.06.
     16:00  El-Kanemi Warriors FC      v Rangers International FC   2-0 (1-0)
   18.05.
@@ -311,7 +311,7 @@
 
 
 
-» Matchday 19
+▪ Matchday 19
   20.05.
     16:00  Rangers International FC   v Heartland FC               0-0 (0-0)
   21.05.
@@ -327,7 +327,7 @@
 
 
 
-» Matchday 20
+▪ Matchday 20
   04.06.
     16:00  El-Kanemi Warriors FC      v Warri Wolves FC            2-0 (1-0)
   05.06.
@@ -342,7 +342,7 @@
 
 
 
-» Matchday 21
+▪ Matchday 21
   08.06.
     16:00  Abia Warriors FC           v Ikorodu City FC            1-1 (0-1)
     16:00  Akwa United FC             v Sunshine Stars FC          3-3 (2-1)
@@ -357,7 +357,7 @@
 
 
 
-» Matchday 22
+▪ Matchday 22
   11.06.
     16:00  El-Kanemi Warriors FC      v Abia Warriors FC           2-0 (1-0)
   12.06.
@@ -372,7 +372,7 @@
 
 
 
-» Matchday 23
+▪ Matchday 23
   03.08.
     16:00  Enyimba FC                 v Sunshine Stars FC          0-0 (0-0)
   07.07.
@@ -389,7 +389,7 @@
 
 
 
-» Matchday 24
+▪ Matchday 24
   14.09.
     16:00  Ikorodu City FC            v Enyimba FC                 3-2 (1-1)
   24.06.
@@ -406,7 +406,7 @@
 
 
 
-» Matchday 25
+▪ Matchday 25
   02.07.
     16:00  Nasarawa United FC         v Rivers United FC           1-0 (0-0)
   03.07.
@@ -421,7 +421,7 @@
 
 
 
-» Matchday 26
+▪ Matchday 26
   08.07.
     19:00  Rangers International FC   v Abia Warriors FC           2-1 (2-0)
   09.07.
@@ -437,7 +437,7 @@
 
 
 
-» Matchday 27
+▪ Matchday 27
   16.07.
     16:00  Akwa United FC             v Rangers International FC   2-3 (1-1)
     16:00  Nasarawa United FC         v Sunshine Stars FC          3-0 (3-0)
@@ -452,7 +452,7 @@
 
 
 
-» Matchday 28
+▪ Matchday 28
   23.07.
     16:00  Heartland FC               v Ifeanyi Ubah FC            0-0 (0-0)
     16:00  Kano Pillars FC            v MFM FC                     1-0 (0-0)
@@ -467,7 +467,7 @@
 
 
 
-» Matchday 29
+▪ Matchday 29
   12.08.
     14:00  Rivers United FC           v Ikorodu City FC            2-0 (0-0)
   30.07.
@@ -483,7 +483,7 @@
 
 
 
-» Matchday 30
+▪ Matchday 30
   01.09.
     08:00  Rangers International FC   v MFM FC                     1-0
   06.08.
@@ -500,7 +500,7 @@
 
 
 
-» Matchday 31
+▪ Matchday 31
   07.09.
     16:00  Enyimba FC                 v Wikki Tourists FC          2-1 (1-1)
   16.08.
@@ -517,7 +517,7 @@
 
 
 
-» Matchday 32
+▪ Matchday 32
   21.08.
     16:00  Akwa United FC             v Lobi Stars FC              1-0 (1-0)
     16:00  El-Kanemi Warriors FC      v Sunshine Stars FC          3-2 (3-2)
@@ -533,7 +533,7 @@
 
 
 
-» Matchday 33
+▪ Matchday 33
   27.08.
     16:00  Enyimba FC                 v Akwa United FC             2-1 (1-1)
   28.08.
@@ -549,7 +549,7 @@
 
 
 
-» Matchday 34
+▪ Matchday 34
   03.09.
     16:00  El-Kanemi Warriors FC      v Niger Tornadoes FC         2-0 (1-0)
   04.09.
@@ -565,7 +565,7 @@
 
 
 
-» Matchday 35
+▪ Matchday 35
   10.09.
     16:00  Ifeanyi Ubah FC            v Akwa United FC             2-0 (1-0)
     16:00  Ikorodu City FC            v Kano Pillars FC            4-1 (1-1)
@@ -581,7 +581,7 @@
 
 
 
-» Matchday 36
+▪ Matchday 36
   18.09.
     16:00  Abia Warriors FC           v Nasarawa United FC         2-1 (1-0)
     16:00  Lobi Stars FC              v Ifeanyi Ubah FC            2-1 (1-0)
@@ -596,7 +596,7 @@
 
 
 
-» Matchday 37
+▪ Matchday 37
   25.09.
     16:00  El-Kanemi Warriors FC      v Plateau United FC          1-0 (0-0)
     16:00  Heartland FC               v Kano Pillars FC            1-0 (0-0)
@@ -610,7 +610,7 @@
 
 
 
-» Matchday 38
+▪ Matchday 38
   02.10.
     16:00  Abia Warriors FC           v Shooting Stars SC          2-1 (1-0)
     16:00  Akwa United FC             v Rivers United FC           1-2 (0-1)

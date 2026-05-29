@@ -1,38 +1,38 @@
 = African Football League 2023
 
-# Date       Fri Oct/20 - Sun Nov/12 2023 (23d)
+# Date       Fri Oct 20 - Sun Nov 12 2023 (23d)
 # Teams      8
 # Matches    14
 
 
 
-» Quarterfinals
-  Fri Oct/20 2023
-    18.00  Simba SC (TAN)          v Al Ahly SC (EGY)         2-2
-  Sat Oct/21
-    18.30  Petro Atlético (ANG)    v Mamelodi Sundowns (RSA)  0-2
-  Sun Oct/22
-    18.00  TP Mazembe (COD)        v Espérance de Tunis (TUN)  1-0
-    21.00  Enyimba Aba (NGA)       v Wydad AC (MAR)           0-1
-  Tue Oct/24
-    17.00  Al Ahly SC (EGY)        v Simba SC (TAN)           1-1
-    20.00  Mamelodi Sundowns (RSA) v Petro Atlético (ANG)     0-0
-  Thu Oct/26
-    18.00  Espérance de Tunis (TUN) v TP Mazembe (COD)         3-0
-    21.00  Wydad AC (MAR)          v Enyimba Aba (NGA)        3-0
+▪ Quarterfinals
+  Fri Oct 20 2023
+    18:00  Simba SC (TAN)          v Al Ahly SC (EGY)         2-2
+  Sat Oct 21
+    18:30  Petro Atlético (ANG)    v Mamelodi Sundowns (RSA)  0-2
+  Sun Oct 22
+    18:00  TP Mazembe (COD)        v Espérance de Tunis (TUN)  1-0
+    21:00  Enyimba Aba (NGA)       v Wydad AC (MAR)           0-1
+  Tue Oct 24
+    17:00  Al Ahly SC (EGY)        v Simba SC (TAN)           1-1
+    20:00  Mamelodi Sundowns (RSA) v Petro Atlético (ANG)     0-0
+  Thu Oct 26
+    18:00  Espérance de Tunis (TUN) v TP Mazembe (COD)         3-0
+    21:00  Wydad AC (MAR)          v Enyimba Aba (NGA)        3-0
 
 
-» Semifinals
-  Sun Oct/29
-    15.00  Mamelodi Sundowns (RSA) v Al Ahly SC (EGY)         1-0
-    20.00  Wydad AC (MAR)          v Espérance de Tunis (TUN)  1-0
-  Wed Nov/1
-    17.00  Espérance de Tunis (TUN) v Wydad AC (MAR)           4-5 pen.
-    20.00  Al Ahly SC (EGY)        v Mamelodi Sundowns (RSA)  0-0
+▪ Semifinals
+  Sun Oct 29
+    15:00  Mamelodi Sundowns (RSA) v Al Ahly SC (EGY)         1-0
+    20:00  Wydad AC (MAR)          v Espérance de Tunis (TUN)  1-0
+  Wed Nov 1
+    17:00  Espérance de Tunis (TUN) v Wydad AC (MAR)           4-5 pen.
+    20:00  Al Ahly SC (EGY)        v Mamelodi Sundowns (RSA)  0-0
 
 
-» Final
-  Sun Nov/5
-    20.00  Wydad AC (MAR)          v Mamelodi Sundowns (RSA)  2-1
-  Sun Nov/12
-    15.00  Mamelodi Sundowns (RSA) v Wydad AC (MAR)           2-0
+▪ Final
+  Sun Nov 5
+    20:00  Wydad AC (MAR)          v Mamelodi Sundowns (RSA)  2-1
+  Sun Nov 12
+    15:00  Mamelodi Sundowns (RSA) v Wydad AC (MAR)           2-0

@@ -6,13 +6,8 @@
 
 
 
-======================================================================
-  NNL
-======================================================================
-
-
-
-» Matchday 1
+▪ NNL
+▪▪ Matchday 1
   04.03.
     16:00  One Rocket FC            v Warri Wolves FC          2-1
   05.04.
@@ -42,7 +37,7 @@
 
 
 
-» Matchday 2
+▪▪ Matchday 2
   24.03.
     16:00  Police Machine FC        v Adamawa United FC        0-0
   25.03.
@@ -71,7 +66,7 @@
 
 
 
-» Matchday 3
+▪▪ Matchday 3
   01.04.
     15:00  Go Round FC              v Henserd FC               1-1
     15:00  Green Beret FC           v City FC Abuja            2-1
@@ -101,7 +96,7 @@
 
 
 
-» Matchday 4
+▪▪ Matchday 4
   07.04.
     16:00  Hypebuzz FC              v EFCC FC                  2-0
     16:00  Ikorodu United FC        v Madiba FC                1-3
@@ -132,7 +127,7 @@
 
 
 
-» Matchday 5
+▪▪ Matchday 5
   07.05.
     16:00  Adamawa United FC        v Police Machine FC        2-1
     16:00  Yobe Desert Stars FC     v DMD FC                   0-0
@@ -163,7 +158,7 @@
 
 
 
-» Matchday 6
+▪▪ Matchday 6
   10.06.
     16:00  DMD FC                   v Police Machine FC        1-0
     16:00  Yobe Desert Stars FC     v Adamawa United FC        2-0
@@ -192,7 +187,7 @@
 
 
 
-» Matchday 7
+▪▪ Matchday 7
   05.05.
     16:00  Malumfashi FC            v Zamfara United FC        4-0
   06.05.
@@ -219,7 +214,7 @@
 
 
 
-» Matchday 8
+▪▪ Matchday 8
   12.05.
     16:00  EFCC FC                  v Mailantarki Care FC      1-0
     16:00  Zamfara United FC        v Kebbi FC                 0-1
@@ -246,7 +241,7 @@
 
 
 
-» Matchday 9
+▪▪ Matchday 9
   04.06.
     16:00  Madiba FC                v Ebedei FC                6-0
   20.05.
@@ -274,7 +269,7 @@
 
 
 
-» Matchday 10
+▪▪ Matchday 10
   10.06.
     14:00  EFCC FC                  v Mighty Jets FC           2-0
     14:00  Hypebuzz FC              v Kogi FC                  4-0
@@ -298,13 +293,9 @@
     16:00  Sporting Lagos FC        v Smart City FC            4-0
 
 
-======================================================================
-  NNL - PROMOTION GROUP
-======================================================================
 
-
-
-» Matchday 1
+▪ NNL - PROMOTION GROUP
+▪▪ Matchday 1
   02.07.
     09:00  Kano Pillars FC          v EFCC FC                  1-0
     11:00  DMD FC                   v Katsina United FC        1-2
@@ -313,7 +304,7 @@
 
 
 
-» Matchday 2
+▪▪ Matchday 2
   03.07.
     09:00  EFCC FC                  v Katsina United FC        2-1
     11:00  Kano Pillars FC          v DMD FC                   2-0
@@ -322,7 +313,7 @@
 
 
 
-» Matchday 3
+▪▪ Matchday 3
   05.07.
     13:00  DMD FC                   v EFCC FC                  2-0
     13:00  Katsina United FC        v Kano Pillars FC          1-0
@@ -330,11 +321,8 @@
     15:00  Heartland FC             v Sporting Lagos FC        2-1
 
 
-======================================================================
-  NNL - PLAY OFFS
-======================================================================
 
-» Final
+▪ NNL - PLAY OFFS
+▪▪ Final
   07.07.
     16:00  Kano Pillars FC          v Heartland FC             0-2
-

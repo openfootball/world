@@ -6,13 +6,8 @@
 
 
 
-======================================================================
-  NNL
-======================================================================
-
-
-
-» Matchday 1
+▪ NNL
+▪▪ Matchday 1
   10.04.
     15:00  J’Atete FC               v 36 Lion FC               1-0
     16:00  Adamawa United FC        v Aklosendi FC             1-0
@@ -36,7 +31,7 @@
 
 
 
-» Matchday 2
+▪▪ Matchday 2
   20.04.
     16:00  36 Lion FC               v Stationery Stores FC     1-2
     16:00  Abia Comets FC           v Bayelsa United FC        2-0
@@ -60,7 +55,7 @@
 
 
 
-» Matchday 3
+▪▪ Matchday 3
   01.05.
     16:00  ABS FC                   v Mighty Jets FC           1-1
     16:00  Adamawa United FC        v Giordano FC              4-1
@@ -84,7 +79,7 @@
 
 
 
-» Matchday 4
+▪▪ Matchday 4
   05.05.
     16:00  ABS FC                   v Adamawa United FC        2-0
     16:00  Crown FC                 v Lamray United FC         1-0
@@ -107,7 +102,7 @@
 
 
 
-» Matchday 5
+▪▪ Matchday 5
   11.05.
     16:00  36 Lion FC               v Dakkada FC               2-1
     16:00  Abia Comets FC           v Giant Brillars FC        0-1
@@ -131,7 +126,7 @@
 
 
 
-» Matchday 6
+▪▪ Matchday 6
   18.05.
     16:00  ABS FC                   v Aklosendi FC             2-1
     16:00  Crown FC                 v Ibom Youths FC           2-0
@@ -155,7 +150,7 @@
 
 
 
-» Matchday 7
+▪▪ Matchday 7
   15.06.
     16:00  36 Lion FC               v Jossy FC                 2-2
     16:00  Adamawa United FC        v ABS FC                   2-0
@@ -179,7 +174,7 @@
 
 
 
-» Matchday 8
+▪▪ Matchday 8
   22.06.
     16:00  Abia Comets FC           v Osun FC                  2-0
     16:00  Bimo FC                  v Road Safety FC           0-1
@@ -202,7 +197,7 @@
 
 
 
-» Matchday 9
+▪▪ Matchday 9
   01.07.
     16:00  Gateway Utd.             v Dynamite Force FC        1-0
     16:00  Rovers FC                v Edel FC                  1-0
@@ -228,7 +223,7 @@
 
 
 
-» Matchday 10
+▪▪ Matchday 10
   06.07.
     16:00  Bimo FC                  v Green Beret FC           2-0
     16:00  EFCC FC                  v Nigeria Airforce FC      0-1
@@ -253,24 +248,20 @@
     16:00  Sokoto FC                v ABS FC                   3-0
 
 
-======================================================================
-  NNL - PLAY OFFS
-======================================================================
-
-» Quarter-finals
+▪ NNL - PLAY OFFS
+▪▪ Quarter-finals
   22.07.
     16:00  Nigeria Airforce FC      v Jigawa Golden Stars FC   2-3
     16:00  Road Safety FC           v Adamawa United FC        1-2
     16:00  Shooting Stars SC        v Dakkada FC               0-3
     16:00  Dynamite Force FC        v Warri Wolves FC          0-1 (0-0)
 
-» Semi-finals
+▪▪ Semi-finals
   13.09.
     14:00  Adamawa United FC        v Jigawa Golden Stars FC   2-1 (1-1)
   14.09.
     16:00  Dakkada FC               v Warri Wolves FC          1-0 (0-0)
 
-» Final
+▪▪ Final
   15.09.
     16:00  Dakkada FC               v Adamawa United FC        2-0
-

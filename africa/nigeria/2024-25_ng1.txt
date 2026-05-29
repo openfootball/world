@@ -1,12 +1,12 @@
 = Nigeria Professional League 2024/2025
 
-# Date       Mon Jan/08 2024 - Tue Dec/31 2024 (358d)
+# Date       Mon Jan 08 2024 - Tue Dec 31 2024 (358d)
 # Teams      20
 # Matches    380
 
 
 
-» Matchday 1
+▪ Matchday 1
   08.09.
     16:00  Abia Warriors FC           v Remo Stars FC              0-2 (0-0)
     16:00  Bendel FC                  v Rivers United FC           0-0 (0-0)
@@ -23,7 +23,7 @@
 
 
 
-» Matchday 2
+▪ Matchday 2
   14.09.
     15:00  Rivers United FC           v Heartland FC               3-1 (1-1)
     17:30  Remo Stars FC              v Sunshine Stars FC          1-0 (1-0)
@@ -41,7 +41,7 @@
 
 
 
-» Matchday 3
+▪ Matchday 3
   02.10.
     16:00  Bendel FC                  v Shooting Stars SC          1-0 (0-0)
     16:00  Enyimba FC                 v Akwa United FC             1-0 (0-0)
@@ -59,7 +59,7 @@
 
 
 
-» Matchday 4
+▪ Matchday 4
   28.09.
     15:00  Ikorodu City FC            v Nasarawa United FC         1-2 (1-1)
     17:30  Akwa United FC             v Sunshine Stars FC          1-2 (0-1)
@@ -75,7 +75,7 @@
 
 
 
-» Matchday 5
+▪ Matchday 5
   05.10.
     15:00  Lobi Stars FC              v Shooting Stars SC          1-0 (1-0)
     16:00  Bendel FC                  v El-Kanemi Warriors FC      1-1 (1-1)
@@ -92,7 +92,7 @@
 
 
 
-» Matchday 6
+▪ Matchday 6
   12.10.
     16:00  Ikorodu City FC            v Bendel FC                  3-0 (0-0)
     16:00  Sunshine Stars FC          v Rangers International FC   1-0 (1-0)
@@ -108,7 +108,7 @@
 
 
 
-» Matchday 7
+▪ Matchday 7
   16.10.
     14:00  Lobi Stars FC              v El-Kanemi Warriors FC      2-2 (1-0)
     15:00  Rangers International FC   v Kano Pillars FC            3-4 (0-4)
@@ -124,7 +124,7 @@
 
 
 
-» Matchday 8
+▪ Matchday 8
   20.10.
     15:00  Bayelsa United FC          v Heartland FC               1-0 (0-0)
     15:00  El-Kanemi Warriors FC      v Enyimba FC                 1-0 (1-0)
@@ -140,7 +140,7 @@
 
 
 
-» Matchday 9
+▪ Matchday 9
   26.10.
     15:00  Katsina United FC          v Niger Tornadoes FC         1-1 (0-1)
     16:00  Bendel FC                  v Abia Warriors FC           0-1 (0-1)
@@ -157,7 +157,7 @@
 
 
 
-» Matchday 10
+▪ Matchday 10
   03.11.
     15:00  El-Kanemi Warriors FC      v Katsina United FC          1-0 (0-0)
     16:00  Abia Warriors FC           v Heartland FC               0-2 (0-1)
@@ -172,7 +172,7 @@
 
 
 
-» Matchday 11
+▪ Matchday 11
   09.11.
     16:00  Bendel FC                  v Kano Pillars FC            0-1 (0-0)
     16:00  Lobi Stars FC              v Abia Warriors FC           3-1 (0-0)
@@ -188,7 +188,7 @@
 
 
 
-» Matchday 12
+▪ Matchday 12
   16.11.
     16:00  Akwa United FC             v Nasarawa United FC         1-0 (1-0)
   17.11.
@@ -204,7 +204,7 @@
 
 
 
-» Matchday 13
+▪ Matchday 13
   11.12.
     16:00  Enyimba FC                 v Sunshine Stars FC          0-0 (0-0)
   23.11.
@@ -221,7 +221,7 @@
 
 
 
-» Matchday 14
+▪ Matchday 14
   23.01.
     15:30  Kano Pillars FC            v Enyimba FC                 2-0 (1-0)
   27.11.
@@ -237,7 +237,7 @@
 
 
 
-» Matchday 15
+▪ Matchday 15
   01.12.
     15:00  El-Kanemi Warriors FC      v Bayelsa United FC          0-0 (0-0)
     16:00  Heartland FC               v Nasarawa United FC         3-2 (1-1)
@@ -254,7 +254,7 @@
 
 
 
-» Matchday 16
+▪ Matchday 16
   07.12.
     15:00  Nasarawa United FC         v Lobi Stars FC              1-0 (1-0)
     17:30  Sunshine Stars FC          v Shooting Stars SC          0-1 (0-1)
@@ -272,7 +272,7 @@
 
 
 
-» Matchday 17
+▪ Matchday 17
   08.01.
     16:00  Enyimba FC                 v Nasarawa United FC         2-1 (1-0)
   14.12.
@@ -289,7 +289,7 @@
 
 
 
-» Matchday 18
+▪ Matchday 18
   21.12.
     15:00  Kano Pillars FC            v Niger Tornadoes FC         2-1 (1-0)
     16:00  Sunshine Stars FC          v El-Kanemi Warriors FC      1-0 (0-0)
@@ -307,7 +307,7 @@
 
 
 
-» Matchday 19
+▪ Matchday 19
   28.12.
     17:30  Bayelsa United FC          v Abia Warriors FC           0-1 (0-1)
   29.12.
@@ -325,7 +325,7 @@
 
 
 
-» Matchday 20
+▪ Matchday 20
   12.02.
     15:00  Kano Pillars FC            v El-Kanemi Warriors FC      2-1 (0-0)
     16:00  Bendel FC                  v Enyimba FC                 1-0 (0-0)
@@ -342,7 +342,7 @@
 
 
 
-» Matchday 21
+▪ Matchday 21
   29.01.
     15:00  Bayelsa United FC          v Sunshine Stars FC          4-1 (1-1)
     15:00  El-Kanemi Warriors FC      v Rangers International FC   2-1 (1-0)
@@ -358,7 +358,7 @@
 
 
 
-» Matchday 22
+▪ Matchday 22
   01.02.
     17:30  Sunshine Stars FC          v Remo Stars FC              1-2 (0-2)
   02.02.
@@ -375,7 +375,7 @@
 
 
 
-» Matchday 23
+▪ Matchday 23
   07.02.
     15:00  Katsina United FC          v Heartland FC               1-0 (0-0)
   08.02.
@@ -392,7 +392,7 @@
 
 
 
-» Matchday 24
+▪ Matchday 24
   15.02.
     15:00  Enyimba FC                 v Rivers United FC           1-0 (1-0)
     16:00  Kano Pillars FC            v Abia Warriors FC           1-0 (1-0)
@@ -408,7 +408,7 @@
 
 
 
-» Matchday 25
+▪ Matchday 25
   19.02.
     15:00  El-Kanemi Warriors FC      v Bendel FC                  0-0 (0-0)
     16:00  Abia Warriors FC           v Rangers International FC   1-0 (1-0)
@@ -424,7 +424,7 @@
 
 
 
-» Matchday 26
+▪ Matchday 26
   26.02.
     15:00  Enyimba FC                 v Shooting Stars SC          1-1 (1-1)
     16:00  Heartland FC               v El-Kanemi Warriors FC      0-0 (0-0)
@@ -441,7 +441,7 @@
 
 
 
-» Matchday 27
+▪ Matchday 27
   01.03.
     16:00  Sunshine Stars FC          v Kwara United FC            4-2 (3-2)
   02.03.
@@ -458,7 +458,7 @@
 
 
 
-» Matchday 28
+▪ Matchday 28
   07.03.
     15:00  Katsina United FC          v Shooting Stars SC          1-0 (0-0)
   08.03.
@@ -475,7 +475,7 @@
 
 
 
-» Matchday 29
+▪ Matchday 29
   14.03.
     16:00  Niger Tornadoes FC         v Katsina United FC          1-0 (0-0)
   15.03.
@@ -493,7 +493,7 @@
 
 
 
-» Matchday 30
+▪ Matchday 30
   09.04.
     16:00  Lobi Stars FC              v Remo Stars FC              2-2 (2-0)
   21.03.
@@ -511,7 +511,7 @@
 
 
 
-» Matchday 31
+▪ Matchday 31
   10.04.
     17:30  Ikorodu City FC            v Katsina United FC          6-0 (2-0)
   26.03.
@@ -528,7 +528,7 @@
 
 
 
-» Matchday 32
+▪ Matchday 32
   05.04.
     15:15  Heartland FC               v Kano Pillars FC            2-0 (1-0)
     17:30  Bendel FC                  v Rangers International FC   0-0 (0-0)
@@ -544,7 +544,7 @@
 
 
 
-» Matchday 33
+▪ Matchday 33
   11.04.
     16:00  Bayelsa United FC          v Shooting Stars SC          3-0 (2-0)
   13.04.
@@ -560,7 +560,7 @@
 
 
 
-» Matchday 34
+▪ Matchday 34
   19.04.
     15:00  Katsina United FC          v Abia Warriors FC           5-1 (2-1)
     16:00  Enyimba FC                 v Kano Pillars FC            2-1 (1-0)
@@ -576,7 +576,7 @@
 
 
 
-» Matchday 35
+▪ Matchday 35
   25.04.
     16:00  Kano Pillars FC            v Rivers United FC           2-0 (0-0)
   27.04.
@@ -592,7 +592,7 @@
 
 
 
-» Matchday 36
+▪ Matchday 36
   07.05.
     15:00  El-Kanemi Warriors FC      v Remo Stars FC              2-0 (0-0)
     15:00  Lobi Stars FC              v Nasarawa United FC         1-2 (1-0)
@@ -607,7 +607,7 @@
 
 
 
-» Matchday 37
+▪ Matchday 37
   11.05.
     15:00  Abia Warriors FC           v El-Kanemi Warriors FC      2-1 (0-1)
     15:00  Akwa United FC             v Bayelsa United FC          2-0 (1-0)
@@ -622,7 +622,7 @@
 
 
 
-» Matchday 38
+▪ Matchday 38
   25.05.
     16:00  Bayelsa United FC          v Remo Stars FC              3-0 (1-0)
     16:00  El-Kanemi Warriors FC      v Sunshine Stars FC          1-0 (1-0)

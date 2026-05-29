@@ -6,13 +6,8 @@
 
 
 
-======================================================================
-  NNL
-======================================================================
-
-
-
-» Matchday 1
+▪ NNL
+▪▪ Matchday 1
   11.02.
     17:00  EFCC FC                  v Zamfara United FC        2-1
     17:00  Vandrezzer FC            v Bendel FC                0-0
@@ -44,7 +39,7 @@
 
 
 
-» Matchday 2
+▪▪ Matchday 2
   18.02.
     16:00  Zamfara United FC        v El-Kanemi Warriors FC    1-1
     18:00  Vandrezzer FC            v Ikorodu City FC          1-1
@@ -74,7 +69,7 @@
 
 
 
-» Matchday 3
+▪▪ Matchday 3
   20.04.
     15:00  Adoration FC             v Ekiti United FC          3-0
   25.02.
@@ -105,7 +100,7 @@
 
 
 
-» Matchday 4
+▪▪ Matchday 4
   04.03.
     16:00  Malumfashi FC            v Nigeria Airforce FC      1-0
     18:00  Vandrezzer FC            v Osun FC                  4-2
@@ -136,7 +131,7 @@
 
 
 
-» Matchday 5
+▪▪ Matchday 5
   09.03.
     15:00  Ibom Youths FC           v Ekiti United FC          2-0
     16:00  Abeokuta FC              v Vandrezzer FC            1-0
@@ -167,7 +162,7 @@
 
 
 
-» Matchday 6
+▪▪ Matchday 6
   11.03.
     18:00  Vandrezzer FC            v Adoration FC             3-0
   12.03.
@@ -200,7 +195,7 @@
 
 
 
-» Matchday 7
+▪▪ Matchday 7
   04.05.
     16:00  Crown FC                 v Bayelsa United FC        2-1
   19.03.
@@ -232,7 +227,7 @@
 
 
 
-» Matchday 8
+▪▪ Matchday 8
   01.04.
     16:00  EFCC FC                  v Yobe Desert Stars FC     1-0
   02.04.
@@ -265,7 +260,7 @@
 
 
 
-» Matchday 9
+▪▪ Matchday 9
   02.04.
     16:00  Abia Comets FC           v Ottasolo FC              4-1
     16:00  Adamawa United FC        v Malumfashi FC            2-0
@@ -294,7 +289,7 @@
 
 
 
-» Matchday 10
+▪▪ Matchday 10
   06.05.
     16:00  Cynosure FC              v One Rocket FC            1-0
   08.04.
@@ -328,7 +323,7 @@
 
 
 
-» Matchday 11
+▪▪ Matchday 11
   13.04.
     16:00  Abia Comets FC           v Ijebu FC                 2-1
     16:00  Apex Krane FC            v Cynosure FC              1-0
@@ -358,7 +353,7 @@
 
 
 
-» Matchday 12
+▪▪ Matchday 12
   13.05.
     16:00  Malumfashi FC            v Kebbi FC                 2-0
     16:00  Vandrezzer FC            v Giant Brillars FC        2-0
@@ -394,7 +389,7 @@
 
 
 
-» Matchday 13
+▪▪ Matchday 13
   03.06.
     16:00  Zamfara United FC        v Oyah Sports FC           1-0
   04.06.
@@ -428,7 +423,7 @@
 
 
 
-» Matchday 14
+▪▪ Matchday 14
   10.06.
     16:00  Zamfara United FC        v Sokoto FC                2-0
   11.06.
@@ -464,7 +459,7 @@
 
 
 
-» Matchday 15
+▪▪ Matchday 15
   04.06.
     15:00  Abeokuta FC              v Osun FC                  2-1
     16:00  Adamawa United FC        v Kogi FC                  1-0
@@ -497,7 +492,7 @@
 
 
 
-» Matchday 16
+▪▪ Matchday 16
   10.06.
     12:00  Vandrezzer FC            v J’Atete FC               0-0
     16:00  Malumfashi FC            v Jigawa Golden Stars FC   2-0
@@ -529,7 +524,7 @@
 
 
 
-» Matchday 17
+▪▪ Matchday 17
   04.06.
     16:00  Abia Comets FC           v Sporting Lagos FC        1-0
     16:00  Apex Krane FC            v Ijebu FC                 1-1
@@ -560,7 +555,7 @@
 
 
 
-» Matchday 18
+▪▪ Matchday 18
   06.07.
     18:00  Bendel FC                v Gateway Utd.             4-0
   11.06.
@@ -591,7 +586,7 @@
 
 
 
-» Matchday 19
+▪▪ Matchday 19
   18.06.
     16:00  Abia Comets FC           v Go Round FC              3-1
     16:00  Apex Krane FC            v Ottasolo FC              3-0
@@ -617,7 +612,7 @@
 
 
 
-» Matchday 20
+▪▪ Matchday 20
   14.07.
     08:00  Ibom Youths FC           v J’Atete FC               3-4
     09:00  Adamawa United FC        v JM Liberty FC            2-1
@@ -640,7 +635,7 @@
 
 
 
-» Matchday 21
+▪▪ Matchday 21
   06.08.
     16:00  Abeokuta FC              v Ekiti United FC          3-0
     16:00  Adoration FC             v Ibom Youths FC           3-2
@@ -667,7 +662,7 @@
 
 
 
-» Matchday 22
+▪▪ Matchday 22
   12.08.
     18:00  Bendel FC                v Vandrezzer FC            1-0
   13.08.
@@ -692,7 +687,7 @@
 
 
 
-» Matchday 23
+▪▪ Matchday 23
   06.08.
     16:00  Apex Krane FC            v Crown FC                 1-0
     16:00  Cynosure FC              v Ottasolo FC              3-1
@@ -703,7 +698,7 @@
 
 
 
-» Matchday 24
+▪▪ Matchday 24
   13.08.
     16:00  Abia Comets FC           v Apex Krane FC            1-0
     16:00  Bayelsa United FC        v Warri Wolves FC          1-0
@@ -714,7 +709,7 @@
 
 
 
-» Matchday 25
+▪▪ Matchday 25
   20.08.
     13:00  One Rocket FC            v Abia Comets FC           2-1
     16:00  Cynosure FC              v Rovers FC                1-0
@@ -726,7 +721,7 @@
 
 
 
-» Matchday 26
+▪▪ Matchday 26
   27.08.
     12:00  Go Round FC              v Sporting Lagos FC        1-0
     16:00  Abia Comets FC           v Warri Wolves FC          1-0
@@ -736,13 +731,9 @@
     16:00  Rovers FC                v Ijebu FC                 3-0
 
 
-======================================================================
-  NNL - CHAMPIONSHIP GROUP
-======================================================================
 
-
-
-» Matchday 1
+▪ NNL - CHAMPIONSHIP GROUP
+▪▪ Matchday 1
   16.11.
     14:00  Bayelsa United FC        v Doma United FC           0-0
   18.11.
@@ -750,15 +741,14 @@
 
 
 
-» Matchday 2
+▪▪ Matchday 2
   17.11.
     14:00  Doma United FC           v El-Kanemi Warriors FC    0-2
     16:00  Bayelsa United FC        v Bendel FC                0-1
 
 
 
-» Matchday 3
+▪▪ Matchday 3
   19.11.
     14:00  El-Kanemi Warriors FC    v Bayelsa United FC        0-2
     16:00  Bendel FC                v Doma United FC           2-1
-

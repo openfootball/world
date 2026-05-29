@@ -1,12 +1,12 @@
 = Nigeria | Premier Football League 2012/2013
 
-# Date       Fri Mar/09 2012 - Sat Oct/20 2012 (225d)
+# Date       Fri Mar 09 2012 - Sat Oct 20 2012 (225d)
 # Teams      20
 # Matches    380
 
 
 
-» Matchday 1
+▪ Matchday 1
   09.03.
     16:00  Rangers International FC   v Enyimba FC                 1-0 (1-0)
   10.03.
@@ -21,7 +21,7 @@
     16:00  Wikki Tourists             v Kano Pillars FC            0-1 (0-0)
 
 
-» Matchday 2
+▪ Matchday 2
   20.03.
     16:00  El-Kanemi Warriors         v Wikki Tourists             0-0 (0-0)
     16:00  Kano Pillars FC            v Bayelsa United FC          1-0 (0-0)
@@ -37,7 +37,7 @@
     16:00  Nembe City FC              v Rangers International FC   1-2 (1-0)
 
 
-» Matchday 3
+▪ Matchday 3
   24.03.
     16:00  ABS FC                     v Rivers United FC           1-0 (1-0)
     16:00  Akwa United FC             v Kano Pillars FC            1-0 (0-0)
@@ -52,7 +52,7 @@
     16:00  Rangers International FC   v Warri Wolves FC            0-0 (0-0)
 
 
-» Matchday 4
+▪ Matchday 4
   27.03.
     16:00  Kwara United               v Heartland FC               1-0 (1-0)
     16:00  Wikki Tourists             v Akwa United FC             2-0 (2-0)
@@ -67,7 +67,7 @@
     16:00  Warri Wolves FC            v Nasarawa United            0-0
 
 
-» Matchday 5
+▪ Matchday 5
   17.04.
     16:00  Sunshine Stars FC          v Lobi Stars FC              2-0
   31.03.
@@ -82,7 +82,7 @@
     16:00  Shooting Stars SC          v Wikki Tourists             3-2
 
 
-» Matchday 6
+▪ Matchday 6
   10.04.
     16:00  El-Kanemi Warriors         v Akwa United FC             2-1
     16:00  Gombe United               v Rangers International FC   2-1
@@ -97,7 +97,7 @@
     16:00  Warri Wolves FC            v Nembe City FC              1-1
 
 
-» Matchday 7
+▪ Matchday 7
   14.04.
     15:00  ABS FC                     v Bayelsa United FC          2-0 (1-0)
     15:00  Enyimba FC                 v Kwara United               0-0 (0-0)
@@ -111,7 +111,7 @@
     15:00  Warri Wolves FC            v El-Kanemi Warriors         4-1 (4-0)
 
 
-» Matchday 8
+▪ Matchday 8
   01.06.
     16:00  Kano Pillars FC            v Heartland FC               1-0 (0-0)
   24.04.
@@ -127,7 +127,7 @@
     16:00  Rivers United FC           v Nasarawa United            3-0
 
 
-» Matchday 9
+▪ Matchday 9
   28.04.
     16:00  ABS FC                     v Shooting Stars SC          1-0
     16:00  Enyimba FC                 v Rivers United FC           2-0
@@ -141,7 +141,7 @@
     16:00  Warri Wolves FC            v Kwara United               2-1
 
 
-» Matchday 10
+▪ Matchday 10
   08.05.
     16:00  Kano Pillars FC            v Nasarawa United            2-0
     16:00  Kwara United               v Kaduna United              2-0
@@ -157,7 +157,7 @@
     16:00  Wikki Tourists             v Rangers International FC   3-0
 
 
-» Matchday 11
+▪ Matchday 11
   12.05.
     16:00  Enyimba FC                 v Kano Pillars FC            3-0
     16:00  Heartland FC               v Akwa United FC             2-1
@@ -172,7 +172,7 @@
     16:00  Rangers International FC   v Bayelsa United FC          1-1
 
 
-» Matchday 12
+▪ Matchday 12
   15.05.
     16:00  ABS FC                     v Sharks FC                  0-0 (0-0)
     16:00  Akwa United FC             v Rangers International FC   1-0
@@ -187,7 +187,7 @@
     16:00  Wikki Tourists             v Enyimba FC                 1-0
 
 
-» Matchday 13
+▪ Matchday 13
   19.05.
     16:00  Enyimba FC                 v Bayelsa United FC          2-0
     16:00  Gombe United               v El-Kanemi Warriors         1-0
@@ -202,7 +202,7 @@
     16:00  Rangers International FC   v Shooting Stars SC          2-0
 
 
-» Matchday 14
+▪ Matchday 14
   22.05.
     16:00  ABS FC                     v Rangers International FC   2-1
     16:00  Akwa United FC             v Enyimba FC                 1-0
@@ -216,7 +216,7 @@
     16:00  Wikki Tourists             v Warri Wolves FC            2-1
 
 
-» Matchday 15
+▪ Matchday 15
   26.05.
     16:00  Enyimba FC                 v Shooting Stars SC          1-0 (0-0)
     16:00  Gombe United               v Lobi Stars FC              2-2 (1-1)
@@ -230,7 +230,7 @@
     16:00  Warri Wolves FC            v Bayelsa United FC          4-0 (2-0)
 
 
-» Matchday 16
+▪ Matchday 16
   05.06.
     16:00  ABS FC                     v Enyimba FC                 3-0
     16:00  Bayelsa United FC          v Kaduna United              2-0
@@ -247,7 +247,7 @@
     16:00  Sharks FC                  v Rangers International FC   1-0 (1-0)
 
 
-» Matchday 17
+▪ Matchday 17
   08.06.
     16:00  Gombe United               v Wikki Tourists             1-0 (1-0)
     16:00  Kwara United               v Bayelsa United FC          2-0 (1-0)
@@ -262,7 +262,7 @@
     16:00  Warri Wolves FC            v Shooting Stars SC          2-1 (0-0)
 
 
-» Matchday 18
+▪ Matchday 18
   12.06.
     16:00  ABS FC                     v Warri Wolves FC            0-2
     16:00  Bayelsa United FC          v Gombe United               1-0
@@ -277,7 +277,7 @@
     16:00  El-Kanemi Warriors         v Rangers International FC   3-0
 
 
-» Matchday 19
+▪ Matchday 19
   16.06.
     16:00  Enyimba FC                 v Heartland FC               1-0
     16:00  Gombe United               v Akwa United FC             4-1
@@ -291,7 +291,7 @@
     16:00  Warri Wolves FC            v Sunshine Stars FC          2-0
 
 
-» Matchday 20
+▪ Matchday 20
   03.07.
     16:00  El-Kanemi Warriors         v Kano Pillars FC            2-0
     16:00  Sharks FC                  v Nembe City FC              1-0 (1-0)
@@ -306,7 +306,7 @@
     16:00  Sunshine Stars FC          v Warri Wolves FC            1-1
 
 
-» Matchday 21
+▪ Matchday 21
   07.07.
     16:00  El-Kanemi Warriors         v Nasarawa United            3-0
     16:00  Enyimba FC                 v Rangers International FC   1-0
@@ -321,7 +321,7 @@
     12:00  Rivers United FC           v Akwa United FC             2-1 (2-0)
 
 
-» Matchday 22
+▪ Matchday 22
   21.07.
     16:00  ABS FC                     v Gombe United               1-0
     16:00  Akwa United FC             v Lobi Stars FC              2-1
@@ -335,7 +335,7 @@
     16:00  Wikki Tourists             v El-Kanemi Warriors         0-3
 
 
-» Matchday 23
+▪ Matchday 23
   03.08.
     16:00  Kwara United               v Sharks FC                  0-0 (0-0)
     16:00  Rivers United FC           v ABS FC                     2-0 (1-0)
@@ -351,7 +351,7 @@
     16:00  Kano Pillars FC            v Akwa United FC             1-0 (0-0)
 
 
-» Matchday 24
+▪ Matchday 24
   11.08.
     16:00  ABS FC                     v Lobi Stars FC              2-1 (1-0)
     16:00  Akwa United FC             v Wikki Tourists             1-0 (0-0)
@@ -365,7 +365,7 @@
     16:00  Sunshine Stars FC          v Rivers United FC           3-0 (2-0)
 
 
-» Matchday 25
+▪ Matchday 25
   14.08.
     16:00  Bayelsa United FC          v Akwa United FC             4-1
     16:00  El-Kanemi Warriors         v Nembe City FC              3-0
@@ -379,7 +379,7 @@
     16:00  Wikki Tourists             v Shooting Stars SC          2-1 (2-1)
 
 
-» Matchday 26
+▪ Matchday 26
   18.08.
     16:00  ABS FC                     v Wikki Tourists             2-2
     16:00  Akwa United FC             v El-Kanemi Warriors         1-1
@@ -393,7 +393,7 @@
     16:00  Sunshine Stars FC          v Kano Pillars FC            2-1
 
 
-» Matchday 27
+▪ Matchday 27
   24.08.
     16:00  Bayelsa United FC          v ABS FC                     2-0
     16:00  Gombe United               v Nasarawa United            2-0 (1-0)
@@ -408,7 +408,7 @@
     16:00  Wikki Tourists             v Sunshine Stars FC          2-0
 
 
-» Matchday 28
+▪ Matchday 28
   28.08.
     16:00  ABS FC                     v Akwa United FC             1-0 (0-0)
     16:00  Enyimba FC                 v Gombe United               3-0 (2-0)
@@ -423,7 +423,7 @@
     16:00  Sunshine Stars FC          v Bayelsa United FC          0-0 (0-0)
 
 
-» Matchday 29
+▪ Matchday 29
   01.09.
     16:00  Akwa United FC             v Sunshine Stars FC          4-0
     16:00  Bayelsa United FC          v Sharks FC                  1-0
@@ -439,7 +439,7 @@
     16:00  Rivers United FC           v Enyimba FC                 0-0 (0-0)
 
 
-» Matchday 30
+▪ Matchday 30
   08.09.
     16:00  ABS FC                     v El-Kanemi Warriors         0-0
     16:00  Enyimba FC                 v Lobi Stars FC              3-0
@@ -453,7 +453,7 @@
     16:00  Sunshine Stars FC          v Shooting Stars SC          3-0
 
 
-» Matchday 31
+▪ Matchday 31
   11.09.
     16:00  ABS FC                     v Sunshine Stars FC          2-1
     16:00  Akwa United FC             v Heartland FC               0-0 (0-0)
@@ -467,7 +467,7 @@
     16:00  Wikki Tourists             v Nasarawa United            1-0
 
 
-» Matchday 32
+▪ Matchday 32
   18.09.
     16:00  Enyimba FC                 v Wikki Tourists             2-0
     16:00  Heartland FC               v Shooting Stars SC          1-1
@@ -481,7 +481,7 @@
     16:00  Warri Wolves FC            v Lobi Stars FC              0-0
 
 
-» Matchday 33
+▪ Matchday 33
   11.09.
     15:00  Wikki Tourists             v Nembe City FC              3-0
   22.09.
@@ -496,7 +496,7 @@
     16:00  Sunshine Stars FC          v Sharks FC                  1-0
 
 
-» Matchday 34
+▪ Matchday 34
   25.09.
     16:00  Enyimba FC                 v Akwa United FC             1-0
     16:00  Gombe United               v Rivers United FC           1-0
@@ -510,7 +510,7 @@
     16:00  Warri Wolves FC            v Wikki Tourists             3-1
 
 
-» Matchday 35
+▪ Matchday 35
   02.10.
     16:00  ABS FC                     v Nasarawa United            1-0 (0-0)
     16:00  Akwa United FC             v Nembe City FC              0-0 (0-0)
@@ -525,7 +525,7 @@
     16:00  El-Kanemi Warriors         v Rivers United FC           2-0
 
 
-» Matchday 36
+▪ Matchday 36
   12.10.
     16:00  Enyimba FC                 v ABS FC                     1-0
     16:00  Gombe United               v Kano Pillars FC            2-1
@@ -539,7 +539,7 @@
     16:00  Warri Wolves FC            v Akwa United FC             0-1
 
 
-» Matchday 37
+▪ Matchday 37
   16.10.
     16:00  ABS FC                     v Nembe City FC              6-1 (1-0)
     16:00  Akwa United FC             v Kaduna United              3-2 (1-1)
@@ -553,7 +553,7 @@
     16:00  Wikki Tourists             v Gombe United               2-0 (0-0)
 
 
-» Matchday 38
+▪ Matchday 38
   20.10.
     16:00  Enyimba FC                 v Sharks FC                  1-0
     16:00  Gombe United               v Bayelsa United FC          1-0 (0-0)

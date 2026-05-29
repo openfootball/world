@@ -1,566 +1,566 @@
 = Egypt | Premiership 2023/24
 
-# Date       Mon Sep/18 2023 - Sun Aug/18 2024 (335d)
+# Date       Mon Sep 18 2023 - Sun Aug 18 2024 (335d)
 # Teams      18
 # Matches    306
 
 
 
-» Matchday 1
-  Mon Sep/18 2023
-    19.00  Tala'ea El Gaish SC     v National Bank SC         2-0 (0-0)
-  Tue Sep/19
-    16.00  ZED FC                  v Ismaily                  1-0 (1-0)
-    19.00  Al Ahly SC              v Al Masry Club            4-0 (1-0)
-  Wed Sep/20
-    16.00  El Daklyeh              v ENPPI                    1-0 (1-0)
-    19.00  Al Mokawloon            v Baladeyet Al Mahalla     0-2 (0-1)
+▪ Matchday 1
+  Mon Sep 18 2023
+    19:00  Tala'ea El Gaish SC     v National Bank SC         2-0 (0-0)
+  Tue Sep 19
+    16:00  ZED FC                  v Ismaily                  1-0 (1-0)
+    19:00  Al Ahly SC              v Al Masry Club            4-0 (1-0)
+  Wed Sep 20
+    16:00  El Daklyeh              v ENPPI                    1-0 (1-0)
+    19:00  Al Mokawloon            v Baladeyet Al Mahalla     0-2 (0-1)
            Smouha Sporting Club    v El Gouna                 1-1 (1-0)
-  Thu Sep/21
-    16.00  Pharco FC               v Future FC                0-2 (0-1)
-    19.00  Ittihad El Iskandary    v Ceramica Cleopatra       1-0 (1-0)
+  Thu Sep 21
+    16:00  Pharco FC               v Future FC                0-2 (0-1)
+    19:00  Ittihad El Iskandary    v Ceramica Cleopatra       1-0 (1-0)
            Pyramids FC             v Zamalek                  2-2 (1-0)
 
 
-» Matchday 2
-  Mon Sep/25
-    16.00  National Bank SC        v Pyramids FC              0-1 (0-0)
-    19.00  Zamalek                 v Al Mokawloon             1-1 (0-0)
-  Tue Sep/26
-    16.00  Baladeyet Al Mahalla    v Smouha Sporting Club     0-2 (0-1)
-    19.00  Future FC               v El Daklyeh               2-1 (0-1)
-  Wed Sep/27
-    16.00  ENPPI                   v Tala'ea El Gaish SC      0-0
-    19.00  El Gouna                v ZED FC                   0-1 (0-0)
-  Thu Sep/28
-    16.00  Al Masry Club           v Pharco FC                1-0 (0-0)
-    19.00  Ismaily                 v Ittihad El Iskandary     3-1 (2-1)
-  Wed Nov/8
-    16.00  Ceramica Cleopatra      v Al Ahly SC               1-2 (0-1)
+▪ Matchday 2
+  Mon Sep 25
+    16:00  National Bank SC        v Pyramids FC              0-1 (0-0)
+    19:00  Zamalek                 v Al Mokawloon             1-1 (0-0)
+  Tue Sep 26
+    16:00  Baladeyet Al Mahalla    v Smouha Sporting Club     0-2 (0-1)
+    19:00  Future FC               v El Daklyeh               2-1 (0-1)
+  Wed Sep 27
+    16:00  ENPPI                   v Tala'ea El Gaish SC      0-0
+    19:00  El Gouna                v ZED FC                   0-1 (0-0)
+  Thu Sep 28
+    16:00  Al Masry Club           v Pharco FC                1-0 (0-0)
+    19:00  Ismaily                 v Ittihad El Iskandary     3-1 (2-1)
+  Wed Nov 8
+    16:00  Ceramica Cleopatra      v Al Ahly SC               1-2 (0-1)
 
 
-» Matchday 3
-  Thu Oct/5
-    16.00  ZED FC                  v Baladeyet Al Mahalla     3-3 (3-2)
-    19.00  Smouha Sporting Club    v Al Mokawloon             2-1 (2-1)
-  Fri Oct/6
-    16.00  Ittihad El Iskandary    v El Gouna                 2-2 (0-1)
-    19.00  Pharco FC               v Ceramica Cleopatra       2-2 (2-2)
-  Sat Oct/7
-    16.00  El Daklyeh              v Al Masry Club            1-3 (0-1)
-    19.00  Tala'ea El Gaish SC     v Future FC                0-2 (0-1)
+▪ Matchday 3
+  Thu Oct 5
+    16:00  ZED FC                  v Baladeyet Al Mahalla     3-3 (3-2)
+    19:00  Smouha Sporting Club    v Al Mokawloon             2-1 (2-1)
+  Fri Oct 6
+    16:00  Ittihad El Iskandary    v El Gouna                 2-2 (0-1)
+    19:00  Pharco FC               v Ceramica Cleopatra       2-2 (2-2)
+  Sat Oct 7
+    16:00  El Daklyeh              v Al Masry Club            1-3 (0-1)
+    19:00  Tala'ea El Gaish SC     v Future FC                0-2 (0-1)
            National Bank SC        v Zamalek                  1-2 (1-0)
-  Sun Oct/8
-    19.00  Al Ahly SC              v Ismaily                  3-1 (2-0)
+  Sun Oct 8
+    19:00  Al Ahly SC              v Ismaily                  3-1 (2-0)
            Pyramids FC             v ENPPI                    1-0 (1-0)
 
 
-» Matchday 4
-  Fri Oct/20
-    16.00  Al Masry Club           v Tala'ea El Gaish SC      1-0 (0-0)
-    20.00  Ceramica Cleopatra      v El Daklyeh               4-0 (4-0)
-  Sat Oct/21
-    16.00  Baladeyet Al Mahalla    v Ittihad El Iskandary     2-2 (2-1)
-    19.00  ENPPI                   v National Bank SC         3-1 (1-0)
+▪ Matchday 4
+  Fri Oct 20
+    16:00  Al Masry Club           v Tala'ea El Gaish SC      1-0 (0-0)
+    20:00  Ceramica Cleopatra      v El Daklyeh               4-0 (4-0)
+  Sat Oct 21
+    16:00  Baladeyet Al Mahalla    v Ittihad El Iskandary     2-2 (2-1)
+    19:00  ENPPI                   v National Bank SC         3-1 (1-0)
            Zamalek                 v Smouha Sporting Club     5-1 (3-0)
-  Sun Oct/22
-    16.00  Al Mokawloon            v ZED FC                   3-3 (2-1)
-    19.00  Future FC               v Pyramids FC              0-1 (0-0)
+  Sun Oct 22
+    16:00  Al Mokawloon            v ZED FC                   3-3 (2-1)
+    19:00  Future FC               v Pyramids FC              0-1 (0-0)
            Ismaily                 v Pharco FC                0-1 (0-0)
-  Sat Nov/11
-    17.00  El Gouna                v Al Ahly SC               1-1 (1-1)
+  Sat Nov 11
+    17:00  El Gouna                v Al Ahly SC               1-1 (1-1)
 
 
-» Matchday 5
-  Fri Oct/27
-    16.00  Al Masry Club           v Pyramids FC              2-3 (0-1)
-    19.00  ENPPI                   v Zamalek                  2-1 (1-1)
-  Sat Oct/28
-    16.00  Pharco FC               v El Gouna                 0-1 (0-1)
-    19.00  Ittihad El Iskandary    v Al Mokawloon             3-2 (2-2)
+▪ Matchday 5
+  Fri Oct 27
+    16:00  Al Masry Club           v Pyramids FC              2-3 (0-1)
+    19:00  ENPPI                   v Zamalek                  2-1 (1-1)
+  Sat Oct 28
+    16:00  Pharco FC               v El Gouna                 0-1 (0-1)
+    19:00  Ittihad El Iskandary    v Al Mokawloon             3-2 (2-2)
            ZED FC                  v Smouha Sporting Club     1-1 (0-0)
-  Sun Oct/29
-    19.00  Tala'ea El Gaish SC     v Ceramica Cleopatra       1-0 (1-0)
-  Mon Oct/30
-    16.00  El Daklyeh              v Ismaily                  0-0
-    19.00  National Bank SC        v Future FC                1-2 (1-1)
-  Tue Feb/27 2024
-    19.00  Al Ahly SC              v Baladeyet Al Mahalla     5-1 (3-0)
+  Sun Oct 29
+    19:00  Tala'ea El Gaish SC     v Ceramica Cleopatra       1-0 (1-0)
+  Mon Oct 30
+    16:00  El Daklyeh              v Ismaily                  0-0
+    19:00  National Bank SC        v Future FC                1-2 (1-1)
+  Tue Feb 27 2024
+    19:00  Al Ahly SC              v Baladeyet Al Mahalla     5-1 (3-0)
 
 
-» Matchday 6
-  Fri Nov/3 2023
-    16.00  Smouha Sporting Club    v Ittihad El Iskandary     0-1 (0-0)
-    19.00  Ceramica Cleopatra      v Pyramids FC              2-0 (1-0)
+▪ Matchday 6
+  Fri Nov 3 2023
+    16:00  Smouha Sporting Club    v Ittihad El Iskandary     0-1 (0-0)
+    19:00  Ceramica Cleopatra      v Pyramids FC              2-0 (1-0)
            Zamalek                 v ZED FC                   1-2 (1-1)
-  Sat Nov/4
-    16.00  El Gouna                v El Daklyeh               2-0 (2-0)
-    19.00  Al Mokawloon            v Al Ahly SC               1-2 (0-1)
+  Sat Nov 4
+    16:00  El Gouna                v El Daklyeh               2-0 (2-0)
+    19:00  Al Mokawloon            v Al Ahly SC               1-2 (0-1)
            Baladeyet Al Mahalla    v Pharco FC                3-2 (3-0)
-  Sun Nov/5
-    16.00  Ismaily                 v Tala'ea El Gaish SC      2-3 (1-1)
+  Sun Nov 5
+    16:00  Ismaily                 v Tala'ea El Gaish SC      2-3 (1-1)
            Future FC               v ENPPI                    0-1 (0-1)
-    19.00  Al Masry Club           v National Bank SC         0-4 (0-2)
+    19:00  Al Masry Club           v National Bank SC         0-4 (0-2)
 
 
-» Matchday 7
-  Tue Nov/28
-    16.00  Pyramids FC             v Ismaily                  2-1 (0-1)
-    19.00  Al Ahly SC              v Smouha Sporting Club     0-0
-  Wed Nov/29
-    19.00  Future FC               v Zamalek                  0-2 (0-2)
-  Thu Nov/30
-    16.00  Ittihad El Iskandary    v ZED FC                   0-0
-    19.00  Tala'ea El Gaish SC     v El Gouna                 1-1 (0-1)
+▪ Matchday 7
+  Tue Nov 28
+    16:00  Pyramids FC             v Ismaily                  2-1 (0-1)
+    19:00  Al Ahly SC              v Smouha Sporting Club     0-0
+  Wed Nov 29
+    19:00  Future FC               v Zamalek                  0-2 (0-2)
+  Thu Nov 30
+    16:00  Ittihad El Iskandary    v ZED FC                   0-0
+    19:00  Tala'ea El Gaish SC     v El Gouna                 1-1 (0-1)
            Pharco FC               v Al Mokawloon             1-1 (1-0)
-  Fri Dec/1
-    16.00  El Daklyeh              v Baladeyet Al Mahalla     0-0
+  Fri Dec 1
+    16:00  El Daklyeh              v Baladeyet Al Mahalla     0-0
            ENPPI                   v Al Masry Club            1-2 (0-1)
-    19.00  National Bank SC        v Ceramica Cleopatra       0-1 (0-0)
+    19:00  National Bank SC        v Ceramica Cleopatra       0-1 (0-0)
 
 
-» Matchday 8
-  Mon Dec/4
-    19.00  Smouha Sporting Club    v Pharco FC                2-1 (0-1)
-  Tue Dec/5
-    16.00  Baladeyet Al Mahalla    v Tala'ea El Gaish SC      0-2 (0-2)
-    19.00  Ceramica Cleopatra      v ENPPI                    4-2 (1-0)
+▪ Matchday 8
+  Mon Dec 4
+    19:00  Smouha Sporting Club    v Pharco FC                2-1 (0-1)
+  Tue Dec 5
+    16:00  Baladeyet Al Mahalla    v Tala'ea El Gaish SC      0-2 (0-2)
+    19:00  Ceramica Cleopatra      v ENPPI                    4-2 (1-0)
            Ismaily                 v National Bank SC         2-1 (1-0)
-  Wed Dec/6
-    19.00  Al Mokawloon            v El Daklyeh               0-0
-  Tue Apr/9 2024
-    22.00  El Gouna                v Pyramids FC              0-4 (0-1)
-  Thu Apr/11
-    16.00  Al Masry Club           v Future FC                1-2 (0-1)
-    19.00  ZED FC                  v Al Ahly SC               0-1 (0-0)
+  Wed Dec 6
+    19:00  Al Mokawloon            v El Daklyeh               0-0
+  Tue Apr 9 2024
+    22:00  El Gouna                v Pyramids FC              0-4 (0-1)
+  Thu Apr 11
+    16:00  Al Masry Club           v Future FC                1-2 (0-1)
+    19:00  ZED FC                  v Al Ahly SC               0-1 (0-0)
            Zamalek                 v Ittihad El Iskandary     3-0 (2-0)
 
 
-» Matchday 9
-  Thu Dec/14 2023
-    16.00  National Bank SC        v El Gouna                 2-3 (0-0)
+▪ Matchday 9
+  Thu Dec 14 2023
+    16:00  National Bank SC        v El Gouna                 2-3 (0-0)
            Future FC               v Ceramica Cleopatra       1-1 (1-0)
-    19.00  Pyramids FC             v Baladeyet Al Mahalla     2-2 (1-1)
+    19:00  Pyramids FC             v Baladeyet Al Mahalla     2-2 (1-1)
            Al Masry Club           v Zamalek                  1-0 (1-0)
-  Fri Dec/15
-    16.00  El Daklyeh              v Smouha Sporting Club     0-0
-    18.00  Tala'ea El Gaish SC     v Al Mokawloon             1-2 (1-1)
+  Fri Dec 15
+    16:00  El Daklyeh              v Smouha Sporting Club     0-0
+    18:00  Tala'ea El Gaish SC     v Al Mokawloon             1-2 (1-1)
            Pharco FC               v ZED FC                   1-2 (1-0)
-  Sat Dec/16
-    19.00  ENPPI                   v Ismaily                  1-0 (1-0)
-  Tue May/7 2024
-    19.00  Al Ahly SC              v Ittihad El Iskandary     4-1 (3-0)
+  Sat Dec 16
+    19:00  ENPPI                   v Ismaily                  1-0 (1-0)
+  Tue May 7 2024
+    19:00  Al Ahly SC              v Ittihad El Iskandary     4-1 (3-0)
 
 
-» Matchday 10
-  Mon Dec/25 2023
-    16.00  El Gouna                v ENPPI                    1-2 (0-1)
-    19.00  Baladeyet Al Mahalla    v National Bank SC         0-2 (0-0)
-  Tue Dec/26
-    19.00  Ittihad El Iskandary    v Pharco FC                3-1 (2-0)
-  Wed Dec/27
-    16.00  ZED FC                  v El Daklyeh               3-1 (1-0)
-    19.00  Smouha Sporting Club    v Tala'ea El Gaish SC      1-0 (1-0)
-  Sun Apr/14 2024
-    16.00  Ceramica Cleopatra      v Al Masry Club            1-1 (0-0)
-    19.00  Ismaily                 v Future FC                1-1 (0-1)
-  Mon Apr/15
-    16.00  Al Mokawloon            v Pyramids FC              0-2 (0-1)
-    19.00  Zamalek                 v Al Ahly SC               2-1 (1-0)
+▪ Matchday 10
+  Mon Dec 25 2023
+    16:00  El Gouna                v ENPPI                    1-2 (0-1)
+    19:00  Baladeyet Al Mahalla    v National Bank SC         0-2 (0-0)
+  Tue Dec 26
+    19:00  Ittihad El Iskandary    v Pharco FC                3-1 (2-0)
+  Wed Dec 27
+    16:00  ZED FC                  v El Daklyeh               3-1 (1-0)
+    19:00  Smouha Sporting Club    v Tala'ea El Gaish SC      1-0 (1-0)
+  Sun Apr 14 2024
+    16:00  Ceramica Cleopatra      v Al Masry Club            1-1 (0-0)
+    19:00  Ismaily                 v Future FC                1-1 (0-1)
+  Mon Apr 15
+    16:00  Al Mokawloon            v Pyramids FC              0-2 (0-1)
+    19:00  Zamalek                 v Al Ahly SC               2-1 (1-0)
 
 
-» Matchday 11
-  Sat Dec/30 2023
-    16.00  National Bank SC        v Al Mokawloon             3-1 (0-1)
-    19.00  Tala'ea El Gaish SC     v ZED FC                   1-0 (0-0)
+▪ Matchday 11
+  Sat Dec 30 2023
+    16:00  National Bank SC        v Al Mokawloon             3-1 (0-1)
+    19:00  Tala'ea El Gaish SC     v ZED FC                   1-0 (0-0)
            ENPPI                   v Baladeyet Al Mahalla     3-0 (3-0)
-  Mon Jan/1 2024
-    16.00  El Daklyeh              v Ittihad El Iskandary     0-1 (0-1)
-    19.00  Al Masry Club           v Ismaily                  1-1 (0-0)
-  Thu Jun/13
-    19.00  Pyramids FC             v Smouha Sporting Club     3-0 (2-0)
+  Mon Jan 1 2024
+    16:00  El Daklyeh              v Ittihad El Iskandary     0-1 (0-1)
+    19:00  Al Masry Club           v Ismaily                  1-1 (0-0)
+  Thu Jun 13
+    19:00  Pyramids FC             v Smouha Sporting Club     3-0 (2-0)
            Future FC               v El Gouna                 3-1 (1-1)
-  Fri Jun/14
-    19.00  Pharco FC               v Al Ahly SC               1-2 (1-2)
+  Fri Jun 14
+    19:00  Pharco FC               v Al Ahly SC               1-2 (1-2)
            Ceramica Cleopatra      v Zamalek                  1-2 (1-0)
 
 
-» Matchday 12
-  Tue Feb/13
-    16.00  El Gouna                v Al Masry Club            2-2 (1-0)
-    19.00  Smouha Sporting Club    v National Bank SC         1-1 (0-1)
-  Wed Feb/14
-    16.00  Ittihad El Iskandary    v Tala'ea El Gaish SC      2-2 (2-1)
+▪ Matchday 12
+  Tue Feb 13
+    16:00  El Gouna                v Al Masry Club            2-2 (1-0)
+    19:00  Smouha Sporting Club    v National Bank SC         1-1 (0-1)
+  Wed Feb 14
+    16:00  Ittihad El Iskandary    v Tala'ea El Gaish SC      2-2 (2-1)
            Al Mokawloon            v ENPPI                    0-1 (0-0)
-    19.00  ZED FC                  v Pyramids FC              0-0
-  Thu Feb/15
-    16.00  Baladeyet Al Mahalla    v Future FC                1-0 (1-0)
-    19.00  Ismaily                 v Ceramica Cleopatra       2-1 (2-0)
-  Fri Jun/21
-    19.00  Al Ahly SC              v El Daklyeh               2-1 (1-1)
+    19:00  ZED FC                  v Pyramids FC              0-0
+  Thu Feb 15
+    16:00  Baladeyet Al Mahalla    v Future FC                1-0 (1-0)
+    19:00  Ismaily                 v Ceramica Cleopatra       2-1 (2-0)
+  Fri Jun 21
+    19:00  Al Ahly SC              v El Daklyeh               2-1 (1-1)
            Zamalek                 v Pharco FC                2-0 (1-0)
 
 
-» Matchday 13
-  Sun Feb/18
-    16.00  ENPPI                   v Smouha Sporting Club     0-0
+▪ Matchday 13
+  Sun Feb 18
+    16:00  ENPPI                   v Smouha Sporting Club     0-0
            National Bank SC        v ZED FC                   1-1 (0-1)
-    19.00  Pyramids FC             v Ittihad El Iskandary     1-0 (0-0)
-  Mon Feb/19
-    16.00  Future FC               v Al Mokawloon             2-2 (2-2)
-    19.00  Ismaily                 v Zamalek                  0-0
-  Tue Feb/20
-    16.00  Ceramica Cleopatra      v El Gouna                 1-1 (0-0)
-    19.00  Al Masry Club           v Baladeyet Al Mahalla     3-0 (2-0)
+    19:00  Pyramids FC             v Ittihad El Iskandary     1-0 (0-0)
+  Mon Feb 19
+    16:00  Future FC               v Al Mokawloon             2-2 (2-2)
+    19:00  Ismaily                 v Zamalek                  0-0
+  Tue Feb 20
+    16:00  Ceramica Cleopatra      v El Gouna                 1-1 (0-0)
+    19:00  Al Masry Club           v Baladeyet Al Mahalla     3-0 (2-0)
            El Daklyeh              v Pharco FC                1-1 (0-1)
-  Mon Jul/1
-    19.00  Tala'ea El Gaish SC     v Al Ahly SC               0-4 (0-3)
+  Mon Jul 1
+    19:00  Tala'ea El Gaish SC     v Al Ahly SC               0-4 (0-3)
 
 
-» Matchday 14
-  Fri Feb/23
-    19.00  Baladeyet Al Mahalla    v Ceramica Cleopatra       3-5 (1-2)
-  Sun Feb/25
-    16.00  Pharco FC               v Tala'ea El Gaish SC      1-1 (1-1)
-    19.00  Ittihad El Iskandary    v National Bank SC         0-0
-  Mon Feb/26
-    16.00  El Gouna                v Ismaily                  0-0
+▪ Matchday 14
+  Fri Feb 23
+    19:00  Baladeyet Al Mahalla    v Ceramica Cleopatra       3-5 (1-2)
+  Sun Feb 25
+    16:00  Pharco FC               v Tala'ea El Gaish SC      1-1 (1-1)
+    19:00  Ittihad El Iskandary    v National Bank SC         0-0
+  Mon Feb 26
+    16:00  El Gouna                v Ismaily                  0-0
            ZED FC                  v ENPPI                    0-1 (0-0)
-    19.00  Al Mokawloon            v Al Masry Club            0-1 (0-0)
-  Thu Feb/29
-    19.00  Smouha Sporting Club    v Future FC                1-1 (1-1)
+    19:00  Al Mokawloon            v Al Masry Club            0-1 (0-0)
+  Thu Feb 29
+    19:00  Smouha Sporting Club    v Future FC                1-1 (1-1)
            Zamalek                 v El Daklyeh               1-0 (0-0)
-  Fri Jul/12
-    21.00  Al Ahly SC              v Pyramids FC              3-2 (1-1)
+  Fri Jul 12
+    21:00  Al Ahly SC              v Pyramids FC              3-2 (1-1)
 
 
-» Matchday 15
-  Fri Mar/1
-    19.00  Ceramica Cleopatra      v Al Mokawloon             2-0 (1-0)
-  Sat Mar/2
-    19.00  Ismaily                 v Baladeyet Al Mahalla     0-1 (0-0)
-  Sun Mar/3
-    19.00  ENPPI                   v Ittihad El Iskandary     1-2 (1-1)
-  Tue Mar/5
-    16.00  Tala'ea El Gaish SC     v El Daklyeh               0-0
-    19.00  Al Masry Club           v Smouha Sporting Club     2-0 (1-0)
-  Wed Mar/6
-    19.00  Pyramids FC             v Pharco FC                1-1 (0-1)
-  Thu Mar/7
-    19.00  Future FC               v ZED FC                   0-0
-  Tue Mar/12
-    21.30  El Gouna                v Zamalek                  3-2 (1-0)
+▪ Matchday 15
+  Fri Mar 1
+    19:00  Ceramica Cleopatra      v Al Mokawloon             2-0 (1-0)
+  Sat Mar 2
+    19:00  Ismaily                 v Baladeyet Al Mahalla     0-1 (0-0)
+  Sun Mar 3
+    19:00  ENPPI                   v Ittihad El Iskandary     1-2 (1-1)
+  Tue Mar 5
+    16:00  Tala'ea El Gaish SC     v El Daklyeh               0-0
+    19:00  Al Masry Club           v Smouha Sporting Club     2-0 (1-0)
+  Wed Mar 6
+    19:00  Pyramids FC             v Pharco FC                1-1 (0-1)
+  Thu Mar 7
+    19:00  Future FC               v ZED FC                   0-0
+  Tue Mar 12
+    21:30  El Gouna                v Zamalek                  3-2 (1-0)
            National Bank SC        v Al Ahly SC               4-3 (1-2)
 
 
-» Matchday 16
-  Fri Mar/1
-    16.00  Pharco FC               v National Bank SC         2-1 (0-0)
-  Fri Mar/8
-    16.00  Baladeyet Al Mahalla    v El Gouna                 1-2 (1-1)
-  Sat Mar/9
-    16.00  Al Mokawloon            v Ismaily                  1-1 (0-0)
-  Sun Mar/10
-    16.00  Smouha Sporting Club    v Ceramica Cleopatra       1-0 (1-0)
+▪ Matchday 16
+  Fri Mar 1
+    16:00  Pharco FC               v National Bank SC         2-1 (0-0)
+  Fri Mar 8
+    16:00  Baladeyet Al Mahalla    v El Gouna                 1-2 (1-1)
+  Sat Mar 9
+    16:00  Al Mokawloon            v Ismaily                  1-1 (0-0)
+  Sun Mar 10
+    16:00  Smouha Sporting Club    v Ceramica Cleopatra       1-0 (1-0)
            El Daklyeh              v Pyramids FC              0-2 (0-1)
-  Mon Mar/11
-    21.30  Ittihad El Iskandary    v Future FC                0-0
-  Tue Mar/12
-    21.30  ZED FC                  v Al Masry Club            2-2 (1-0)
-  Mon Apr/8
-    22.00  Al Ahly SC              v ENPPI                    2-2 (1-0)
-  Thu Jul/11
-    21.00  Tala'ea El Gaish SC     v Zamalek                  1-2 (0-1)
+  Mon Mar 11
+    21:30  Ittihad El Iskandary    v Future FC                0-0
+  Tue Mar 12
+    21:30  ZED FC                  v Al Masry Club            2-2 (1-0)
+  Mon Apr 8
+    22:00  Al Ahly SC              v ENPPI                    2-2 (1-0)
+  Thu Jul 11
+    21:00  Tala'ea El Gaish SC     v Zamalek                  1-2 (0-1)
 
 
-» Matchday 17
-  Wed Apr/3
-    22.00  Ceramica Cleopatra      v ZED FC                   1-1 (1-0)
+▪ Matchday 17
+  Wed Apr 3
+    22:00  Ceramica Cleopatra      v ZED FC                   1-1 (1-0)
            El Gouna                v Al Mokawloon             1-2 (1-1)
            Ismaily                 v Smouha Sporting Club     2-1 (0-1)
-  Thu Apr/4
-    22.00  Al Masry Club           v Ittihad El Iskandary     2-3 (0-1)
+  Thu Apr 4
+    22:00  Al Masry Club           v Ittihad El Iskandary     2-3 (0-1)
            ENPPI                   v Pharco FC                1-1 (0-0)
            National Bank SC        v El Daklyeh               1-0 (1-0)
-  Fri Apr/5
-    22.00  Pyramids FC             v Tala'ea El Gaish SC      0-0
-  Mon Jul/15
+  Fri Apr 5
+    22:00  Pyramids FC             v Tala'ea El Gaish SC      0-0
+  Mon Jul 15
            Zamalek                 v Baladeyet Al Mahalla     0-0
-  Tue Jul/16
-    21.00  Future FC               v Al Ahly SC               1-2 (1-1)
+  Tue Jul 16
+    21:00  Future FC               v Al Ahly SC               1-2 (1-1)
 
 
-» Matchday 18
-  Wed Apr/17
-    16.00  El Gouna                v Smouha Sporting Club     1-0 (1-0)
-    19.00  National Bank SC        v Tala'ea El Gaish SC      0-1 (0-0)
+▪ Matchday 18
+  Wed Apr 17
+    16:00  El Gouna                v Smouha Sporting Club     1-0 (1-0)
+    19:00  National Bank SC        v Tala'ea El Gaish SC      0-1 (0-0)
            ENPPI                   v El Daklyeh               0-0
-  Thu Apr/18
-    16.00  Ceramica Cleopatra      v Ittihad El Iskandary     1-1 (1-1)
-    19.00  Ismaily                 v ZED FC                   1-2 (0-2)
+  Thu Apr 18
+    16:00  Ceramica Cleopatra      v Ittihad El Iskandary     1-1 (1-1)
+    19:00  Ismaily                 v ZED FC                   1-2 (0-2)
            Future FC               v Pharco FC                2-0 (2-0)
-  Fri Apr/19
-    16.00  Baladeyet Al Mahalla    v Al Mokawloon             2-0 (0-0)
-  Fri Jul/26
-    21.00  Al Masry Club           v Al Ahly SC               0-1 (0-0)
+  Fri Apr 19
+    16:00  Baladeyet Al Mahalla    v Al Mokawloon             2-0 (0-0)
+  Fri Jul 26
+    21:00  Al Masry Club           v Al Ahly SC               0-1 (0-0)
            Zamalek                 v Pyramids FC              1-1 (1-0)
 
 
-» Matchday 19
-  Mon Apr/22
-    16.00  ZED FC                  v El Gouna                 3-0 (3-0)
-    19.00  El Daklyeh              v Future FC                1-1 (1-0)
+▪ Matchday 19
+  Mon Apr 22
+    16:00  ZED FC                  v El Gouna                 3-0 (3-0)
+    19:00  El Daklyeh              v Future FC                1-1 (1-0)
            Ittihad El Iskandary    v Ismaily                  1-1 (1-1)
-  Tue Apr/23
-    16.00  Smouha Sporting Club    v Baladeyet Al Mahalla     4-0 (2-0)
-    19.00  Pharco FC               v Al Masry Club            1-2 (0-1)
-  Wed Apr/24
-    16.30  Tala'ea El Gaish SC     v ENPPI                    1-0 (0-0)
-    19.00  Pyramids FC             v National Bank SC         3-2 (1-0)
-  Mon Jul/29
-    21.00  Al Mokawloon            v Zamalek                  2-1 (1-0)
+  Tue Apr 23
+    16:00  Smouha Sporting Club    v Baladeyet Al Mahalla     4-0 (2-0)
+    19:00  Pharco FC               v Al Masry Club            1-2 (0-1)
+  Wed Apr 24
+    16:30  Tala'ea El Gaish SC     v ENPPI                    1-0 (0-0)
+    19:00  Pyramids FC             v National Bank SC         3-2 (1-0)
+  Mon Jul 29
+    21:00  Al Mokawloon            v Zamalek                  2-1 (1-0)
            Al Ahly SC              v Ceramica Cleopatra       4-1 (1-0)
 
 
-» Matchday 20
-  Sat Apr/27
-    16.00  Baladeyet Al Mahalla    v ZED FC                   0-3 (0-1)
-    19.00  El Gouna                v Ittihad El Iskandary     2-1 (0-0)
-  Sun Apr/28
-    16.00  Al Masry Club           v El Daklyeh               1-0 (0-0)
-    19.00  Al Mokawloon            v Smouha Sporting Club     0-1 (0-1)
-  Mon Apr/29
-    19.00  Ceramica Cleopatra      v Pharco FC                1-1 (1-0)
-  Wed May/1
-    19.00  Ismaily                 v Al Ahly SC               1-2 (0-1)
+▪ Matchday 20
+  Sat Apr 27
+    16:00  Baladeyet Al Mahalla    v ZED FC                   0-3 (0-1)
+    19:00  El Gouna                v Ittihad El Iskandary     2-1 (0-0)
+  Sun Apr 28
+    16:00  Al Masry Club           v El Daklyeh               1-0 (0-0)
+    19:00  Al Mokawloon            v Smouha Sporting Club     0-1 (0-1)
+  Mon Apr 29
+    19:00  Ceramica Cleopatra      v Pharco FC                1-1 (1-0)
+  Wed May 1
+    19:00  Ismaily                 v Al Ahly SC               1-2 (0-1)
            ENPPI                   v Pyramids FC              0-1 (0-0)
-  Thu May/2
-    19.00  Future FC               v Tala'ea El Gaish SC      0-0
+  Thu May 2
+    19:00  Future FC               v Tala'ea El Gaish SC      0-0
            Zamalek                 v National Bank SC         1-0 (1-0)
 
 
-» Matchday 21
-  Fri May/3
-    19.00  Ittihad El Iskandary    v Baladeyet Al Mahalla     2-1 (1-0)
+▪ Matchday 21
+  Fri May 3
+    19:00  Ittihad El Iskandary    v Baladeyet Al Mahalla     2-1 (1-0)
            ZED FC                  v Al Mokawloon             0-1 (0-1)
-  Sat May/4
-    16.00  Pharco FC               v Ismaily                  0-2 (0-1)
-    19.00  El Daklyeh              v Ceramica Cleopatra       1-3 (0-1)
+  Sat May 4
+    16:00  Pharco FC               v Ismaily                  0-2 (0-1)
+    19:00  El Daklyeh              v Ceramica Cleopatra       1-3 (0-1)
            Al Ahly SC              v El Gouna                 3-0 (1-0)
-  Sun May/5
-    19.00  National Bank SC        v ENPPI                    1-5 (1-1)
+  Sun May 5
+    19:00  National Bank SC        v ENPPI                    1-5 (1-1)
            Smouha Sporting Club    v Zamalek                  1-0 (0-0)
-  Mon May/6
-    19.00  Tala'ea El Gaish SC     v Al Masry Club            0-2 (0-0)
+  Mon May 6
+    19:00  Tala'ea El Gaish SC     v Al Masry Club            0-2 (0-0)
            Pyramids FC             v Future FC                2-1 (0-1)
 
 
-» Matchday 22
-  Thu May/9
-    16.00  Ismaily                 v El Daklyeh               1-0 (0-0)
-    19.00  Smouha Sporting Club    v ZED FC                   1-2 (0-1)
-  Fri May/10
-    16.00  Ceramica Cleopatra      v Tala'ea El Gaish SC      2-1 (2-1)
-    19.00  El Gouna                v Pharco FC                1-2 (1-2)
+▪ Matchday 22
+  Thu May 9
+    16:00  Ismaily                 v El Daklyeh               1-0 (0-0)
+    19:00  Smouha Sporting Club    v ZED FC                   1-2 (0-1)
+  Fri May 10
+    16:00  Ceramica Cleopatra      v Tala'ea El Gaish SC      2-1 (2-1)
+    19:00  El Gouna                v Pharco FC                1-2 (1-2)
            Future FC               v National Bank SC         1-1 (1-1)
-  Sat May/11
-    16.00  Al Mokawloon            v Ittihad El Iskandary     0-1 (0-0)
-    19.00  Al Masry Club           v Pyramids FC              0-1 (0-0)
+  Sat May 11
+    16:00  Al Mokawloon            v Ittihad El Iskandary     0-1 (0-0)
+    19:00  Al Masry Club           v Pyramids FC              0-1 (0-0)
            Baladeyet Al Mahalla    v Al Ahly SC               1-2 (0-0)
-  Mon Aug/5
-    21.00  Zamalek                 v ENPPI                    4-2 (2-0)
+  Mon Aug 5
+    21:00  Zamalek                 v ENPPI                    4-2 (2-0)
 
 
-» Matchday 23
-  Tue May/14
-    16.00  Ittihad El Iskandary    v Smouha Sporting Club     0-2 (0-1)
-    19.00  Tala'ea El Gaish SC     v Ismaily                  1-1 (0-0)
-  Wed May/15
-    16.00  El Daklyeh              v El Gouna                 0-0
-    19.00  Pyramids FC             v Ceramica Cleopatra       2-1 (2-1)
+▪ Matchday 23
+  Tue May 14
+    16:00  Ittihad El Iskandary    v Smouha Sporting Club     0-2 (0-1)
+    19:00  Tala'ea El Gaish SC     v Ismaily                  1-1 (0-0)
+  Wed May 15
+    16:00  El Daklyeh              v El Gouna                 0-0
+    19:00  Pyramids FC             v Ceramica Cleopatra       2-1 (2-1)
            Pharco FC               v Baladeyet Al Mahalla     1-0 (0-0)
-  Thu May/16
-    19.00  ENPPI                   v Future FC                0-1 (0-0)
+  Thu May 16
+    19:00  ENPPI                   v Future FC                0-1 (0-0)
            National Bank SC        v Al Masry Club            5-2 (2-0)
-  Sun Aug/4
-    21.00  Al Ahly SC              v Al Mokawloon             4-0 (2-0)
-  Thu Aug/8
-    21.00  ZED FC                  v Zamalek                  0-1 (0-0)
+  Sun Aug 4
+    21:00  Al Ahly SC              v Al Mokawloon             4-0 (2-0)
+  Thu Aug 8
+    21:00  ZED FC                  v Zamalek                  0-1 (0-0)
 
 
-» Matchday 24
-  Sun May/19
-    18.00  Ismaily                 v Pyramids FC              0-2 (0-0)
-  Mon May/20
-    16.00  Al Masry Club           v ENPPI                    0-0
-    19.00  ZED FC                  v Ittihad El Iskandary     0-0
+▪ Matchday 24
+  Sun May 19
+    18:00  Ismaily                 v Pyramids FC              0-2 (0-0)
+  Mon May 20
+    16:00  Al Masry Club           v ENPPI                    0-0
+    19:00  ZED FC                  v Ittihad El Iskandary     0-0
            Al Mokawloon            v Pharco FC                1-1 (1-0)
-  Tue May/21
-    16.00  Baladeyet Al Mahalla    v El Daklyeh               1-0 (1-0)
-    19.00  El Gouna                v Tala'ea El Gaish SC      0-0
+  Tue May 21
+    16:00  Baladeyet Al Mahalla    v El Daklyeh               1-0 (1-0)
+    19:00  El Gouna                v Tala'ea El Gaish SC      0-0
            Ceramica Cleopatra      v National Bank SC         1-0 (0-0)
-  Thu May/23
-    19.00  Zamalek                 v Future FC                1-1 (1-1)
-  Thu Aug/8
-    21.00  Smouha Sporting Club    v Al Ahly SC               0-1 (0-0)
+  Thu May 23
+    19:00  Zamalek                 v Future FC                1-1 (1-1)
+  Thu Aug 8
+    21:00  Smouha Sporting Club    v Al Ahly SC               0-1 (0-0)
 
 
-» Matchday 25
-  Fri May/24
-    19.00  Pharco FC               v Smouha Sporting Club     1-1 (1-1)
+▪ Matchday 25
+  Fri May 24
+    19:00  Pharco FC               v Smouha Sporting Club     1-1 (1-1)
            ENPPI                   v Ceramica Cleopatra       3-2 (0-2)
-  Sat May/25
-    18.00  El Daklyeh              v Al Mokawloon             3-0 (1-0)
-  Sun May/26
-    16.00  National Bank SC        v Ismaily                  2-2 (1-0)
-    19.00  Tala'ea El Gaish SC     v Baladeyet Al Mahalla     1-0 (0-0)
+  Sat May 25
+    18:00  El Daklyeh              v Al Mokawloon             3-0 (1-0)
+  Sun May 26
+    16:00  National Bank SC        v Ismaily                  2-2 (1-0)
+    19:00  Tala'ea El Gaish SC     v Baladeyet Al Mahalla     1-0 (0-0)
            Future FC               v Al Masry Club            0-0
-  Mon May/27
-    16.00  Pyramids FC             v El Gouna                 1-0 (1-0)
-    19.00  Ittihad El Iskandary    v Zamalek                  0-2 (0-1)
-  Sun Aug/11
-    21.00  Al Ahly SC              v ZED FC                   2-1 (1-0)
+  Mon May 27
+    16:00  Pyramids FC             v El Gouna                 1-0 (1-0)
+    19:00  Ittihad El Iskandary    v Zamalek                  0-2 (0-1)
+  Sun Aug 11
+    21:00  Al Ahly SC              v ZED FC                   2-1 (1-0)
 
 
-» Matchday 26
-  Sun Jun/16
-    19.00  Al Mokawloon            v Tala'ea El Gaish SC      3-1 (0-0)
-  Mon Jun/17
-    16.00  El Gouna                v National Bank SC         1-1 (1-0)
-    19.00  Zamalek                 v Al Masry Club            1-2 (0-1)
+▪ Matchday 26
+  Sun Jun 16
+    19:00  Al Mokawloon            v Tala'ea El Gaish SC      3-1 (0-0)
+  Mon Jun 17
+    16:00  El Gouna                v National Bank SC         1-1 (1-0)
+    19:00  Zamalek                 v Al Masry Club            1-2 (0-1)
            Ismaily                 v ENPPI                    2-2 (1-1)
-  Tue Jun/18
-    16.00  Smouha Sporting Club    v El Daklyeh               3-2 (1-1)
-    19.00  Ittihad El Iskandary    v Al Ahly SC               0-1 (0-0)
+  Tue Jun 18
+    16:00  Smouha Sporting Club    v El Daklyeh               3-2 (1-1)
+    19:00  Ittihad El Iskandary    v Al Ahly SC               0-1 (0-0)
            ZED FC                  v Pharco FC                2-2 (1-0)
-  Wed Jun/19
-    19.00  Ceramica Cleopatra      v Future FC                0-1 (0-1)
+  Wed Jun 19
+    19:00  Ceramica Cleopatra      v Future FC                0-1 (0-1)
            Baladeyet Al Mahalla    v Pyramids FC              0-2 (0-1)
 
 
-» Matchday 27
-  Sat Jun/22
-    19.00  ENPPI                   v El Gouna                 1-0 (0-0)
+▪ Matchday 27
+  Sat Jun 22
+    19:00  ENPPI                   v El Gouna                 1-0 (0-0)
            Tala'ea El Gaish SC     v Smouha Sporting Club     2-2 (1-1)
-  Sun Jun/23
-    16.00  Future FC               v Ismaily                  0-1 (0-1)
-    19.00  Pyramids FC             v Al Mokawloon             3-1 (0-1)
+  Sun Jun 23
+    16:00  Future FC               v Ismaily                  0-1 (0-1)
+    19:00  Pyramids FC             v Al Mokawloon             3-1 (0-1)
            Al Masry Club           v Ceramica Cleopatra       0-2 (0-1)
-  Mon Jun/24
-    16.00  National Bank SC        v Baladeyet Al Mahalla     5-0 (1-0)
-    19.00  Pharco FC               v Ittihad El Iskandary     1-0 (1-0)
+  Mon Jun 24
+    16:00  National Bank SC        v Baladeyet Al Mahalla     5-0 (1-0)
+    19:00  Pharco FC               v Ittihad El Iskandary     1-0 (1-0)
            El Daklyeh              v ZED FC                   1-0 (0-0)
-  Tue Jun/25
-    19.00  Al Ahly SC              v Zamalek                  2-0    [awarded]
+  Tue Jun 25
+    19:00  Al Ahly SC              v Zamalek                  2-0    [awarded]
 
 
-» Matchday 28
-  Thu Jun/27
-    16.00  El Gouna                v Future FC                0-2 (0-2)
-    19.00  ZED FC                  v Tala'ea El Gaish SC      4-1 (2-0)
+▪ Matchday 28
+  Thu Jun 27
+    16:00  El Gouna                v Future FC                0-2 (0-2)
+    19:00  ZED FC                  v Tala'ea El Gaish SC      4-1 (2-0)
            Ismaily                 v Al Masry Club            0-1 (0-1)
-  Fri Jun/28
-    16.00  Al Mokawloon            v National Bank SC         1-4 (0-2)
-    19.00  Al Ahly SC              v Pharco FC                2-1 (1-0)
-  Sat Jun/29
-    16.00  Baladeyet Al Mahalla    v ENPPI                    0-0
-    17.30  Ittihad El Iskandary    v El Daklyeh               1-1 (0-0)
-    19.00  Zamalek                 v Ceramica Cleopatra       4-2 (2-1)
-  Tue Jul/2
-    20.00  Smouha Sporting Club    v Pyramids FC              2-3 (1-1)
+  Fri Jun 28
+    16:00  Al Mokawloon            v National Bank SC         1-4 (0-2)
+    19:00  Al Ahly SC              v Pharco FC                2-1 (1-0)
+  Sat Jun 29
+    16:00  Baladeyet Al Mahalla    v ENPPI                    0-0
+    17:30  Ittihad El Iskandary    v El Daklyeh               1-1 (0-0)
+    19:00  Zamalek                 v Ceramica Cleopatra       4-2 (2-1)
+  Tue Jul 2
+    20:00  Smouha Sporting Club    v Pyramids FC              2-3 (1-1)
 
 
-» Matchday 29
-  Mon Jul/1
-    19.00  Al Masry Club           v El Gouna                 2-1 (1-1)
-  Tue Jul/2
-    19.00  ENPPI                   v Al Mokawloon             2-2 (1-1)
-  Wed Jul/3
-    16.00  Future FC               v Baladeyet Al Mahalla     1-0 (0-0)
-    19.00  Pharco FC               v Zamalek                  1-1 (1-1)
+▪ Matchday 29
+  Mon Jul 1
+    19:00  Al Masry Club           v El Gouna                 2-1 (1-1)
+  Tue Jul 2
+    19:00  ENPPI                   v Al Mokawloon             2-2 (1-1)
+  Wed Jul 3
+    16:00  Future FC               v Baladeyet Al Mahalla     1-0 (0-0)
+    19:00  Pharco FC               v Zamalek                  1-1 (1-1)
            Ceramica Cleopatra      v Ismaily                  1-0 (0-0)
-  Thu Jul/4
-    19.00  Tala'ea El Gaish SC     v Ittihad El Iskandary     0-0
+  Thu Jul 4
+    19:00  Tala'ea El Gaish SC     v Ittihad El Iskandary     0-0
            El Daklyeh              v Al Ahly SC               1-4 (0-2)
-  Sat Jul/13
-    21.00  National Bank SC        v Smouha Sporting Club     1-2 (1-1)
-  Sun Aug/4
-    21.00  Pyramids FC             v ZED FC                   2-1 (1-0)
+  Sat Jul 13
+    21:00  National Bank SC        v Smouha Sporting Club     1-2 (1-1)
+  Sun Aug 4
+    21:00  Pyramids FC             v ZED FC                   2-1 (1-0)
 
 
-» Matchday 30
-  Sat Jul/6
-    17.30  Smouha Sporting Club    v ENPPI                    2-0 (0-0)
-    19.00  ZED FC                  v National Bank SC         0-1 (0-0)
-  Sun Jul/7
-    16.00  Baladeyet Al Mahalla    v Al Masry Club            0-1 (0-1)
-    19.00  Zamalek                 v Ismaily                  2-1 (0-0)
+▪ Matchday 30
+  Sat Jul 6
+    17:30  Smouha Sporting Club    v ENPPI                    2-0 (0-0)
+    19:00  ZED FC                  v National Bank SC         0-1 (0-0)
+  Sun Jul 7
+    16:00  Baladeyet Al Mahalla    v Al Masry Club            0-1 (0-1)
+    19:00  Zamalek                 v Ismaily                  2-1 (0-0)
            El Gouna                v Ceramica Cleopatra       0-0
-  Mon Jul/8
-    16.00  Pharco FC               v El Daklyeh               2-0 (0-0)
-    17.30  Ittihad El Iskandary    v Pyramids FC              0-4 (0-1)
-    19.00  Al Ahly SC              v Tala'ea El Gaish SC      2-0 (0-0)
-  Thu Jul/11
-    21.00  Al Mokawloon            v Future FC                1-2 (0-2)
+  Mon Jul 8
+    16:00  Pharco FC               v El Daklyeh               2-0 (0-0)
+    17:30  Ittihad El Iskandary    v Pyramids FC              0-4 (0-1)
+    19:00  Al Ahly SC              v Tala'ea El Gaish SC      2-0 (0-0)
+  Thu Jul 11
+    21:00  Al Mokawloon            v Future FC                1-2 (0-2)
 
 
-» Matchday 31
-  Sat Jul/20
-    17.30  Tala'ea El Gaish SC     v Pharco FC                0-0
-    21.00  National Bank SC        v Ittihad El Iskandary     0-0
+▪ Matchday 31
+  Sat Jul 20
+    17:30  Tala'ea El Gaish SC     v Pharco FC                0-0
+    21:00  National Bank SC        v Ittihad El Iskandary     0-0
            Ceramica Cleopatra      v Baladeyet Al Mahalla     4-0 (3-0)
-  Sun Jul/21
-    17.30  Al Masry Club           v Al Mokawloon             1-1 (1-1)
-    21.00  ENPPI                   v ZED FC                   1-4 (0-3)
+  Sun Jul 21
+    17:30  Al Masry Club           v Al Mokawloon             1-1 (1-1)
+    21:00  ENPPI                   v ZED FC                   1-4 (0-3)
            El Daklyeh              v Zamalek                  1-2 (0-1)
-  Mon Jul/22
-    17.30  Ismaily                 v El Gouna                 1-1 (1-0)
-    21.00  Pyramids FC             v Al Ahly SC               0-1 (0-1)
+  Mon Jul 22
+    17:30  Ismaily                 v El Gouna                 1-1 (1-0)
+    21:00  Pyramids FC             v Al Ahly SC               0-1 (0-1)
            Future FC               v Smouha Sporting Club     3-0 (2-0)
 
 
-» Matchday 32
-  Tue Jul/30
-    17.30  El Daklyeh              v Tala'ea El Gaish SC      0-1 (0-0)
-    21.00  Baladeyet Al Mahalla    v Ismaily                  4-2 (1-1)
+▪ Matchday 32
+  Tue Jul 30
+    17:30  El Daklyeh              v Tala'ea El Gaish SC      0-1 (0-0)
+    21:00  Baladeyet Al Mahalla    v Ismaily                  4-2 (1-1)
            Pharco FC               v Pyramids FC              2-2 (2-2)
-  Wed Jul/31
-    17.30  Ittihad El Iskandary    v ENPPI                    0-0
-    21.00  ZED FC                  v Future FC                3-2 (1-0)
-  Thu Aug/1
-    17.30  Al Mokawloon            v Ceramica Cleopatra       1-1 (0-1)
-    21.00  Smouha Sporting Club    v Al Masry Club            1-0 (0-0)
+  Wed Jul 31
+    17:30  Ittihad El Iskandary    v ENPPI                    0-0
+    21:00  ZED FC                  v Future FC                3-2 (1-0)
+  Thu Aug 1
+    17:30  Al Mokawloon            v Ceramica Cleopatra       1-1 (0-1)
+    21:00  Smouha Sporting Club    v Al Masry Club            1-0 (0-0)
            Al Ahly SC              v National Bank SC         1-0 (1-0)
-  Fri Aug/2
-    21.00  Zamalek                 v El Gouna                 1-0 (1-0)
+  Fri Aug 2
+    21:00  Zamalek                 v El Gouna                 1-0 (1-0)
 
 
-» Matchday 33
-  Mon Aug/12
-    21.00  Ceramica Cleopatra      v Smouha Sporting Club     0-1 (0-0)
+▪ Matchday 33
+  Mon Aug 12
+    21:00  Ceramica Cleopatra      v Smouha Sporting Club     0-1 (0-0)
            Future FC               v Ittihad El Iskandary     1-1 (1-0)
-  Tue Aug/13
-    21.00  National Bank SC        v Pharco FC                0-0
+  Tue Aug 13
+    21:00  National Bank SC        v Pharco FC                0-0
            Ismaily                 v Al Mokawloon             1-1 (0-0)
            El Gouna                v Baladeyet Al Mahalla     2-1 (1-0)
-  Wed Aug/14
-    17.30  Al Masry Club           v ZED FC                   0-1 (0-0)
+  Wed Aug 14
+    17:30  Al Masry Club           v ZED FC                   0-1 (0-0)
            Zamalek                 v Tala'ea El Gaish SC      1-3 (1-2)
-    21.00  Pyramids FC             v El Daklyeh               1-0 (0-0)
+    21:00  Pyramids FC             v El Daklyeh               1-0 (0-0)
            ENPPI                   v Al Ahly SC               1-1 (1-1)
 
 
-» Matchday 34
-  Sun Aug/11
-    21.00  Tala'ea El Gaish SC     v Pyramids FC              2-5 (1-3)
-  Fri Aug/16
-    21.00  Smouha Sporting Club    v Ismaily                  2-0 (0-0)
-  Sat Aug/17
-    17.30  Pharco FC               v ENPPI                    0-0
-    21.00  Al Ahly SC              v Future FC                1-2 (0-0)
+▪ Matchday 34
+  Sun Aug 11
+    21:00  Tala'ea El Gaish SC     v Pyramids FC              2-5 (1-3)
+  Fri Aug 16
+    21:00  Smouha Sporting Club    v Ismaily                  2-0 (0-0)
+  Sat Aug 17
+    17:30  Pharco FC               v ENPPI                    0-0
+    21:00  Al Ahly SC              v Future FC                1-2 (0-0)
            Baladeyet Al Mahalla    v Zamalek                  2-2 (0-0)
-  Sun Aug/18
-    17.30  El Daklyeh              v National Bank SC         0-0
+  Sun Aug 18
+    17:30  El Daklyeh              v National Bank SC         0-0
            Al Mokawloon            v El Gouna                 0-1 (0-0)
-    21.00  ZED FC                  v Ceramica Cleopatra       2-2 (2-1)
+    21:00  ZED FC                  v Ceramica Cleopatra       2-2 (2-1)
            Ittihad El Iskandary    v Al Masry Club            0-2 (0-2)

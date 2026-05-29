@@ -1,12 +1,12 @@
 = Nigeria | Premier Football League 2009/2010
 
-# Date       Fri Jan/09 2009 - Wed Dec/23 2009 (348d)
+# Date       Fri Jan 09 2009 - Wed Dec 23 2009 (348d)
 # Teams      20
 # Matches    380
 
 
 
-» Matchday 1
+▪ Matchday 1
   14.10.
     16:00  Kano Pillars FC            v Shooting Stars SC          1-0
   15.10.
@@ -25,7 +25,7 @@
 
 
 
-» Matchday 2
+▪ Matchday 2
   26.09.
     16:00  Gombe United FC            v Niger Tornadoes FC         1-2
     16:00  Ocean Boys FC              v Enyimba FC                 1-1
@@ -42,7 +42,7 @@
 
 
 
-» Matchday 3
+▪ Matchday 3
   03.10.
     16:00  Dolphins FC                v Kwara United FC            1-0
     16:00  Gateway Utd.               v Sharks FC                  4-1
@@ -60,7 +60,7 @@
 
 
 
-» Matchday 4
+▪ Matchday 4
   10.10.
     16:00  Kwara United FC            v Enyimba FC                 0-0
     16:00  Lobi Stars FC              v Kaduna United FC           1-1
@@ -77,7 +77,7 @@
 
 
 
-» Matchday 5
+▪ Matchday 5
   17.10.
     16:00  Dolphins FC                v Sharks FC                  1-1
     16:00  Gateway Utd.               v Gombe United FC            2-1
@@ -94,7 +94,7 @@
 
 
 
-» Matchday 6
+▪ Matchday 6
   18.11.
     17:00  Gombe United FC            v Kano Pillars FC            2-0
     17:00  Heartland FC               v Dolphins FC                1-0
@@ -109,7 +109,7 @@
 
 
 
-» Matchday 7
+▪ Matchday 7
   21.11.
     17:00  Dolphins FC                v Gombe United FC            1-0
     17:00  Gateway Utd.               v Niger Tornadoes FC         1-0
@@ -125,7 +125,7 @@
 
 
 
-» Matchday 8
+▪ Matchday 8
   28.11.
     17:00  Gombe United FC            v Enyimba FC                 1-1
     17:00  Kwara United FC            v Lobi Stars FC              2-0
@@ -141,7 +141,7 @@
 
 
 
-» Matchday 9
+▪ Matchday 9
   05.12.
     17:00  Dolphins FC                v Niger Tornadoes FC         2-1
     17:00  Gateway Utd.               v Warri Wolves FC            2-2
@@ -157,7 +157,7 @@
 
 
 
-» Matchday 10
+▪ Matchday 10
   12.12.
     17:00  Bayelsa United FC          v Dolphins FC                1-1
     17:00  Gombe United FC            v Sunshine Stars FC          2-1
@@ -173,7 +173,7 @@
 
 
 
-» Matchday 11
+▪ Matchday 11
   09.01.
     17:00  Dolphins FC                v Warri Wolves FC            1-1
     17:00  Kano Pillars FC            v Gateway Utd.               1-0
@@ -190,7 +190,7 @@
 
 
 
-» Matchday 12
+▪ Matchday 12
   19.12.
     17:00  Bayelsa United FC          v Wikki Tourists FC          1-1
     17:00  Gateway Utd.               v Dolphins FC                1-1
@@ -206,7 +206,7 @@
 
 
 
-» Matchday 13
+▪ Matchday 13
   13.01.
     17:00  Dolphins FC                v Kano Pillars FC            3-1
     17:00  Kaduna United FC           v Niger Tornadoes FC         1-0
@@ -222,7 +222,7 @@
 
 
 
-» Matchday 14
+▪ Matchday 14
   17.01.
     17:00  Bayelsa United FC          v Kaduna United FC           3-1
     17:00  Gateway Utd.               v Wikki Tourists FC          2-1
@@ -237,7 +237,7 @@
 
 
 
-» Matchday 15
+▪ Matchday 15
   23.01.
     17:00  Kwara United FC            v Gombe United FC            2-0
     17:00  Sharks FC                  v Rangers International FC   0-1
@@ -253,7 +253,7 @@
 
 
 
-» Matchday 16
+▪ Matchday 16
   03.02.
     17:00  Warri Wolves FC            v Lobi Stars FC              1-0
   27.01.
@@ -270,7 +270,7 @@
 
 
 
-» Matchday 17
+▪ Matchday 17
   30.01.
     17:00  Kwara United FC            v Niger Tornadoes FC         2-0
     17:00  Sharks FC                  v Gombe United FC            1-1
@@ -286,7 +286,7 @@
 
 
 
-» Matchday 18
+▪ Matchday 18
   06.02.
     17:00  Dolphins FC                v Kaduna United FC           2-1
     17:00  Gateway Utd.               v Ocean Boys FC              2-0
@@ -302,7 +302,7 @@
 
 
 
-» Matchday 19
+▪ Matchday 19
   13.02.
     17:00  Gombe United FC            v Rangers International FC   0-0
     17:00  Sharks FC                  v Niger Tornadoes FC         2-0
@@ -320,7 +320,7 @@
 
 
 
-» Matchday 20
+▪ Matchday 20
   20.02.
     17:00  Dolphins FC                v Lobi Stars FC              1-0
     17:00  Gateway Utd.               v Shooting Stars SC          1-2
@@ -337,7 +337,7 @@
 
 
 
-» Matchday 21
+▪ Matchday 21
   01.03.
     17:00  Ocean Boys FC              v Dolphins FC                2-0
   04.03.
@@ -356,7 +356,7 @@
 
 
 
-» Matchday 22
+▪ Matchday 22
   06.03.
     17:00  Dolphins FC                v Shooting Stars SC          2-0
     17:00  Kano Pillars FC            v Kwara United FC            3-0
@@ -372,7 +372,7 @@
 
 
 
-» Matchday 23
+▪ Matchday 23
   10.03.
     17:00  Heartland FC               v Warri Wolves FC            2-0
     17:00  Kwara United FC            v Dolphins FC                1-0
@@ -388,7 +388,7 @@
 
 
 
-» Matchday 24
+▪ Matchday 24
   13.03.
     17:00  Gateway Utd.               v Heartland FC               0-0
     17:00  Niger Tornadoes FC         v Rangers International FC   2-0
@@ -404,7 +404,7 @@
 
 
 
-» Matchday 25
+▪ Matchday 25
   20.03.
     17:00  Gombe United FC            v Gateway Utd.               1-0
     17:00  Niger Tornadoes FC         v Bayelsa United FC          0-0
@@ -422,7 +422,7 @@
 
 
 
-» Matchday 26
+▪ Matchday 26
   15.04.
     16:00  Dolphins FC                v Heartland FC               1-0
   27.03.
@@ -439,7 +439,7 @@
 
 
 
-» Matchday 27
+▪ Matchday 27
   03.04.
     16:00  Gombe United FC            v Dolphins FC                2-0
     16:00  Kwara United FC            v Kaduna United FC           2-1
@@ -457,7 +457,7 @@
 
 
 
-» Matchday 28
+▪ Matchday 28
   10.04.
     16:00  Dolphins FC                v Ranchers Bees FC           2-0
     16:00  Enyimba FC                 v Gombe United FC            1-0
@@ -474,7 +474,7 @@
 
 
 
-» Matchday 29
+▪ Matchday 29
   20.05.
     16:00  Ranchers Bees FC           v Enyimba FC                 0-1
   24.04.
@@ -492,7 +492,7 @@
 
 
 
-» Matchday 30
+▪ Matchday 30
   01.05.
     16:00  Dolphins FC                v Bayelsa United FC          3-1
     16:00  Shooting Stars SC          v Kwara United FC            1-0
@@ -508,7 +508,7 @@
 
 
 
-» Matchday 31
+▪ Matchday 31
   10.06.
     16:00  Bayelsa United FC          v Enyimba FC                 1-1
   12.05.
@@ -526,7 +526,7 @@
 
 
 
-» Matchday 32
+▪ Matchday 32
   10.06.
     16:00  Lobi Stars FC              v Gombe United FC            2-1
   15.05.
@@ -545,7 +545,7 @@
 
 
 
-» Matchday 33
+▪ Matchday 33
   22.05.
     16:00  Kano Pillars FC            v Dolphins FC                1-1
   23.05.
@@ -561,7 +561,7 @@
 
 
 
-» Matchday 34
+▪ Matchday 34
   03.07.
     16:00  Lobi Stars FC              v Kano Pillars FC            1-1
   10.06.
@@ -580,7 +580,7 @@
 
 
 
-» Matchday 35
+▪ Matchday 35
   07.07.
     16:00  Dolphins FC                v Rangers International FC   1-1
     16:00  Enyimba FC                 v Kano Pillars FC            2-1
@@ -595,7 +595,7 @@
 
 
 
-» Matchday 36
+▪ Matchday 36
   03.07.
     16:00  Niger Tornadoes FC         v Ocean Boys FC              0-1
   25.06.
@@ -614,7 +614,7 @@
 
 
 
-» Matchday 37
+▪ Matchday 37
   13.06.
     16:00  Enyimba FC                 v Rangers International FC   1-0
     16:00  Kaduna United FC           v Gateway Utd.               2-0
@@ -629,7 +629,7 @@
 
 
 
-» Matchday 38
+▪ Matchday 38
   03.07.
     16:00  Rangers International FC   v Heartland FC               2-1
   06.06.

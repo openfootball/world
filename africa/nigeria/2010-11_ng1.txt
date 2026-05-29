@@ -1,12 +1,12 @@
 = Nigeria | Premier Football League 2010/2011
 
-# Date       Fri Jan/01 2010 - Thu Dec/23 2010 (356d)
+# Date       Fri Jan 01 2010 - Thu Dec 23 2010 (356d)
 # Teams      20
 # Matches    380
 
 
 
-» Matchday 1
+▪ Matchday 1
   06.11.
     16:00  Kaduna United FC           v Kano Pillars FC            1-1
   07.11.
@@ -22,7 +22,7 @@
 
 
 
-» Matchday 2
+▪ Matchday 2
   13.11.
     16:00  Crown FC                   v Warri Wolves FC            1-1
     16:00  JUTH FC                    v Gombe United FC            1-1
@@ -38,7 +38,7 @@
 
 
 
-» Matchday 3
+▪ Matchday 3
   20.11.
     16:00  Gombe United FC            v Lobi Stars FC              1-0
     16:00  Kwara United FC            v Kano Pillars FC            1-0
@@ -54,7 +54,7 @@
 
 
 
-» Matchday 4
+▪ Matchday 4
   27.11.
     16:00  ABS FC                     v Enyimba FC                 1-0
     16:00  Crown FC                   v Kwara United FC            1-0
@@ -70,7 +70,7 @@
 
 
 
-» Matchday 5
+▪ Matchday 5
   04.12.
     16:00  Gombe United FC            v Ocean Boys FC              1-0
     16:00  Kwara United FC            v Heartland FC               1-0
@@ -86,7 +86,7 @@
 
 
 
-» Matchday 6
+▪ Matchday 6
   11.12.
     16:00  ABS FC                     v Rangers International FC   1-0
     16:00  JUTH FC                    v Kwara United FC            0-2
@@ -102,7 +102,7 @@
 
 
 
-» Matchday 7
+▪ Matchday 7
   05.01.
     16:00  Warri Wolves FC            v Ocean Boys FC              1-0
   18.12.
@@ -119,7 +119,7 @@
 
 
 
-» Matchday 8
+▪ Matchday 8
   06.01.
     16:00  Shooting Stars SC          v Sharks FC                  2-0
   22.12.
@@ -136,7 +136,7 @@
 
 
 
-» Matchday 9
+▪ Matchday 9
   01.01.
     16:00  Gombe United FC            v Shooting Stars SC          1-0
     16:00  Kwara United FC            v Ocean Boys FC              2-0
@@ -153,7 +153,7 @@
 
 
 
-» Matchday 10
+▪ Matchday 10
   08.01.
     16:00  ABS FC                     v Warri Wolves FC            1-0
     16:00  Kano Pillars FC            v Rangers International FC   1-0
@@ -171,7 +171,7 @@
 
 
 
-» Matchday 11
+▪ Matchday 11
   06.03.
     16:00  Crown FC                   v Sunshine Stars FC          1-1
     16:00  Heartland FC               v Ocean Boys FC              4-0 (0-0)
@@ -187,7 +187,7 @@
 
 
 
-» Matchday 12
+▪ Matchday 12
   15.01.
     16:00  ABS FC                     v Kwara United FC            3-0
     16:00  Kano Pillars FC            v Sharks FC                  1-1
@@ -204,7 +204,7 @@
 
 
 
-» Matchday 13
+▪ Matchday 13
   21.01.
     16:00  JUTH FC                    v Sunshine Stars FC          0-0
   22.01.
@@ -221,7 +221,7 @@
 
 
 
-» Matchday 14
+▪ Matchday 14
   09.02.
     16:00  Enyimba FC                 v Kwara United FC            3-0
   16.02.
@@ -239,7 +239,7 @@
 
 
 
-» Matchday 15
+▪ Matchday 15
   05.02.
     16:00  Kwara United FC            v Plateau United FC          1-1
     16:00  Niger Tornadoes FC         v Gombe United FC            1-0
@@ -255,7 +255,7 @@
 
 
 
-» Matchday 16
+▪ Matchday 16
   08.02.
     16:00  ABS FC                     v Lobi Stars FC              3-1
     16:00  Gombe United FC            v Warri Wolves FC            1-1
@@ -271,7 +271,7 @@
 
 
 
-» Matchday 17
+▪ Matchday 17
   19.02.
     16:00  Kwara United FC            v Sharks FC                  3-0
     16:00  Rivers United FC           v ABS FC                     2-0
@@ -288,7 +288,7 @@
 
 
 
-» Matchday 18
+▪ Matchday 18
   02.03.
     17:00  Enyimba FC                 v Lobi Stars FC              3-0 (1-0)
   09.03.
@@ -307,7 +307,7 @@
 
 
 
-» Matchday 19
+▪ Matchday 19
   12.03.
     16:00  Kwara United FC            v Niger Tornadoes FC         2-0
     16:00  Rivers United FC           v Enyimba FC                 2-1
@@ -323,7 +323,7 @@
 
 
 
-» Matchday 20
+▪ Matchday 20
   11.05.
     16:00  Enyimba FC                 v Rivers United FC           3-0
     16:00  Gombe United FC            v Crown FC                   3-1
@@ -339,7 +339,7 @@
 
 
 
-» Matchday 21
+▪ Matchday 21
   14.05.
     16:00  Kwara United FC            v Warri Wolves FC            2-0
     16:00  Rivers United FC           v Plateau United FC          3-0 (1-0)
@@ -355,7 +355,7 @@
 
 
 
-» Matchday 22
+▪ Matchday 22
   18.05.
     16:00  Enyimba FC                 v Sunshine Stars FC          4-0
     16:00  Gombe United FC            v JUTH FC                    1-0
@@ -371,7 +371,7 @@
 
 
 
-» Matchday 23
+▪ Matchday 23
   22.05.
     16:00  ABS FC                     v Shooting Stars SC          4-1
     16:00  Crown FC                   v Kaduna United FC           1-0
@@ -386,7 +386,7 @@
 
 
 
-» Matchday 24
+▪ Matchday 24
   01.06.
     16:00  Enyimba FC                 v ABS FC                     1-0
     16:00  Gombe United FC            v Rivers United FC           1-0
@@ -402,7 +402,7 @@
 
 
 
-» Matchday 25
+▪ Matchday 25
   04.06.
     16:00  Rivers United FC           v Niger Tornadoes FC         3-0
   05.06.
@@ -418,7 +418,7 @@
 
 
 
-» Matchday 26
+▪ Matchday 26
   08.06.
     16:00  Enyimba FC                 v Kano Pillars FC            1-0
     16:00  Kwara United FC            v JUTH FC                    1-0
@@ -436,7 +436,7 @@
 
 
 
-» Matchday 27
+▪ Matchday 27
   12.06.
     16:00  ABS FC                     v Sharks FC                  1-1 (0-0)
     16:00  Enyimba FC                 v Plateau United FC          3-0
@@ -453,7 +453,7 @@
 
 
 
-» Matchday 28
+▪ Matchday 28
   09.10.
     16:00  Rangers International FC   v Enyimba FC                 1-0 (0-0)
   18.06.
@@ -471,7 +471,7 @@
 
 
 
-» Matchday 29
+▪ Matchday 29
   25.06.
     16:00  Kano Pillars FC            v JUTH FC                    1-0
     16:00  Lobi Stars FC              v Heartland FC               3-0
@@ -488,7 +488,7 @@
 
 
 
-» Matchday 30
+▪ Matchday 30
   02.07.
     16:00  Kwara United FC            v Sunshine Stars FC          3-2
     16:00  Sharks FC                  v Plateau United FC          2-1
@@ -504,7 +504,7 @@
 
 
 
-» Matchday 31
+▪ Matchday 31
   06.07.
     16:00  ABS FC                     v Kaduna United FC           2-1
     16:00  Enyimba FC                 v Niger Tornadoes FC         2-0
@@ -521,7 +521,7 @@
 
 
 
-» Matchday 32
+▪ Matchday 32
   09.07.
     16:00  Gombe United FC            v Rangers International FC   0-0 (0-0)
     16:00  Kwara United FC            v ABS FC                     0-3
@@ -537,7 +537,7 @@
 
 
 
-» Matchday 33
+▪ Matchday 33
   16.07.
     16:00  Kano Pillars FC            v Rivers United FC           3-2
     16:00  Plateau United FC          v Warri Wolves FC            2-0
@@ -556,7 +556,7 @@
 
 
 
-» Matchday 34
+▪ Matchday 34
   01.09.
     16:00  Lobi Stars FC              v Sunshine Stars FC          1-1
   06.10.
@@ -575,7 +575,7 @@
 
 
 
-» Matchday 35
+▪ Matchday 35
   23.10.
     15:00  Sharks FC                  v Warri Wolves FC            2-0
     16:00  ABS FC                     v JUTH FC                    1-0
@@ -590,7 +590,7 @@
 
 
 
-» Matchday 36
+▪ Matchday 36
   09.11.
     16:00  Crown FC                   v Plateau United FC          1-0
     16:00  Heartland FC               v Enyimba FC                 2-0
@@ -605,7 +605,7 @@
 
 
 
-» Matchday 37
+▪ Matchday 37
   13.11.
     16:00  ABS FC                     v Rivers United FC           0-1
     16:00  Enyimba FC                 v JUTH FC                    2-0
@@ -620,7 +620,7 @@
 
 
 
-» Matchday 38
+▪ Matchday 38
   02.11.
     16:00  Heartland FC               v Rangers International FC   3-1
     16:00  Kaduna United FC           v Niger Tornadoes FC         3-1

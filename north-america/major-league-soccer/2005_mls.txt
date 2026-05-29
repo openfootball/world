@@ -1,309 +1,309 @@
 = Major League Soccer 2005
 
-# Date       Sat Apr/2 - Sun Nov/13 2005 (225d)
+# Date       Sat Apr 2 - Sun Nov 13 2005 (225d)
 # Teams      12
 # Matches    203
 # Stages     Regular Season (192)  Playoffs (11)
 
 
 
-» Matchday 1
-  Sat Apr/2 2005
-    16.00  CD Chivas               v D.C. United              0-2 (0-1)
-    20.00  MetroStars              v Real Salt Lake           0-0
-    20.30  Columbus Crew           v Los Angeles Galaxy       3-0 (1-0)
-    21.00  Kansas City Wizards     v Colorado Rapids          3-2 (2-0)
-    21.30  FC Dallas               v Chicago Fire             2-1 (1-0)
-    23.00  San Jose Earthquakes    v New England Revolution   2-2 (2-0)
-  Sat Apr/9
-    16.00  San Jose Earthquakes    v CD Chivas                3-3 (1-1)
-    19.30  New England Revolution  v Columbus Crew            3-0 (0-0)
+▪ Matchday 1
+  Sat Apr 2 2005
+    16:00  CD Chivas               v D.C. United              0-2 (0-1)
+    20:00  MetroStars              v Real Salt Lake           0-0
+    20:30  Columbus Crew           v Los Angeles Galaxy       3-0 (1-0)
+    21:00  Kansas City Wizards     v Colorado Rapids          3-2 (2-0)
+    21:30  FC Dallas               v Chicago Fire             2-1 (1-0)
+    23:00  San Jose Earthquakes    v New England Revolution   2-2 (2-0)
+  Sat Apr 9
+    16:00  San Jose Earthquakes    v CD Chivas                3-3 (1-1)
+    19:30  New England Revolution  v Columbus Crew            3-0 (0-0)
            D.C. United             v Chicago Fire             1-1 (1-0)
-    21.00  Colorado Rapids         v FC Dallas                0-0
-    22.00  Los Angeles Galaxy      v Real Salt Lake           3-1 (2-1)
-  Fri Apr/15
-    20.00  Columbus Crew           v D.C. United              1-0 (1-0)
-  Sat Apr/16
-    15.00  Real Salt Lake          v Colorado Rapids          1-0 (0-0)
-    19.30  MetroStars              v Kansas City Wizards      2-2 (1-2)
-    20.30  Chicago Fire            v San Jose Earthquakes     2-1 (0-0)
-    22.00  CD Chivas               v FC Dallas                1-3 (1-1)
-  Fri Apr/22
-    20.00  MetroStars              v Chicago Fire             0-1 (0-1)
-  Sat Apr/23
-    19.30  D.C. United             v New England Revolution   3-4 (1-3)
-    20.00  FC Dallas               v Real Salt Lake           3-0 (2-0)
-    21.00  Colorado Rapids         v Columbus Crew            2-0 (1-0)
-    22.00  Los Angeles Galaxy      v CD Chivas                3-1 (3-0)
+    21:00  Colorado Rapids         v FC Dallas                0-0
+    22:00  Los Angeles Galaxy      v Real Salt Lake           3-1 (2-1)
+  Fri Apr 15
+    20:00  Columbus Crew           v D.C. United              1-0 (1-0)
+  Sat Apr 16
+    15:00  Real Salt Lake          v Colorado Rapids          1-0 (0-0)
+    19:30  MetroStars              v Kansas City Wizards      2-2 (1-2)
+    20:30  Chicago Fire            v San Jose Earthquakes     2-1 (0-0)
+    22:00  CD Chivas               v FC Dallas                1-3 (1-1)
+  Fri Apr 22
+    20:00  MetroStars              v Chicago Fire             0-1 (0-1)
+  Sat Apr 23
+    19:30  D.C. United             v New England Revolution   3-4 (1-3)
+    20:00  FC Dallas               v Real Salt Lake           3-0 (2-0)
+    21:00  Colorado Rapids         v Columbus Crew            2-0 (1-0)
+    22:00  Los Angeles Galaxy      v CD Chivas                3-1 (3-0)
            San Jose Earthquakes    v Kansas City Wizards      3-2 (2-2)
-  Wed Apr/27
-    19.00  Chicago Fire            v New England Revolution   0-3 (0-2)
-  Sat Apr/30
-    16.00  Kansas City Wizards     v D.C. United              0-0
+  Wed Apr 27
+    19:00  Chicago Fire            v New England Revolution   0-3 (0-2)
+  Sat Apr 30
+    16:00  Kansas City Wizards     v D.C. United              0-0
 
 
-» Matchday 2
-  Sat Apr/30
-    19.30  New England Revolution  v CD Chivas                1-0 (0-0)
+▪ Matchday 2
+  Sat Apr 30
+    19:30  New England Revolution  v CD Chivas                1-0 (0-0)
            Columbus Crew           v Chicago Fire             0-2 (0-1)
-    21.00  Colorado Rapids         v MetroStars               1-3 (0-2)
-    21.30  Real Salt Lake          v San Jose Earthquakes     2-2 (2-1)
-    22.00  Los Angeles Galaxy      v FC Dallas                2-0 (2-0)
-  Sat May/7
-    16.00  MetroStars              v San Jose Earthquakes     0-1 (0-0)
-    19.30  New England Revolution  v Chicago Fire             2-0 (1-0)
+    21:00  Colorado Rapids         v MetroStars               1-3 (0-2)
+    21:30  Real Salt Lake          v San Jose Earthquakes     2-2 (2-1)
+    22:00  Los Angeles Galaxy      v FC Dallas                2-0 (2-0)
+  Sat May 7
+    16:00  MetroStars              v San Jose Earthquakes     0-1 (0-0)
+    19:30  New England Revolution  v Chicago Fire             2-0 (1-0)
            D.C. United             v Columbus Crew            3-1 (2-0)
-    20.00  Kansas City Wizards     v FC Dallas                3-3 (1-1)
-    22.00  CD Chivas               v Real Salt Lake           1-0 (1-0)
-  Sun May/8
-    20.00  Los Angeles Galaxy      v Colorado Rapids          3-2 (1-1)
-  Sat May/14
-    16.00  New England Revolution  v D.C. United              1-0 (0-0)
-    19.30  Columbus Crew           v Kansas City Wizards      0-4 (0-3)
-    20.30  Chicago Fire            v MetroStars               0-3 (0-2)
-    21.00  Colorado Rapids         v CD Chivas                2-1 (1-0)
-    21.30  Real Salt Lake          v Los Angeles Galaxy       2-1 (0-1)
-    22.00  San Jose Earthquakes    v FC Dallas                0-0
-  Wed May/18
-    20.30  FC Dallas               v Colorado Rapids          2-1 (0-1)
-    21.30  Real Salt Lake          v CD Chivas                2-0 (2-0)
-  Sat May/21
-    16.00  MetroStars              v New England Revolution   2-2 (1-1)
-    19.30  D.C. United             v Kansas City Wizards      3-2 (1-0)
+    20:00  Kansas City Wizards     v FC Dallas                3-3 (1-1)
+    22:00  CD Chivas               v Real Salt Lake           1-0 (1-0)
+  Sun May 8
+    20:00  Los Angeles Galaxy      v Colorado Rapids          3-2 (1-1)
+  Sat May 14
+    16:00  New England Revolution  v D.C. United              1-0 (0-0)
+    19:30  Columbus Crew           v Kansas City Wizards      0-4 (0-3)
+    20:30  Chicago Fire            v MetroStars               0-3 (0-2)
+    21:00  Colorado Rapids         v CD Chivas                2-1 (1-0)
+    21:30  Real Salt Lake          v Los Angeles Galaxy       2-1 (0-1)
+    22:00  San Jose Earthquakes    v FC Dallas                0-0
+  Wed May 18
+    20:30  FC Dallas               v Colorado Rapids          2-1 (0-1)
+    21:30  Real Salt Lake          v CD Chivas                2-0 (2-0)
+  Sat May 21
+    16:00  MetroStars              v New England Revolution   2-2 (1-1)
+    19:30  D.C. United             v Kansas City Wizards      3-2 (1-0)
            Columbus Crew           v Real Salt Lake           2-0 (2-0)
-    20.30  Chicago Fire            v Colorado Rapids          2-1 (1-0)
-    22.00  Los Angeles Galaxy      v San Jose Earthquakes     2-1 (1-0)
-  Sun May/22
-    21.30  CD Chivas               v FC Dallas                2-5 (1-1)
-  Wed May/25
-    20.00  Kansas City Wizards     v MetroStars               1-0 (0-0)
-    21.30  Colorado Rapids         v San Jose Earthquakes     0-1 (0-0)
-    22.30  Los Angeles Galaxy      v Columbus Crew            0-0
-  Sat May/28
-    19.30  New England Revolution  v Colorado Rapids          0-0
+    20:30  Chicago Fire            v Colorado Rapids          2-1 (1-0)
+    22:00  Los Angeles Galaxy      v San Jose Earthquakes     2-1 (1-0)
+  Sun May 22
+    21:30  CD Chivas               v FC Dallas                2-5 (1-1)
+  Wed May 25
+    20:00  Kansas City Wizards     v MetroStars               1-0 (0-0)
+    21:30  Colorado Rapids         v San Jose Earthquakes     0-1 (0-0)
+    22:30  Los Angeles Galaxy      v Columbus Crew            0-0
+  Sat May 28
+    19:30  New England Revolution  v Colorado Rapids          0-0
            D.C. United             v FC Dallas                0-2 (0-0)
            Columbus Crew           v MetroStars               0-3 (0-1)
-    20.00  Kansas City Wizards     v San Jose Earthquakes     1-0 (0-0)
-    21.30  Real Salt Lake          v Chicago Fire             0-3 (0-1)
-    22.00  CD Chivas               v Los Angeles Galaxy       0-2 (0-0)
+    20:00  Kansas City Wizards     v San Jose Earthquakes     1-0 (0-0)
+    21:30  Real Salt Lake          v Chicago Fire             0-3 (0-1)
+    22:00  CD Chivas               v Los Angeles Galaxy       0-2 (0-0)
 
 
-» Matchday 3
-  Tue May/31
-    18.30  MetroStars              v Chicago Fire             2-1 (0-0)
-  Wed Jun/1
-    22.30  CD Chivas               v Kansas City Wizards      1-1 (1-1)
-  Sat Jun/4
-    16.00  Chicago Fire            v CD Chivas                5-2 (1-2)
-    19.30  New England Revolution  v Kansas City Wizards      1-1 (1-0)
-    22.00  Real Salt Lake          v FC Dallas                0-2 (0-1)
+▪ Matchday 3
+  Tue May 31
+    18:30  MetroStars              v Chicago Fire             2-1 (0-0)
+  Wed Jun 1
+    22:30  CD Chivas               v Kansas City Wizards      1-1 (1-1)
+  Sat Jun 4
+    16:00  Chicago Fire            v CD Chivas                5-2 (1-2)
+    19:30  New England Revolution  v Kansas City Wizards      1-1 (1-0)
+    22:00  Real Salt Lake          v FC Dallas                0-2 (0-1)
            Los Angeles Galaxy      v MetroStars               2-2 (2-1)
-    22.30  San Jose Earthquakes    v D.C. United              0-0
-  Sat Jun/11
-    16.00  Columbus Crew           v Colorado Rapids          1-0 (0-0)
-    20.00  Kansas City Wizards     v New England Revolution   0-2 (0-1)
-    22.00  Los Angeles Galaxy      v Real Salt Lake           1-0 (0-0)
-  Sun Jun/12
-    18.00  MetroStars              v D.C. United              0-0
-    19.00  Chicago Fire            v FC Dallas                2-0 (1-0)
-    20.00  CD Chivas               v San Jose Earthquakes     1-1 (0-1)
-  Wed Jun/15
-    19.30  D.C. United             v Chicago Fire             4-3 (1-2)
-    21.30  Colorado Rapids         v Los Angeles Galaxy       1-0 (1-0)
-  Sat Jun/18
-    16.00  Chicago Fire            v Kansas City Wizards      1-1 (1-0)
-    19.30  MetroStars              v Columbus Crew            3-2 (2-1)
+    22:30  San Jose Earthquakes    v D.C. United              0-0
+  Sat Jun 11
+    16:00  Columbus Crew           v Colorado Rapids          1-0 (0-0)
+    20:00  Kansas City Wizards     v New England Revolution   0-2 (0-1)
+    22:00  Los Angeles Galaxy      v Real Salt Lake           1-0 (0-0)
+  Sun Jun 12
+    18:00  MetroStars              v D.C. United              0-0
+    19:00  Chicago Fire            v FC Dallas                2-0 (1-0)
+    20:00  CD Chivas               v San Jose Earthquakes     1-1 (0-1)
+  Wed Jun 15
+    19:30  D.C. United             v Chicago Fire             4-3 (1-2)
+    21:30  Colorado Rapids         v Los Angeles Galaxy       1-0 (1-0)
+  Sat Jun 18
+    16:00  Chicago Fire            v Kansas City Wizards      1-1 (1-0)
+    19:30  MetroStars              v Columbus Crew            3-2 (2-1)
            D.C. United             v New England Revolution   2-0 (2-0)
-    20.30  FC Dallas               v Los Angeles Galaxy       1-0 (1-0)
-    22.00  CD Chivas               v Colorado Rapids          1-3 (0-1)
+    20:30  FC Dallas               v Los Angeles Galaxy       1-0 (1-0)
+    22:00  CD Chivas               v Colorado Rapids          1-3 (0-1)
            San Jose Earthquakes    v Real Salt Lake           3-0 (3-0)
-  Wed Jun/22
-    19.30  Columbus Crew           v New England Revolution   1-3 (1-2)
-    20.30  FC Dallas               v CD Chivas                2-1 (1-0)
-    21.30  Real Salt Lake          v Los Angeles Galaxy       1-1 (0-1)
-  Sat Jun/25
-    19.30  New England Revolution  v MetroStars               4-2 (1-0)
-    20.00  Kansas City Wizards     v CD Chivas                3-0 (0-0)
-    21.00  Colorado Rapids         v FC Dallas                1-3 (1-1)
-    22.00  San Jose Earthquakes    v Los Angeles Galaxy       3-0 (1-0)
-  Sun Jun/26
-    19.00  Chicago Fire            v Real Salt Lake           3-1 (0-0)
-  Wed Jun/29
-    20.00  Kansas City Wizards     v Columbus Crew            1-1 (0-0)
-    20.30  Chicago Fire            v D.C. United              4-3 (3-1)
-    22.30  San Jose Earthquakes    v Colorado Rapids          1-0 (0-0)
+  Wed Jun 22
+    19:30  Columbus Crew           v New England Revolution   1-3 (1-2)
+    20:30  FC Dallas               v CD Chivas                2-1 (1-0)
+    21:30  Real Salt Lake          v Los Angeles Galaxy       1-1 (0-1)
+  Sat Jun 25
+    19:30  New England Revolution  v MetroStars               4-2 (1-0)
+    20:00  Kansas City Wizards     v CD Chivas                3-0 (0-0)
+    21:00  Colorado Rapids         v FC Dallas                1-3 (1-1)
+    22:00  San Jose Earthquakes    v Los Angeles Galaxy       3-0 (1-0)
+  Sun Jun 26
+    19:00  Chicago Fire            v Real Salt Lake           3-1 (0-0)
+  Wed Jun 29
+    20:00  Kansas City Wizards     v Columbus Crew            1-1 (0-0)
+    20:30  Chicago Fire            v D.C. United              4-3 (3-1)
+    22:30  San Jose Earthquakes    v Colorado Rapids          1-0 (0-0)
 
 
-» Matchday 4
-  Sat Jul/2
-    19.30  Columbus Crew           v D.C. United              0-1 (0-0)
-    20.30  FC Dallas               v San Jose Earthquakes     2-2 (1-1)
-    22.00  CD Chivas               v Chicago Fire             0-1 (0-0)
-  Mon Jul/4
-    21.30  Real Salt Lake          v MetroStars               2-2 (0-1)
+▪ Matchday 4
+  Sat Jul 2
+    19:30  Columbus Crew           v D.C. United              0-1 (0-0)
+    20:30  FC Dallas               v San Jose Earthquakes     2-2 (1-1)
+    22:00  CD Chivas               v Chicago Fire             0-1 (0-0)
+  Mon Jul 4
+    21:30  Real Salt Lake          v MetroStars               2-2 (0-1)
            Colorado Rapids         v Kansas City Wizards      2-1 (0-1)
-    22.00  Los Angeles Galaxy      v New England Revolution   1-1 (0-0)
-  Sat Jul/9
-    18.00  D.C. United             v Kansas City Wizards      0-1 (0-0)
-    19.30  Columbus Crew           v San Jose Earthquakes     1-2 (1-1)
-    20.00  MetroStars              v Los Angeles Galaxy       2-1 (1-0)
-    20.30  Chicago Fire            v New England Revolution   1-0 (0-0)
-    22.00  CD Chivas               v Real Salt Lake           5-1 (2-1)
-  Fri Jul/15
-    19.30  D.C. United             v San Jose Earthquakes     3-0 (1-0)
-  Sat Jul/16
-    16.00  Chicago Fire            v Columbus Crew            1-1 (0-0)
-    19.00  New England Revolution  v FC Dallas                3-2 (1-2)
-    19.30  MetroStars              v Colorado Rapids          1-1 (0-0)
-    20.00  Kansas City Wizards     v Real Salt Lake           3-2 (3-2)
-    22.00  Los Angeles Galaxy      v CD Chivas                2-0 (0-0)
-  Wed Jul/20
-    19.30  Columbus Crew           v MetroStars               1-0 (0-0)
-    20.00  Kansas City Wizards     v D.C. United              1-1 (0-1)
-    21.30  Colorado Rapids         v San Jose Earthquakes     1-2 (0-1)
-  Fri Jul/22
-    22.30  CD Chivas               v New England Revolution   1-0 (1-0)
-  Sat Jul/23
-    16.00  Los Angeles Galaxy      v D.C. United              0-1 (0-0)
-    19.30  Columbus Crew           v Kansas City Wizards      2-0 (1-0)
-    21.00  Colorado Rapids         v Chicago Fire             4-1 (2-1)
-    21.30  Real Salt Lake          v FC Dallas                3-0 (3-0)
-    22.00  San Jose Earthquakes    v MetroStars               2-1 (1-1)
-  Wed Jul/27
-    19.30  MetroStars              v FC Dallas                3-2 (1-1)
+    22:00  Los Angeles Galaxy      v New England Revolution   1-1 (0-0)
+  Sat Jul 9
+    18:00  D.C. United             v Kansas City Wizards      0-1 (0-0)
+    19:30  Columbus Crew           v San Jose Earthquakes     1-2 (1-1)
+    20:00  MetroStars              v Los Angeles Galaxy       2-1 (1-0)
+    20:30  Chicago Fire            v New England Revolution   1-0 (0-0)
+    22:00  CD Chivas               v Real Salt Lake           5-1 (2-1)
+  Fri Jul 15
+    19:30  D.C. United             v San Jose Earthquakes     3-0 (1-0)
+  Sat Jul 16
+    16:00  Chicago Fire            v Columbus Crew            1-1 (0-0)
+    19:00  New England Revolution  v FC Dallas                3-2 (1-2)
+    19:30  MetroStars              v Colorado Rapids          1-1 (0-0)
+    20:00  Kansas City Wizards     v Real Salt Lake           3-2 (3-2)
+    22:00  Los Angeles Galaxy      v CD Chivas                2-0 (0-0)
+  Wed Jul 20
+    19:30  Columbus Crew           v MetroStars               1-0 (0-0)
+    20:00  Kansas City Wizards     v D.C. United              1-1 (0-1)
+    21:30  Colorado Rapids         v San Jose Earthquakes     1-2 (0-1)
+  Fri Jul 22
+    22:30  CD Chivas               v New England Revolution   1-0 (1-0)
+  Sat Jul 23
+    16:00  Los Angeles Galaxy      v D.C. United              0-1 (0-0)
+    19:30  Columbus Crew           v Kansas City Wizards      2-0 (1-0)
+    21:00  Colorado Rapids         v Chicago Fire             4-1 (2-1)
+    21:30  Real Salt Lake          v FC Dallas                3-0 (3-0)
+    22:00  San Jose Earthquakes    v MetroStars               2-1 (1-1)
+  Wed Jul 27
+    19:30  MetroStars              v FC Dallas                3-2 (1-1)
            New England Revolution  v Los Angeles Galaxy       1-1 (1-1)
 
 
-» Matchday 5
-  Sat Aug/6
-    18.00  Real Salt Lake          v CD Chivas                2-1 (0-1)
-    20.00  New England Revolution  v Kansas City Wizards      1-2 (0-0)
-    20.30  Chicago Fire            v D.C. United              2-3 (0-1)
+▪ Matchday 5
+  Sat Aug 6
+    18:00  Real Salt Lake          v CD Chivas                2-1 (0-1)
+    20:00  New England Revolution  v Kansas City Wizards      1-2 (0-0)
+    20:30  Chicago Fire            v D.C. United              2-3 (0-1)
            FC Dallas               v MetroStars               2-2 (2-0)
-    21.00  Colorado Rapids         v Los Angeles Galaxy       2-0 (2-0)
-    22.00  San Jose Earthquakes    v Columbus Crew            2-1 (1-0)
-  Wed Aug/10
-    19.30  New England Revolution  v Real Salt Lake           4-1 (2-1)
+    21:00  Colorado Rapids         v Los Angeles Galaxy       2-0 (2-0)
+    22:00  San Jose Earthquakes    v Columbus Crew            2-1 (1-0)
+  Wed Aug 10
+    19:30  New England Revolution  v Real Salt Lake           4-1 (2-1)
            D.C. United             v MetroStars               3-0 (1-0)
-    20.30  Chicago Fire            v Kansas City Wizards      2-3 (2-2)
-    22.00  CD Chivas               v Los Angeles Galaxy       0-1 (0-0)
-  Sat Aug/13
-    16.00  D.C. United             v CD Chivas                3-0 (2-0)
-    20.30  Chicago Fire            v Los Angeles Galaxy       2-1 (2-0)
+    20:30  Chicago Fire            v Kansas City Wizards      2-3 (2-2)
+    22:00  CD Chivas               v Los Angeles Galaxy       0-1 (0-0)
+  Sat Aug 13
+    16:00  D.C. United             v CD Chivas                3-0 (2-0)
+    20:30  Chicago Fire            v Los Angeles Galaxy       2-1 (2-0)
            FC Dallas               v New England Revolution   1-2 (0-1)
-    21.30  Real Salt Lake          v Kansas City Wizards      2-4 (0-1)
-    22.00  San Jose Earthquakes    v Colorado Rapids          1-1 (0-0)
-  Sun Aug/14
-    18.00  MetroStars              v Columbus Crew            2-1 (0-1)
-  Wed Aug/17
-    21.30  Colorado Rapids         v New England Revolution   2-0 (0-0)
-  Fri Aug/19
-    20.00  Kansas City Wizards     v Chicago Fire             3-0 (1-0)
-  Sat Aug/20
-    16.00  Columbus Crew           v FC Dallas                1-0 (0-0)
-    19.30  D.C. United             v Los Angeles Galaxy       2-3 (1-1)
-    21.30  Real Salt Lake          v San Jose Earthquakes     0-1 (0-1)
-  Sun Aug/21
-    18.00  MetroStars              v CD Chivas                3-3 (1-3)
-  Fri Aug/26
-    20.00  Kansas City Wizards     v Columbus Crew            0-1 (0-1)
-  Sat Aug/27
-    19.30  New England Revolution  v D.C. United              2-1 (0-1)
-    20.30  FC Dallas               v CD Chivas                2-2 (1-1)
-    23.00  San Jose Earthquakes    v Los Angeles Galaxy       2-1 (1-1)
+    21:30  Real Salt Lake          v Kansas City Wizards      2-4 (0-1)
+    22:00  San Jose Earthquakes    v Colorado Rapids          1-1 (0-0)
+  Sun Aug 14
+    18:00  MetroStars              v Columbus Crew            2-1 (0-1)
+  Wed Aug 17
+    21:30  Colorado Rapids         v New England Revolution   2-0 (0-0)
+  Fri Aug 19
+    20:00  Kansas City Wizards     v Chicago Fire             3-0 (1-0)
+  Sat Aug 20
+    16:00  Columbus Crew           v FC Dallas                1-0 (0-0)
+    19:30  D.C. United             v Los Angeles Galaxy       2-3 (1-1)
+    21:30  Real Salt Lake          v San Jose Earthquakes     0-1 (0-1)
+  Sun Aug 21
+    18:00  MetroStars              v CD Chivas                3-3 (1-3)
+  Fri Aug 26
+    20:00  Kansas City Wizards     v Columbus Crew            0-1 (0-1)
+  Sat Aug 27
+    19:30  New England Revolution  v D.C. United              2-1 (0-1)
+    20:30  FC Dallas               v CD Chivas                2-2 (1-1)
+    23:00  San Jose Earthquakes    v Los Angeles Galaxy       2-1 (1-1)
 
 
-» Matchday 6
-  Wed Aug/31
-    19.30  D.C. United             v Real Salt Lake           5-1 (2-0)
-  Sat Sep/3
-    19.30  MetroStars              v Kansas City Wizards      2-2 (1-1)
-    20.30  FC Dallas               v San Jose Earthquakes     0-2 (0-0)
-    21.00  Colorado Rapids         v D.C. United              1-0 (1-0)
-    21.30  Real Salt Lake          v New England Revolution   0-1 (0-0)
-    22.00  CD Chivas               v Columbus Crew            0-3 (0-1)
-  Sun Sep/4
-    20.00  Los Angeles Galaxy      v Chicago Fire             1-2 (1-1)
-  Sat Sep/10
-    19.30  New England Revolution  v Columbus Crew            3-1 (2-0)
-    20.00  Kansas City Wizards     v MetroStars               0-1 (0-1)
-    20.30  FC Dallas               v D.C. United              1-2 (0-1)
-    22.00  Los Angeles Galaxy      v Colorado Rapids          4-1 (2-0)
+▪ Matchday 6
+  Wed Aug 31
+    19:30  D.C. United             v Real Salt Lake           5-1 (2-0)
+  Sat Sep 3
+    19:30  MetroStars              v Kansas City Wizards      2-2 (1-1)
+    20:30  FC Dallas               v San Jose Earthquakes     0-2 (0-0)
+    21:00  Colorado Rapids         v D.C. United              1-0 (1-0)
+    21:30  Real Salt Lake          v New England Revolution   0-1 (0-0)
+    22:00  CD Chivas               v Columbus Crew            0-3 (0-1)
+  Sun Sep 4
+    20:00  Los Angeles Galaxy      v Chicago Fire             1-2 (1-1)
+  Sat Sep 10
+    19:30  New England Revolution  v Columbus Crew            3-1 (2-0)
+    20:00  Kansas City Wizards     v MetroStars               0-1 (0-1)
+    20:30  FC Dallas               v D.C. United              1-2 (0-1)
+    22:00  Los Angeles Galaxy      v Colorado Rapids          4-1 (2-0)
            San Jose Earthquakes    v CD Chivas                3-0 (0-0)
-  Sat Sep/17
-    19.30  MetroStars              v New England Revolution   5-4 (1-1)
+  Sat Sep 17
+    19:30  MetroStars              v New England Revolution   5-4 (1-1)
            D.C. United             v Colorado Rapids          2-0 (0-0)
            Columbus Crew           v Chicago Fire             1-2 (0-1)
-    20.00  Kansas City Wizards     v Los Angeles Galaxy       2-2 (0-2)
-    22.00  CD Chivas               v San Jose Earthquakes     1-2 (0-0)
-  Sun Sep/18
-    14.00  FC Dallas               v Real Salt Lake           2-1 (1-0)
-  Wed Sep/21
-    19.30  Columbus Crew           v New England Revolution   1-1 (0-0)
-    20.30  FC Dallas               v Los Angeles Galaxy       4-1 (3-0)
-    21.30  Colorado Rapids         v Real Salt Lake           2-0 (0-0)
-    22.00  San Jose Earthquakes    v Chicago Fire             2-0 (1-0)
-  Sat Sep/24
-    19.30  New England Revolution  v MetroStars               1-0 (0-0)
-    21.30  Real Salt Lake          v Columbus Crew            1-2 (0-2)
-    22.00  CD Chivas               v Colorado Rapids          1-3 (1-1)
+    20:00  Kansas City Wizards     v Los Angeles Galaxy       2-2 (0-2)
+    22:00  CD Chivas               v San Jose Earthquakes     1-2 (0-0)
+  Sun Sep 18
+    14:00  FC Dallas               v Real Salt Lake           2-1 (1-0)
+  Wed Sep 21
+    19:30  Columbus Crew           v New England Revolution   1-1 (0-0)
+    20:30  FC Dallas               v Los Angeles Galaxy       4-1 (3-0)
+    21:30  Colorado Rapids         v Real Salt Lake           2-0 (0-0)
+    22:00  San Jose Earthquakes    v Chicago Fire             2-0 (1-0)
+  Sat Sep 24
+    19:30  New England Revolution  v MetroStars               1-0 (0-0)
+    21:30  Real Salt Lake          v Columbus Crew            1-2 (0-2)
+    22:00  CD Chivas               v Colorado Rapids          1-3 (1-1)
            San Jose Earthquakes    v FC Dallas                1-1 (0-0)
-  Sun Sep/25
-    20.00  Los Angeles Galaxy      v Kansas City Wizards      2-1 (1-0)
+  Sun Sep 25
+    20:00  Los Angeles Galaxy      v Kansas City Wizards      2-1 (1-0)
 
 
-» Matchday 7
-  Sat Oct/1
-    19.30  MetroStars              v D.C. United              1-4 (1-0)
+▪ Matchday 7
+  Sat Oct 1
+    19:30  MetroStars              v D.C. United              1-4 (1-0)
            New England Revolution  v San Jose Earthquakes     0-2 (0-0)
            Columbus Crew           v CD Chivas                0-1 (0-0)
-    20.00  Kansas City Wizards     v Chicago Fire             0-1 (0-0)
-    21.00  Colorado Rapids         v Real Salt Lake           2-1 (1-1)
-    22.00  Los Angeles Galaxy      v FC Dallas                2-1 (2-1)
-  Wed Oct/5
-    20.30  Chicago Fire            v MetroStars               2-2 (0-2)
+    20:00  Kansas City Wizards     v Chicago Fire             0-1 (0-0)
+    21:00  Colorado Rapids         v Real Salt Lake           2-1 (1-1)
+    22:00  Los Angeles Galaxy      v FC Dallas                2-1 (2-1)
+  Wed Oct 5
+    20:30  Chicago Fire            v MetroStars               2-2 (0-2)
            FC Dallas               v Columbus Crew            2-1 (0-1)
-    21.00  Colorado Rapids         v CD Chivas                1-1 (1-1)
-    21.30  Real Salt Lake          v D.C. United              1-3 (0-1)
-  Sat Oct/8
-    19.30  D.C. United             v MetroStars               1-2 (1-1)
-    20.00  Kansas City Wizards     v New England Revolution   2-2 (2-1)
-    20.30  Chicago Fire            v Columbus Crew            1-2 (0-0)
+    21:00  Colorado Rapids         v CD Chivas                1-1 (1-1)
+    21:30  Real Salt Lake          v D.C. United              1-3 (0-1)
+  Sat Oct 8
+    19:30  D.C. United             v MetroStars               1-2 (1-1)
+    20:00  Kansas City Wizards     v New England Revolution   2-2 (2-1)
+    20:30  Chicago Fire            v Columbus Crew            1-2 (0-0)
            FC Dallas               v Colorado Rapids          0-0
-    22.00  San Jose Earthquakes    v Real Salt Lake           2-2 (2-0)
-  Wed Oct/12
-    21.30  Real Salt Lake          v Colorado Rapids          0-1 (0-0)
-  Sat Oct/15
-    19.30  New England Revolution  v Chicago Fire             1-0 (1-0)
+    22:00  San Jose Earthquakes    v Real Salt Lake           2-2 (2-0)
+  Wed Oct 12
+    21:30  Real Salt Lake          v Colorado Rapids          0-1 (0-0)
+  Sat Oct 15
+    19:30  New England Revolution  v Chicago Fire             1-0 (1-0)
            D.C. United             v Columbus Crew            2-2 (1-1)
-    20.30  FC Dallas               v Kansas City Wizards      2-2 (0-0)
-    22.00  Los Angeles Galaxy      v San Jose Earthquakes     1-3 (0-2)
-  Sun Oct/16
-    16.00  CD Chivas               v MetroStars               0-2 (0-0)
+    20:30  FC Dallas               v Kansas City Wizards      2-2 (0-0)
+    22:00  Los Angeles Galaxy      v San Jose Earthquakes     1-3 (0-2)
+  Sun Oct 16
+    16:00  CD Chivas               v MetroStars               0-2 (0-0)
 
 
-» Playoffs, Quarterfinals
-  Fri Oct/21
-    21.00  Chicago Fire            v D.C. United              0-0
-  Sat Oct/22
-    19.00  MetroStars              v New England Revolution   1-0 (1-0)
-    21.00  Colorado Rapids         v FC Dallas                0-0
-  Sun Oct/23
-    15.00  Los Angeles Galaxy      v San Jose Earthquakes     3-1 (2-0)
-  Sat Oct/29
-    20.00  New England Revolution  v MetroStars               3-1 (0-0)
-    20.30  FC Dallas               v Colorado Rapids          4-5 pen. 2-2 a.e.t. (1-1, 0-1)
-    23.00  San Jose Earthquakes    v Los Angeles Galaxy       1-1 (1-0)
-  Sun Oct/30
-    16.30  D.C. United             v Chicago Fire             0-4 (0-3)
+▪ Playoffs, Quarterfinals
+  Fri Oct 21
+    21:00  Chicago Fire            v D.C. United              0-0
+  Sat Oct 22
+    19:00  MetroStars              v New England Revolution   1-0 (1-0)
+    21:00  Colorado Rapids         v FC Dallas                0-0
+  Sun Oct 23
+    15:00  Los Angeles Galaxy      v San Jose Earthquakes     3-1 (2-0)
+  Sat Oct 29
+    20:00  New England Revolution  v MetroStars               3-1 (0-0)
+    20:30  FC Dallas               v Colorado Rapids          4-5 pen. 2-2 a.e.t. (1-1, 0-1)
+    23:00  San Jose Earthquakes    v Los Angeles Galaxy       1-1 (1-0)
+  Sun Oct 30
+    16:30  D.C. United             v Chicago Fire             0-4 (0-3)
 
 
-» Playoffs, Semifinals
-  Sun Nov/6
-    00.00  Colorado Rapids         v Los Angeles Galaxy       0-2 (0-1)
-    16.00  Chicago Fire            v New England Revolution   0-1 (0-1)
+▪ Playoffs, Semifinals
+  Sun Nov 6
+    00:00  Colorado Rapids         v Los Angeles Galaxy       0-2 (0-1)
+    16:00  Chicago Fire            v New England Revolution   0-1 (0-1)
 
 
-» Playoffs, Final
-  Sun Nov/13
-    15.30  New England Revolution  v Los Angeles Galaxy       0-1 a.e.t. (0-0)
+▪ Playoffs, Final
+  Sun Nov 13
+    15:30  New England Revolution  v Los Angeles Galaxy       0-1 a.e.t. (0-0)

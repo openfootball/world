@@ -6,13 +6,8 @@
 
 
 
-======================================================================
-  NNL
-======================================================================
-
-
-
-» Matchday 1
+▪ NNL
+▪▪ Matchday 1
   12.02.
     16:00  EFCC FC                 v Taraba FC               2-2
   13.02.
@@ -41,7 +36,7 @@
 
 
 
-» Matchday 2
+▪▪ Matchday 2
   19.02.
     16:00  Zamfara United FC       v Kebbi FC                2-0
   20.02.
@@ -70,7 +65,7 @@
 
 
 
-» Matchday 3
+▪▪ Matchday 3
   24.02.
     16:00  Apex Krane FC           v Holy Arrows FC          1-0
     16:00  Crown FC                v Bendel FC               1-0
@@ -100,7 +95,7 @@
 
 
 
-» Matchday 4
+▪▪ Matchday 4
   03.03.
     16:00  EFCC FC                 v Nigeria Airforce FC     1-0
     16:00  El-Kanemi Warriors FC   v Oyah Sports FC          2-1
@@ -129,7 +124,7 @@
 
 
 
-» Matchday 5
+▪▪ Matchday 5
   05.03.
     16:00  One Rocket FC           v Abia Comets FC          1-0
   06.03.
@@ -161,7 +156,7 @@
 
 
 
-» Matchday 6
+▪▪ Matchday 6
   10.03.
     16:00  Abia Comets FC          v Goddosky FC             2-0
     16:00  Bendel FC               v Remo Stars FC           1-0
@@ -191,7 +186,7 @@
 
 
 
-» Matchday 7
+▪▪ Matchday 7
   12.03.
     16:00  One Rocket FC           v Gateway Utd.            3-1
   13.03.
@@ -225,7 +220,7 @@
 
 
 
-» Matchday 8
+▪▪ Matchday 8
   19.03.
     16:00  Joy Cometh FC           v Ibom Youths FC          2-1
   20.03.
@@ -258,7 +253,7 @@
 
 
 
-» Matchday 9
+▪▪ Matchday 9
   03.04.
     16:00  ABS FC                  v Niger Tornadoes FC      2-1
     16:00  Kebbi FC                v Shekarau FC             4-1
@@ -288,7 +283,7 @@
 
 
 
-» Matchday 10
+▪▪ Matchday 10
   01.04.
     16:00  Nigeria Airforce FC     v Gombe United FC         1-1
   03.04.
@@ -322,7 +317,7 @@
 
 
 
-» Matchday 11
+▪▪ Matchday 11
   02.04.
     16:00  One Rocket FC           v J’Atete FC              3-1
   03.04.
@@ -355,7 +350,7 @@
 
 
 
-» Matchday 12
+▪▪ Matchday 12
   02.05.
     16:00  Delta Force FC          v Edel FC                 1-0
     16:00  Dynamite Force FC       v Vandrezzer FC           1-0
@@ -384,7 +379,7 @@
 
 
 
-» Matchday 13
+▪▪ Matchday 13
   08.05.
     16:00  Calabar Rovers FC       v Go Round FC             1-2
     16:00  Edel FC                 v Dynamite Force FC       1-0
@@ -416,7 +411,7 @@
 
 
 
-» Matchday 14
+▪▪ Matchday 14
   01.05.
     16:00  J’Atete FC              v Bayelsa United FC       2-1
   02.05.
@@ -446,7 +441,7 @@
 
 
 
-» Matchday 15
+▪▪ Matchday 15
   08.05.
     14:00  Goddosky FC             v J’Atete FC              1-0
     16:00  Ibom Youths FC          v Remo Stars FC           2-1
@@ -477,7 +472,7 @@
 
 
 
-» Matchday 16
+▪▪ Matchday 16
   01.07.
     16:00  Zamfara United FC       v Yobe Desert Stars FC    2-0
   14.05.
@@ -510,7 +505,7 @@
 
 
 
-» Matchday 17
+▪▪ Matchday 17
   01.07.
     16:00  Dynamite Force FC       v Shooting Stars SC       2-2
     16:00  Oyah Sports FC          v Nigeria Airforce FC     0-1
@@ -542,7 +537,7 @@
 
 
 
-» Matchday 18
+▪▪ Matchday 18
   04.06.
     16:00  EFCC FC                 v Oyah Sports FC          0-1
   05.06.
@@ -573,7 +568,7 @@
 
 
 
-» Matchday 19
+▪▪ Matchday 19
   06.06.
     16:00  Shooting Stars SC       v Stationery Stores FC    1-0
   16.06.
@@ -598,7 +593,7 @@
 
 
 
-» Matchday 20
+▪▪ Matchday 20
   01.08.
     16:00  Abia Comets FC          v Bayelsa United FC       0-0
   03.07.
@@ -624,7 +619,7 @@
 
 
 
-» Matchday 21
+▪▪ Matchday 21
   05.06.
     16:00  Goddosky FC             v Abia Comets FC          1-0
     16:00  Ibom Youths FC          v Gateway Utd.            1-0
@@ -650,7 +645,7 @@
 
 
 
-» Matchday 22
+▪▪ Matchday 22
   16.06.
     16:00  Abia Comets FC          v One Rocket FC           1-0
     16:00  Bayelsa United FC       v Goddosky FC             5-1
@@ -674,7 +669,7 @@
 
 
 
-» Matchday 23
+▪▪ Matchday 23
   04.08.
     15:00  Apex Krane FC           v Gateway Utd.            1-2
     15:00  Crown FC                v Joy Cometh FC           2-0
@@ -684,7 +679,7 @@
 
 
 
-» Matchday 24
+▪▪ Matchday 24
   07.08.
     16:00  Abia Comets FC          v Remo Stars FC           0-1
     16:00  Gateway Utd.            v J’Atete FC              4-1
@@ -697,7 +692,7 @@
 
 
 
-» Matchday 25
+▪▪ Matchday 25
   11.08.
     16:00  Apex Krane FC           v Abia Comets FC          0-1
     16:00  Crown FC                v Gateway Utd.            2-1
@@ -708,7 +703,7 @@
 
 
 
-» Matchday 26
+▪▪ Matchday 26
   01.09.
     16:00  Abia Comets FC          v J’Atete FC              1-1
     16:00  Bayelsa United FC       v Apex Krane FC           3-0
@@ -717,13 +712,9 @@
     16:00  One Rocket FC           v Ibom Youths FC          3-1
 
 
-======================================================================
-  NNL - WINNERS STAGE
-======================================================================
 
-
-
-» Matchday 1
+▪ NNL - WINNERS STAGE
+▪▪ Matchday 1
   07.09.
     13:00  Gombe United FC         v El-Kanemi Warriors FC   1-1
     15:00  Bendel FC               v Shooting Stars SC       1-2
@@ -732,7 +723,7 @@
 
 
 
-» Matchday 2
+▪▪ Matchday 2
   08.09.
     08:30  El-Kanemi Warriors FC   v Niger Tornadoes FC      0-2
     11:00  Shooting Stars SC       v Remo Stars FC           1-1
@@ -742,7 +733,7 @@
 
 
 
-» Matchday 3
+▪▪ Matchday 3
   11.09.
     10:00  DMD FC                  v El-Kanemi Warriors FC   0-3
     10:00  Niger Tornadoes FC      v Gombe United FC         0-0
@@ -751,11 +742,9 @@
     08:00  Remo Stars FC           v Bendel FC               2-2
 
 
-======================================================================
-  NNL - PLAY OFFS
-======================================================================
 
-» Final
+
+▪ NNL - PLAY OFFS
+▪▪ Final
   12.09.
     16:00  Niger Tornadoes FC      v Shooting Stars SC       3-2
-

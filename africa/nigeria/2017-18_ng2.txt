@@ -6,20 +6,15 @@
 
 
 
-======================================================================
-  NNL
-======================================================================
-
-
-
-» Matchday 1
+▪ NNL
+▪▪ Matchday 1
   28.04.
     16:00  ABS FC                   v Road Safety FC           1-1
     16:00  Adamawa United FC        v Jigawa Golden Stars FC   1-0
     16:00  Bendel FC                v Spartans FC              3-0
     16:00  Edel FC                  v Delta Stars FC           1-0
     16:00  Giordano FC              v Bimo FC                  1-0
-    16:00  J’Atete FC               v Dakkada FC               0-0
+    16:00  J'Atete FC               v Dakkada FC               0-0
     16:00  Kogi FC                  v Aklosendi FC             1-0
     16:00  Nigeria Airforce FC      v Mighty Jets FC           2-0
     16:00  Osun FC                  v Remo Stars FC            0-1
@@ -36,12 +31,12 @@
 
 
 
-» Matchday 2
+▪▪ Matchday 2
   04.05.
     16:00  EFCC FC                  v Adamawa United FC        2-0
     16:00  Kada City FC             v ABS FC                   1-0
   05.05.
-    16:00  Abia Comets FC           v J’Atete FC               2-0
+    16:00  Abia Comets FC           v J'Atete FC               2-0
     16:00  Bimo FC                  v Zamfara United FC        1-1
     16:00  Delta Stars FC           v Crown FC                 1-2
     16:00  Dynamite Force FC        v Rovers FC                2-0
@@ -60,7 +55,7 @@
 
 
 
-» Matchday 3
+▪▪ Matchday 3
   11.05.
     16:00  Real Stars FC            v EFCC FC                  1-0
   12.05.
@@ -70,7 +65,7 @@
     16:00  Dakkada FC               v Abia Comets FC           2-1
     16:00  Edel FC                  v Super Stores FC          2-0
     16:00  Gombe United FC          v Bimo FC                  1-0
-    16:00  J’Atete FC               v Gateway Utd.             2-0
+    16:00  J'Atete FC               v Gateway Utd.             2-0
     16:00  Kogi FC                  v Road Safety FC           2-0
     16:00  Nigeria Airforce FC      v Kada City FC             1-0
     16:00  Osun FC                  v Dynamite Force FC        1-0
@@ -85,7 +80,7 @@
 
 
 
-» Matchday 4
+▪▪ Matchday 4
   18.05.
     16:00  EFCC FC                  v Zamfara United FC        1-0
     16:00  Kada City FC             v Kogi FC                  2-0
@@ -98,7 +93,7 @@
     16:00  Giordano FC              v Adamawa United FC        2-0
     16:00  Gombe United FC          v Sokoto FC                4-0
     16:00  Road Safety FC           v Aklosendi FC             2-0
-    16:00  Spartans FC              v J’Atete FC               1-1
+    16:00  Spartans FC              v J'Atete FC               1-1
     16:00  Super Stores FC          v Delta Force FC           2-1
     16:00  Taraba FC                v Nigeria Airforce FC      1-2
     16:00  Malumfashi FC            v Real Stars FC            0-3
@@ -110,7 +105,7 @@
 
 
 
-» Matchday 5
+▪▪ Matchday 5
   10.10.
     16:00  Osun FC                  v Ikorodu City FC          3-0
   23.05.
@@ -120,7 +115,7 @@
     16:00  Bayelsa United FC        v Bendel FC                3-3
     16:00  Crown FC                 v Super Stores FC          2-0
     16:00  Delta Force FC           v Dynamite Force FC        1-0
-    16:00  J’Atete FC               v Shooting Stars SC        1-0
+    16:00  J'Atete FC               v Shooting Stars SC        1-0
     16:00  Jigawa Golden Stars FC   v EFCC FC                  3-0
     16:00  Kogi FC                  v Taraba FC                6-1
     16:00  Mighty Jets FC           v Road Safety FC           2-0
@@ -134,10 +129,10 @@
 
 
 
-» Matchday 6
+▪▪ Matchday 6
   30.05.
     16:00  ABS FC                   v Nigeria Airforce FC      1-0
-    16:00  Bendel FC                v J’Atete FC               1-0
+    16:00  Bendel FC                v J'Atete FC               1-0
     16:00  Bimo FC                  v EFCC FC                  0-1
     16:00  Crown FC                 v Rovers FC                1-0
     16:00  Delta Stars FC           v Delta Force FC           1-1
@@ -157,7 +152,7 @@
 
 
 
-» Matchday 7
+▪▪ Matchday 7
   01.06.
     16:00  EFCC FC                  v Malumfashi FC            2-1
   02.06.
@@ -175,7 +170,7 @@
     16:00  Rovers FC                v Super Stores FC          1-0
     16:00  Zamfara United FC        v Gombe United FC          0-0
   03.06.
-    16:00  J’Atete FC               v Warri Wolves FC          2-0
+    16:00  J'Atete FC               v Warri Wolves FC          2-0
     16:00  Mighty Jets FC           v Taraba FC                4-3
     16:00  Remo Stars FC            v Edel FC                  2-2
   19.09.
@@ -183,11 +178,11 @@
 
 
 
-» Matchday 8
+▪▪ Matchday 8
   06.06.
     16:00  ABS FC                   v Aklosendi FC             1-0
     16:00  Adamawa United FC        v Real Stars FC            1-0
-    16:00  Bayelsa United FC        v J’Atete FC               1-0
+    16:00  Bayelsa United FC        v J'Atete FC               1-0
     16:00  Bendel FC                v Abia Comets FC           1-0
     16:00  Bimo FC                  v Malumfashi FC            1-2
     16:00  Crown FC                 v Remo Stars FC            2-1
@@ -207,7 +202,7 @@
 
 
 
-» Matchday 9
+▪▪ Matchday 9
   12.09.
     16:00  Abia Comets FC           v Warri Wolves FC          1-0
     16:00  Aklosendi FC             v Nigeria Airforce FC      3-1
@@ -229,7 +224,7 @@
 
 
 
-» Matchday 10
+▪▪ Matchday 10
   15.09.
     16:00  Bendel FC                v Gateway Utd.             1-0
     16:00  Giordano FC              v Malumfashi FC            1-0
@@ -252,7 +247,7 @@
 
 
 
-» Matchday 11
+▪▪ Matchday 11
   13.10.
     16:00  Osun FC                  v Rovers FC                1-0
   21.09.
@@ -264,7 +259,7 @@
     16:00  Delta Stars FC           v Super Stores FC          1-0
     16:00  Dynamite Force FC        v Ikorodu City FC          1-1
     16:00  Gateway Utd.             v Shooting Stars SC        1-1
-    16:00  J’Atete FC               v Bayelsa United FC        1-0
+    16:00  J'Atete FC               v Bayelsa United FC        1-0
     16:00  Jigawa Golden Stars FC   v Gombe United FC          1-0
     16:00  Kogi FC                  v Nigeria Airforce FC      1-0
     16:00  Mighty Jets FC           v Kaduna United FC         1-0
@@ -275,10 +270,10 @@
 
 
 
-» Matchday 12
+▪▪ Matchday 12
   10.10.
     16:00  ABS FC                   v Kogi FC                  1-0
-    16:00  Warri Wolves FC          v J’Atete FC               1-0
+    16:00  Warri Wolves FC          v J'Atete FC               1-0
   26.09.
     16:00  Bendel FC                v Dakkada FC               2-0
     16:00  Crown FC                 v Osun FC                  2-1
@@ -297,7 +292,7 @@
 
 
 
-» Matchday 13
+▪▪ Matchday 13
   13.10.
     16:00  Kogi FC                  v Kaduna United FC         2-1
   29.09.
@@ -320,7 +315,7 @@
 
 
 
-» Matchday 14
+▪▪ Matchday 14
   03.10.
     09:00  Ikorodu City FC          v Osun FC                  3-0
     12:00  Spartans FC              v Dakkada FC               1-0
@@ -334,7 +329,7 @@
     16:00  Kaduna United FC         v Nigeria Airforce FC      2-0
     16:00  Malumfashi FC            v Zamfara United FC        4-1
     16:00  Road Safety FC           v Mighty Jets FC           1-0
-    16:00  Shooting Stars SC        v J’Atete FC               1-0
+    16:00  Shooting Stars SC        v J'Atete FC               1-0
   04.10.
     07:30  Delta Stars FC           v Remo Stars FC            1-0
   17.10.
@@ -342,11 +337,11 @@
 
 
 
-» Matchday 15
+▪▪ Matchday 15
   06.10.
     16:00  Adamawa United FC        v Giordano FC              3-0
     16:00  Aklosendi FC             v Road Safety FC           2-0
-    16:00  J’Atete FC               v Spartans FC              1-0
+    16:00  J'Atete FC               v Spartans FC              1-0
     16:00  Kogi FC                  v Kada City FC             3-2
     16:00  Nigeria Airforce FC      v Taraba FC                3-2
     16:00  Osun FC                  v Delta Stars FC           1-0
@@ -365,7 +360,7 @@
 
 
 
-» Matchday 16
+▪▪ Matchday 16
   04.11.
     17:00  Bendel FC                v Shooting Stars SC        2-1
   12.10.
@@ -382,12 +377,12 @@
     16:00  Delta Force FC           v Remo Stars FC            1-1
     16:00  Delta Stars FC           v Rovers FC                3-1
     16:00  Dynamite Force FC        v Osun FC                  1-1
-    16:00  Gateway Utd.             v J’Atete FC               1-0
+    16:00  Gateway Utd.             v J'Atete FC               1-0
     16:00  Shooting Stars SC        v Warri Wolves FC          2-1
     16:00  Super Stores FC          v Edel FC                  2-0
   20.10.
     15:30  Kada City FC             v Nigeria Airforce FC      2-1
-    16:00  J’Atete FC               v Abia Comets FC           2-1
+    16:00  J'Atete FC               v Abia Comets FC           2-1
   21.10.
     16:00  Bayelsa United FC        v Gateway Utd.             0-1
     16:00  Mighty Jets FC           v Aklosendi FC             3-1
@@ -397,7 +392,7 @@
 
 
 
-» Matchday 17
+▪▪ Matchday 17
   01.11.
     14:00  Kaduna United FC         v Taraba FC                7-1
   17.10.
@@ -416,13 +411,9 @@
     16:00  ABS FC                   v Kada City FC             3-0
 
 
-======================================================================
-  NNL - WINNERS STAGE
-======================================================================
 
-
-
-» Matchday 1
+▪ NNL - WINNERS STAGE
+▪▪ Matchday 1
   06.01.
     08:00  Gombe United FC          v Kogi FC                  1-1
     14:00  Bendel FC                v Delta Force FC           3-0
@@ -431,7 +422,7 @@
 
 
 
-» Matchday 2
+▪▪ Matchday 2
   07.01.
     08:00  Real Stars FC            v Gombe United FC          0-1
     14:00  Delta Force FC           v Shooting Stars SC        0-2
@@ -440,7 +431,7 @@
 
 
 
-» Matchday 3
+▪▪ Matchday 3
   09.01.
     08:00  Kogi FC                  v Real Stars FC            2-1
     14:00  Gombe United FC          v Kada City FC             0-0
@@ -448,11 +439,8 @@
     18:00  Delta Force FC           v Remo Stars FC            1-2
 
 
-======================================================================
-  NNL - PLAY OFFS
-======================================================================
 
-» Final
+▪  NNL - PLAY OFFS
+▪▪ Final
   10.01.
     18:00  Kada City FC             v Bendel FC                2-1 (1-1)
-

@@ -6,13 +6,8 @@
 
 
 
-======================================================================
-  NNL
-======================================================================
-
-
-
-» Matchday 1
+▪ NNL
+▪▪ Matchday 1
   06.12.
     15:00  Adamawa United FC        v Kada Warriors FC         1-2
     15:00  Kebbi FC                 v Sporting Supreme FC      1-2
@@ -36,7 +31,7 @@
 
 
 
-» Matchday 2
+▪▪ Matchday 2
   14.12.
     15:00  Abia Comets FC           v 1472 FC                  3-0
     15:00  ABS FC                   v Abakaliki FC             5-2
@@ -59,7 +54,7 @@
 
 
 
-» Matchday 3
+▪▪ Matchday 3
   12.02.
     10:00  1472 FC                  v Smart City FC            0-3
     16:00  First Bank FC            v Sporting Lagos FC        1-0
@@ -85,7 +80,7 @@
 
 
 
-» Matchday 4
+▪▪ Matchday 4
   04.01.
     15:00  Dakkada FC               v Inter Lagos FC           1-0
     15:00  Doma United FC           v Adamawa United FC        2-1
@@ -107,7 +102,7 @@
 
 
 
-» Matchday 5
+▪▪ Matchday 5
   10.01.
     15:00  Adamawa United FC        v Kebbi FC                 1-1
     15:00  Madiba FC                v Osun FC                  0-1
@@ -130,7 +125,7 @@
 
 
 
-» Matchday 6
+▪▪ Matchday 6
   17.01.
     15:00  1472 FC                  v Beyond Limits FC         0-1
     15:00  Kebbi FC                 v Kada Warriors FC         4-1
@@ -153,7 +148,7 @@
 
 
 
-» Matchday 7
+▪▪ Matchday 7
   24.01.
     15:00  Dakkada FC               v Igbajo FC                3-1
     15:00  Madiba FC                v Sporting Lagos FC        0-2
@@ -177,7 +172,7 @@
 
 
 
-» Matchday 8
+▪▪ Matchday 8
   01.02.
     15:00  Abia Comets FC           v Dakkada FC               2-2
     15:00  Gateway Utd.             v Kun Khalifa FC           1-3
@@ -203,7 +198,7 @@
 
 
 
-» Matchday 9
+▪▪ Matchday 9
   07.02.
     15:00  Godswill Akpabio FC      v Sporting Lagos FC        1-1
     15:00  Madiba FC                v First Bank FC            2-0
@@ -227,7 +222,7 @@
 
 
 
-» Matchday 10
+▪▪ Matchday 10
   14.02.
     15:00  First Bank FC            v ABS FC                   2-0
   15.02.
@@ -253,7 +248,7 @@
 
 
 
-» Matchday 11
+▪▪ Matchday 11
   01.03.
     15:00  Abia Comets FC           v Smart City FC            0-0
     15:00  ABS FC                   v Gateway Utd.             1-0
@@ -279,7 +274,7 @@
 
 
 
-» Matchday 12
+▪▪ Matchday 12
   02.05.
     15:00  Sporting Supreme FC      v Adamawa United FC        1-0
   03.05.
@@ -307,7 +302,7 @@
 
 
 
-» Matchday 13
+▪▪ Matchday 13
   10.05.
     15:00  Adamawa United FC        v Yobe Desert Stars FC     3-0
     15:00  Basira FC                v Sporting Supreme FC      2-3
@@ -333,7 +328,7 @@
 
 
 
-» Matchday 14
+▪▪ Matchday 14
   17.05.
     15:00  Kada Warriors FC         v Adamawa United FC        2-1
     15:00  Sporting Supreme FC      v Kebbi FC                 1-2
@@ -359,7 +354,7 @@
 
 
 
-» Matchday 15
+▪▪ Matchday 15
   25.04.
     15:00  Dakkada FC               v Abia Comets FC           1-1
     15:00  Madiba FC                v Solution FC              1-0
@@ -376,7 +371,7 @@
 
 
 
-» Matchday 16
+▪▪ Matchday 16
   02.05.
     15:00  First Bank FC            v Kun Khalifa FC           1-1
   03.05.
@@ -393,7 +388,7 @@
 
 
 
-» Matchday 17
+▪▪ Matchday 17
   10.05.
     15:00  Abakaliki FC             v Sporting Lagos FC        2-3
     15:00  ABS FC                   v Osun FC                  1-0
@@ -409,7 +404,7 @@
 
 
 
-» Matchday 18
+▪▪ Matchday 18
   17.05.
     15:00  Abia Comets FC           v Ijele FC                 4-1
     15:00  Edel FC                  v Beyond Limits FC         1-0
@@ -425,7 +420,7 @@
 
 
 
-» Matchday 19
+▪▪ Matchday 19
   21.05.
     16:00  Beyond Limits FC         v Smart City FC            2-2
   23.05.
@@ -443,7 +438,7 @@
 
 
 
-» Matchday 20
+▪▪ Matchday 20
   01.06.
     15:00  Godswill Akpabio FC      v Abakaliki FC             1-0
     15:00  Sporting Lagos FC        v First Bank FC            4-0
@@ -459,7 +454,7 @@
 
 
 
-» Matchday 21
+▪▪ Matchday 21
   07.06.
     15:00  Abakaliki FC             v ABS FC                   1-0
     15:00  Edel FC                  v Smart City FC            2-0
@@ -474,7 +469,7 @@
 
 
 
-» Matchday 22
+▪▪ Matchday 22
   14.06.
     15:00  ABS FC                   v Kun Khalifa FC           1-0
     15:00  Godswill Akpabio FC      v Gateway Utd.             3-0
@@ -488,13 +483,9 @@
     15:00  Inter Lagos FC           v Ijele FC                 4-0
 
 
-======================================================================
-  NNL - PROMOTION GROUP
-======================================================================
 
-
-
-» Matchday 1
+▪ NNL - PROMOTION GROUP
+▪▪ Matchday 1
   05.07.
     09:00  Barau FC                 v Yobe Desert Stars FC     0-0
     11:30  Wikki Tourists FC        v Doma United FC           0-0
@@ -503,7 +494,7 @@
 
 
 
-» Matchday 2
+▪▪ Matchday 2
   07.07.
     09:00  Yobe Desert Stars FC     v Doma United FC           2-1
     11:30  Barau FC                 v Wikki Tourists FC        0-0
@@ -512,7 +503,7 @@
 
 
 
-» Matchday 3
+▪▪ Matchday 3
   10.07.
     10:00  Doma United FC           v Barau FC                 0-2
     10:00  Wikki Tourists FC        v Yobe Desert Stars FC     4-0
@@ -520,11 +511,7 @@
     13:00  Warri Wolves FC          v Crown FC                 2-1
 
 
-======================================================================
-  NNL - PLAY OFFS
-======================================================================
-
-» Final
+▪ NNL - PLAY OFFS
+▪▪ Final
   12.07.
     15:00  Wikki Tourists FC        v Warri Wolves FC          2-3
-
