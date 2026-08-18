@@ -1,112 +1,112 @@
 = Ghana | Premier League 2023/24
 
-# Date       Fri Sep/15 2023 - Sun Jun/16 2024 (275d)
+# Date       Fri Sep 15 2023 - Sun Jun 16 2024 (275d)
 # Teams      18
 # Matches    306
 # Source     https://www.rsssf.org/tablesg/gha2024.html
 # Retrieved  2026-08-17
 
 
-» Matchday 1
-  Fri Sep/15 2023
+▪ Matchday 1
+  Fri Sep 15 2023
            Real Tamale United       v Accra Hearts of Oak SC   1-0
-  Sat Sep/16 2023
+  Sat Sep 16 2023
            Great Olympics FC        v Bofoakwa Tano FC         0-0
-  Sun Sep/17 2023
+  Sun Sep 17 2023
            Legon Cities FC          v Karela United FC         2-1
            Nsoatreman FC            v Bechem United FC         2-0
            FC Samartex 1996         v Aduana FC                1-0
            Berekum Chelsea FC       v Bibiani Gold Stars FC    2-0
            Asante Kotoko FC         v Heart of Lions FC        0-0
-  Wed Sep/20 2023
+  Wed Sep 20 2023
            Medeama SC               v Accra Lions FC           2-2
            Dreams FC                v Nations FC               1-0
 
-» Matchday 2
-  Fri Sep/22 2023
+▪ Matchday 2
+  Fri Sep 22 2023
            Bofoakwa Tano FC         v Real Tamale United       2-1
-  Sat Sep/23 2023
+  Sat Sep 23 2023
            Bibiani Gold Stars FC    v Asante Kotoko FC         2-1
-  Sun Sep/24 2023
+  Sun Sep 24 2023
            Accra Hearts of Oak SC   v Nsoatreman FC            1-0
            Bechem United FC         v Dreams FC                1-0
            Heart of Lions FC        v Great Olympics FC        0-0
            Aduana FC                v Medeama SC               2-0
            Karela United FC         v Berekum Chelsea FC       3-1
            Nations FC               v FC Samartex 1996         2-0
-  Mon Sep/25 2023
+  Mon Sep 25 2023
            Accra Lions FC           v Legon Cities FC          1-0
 
-» Matchday 3
-  Fri Sep/29 2023
+▪ Matchday 3
+  Fri Sep 29 2023
            Berekum Chelsea FC       v Accra Lions FC           1-1
-  Sat Sep/30 2023
+  Sat Sep 30 2023
            Bofoakwa Tano FC         v Accra Hearts of Oak SC   1-0
-  Sun Oct/1 2023
+  Sun Oct 1 2023
            Legon Cities FC          v Aduana FC                2-1
            Real Tamale United       v Heart of Lions FC        2-2
            Great Olympics FC        v Bibiani Gold Stars FC    1-0
            FC Samartex 1996         v Bechem United FC         4-1
            Asante Kotoko FC         v Karela United FC         1-1
-  Wed Oct/11 2023
+  Wed Oct 11 2023
            Dreams FC                v Nsoatreman FC            1-1
-  Wed Oct/25 2023
+  Wed Oct 25 2023
            Medeama SC               v Nations FC               1-0
 
-» Matchday 4
-  Fri Oct/6 2023
+▪ Matchday 4
+  Fri Oct 6 2023
            Aduana FC                v Berekum Chelsea FC       1-0
-  Sat Oct/7 2023
+  Sat Oct 7 2023
            Bechem United FC         v Medeama SC               1-2
-  Sun Oct/8 2023
+  Sun Oct 8 2023
            Heart of Lions FC        v Bofoakwa Tano FC         0-0
            Nsoatreman FC            v FC Samartex 1996         1-0
            Nations FC               v Legon Cities FC          1-1
            Karela United FC         v Great Olympics FC        0-0
            Bibiani Gold Stars FC    v Real Tamale United       3-0
            Accra Hearts of Oak SC   v Dreams FC                0-0
-  Mon Oct/9 2023
+  Mon Oct 9 2023
            Accra Lions FC           v Asante Kotoko FC         0-1
 
-» Matchday 5
-  Fri Oct/13 2023
+▪ Matchday 5
+  Fri Oct 13 2023
            Asante Kotoko FC         v Aduana FC                1-0
-  Sat Oct/14 2023
+  Sat Oct 14 2023
            Bofoakwa Tano FC         v Bibiani Gold Stars FC    0-0
-  Sun Oct/15 2023
+  Sun Oct 15 2023
            Legon Cities FC          v Bechem United FC         1-1
            Berekum Chelsea FC       v Nations FC               1-0
            FC Samartex 1996         v Dreams FC                2-0
            Real Tamale United       v Karela United FC         3-2
-  Mon Oct/16 2023
+  Mon Oct 16 2023
            Great Olympics FC        v Accra Lions FC           3-0
-  Wed Nov/8 2023
+  Wed Nov 8 2023
            Heart of Lions FC        v Accra Hearts of Oak SC   0-0
-  Thu Nov/9 2023
+  Thu Nov 9 2023
            Medeama SC               v Nsoatreman FC            1-0
 
-» Matchday 6
-  Fri Oct/20 2023
+▪ Matchday 6
+  Fri Oct 20 2023
            Accra Lions FC           v Real Tamale United       1-3
-  Sat Oct/21 2023
+  Sat Oct 21 2023
            Accra Hearts of Oak SC   v FC Samartex 1996         0-0
-  Sun Oct/22 2023
+  Sun Oct 22 2023
            Bechem United FC         v Berekum Chelsea FC       2-0
            Nsoatreman FC            v Legon Cities FC          2-0
            Aduana FC                v Great Olympics FC        3-1
            Dreams FC                v Medeama SC               2-1
            Karela United FC         v Bofoakwa Tano FC         0-0
            Nations FC               v Asante Kotoko FC         2-2
-  Mon Oct/23 2023
+  Mon Oct 23 2023
            Bibiani Gold Stars FC    v Heart of Lions FC        2-2
 
-» Matchday 7
-  Fri Oct/27 2023
+▪ Matchday 7
+  Fri Oct 27 2023
            Bofoakwa Tano FC         v Accra Lions FC           1-1
-  Sat Oct/28 2023
+  Sat Oct 28 2023
            Bibiani Gold Stars FC    v Accra Hearts of Oak SC   1-1
            Great Olympics FC        v Nations FC               1-0
-  Sun Oct/29 2023
+  Sun Oct 29 2023
            Heart of Lions FC        v Karela United FC         0-0
            Asante Kotoko FC         v Bechem United FC         1-1
            Berekum Chelsea FC       v Nsoatreman FC            0-1
@@ -114,8 +114,8 @@
            Medeama SC               v FC Samartex 1996         1-0
            Real Tamale United       v Aduana FC                1-3
 
-» Matchday 8
-  Wed Nov/1 2023
+▪ Matchday 8
+  Wed Nov 1 2023
            Accra Hearts of Oak SC   v Medeama SC               3-1
            Bechem United FC         v Great Olympics FC        2-1
            FC Samartex 1996         v Legon Cities FC          3-0
@@ -123,14 +123,14 @@
            Dreams FC                v Berekum Chelsea FC       0-2
            Karela United FC         v Bibiani Gold Stars FC    1-1
            Nations FC               v Real Tamale United       4-0
-  Thu Nov/2 2023
+  Thu Nov 2 2023
            Accra Lions FC           v Heart of Lions FC        2-1
            Nsoatreman FC            v Asante Kotoko FC         1-0
 
-» Matchday 9
-  Sat Nov/4 2023
+▪ Matchday 9
+  Sat Nov 4 2023
            Karela United FC         v Accra Hearts of Oak SC   1-1
-  Sun Nov/5 2023
+  Sun Nov 5 2023
            Asante Kotoko FC         v Dreams FC                0-1
            Heart of Lions FC        v Aduana FC                1-2
            Berekum Chelsea FC       v FC Samartex 1996         1-0
@@ -138,191 +138,191 @@
            Real Tamale United       v Bechem United FC         0-0
            Bofoakwa Tano FC         v Nations FC               1-0
            Bibiani Gold Stars FC    v Accra Lions FC           1-1
-  Mon Nov/6 2023
+  Mon Nov 6 2023
            Great Olympics FC        v Nsoatreman FC            2-1
 
-» Matchday 10
-  Fri Nov/10 2023
+▪ Matchday 10
+  Fri Nov 10 2023
            Accra Lions FC           v Karela United FC         2-1
-  Sat Nov/11 2023
+  Sat Nov 11 2023
            FC Samartex 1996         v Asante Kotoko FC         1-0
-  Sun Nov/12 2023
+  Sun Nov 12 2023
            Accra Hearts of Oak SC   v Legon Cities FC          0-0
            Bechem United FC         v Bofoakwa Tano FC         1-1
            Medeama SC               v Berekum Chelsea FC       0-1
            Dreams FC                v Great Olympics FC        2-0
            Nsoatreman FC            v Real Tamale United       2-0
            Nations FC               v Heart of Lions FC        1-0
-  Mon Nov/13 2023
+  Mon Nov 13 2023
            Aduana FC                v Bibiani Gold Stars FC    3-0
 
-» Matchday 11
-  Sat Nov/18 2023
+▪ Matchday 11
+  Sat Nov 18 2023
            Heart of Lions FC        v Bechem United FC         1-2
            Karela United FC         v Aduana FC                2-1
-  Sun Nov/19 2023
+  Sun Nov 19 2023
            Bibiani Gold Stars FC    v Nations FC               0-1
            Berekum Chelsea FC       v Legon Cities FC          1-0
            Real Tamale United       v Dreams FC                3-1
            Bofoakwa Tano FC         v Nsoatreman FC            0-0
            Asante Kotoko FC         v Medeama SC               1-0
-  Mon Nov/20 2023
+  Mon Nov 20 2023
            Great Olympics FC        v FC Samartex 1996         0-0
-  Tue Nov/21 2023
+  Tue Nov 21 2023
            Accra Lions FC           v Accra Hearts of Oak SC   1-2
 
-» Matchday 12
-  Sat Nov/25 2023
+▪ Matchday 12
+  Sat Nov 25 2023
            Legon Cities FC          v Asante Kotoko FC         1-3
            Nations FC               v Karela United FC         1-0
-  Sun Nov/26 2023
+  Sun Nov 26 2023
            Accra Hearts of Oak SC   v Berekum Chelsea FC       1-1
            Aduana FC                v Accra Lions FC           0-1
            FC Samartex 1996         v Real Tamale United       2-1
            Nsoatreman FC            v Heart of Lions FC        0-0
-  Mon Nov/27 2023
+  Mon Nov 27 2023
            Bechem United FC         v Bibiani Gold Stars FC    0-0
-  Wed Jan/10 2024
+  Wed Jan 10 2024
            Dreams FC                v Bofoakwa Tano FC         3-1
            Medeama SC               v Great Olympics FC        1-0
 
-» Matchday 13
-  Sun Dec/3 2023
+▪ Matchday 13
+  Sun Dec 3 2023
            Karela United FC         v Bechem United FC         0-4
            Aduana FC                v Accra Hearts of Oak SC   1-0
            Accra Lions FC           v Nations FC               0-1
            Bofoakwa Tano FC         v FC Samartex 1996         0-2
            Bibiani Gold Stars FC    v Nsoatreman FC            1-2
-  Mon Dec/4 2023
+  Mon Dec 4 2023
            Great Olympics FC        v Legon Cities FC          0-2
            Asante Kotoko FC         v Berekum Chelsea FC       1-0
-  Wed Jan/3 2024
+  Wed Jan 3 2024
            Real Tamale United       v Medeama SC               1-0
-  Thu Jan/4 2024
+  Thu Jan 4 2024
            Heart of Lions FC        v Dreams FC                1-0
 
-» Matchday 14
-  Sat Dec/9 2023
+▪ Matchday 14
+  Sat Dec 9 2023
            Nations FC               v Aduana FC                2-1
-  Sun Dec/10 2023
+  Sun Dec 10 2023
            Nsoatreman FC            v Karela United FC         0-1
            FC Samartex 1996         v Heart of Lions FC        2-0
            Berekum Chelsea FC       v Great Olympics FC        1-0
            Legon Cities FC          v Real Tamale United       3-1
            Bechem United FC         v Accra Lions FC           4-0
            Accra Hearts of Oak SC   v Asante Kotoko FC         2-3
-  Sat Jan/13 2024
+  Sat Jan 13 2024
            Dreams FC                v Bibiani Gold Stars FC    3-0
            Medeama SC               v Bofoakwa Tano FC         0-0
 
-» Matchday 15
-  Fri Dec/15 2023
+▪ Matchday 15
+  Fri Dec 15 2023
            Aduana FC                v Bechem United FC         1-0
-  Sat Dec/16 2023
+  Sat Dec 16 2023
            Nations FC               v Accra Hearts of Oak SC   1-1
-  Sun Dec/17 2023
+  Sun Dec 17 2023
            Bibiani Gold Stars FC    v FC Samartex 1996         3-0
            Great Olympics FC        v Asante Kotoko FC         0-0
            Real Tamale United       v Berekum Chelsea FC       0-1
            Bofoakwa Tano FC         v Legon Cities FC          0-1
-  Mon Dec/18 2023
+  Mon Dec 18 2023
            Accra Lions FC           v Nsoatreman FC            2-1
-  Wed Jan/17 2024
+  Wed Jan 17 2024
            Karela United FC         v Dreams FC                0-0
            Heart of Lions FC        v Medeama SC               2-2
 
-» Matchday 16
-  Fri Dec/22 2023
+▪ Matchday 16
+  Fri Dec 22 2023
            Great Olympics FC        v Accra Hearts of Oak SC   0-0
-  Sat Dec/23 2023
+  Sat Dec 23 2023
            Berekum Chelsea FC       v Bofoakwa Tano FC         0-0
-  Sun Dec/24 2023
+  Sun Dec 24 2023
            Nsoatreman FC            v Aduana FC                1-0
            Dreams FC                v Accra Lions FC           1-1
            Bechem United FC         v Nations FC               3-0
            FC Samartex 1996         v Karela United FC         3-0
            Asante Kotoko FC         v Real Tamale United       1-0
-  Mon Dec/25 2023
+  Mon Dec 25 2023
            Legon Cities FC          v Heart of Lions FC        1-0
-  Tue Dec/26 2023
+  Tue Dec 26 2023
            Medeama SC               v Bibiani Gold Stars FC    1-0
 
-» Matchday 17
-  Fri Dec/29 2023
+▪ Matchday 17
+  Fri Dec 29 2023
            Accra Lions FC           v FC Samartex 1996         1-3
-  Sat Dec/30 2023
+  Sat Dec 30 2023
            Bibiani Gold Stars FC    v Legon Cities FC          4-2
            Karela United FC         v Medeama SC               0-0
            Bofoakwa Tano FC         v Asante Kotoko FC         0-2
-  Sun Dec/31 2023
+  Sun Dec 31 2023
            Accra Hearts of Oak SC   v Bechem United FC         1-0
            Heart of Lions FC        v Berekum Chelsea FC       2-0
            Nations FC               v Nsoatreman FC            4-1
            Real Tamale United       v Great Olympics FC        0-1
            Aduana FC                v Dreams FC                4-1
 
-» Matchday 18
-  Sat Feb/24 2024
+▪ Matchday 18
+  Sat Feb 24 2024
            Heart of Lions FC        v Asante Kotoko FC         1-0
-  Sun Feb/25 2024
+  Sun Feb 25 2024
            Bibiani Gold Stars FC    v Berekum Chelsea FC       3-1
            Accra Hearts of Oak SC   v Real Tamale United       3-0
            Bofoakwa Tano FC         v Great Olympics FC        0-1
            Karela United FC         v Legon Cities FC          2-0
            Bechem United FC         v Nsoatreman FC            0-1
-  Mon Feb/26 2024
+  Mon Feb 26 2024
            Aduana FC                v FC Samartex 1996         1-2
-  Wed Mar/20 2024
+  Wed Mar 20 2024
            Nations FC               v Dreams FC                1-0
-  Tue Apr/2 2024
+  Tue Apr 2 2024
            Accra Lions FC           v Medeama SC               1-0
 
-» Matchday 19
-  Fri Mar/1 2024
+▪ Matchday 19
+  Fri Mar 1 2024
            Asante Kotoko FC         v Bibiani Gold Stars FC    1-0
-  Sat Mar/2 2024
+  Sat Mar 2 2024
            Great Olympics FC        v Heart of Lions FC        2-0
-  Sun Mar/3 2024
+  Sun Mar 3 2024
            Berekum Chelsea FC       v Karela United FC         3-0
            Nsoatreman FC            v Accra Hearts of Oak SC   1-2
            Legon Cities FC          v Accra Lions FC           0-0
-  Mon Mar/4 2024
+  Mon Mar 4 2024
            FC Samartex 1996         v Nations FC               0-1
            Real Tamale United       v Bofoakwa Tano FC         1-1
-  Wed Mar/20 2024
+  Wed Mar 20 2024
            Medeama SC               v Aduana FC                2-0
-  Wed May/15 2024
+  Wed May 15 2024
            Dreams FC                v Bechem United FC         2-1
 
-» Matchday 20
-  Sat Mar/9 2024
+▪ Matchday 20
+  Sat Mar 9 2024
            Karela United FC         v Asante Kotoko FC         1-0
            Accra Lions FC           v Berekum Chelsea FC       5-0
-  Sun Mar/10 2024
+  Sun Mar 10 2024
            Nations FC               v Medeama SC               1-1
            Heart of Lions FC        v Real Tamale United       2-0
            Aduana FC                v Legon Cities FC          1-0
            Bechem United FC         v FC Samartex 1996         1-0
            Nsoatreman FC            v Dreams FC                0-2
            Bibiani Gold Stars FC    v Great Olympics FC        3-0
-  Mon Mar/11 2024
+  Mon Mar 11 2024
            Accra Hearts of Oak SC   v Bofoakwa Tano FC         1-1
 
-» Matchday 21
-  Wed Mar/13 2024
+▪ Matchday 21
+  Wed Mar 13 2024
            Berekum Chelsea FC       v Aduana FC                1-0
            Great Olympics FC        v Karela United FC         0-0
            FC Samartex 1996         v Nsoatreman FC            2-0
            Asante Kotoko FC         v Accra Lions FC           2-3
-  Thu Mar/14 2024
+  Thu Mar 14 2024
            Bofoakwa Tano FC         v Heart of Lions FC        1-0
            Medeama SC               v Bechem United FC         1-0
            Real Tamale United       v Bibiani Gold Stars FC    2-2
            Legon Cities FC          v Nations FC               1-0
            Dreams FC                v Accra Hearts of Oak SC   2-2
 
-» Matchday 22
-  Sun Mar/17 2024
+▪ Matchday 22
+  Sun Mar 17 2024
            Aduana FC                v Asante Kotoko FC         2-1
            Bechem United FC         v Legon Cities FC          1-0
            Bibiani Gold Stars FC    v Bofoakwa Tano FC         2-1
@@ -330,42 +330,42 @@
            Karela United FC         v Real Tamale United       3-2
            Nations FC               v Berekum Chelsea FC       3-0
            Nsoatreman FC            v Medeama SC               1-0
-  Mon Mar/18 2024
+  Mon Mar 18 2024
            Accra Hearts of Oak SC   v Heart of Lions FC        2-1
-  Tue Mar/19 2024
+  Tue Mar 19 2024
            Accra Lions FC           v Great Olympics FC        1-0
 
-» Matchday 23
-  Sat Mar/23 2024
+▪ Matchday 23
+  Sat Mar 23 2024
            FC Samartex 1996         v Accra Hearts of Oak SC   2-1
-  Sun Mar/24 2024
+  Sun Mar 24 2024
            Legon Cities FC          v Nsoatreman FC            1-0
            Great Olympics FC        v Aduana FC                4-2
            Medeama SC               v Dreams FC                0-0
            Bofoakwa Tano FC         v Karela United FC         2-1
            Berekum Chelsea FC       v Bechem United FC         1-1
            Asante Kotoko FC         v Nations FC               0-1
-  Mon Mar/25 2024
+  Mon Mar 25 2024
            Heart of Lions FC        v Bibiani Gold Stars FC    2-2
            Real Tamale United       v Accra Lions FC           1-0
 
-» Matchday 24
-  Fri Apr/5 2024
+▪ Matchday 24
+  Fri Apr 5 2024
            Nations FC               v Great Olympics FC        1-0
-  Sat Apr/6 2024
+  Sat Apr 6 2024
            Accra Lions FC           v Bofoakwa Tano FC         1-0
            Bechem United FC         v Asante Kotoko FC         0-0
-  Sun Apr/7 2024
+  Sun Apr 7 2024
            Aduana FC                v Real Tamale United       3-1
            FC Samartex 1996         v Medeama SC               1-0
            Nsoatreman FC            v Berekum Chelsea FC       0-0
            Karela United FC         v Heart of Lions FC        1-0
            Accra Hearts of Oak SC   v Bibiani Gold Stars FC    0-1
-  Wed May/22 2024
+  Wed May 22 2024
            Dreams FC                v Legon Cities FC          2-0
 
-» Matchday 25
-  Wed Apr/10 2024
+▪ Matchday 25
+  Wed Apr 10 2024
            Real Tamale United       v Nations FC               1-0
            Medeama SC               v Accra Hearts of Oak SC   2-0
            Bofoakwa Tano FC         v Aduana FC                1-0
@@ -374,13 +374,13 @@
            Legon Cities FC          v FC Samartex 1996         1-1
            Bibiani Gold Stars FC    v Karela United FC         3-2
            Berekum Chelsea FC       v Dreams FC                3-2
-  Thu Apr/11 2024
+  Thu Apr 11 2024
            Asante Kotoko FC         v Nsoatreman FC            1-2
 
-» Matchday 26
-  Sat Apr/13 2024
+▪ Matchday 26
+  Sat Apr 13 2024
            Accra Hearts of Oak SC   v Karela United FC         3-1
-  Sun Apr/14 2024
+  Sun Apr 14 2024
            Medeama SC               v Legon Cities FC          1-0
            Nsoatreman FC            v Great Olympics FC        1-1
            Aduana FC                v Heart of Lions FC        1-0
@@ -388,62 +388,62 @@
            Nations FC               v Bofoakwa Tano FC         2-2
            Dreams FC                v Asante Kotoko FC         2-0
            Bechem United FC         v Real Tamale United       3-2
-  Mon Apr/15 2024
+  Mon Apr 15 2024
            Accra Lions FC           v Bibiani Gold Stars FC    2-0
 
-» Matchday 27
-  Sat Apr/20 2024
+▪ Matchday 27
+  Sat Apr 20 2024
            Karela United FC         v Accra Lions FC           1-1
            Legon Cities FC          v Accra Hearts of Oak SC   2-0
-  Sun Apr/21 2024
+  Sun Apr 21 2024
            Heart of Lions FC        v Nations FC               3-0
            Real Tamale United       v Nsoatreman FC            1-2
            Asante Kotoko FC         v FC Samartex 1996         1-0
            Bibiani Gold Stars FC    v Aduana FC                1-0
            Bofoakwa Tano FC         v Bechem United FC         1-1
-  Mon Apr/22 2024
+  Mon Apr 22 2024
            Berekum Chelsea FC       v Medeama SC               2-0
-  Wed Jun/5 2024
+  Wed Jun 5 2024
            Great Olympics FC        v Dreams FC                0-0
 
-» Matchday 28
-  Fri Apr/26 2024
+▪ Matchday 28
+  Fri Apr 26 2024
            Legon Cities FC          v Berekum Chelsea FC       3-2
-  Sat Apr/27 2024
+  Sat Apr 27 2024
            Medeama SC               v Asante Kotoko FC         1-1
            FC Samartex 1996         v Great Olympics FC        1-0
            Bechem United FC         v Heart of Lions FC        1-1
            Nations FC               v Bibiani Gold Stars FC    0-0
            Aduana FC                v Karela United FC         1-2
-  Mon Apr/29 2024
+  Mon Apr 29 2024
            Nsoatreman FC            v Bofoakwa Tano FC         0-0
-  Wed May/1 2024
+  Wed May 1 2024
            Accra Hearts of Oak SC   v Accra Lions FC           0-1
-  Wed Jun/12 2024
+  Wed Jun 12 2024
            Dreams FC                v Real Tamale United       8-1
 
-» Matchday 29
-  Sat May/4 2024
+▪ Matchday 29
+  Sat May 4 2024
            Karela United FC         v Nations FC               1-0
-  Sun May/5 2024
+  Sun May 5 2024
            Great Olympics FC        v Medeama SC               0-1
            Heart of Lions FC        v Nsoatreman FC            1-0
            Asante Kotoko FC         v Legon Cities FC          2-0
            Real Tamale United       v FC Samartex 1996         1-0
            Bibiani Gold Stars FC    v Bechem United FC         1-1
            Bofoakwa Tano FC         v Dreams FC                1-1
-  Mon May/6 2024
+  Mon May 6 2024
            Accra Lions FC           v Aduana FC                0-0
-  Wed May/8 2024
+  Wed May 8 2024
            Berekum Chelsea FC       v Accra Hearts of Oak SC   0-3
 
-» Matchday 30
-  Fri May/17 2024
+▪ Matchday 30
+  Fri May 17 2024
            Nations FC               v Accra Lions FC           1-0
-  Sat May/18 2024
+  Sat May 18 2024
            Berekum Chelsea FC       v Asante Kotoko FC         2-1
            Legon Cities FC          v Great Olympics FC        2-1
-  Sun May/19 2024
+  Sun May 19 2024
            Dreams FC                v Heart of Lions FC        1-2
            Medeama SC               v Real Tamale United       1-0
            FC Samartex 1996         v Bofoakwa Tano FC         3-0
@@ -451,12 +451,12 @@
            Accra Hearts of Oak SC   v Aduana FC                0-1
            Bechem United FC         v Karela United FC         3-1
 
-» Matchday 31
-  Sat May/25 2024
+▪ Matchday 31
+  Sat May 25 2024
            Karela United FC         v Nsoatreman FC            2-1
            Aduana FC                v Nations FC               1-0
            Accra Lions FC           v Bechem United FC         3-0
-  Sun May/26 2024
+  Sun May 26 2024
            Heart of Lions FC        v FC Samartex 1996         2-0
            Bibiani Gold Stars FC    v Dreams FC                2-1
            Great Olympics FC        v Berekum Chelsea FC       3-2
@@ -464,13 +464,13 @@
            Asante Kotoko FC         v Accra Hearts of Oak SC   2-0
            Real Tamale United       v Legon Cities FC          1-0
 
-» Matchday 32
-  Fri May/31 2024
+▪ Matchday 32
+  Fri May 31 2024
            Accra Hearts of Oak SC   v Nations FC               2-0
-  Sat Jun/1 2024
+  Sat Jun 1 2024
            Bechem United FC         v Aduana FC                1-0
            Legon Cities FC          v Bofoakwa Tano FC         1-0
-  Sun Jun/2 2024
+  Sun Jun 2 2024
            Asante Kotoko FC         v Great Olympics FC        0-1
            Nsoatreman FC            v Accra Lions FC           1-1
            Berekum Chelsea FC       v Real Tamale United       2-0
@@ -478,11 +478,11 @@
            Dreams FC                v Karela United FC         1-0
            FC Samartex 1996         v Bibiani Gold Stars FC    1-0
 
-» Matchday 33
-  Sat Jun/8 2024
+▪ Matchday 33
+  Sat Jun 8 2024
            Real Tamale United       v Asante Kotoko FC         0-2
            Accra Lions FC           v Dreams FC                1-0
-  Sun Jun/9 2024
+  Sun Jun 9 2024
            Nations FC               v Bechem United FC         1-1
            Bofoakwa Tano FC         v Berekum Chelsea FC       0-1
            Bibiani Gold Stars FC    v Medeama SC               2-0
@@ -491,14 +491,14 @@
            Aduana FC                v Nsoatreman FC            2-2
            Accra Hearts of Oak SC   v Great Olympics FC        0-0
 
-» Matchday 34
-  Sun Jun/16 2024
+▪ Matchday 34
+  Sun Jun 16 2024
            FC Samartex 1996         v Accra Lions FC           2-0
            Legon Cities FC          v Bibiani Gold Stars FC    1-1
            Medeama SC               v Karela United FC         0-1
            Bechem United FC         v Accra Hearts of Oak SC   2-3
            Berekum Chelsea FC       v Heart of Lions FC        2-2
            Nsoatreman FC            v Nations FC               1-0
-           Great Olympics FC        v Real Tamale United       3-0 (awarded)
+           Great Olympics FC        v Real Tamale United       3-0 [awarded]
            Dreams FC                v Aduana FC                2-1
            Asante Kotoko FC         v Bofoakwa Tano FC         3-1
