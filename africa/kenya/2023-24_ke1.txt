@@ -1,0 +1,464 @@
+= Kenya | Premier League 2023/24
+
+# Date       Sat Aug 26 2023 - Sun Jun 23 2024 (302d)
+# Teams      18
+# Matches    306
+# Source     https://www.rsssf.org/tablesk/kenya2024.html
+# Retrieved  2026-08-17
+
+
+▪ Matchday 1
+  Sat Aug 26 2023
+           Bandari FC              v Tusker FC               0-1
+           Nzoia Sugar FC          v Ulinzi Stars FC         2-1
+           Gor Mahia FC            v Sofapaka FC             1-1
+           Kariobangi Sharks FC    v Kenya Police FC         0-0
+  Sun Aug 27 2023
+           Posta Rangers FC        v Bidco United FC         0-0
+           AFC Leopards            v FC Talanta              0-0
+           Nairobi City Stars FC   v Muhoroni Youth FC       0-0
+           Shabana FC              v Murang'a Seal FC        0-1
+  Wed Sep 27 2023
+           Kakamega Homeboyz FC    v KCB FC                  0-2
+
+▪ Matchday 2
+  Fri Sep 1 2023
+           Kenya Police FC         v Posta Rangers FC        0-3
+           Sofapaka FC             v Bandari FC              0-1
+           KCB FC                  v AFC Leopards            1-0
+           Muhoroni Youth FC       v Nzoia Sugar FC          1-1
+           FC Talanta              v Shabana FC              1-1
+  Sat Sep 2 2023
+           Tusker FC               v Kariobangi Sharks FC    1-1
+           Murang'a Seal FC        v Kakamega Homeboyz FC    1-0
+           Ulinzi Stars FC         v Gor Mahia FC            0-1
+  Sun Sep 3 2023
+           Bidco United FC         v Nairobi City Stars FC   1-1
+
+▪ Matchday 3
+  Sat Sep 16 2023
+           Nzoia Sugar FC          v Bidco United FC         1-1
+           AFC Leopards            v Muhoroni Youth FC       0-0
+           Bandari FC              v Ulinzi Stars FC         1-0
+           Shabana FC              v Kenya Police FC         1-1
+           Kakamega Homeboyz FC    v Tusker FC               2-1
+  Sun Sep 17 2023
+           FC Talanta              v Murang'a Seal FC        1-0
+           Posta Rangers FC        v Sofapaka FC             3-1
+           Gor Mahia FC            v Nairobi City Stars FC   4-1
+           Kariobangi Sharks FC    v KCB FC                  2-1
+
+▪ Matchday 4
+  Sat Sep 23 2023
+           Bidco United FC         v FC Talanta              3-1
+           Shabana FC              v Kariobangi Sharks FC    0-1
+           Tusker FC               v Muhoroni Youth FC       1-0
+           Kenya Police FC         v AFC Leopards            2-2
+  Sun Sep 24 2023
+           Nairobi City Stars FC   v Nzoia Sugar FC          2-1
+           KCB FC                  v Bandari FC              0-0
+           Ulinzi Stars FC         v Sofapaka FC             1-0
+           Murang'a Seal FC        v Posta Rangers FC        0-1
+           Kakamega Homeboyz FC    v Gor Mahia FC            1-1
+
+▪ Matchday 5
+  Fri Sep 29 2023
+           Muhoroni Youth FC       v Ulinzi Stars FC         1-0
+  Sat Sep 30 2023
+           Sofapaka FC             v Nairobi City Stars FC   1-2
+           Nzoia Sugar FC          v Murang'a Seal FC        0-1
+           Kenya Police FC         v Bidco United FC         2-0
+           Kariobangi Sharks FC    v Posta Rangers FC        0-1
+  Sun Oct 1 2023
+           Bandari FC              v Kakamega Homeboyz FC    0-1
+           AFC Leopards            v Shabana FC              1-1
+           Gor Mahia FC            v KCB FC                  1-1
+           FC Talanta              v Tusker FC               0-0
+
+▪ Matchday 6
+  Fri Oct 6 2023
+           Posta Rangers FC        v Nzoia Sugar FC          2-0
+           Tusker FC               v Shabana FC              0-1
+           Kakamega Homeboyz FC    v FC Talanta              3-3
+  Sat Oct 7 2023
+           Murang'a Seal FC        v Sofapaka FC             2-0
+           Ulinzi Stars FC         v Kariobangi Sharks FC    1-0
+           Nairobi City Stars FC   v Kenya Police FC         0-1
+           AFC Leopards            v Gor Mahia FC            0-2
+  Mon Oct 9 2023
+           Muhoroni Youth FC       v KCB FC                  0-2 [awarded]
+           Bidco United FC         v Bandari FC              2-0
+
+▪ Matchday 7
+  Sat Oct 21 2023
+           Sofapaka FC             v Kenya Police FC         1-0
+           FC Talanta              v Posta Rangers FC        3-1
+           KCB FC                  v Ulinzi Stars FC         1-1
+  Sun Oct 22 2023
+           Kariobangi Sharks FC    v Muhoroni Youth FC       1-1
+           Bidco United FC         v Murang'a Seal FC        0-0
+           Bandari FC              v AFC Leopards            1-0
+           Shabana FC              v Nairobi City Stars FC   2-2
+           Nzoia Sugar FC          v Kakamega Homeboyz FC    0-1
+           Tusker FC               v Gor Mahia FC            0-1
+
+▪ Matchday 8
+  Sat Oct 28 2023
+           Kenya Police FC         v FC Talanta              1-1
+           Gor Mahia FC            v Bidco United FC         0-0
+           Sofapaka FC             v Tusker FC               0-1
+           Posta Rangers FC        v Bandari FC              2-0
+           Muhoroni Youth FC       v Murang'a Seal FC        1-1
+  Sun Oct 29 2023
+           Nairobi City Stars FC   v KCB FC                  1-4
+           Ulinzi Stars FC         v Shabana FC              4-0
+           Kariobangi Sharks FC    v Kakamega Homeboyz FC    1-0
+           Nzoia Sugar FC          v AFC Leopards            0-1
+
+▪ Matchday 9
+  Wed Nov 1 2023
+           Bidco United FC         v Muhoroni Youth FC       3-0
+           FC Talanta              v Nzoia Sugar FC          0-0
+           AFC Leopards            v Kariobangi Sharks FC    0-0
+           Bandari FC              v Kenya Police FC         3-2
+           Murang'a Seal FC        v Nairobi City Stars FC   2-1
+           Tusker FC               v Ulinzi Stars FC         0-1
+           KCB FC                  v Sofapaka FC             0-3
+           Shabana FC              v Gor Mahia FC            0-1
+  Thu Nov 2 2023
+           Kakamega Homeboyz FC    v Posta Rangers FC        1-1
+
+▪ Matchday 10
+  Sat Nov 4 2023
+           Nzoia Sugar FC          v Kariobangi Sharks FC    1-0
+           Sofapaka FC             v FC Talanta              0-3
+           Nairobi City Stars FC   v AFC Leopards            3-2
+  Sun Nov 5 2023
+           Murang'a Seal FC        v Tusker FC               2-1
+           Posta Rangers FC        v KCB FC                  0-0
+           Ulinzi Stars FC         v Bidco United FC         0-1
+           Bandari FC              v Shabana FC              2-1
+           Muhoroni Youth FC       v Kakamega Homeboyz FC    0-2
+           Gor Mahia FC            v Kenya Police FC         0-0
+
+▪ Matchday 11
+  Fri Nov 10 2023
+           Kakamega Homeboyz FC    v Sofapaka FC             5-0
+           FC Talanta              v Muhoroni Youth FC       2-0
+           Kenya Police FC         v Ulinzi Stars FC         2-0
+  Sat Nov 11 2023
+           AFC Leopards            v Posta Rangers FC        1-1
+           KCB FC                  v Bidco United FC         3-0
+           Tusker FC               v Nairobi City Stars FC   3-1
+           Shabana FC              v Nzoia Sugar FC          2-1
+           Kariobangi Sharks FC    v Bandari FC              0-2
+           Gor Mahia FC            v Murang'a Seal FC        0-0
+
+▪ Matchday 12
+  Sat Nov 25 2023
+           Posta Rangers FC        v Shabana FC              3-1
+           Bandari FC              v FC Talanta              1-1
+           Nairobi City Stars FC   v Kariobangi Sharks FC    3-1
+           Sofapaka FC             v AFC Leopards            1-1
+  Sun Nov 26 2023
+           Muhoroni Youth FC       v Gor Mahia FC            0-2
+           Murang'a Seal FC        v KCB FC                  1-2
+           Nzoia Sugar FC          v Kenya Police FC         1-3
+           Ulinzi Stars FC         v Kakamega Homeboyz FC    0-1
+  Wed Dec 13 2023
+           Bidco United FC         v Tusker FC               2-3
+
+▪ Matchday 13
+  Sat Dec 2 2023
+           Shabana FC              v KCB FC                  1-1
+           FC Talanta              v Ulinzi Stars FC         0-3
+           Posta Rangers FC        v Nairobi City Stars FC   0-1
+  Sun Dec 3 2023
+           Kenya Police FC         v Murang'a Seal FC        2-0
+           Kakamega Homeboyz FC    v Bidco United FC         1-0
+           Bandari FC              v Muhoroni Youth FC       1-0
+           Nzoia Sugar FC          v Sofapaka FC             1-3
+           Kariobangi Sharks FC    v Gor Mahia FC            1-2
+  Mon Dec 4 2023
+           AFC Leopards            v Tusker FC               0-0
+
+▪ Matchday 14
+  Sat Dec 9 2023
+           KCB FC                  v FC Talanta              0-0
+           Gor Mahia FC            v Nzoia Sugar FC          2-2
+           Murang'a Seal FC        v Ulinzi Stars FC         1-1
+           Nairobi City Stars FC   v Bandari FC              1-0
+  Sun Dec 10 2023
+           Kakamega Homeboyz FC    v Shabana FC              2-0
+           Bidco United FC         v AFC Leopards            2-1
+           Tusker FC               v Posta Rangers FC        0-0
+           Sofapaka FC             v Kariobangi Sharks FC    2-1
+  Mon Dec 11 2023
+           Muhoroni Youth FC       v Kenya Police FC         1-1
+
+▪ Matchday 15
+  Sat Dec 16 2023
+           Bandari FC              v Murang'a Seal FC        2-0
+           Shabana FC              v Sofapaka FC             4-1
+           Kenya Police FC         v KCB FC                  1-2
+  Sun Dec 17 2023
+           Kariobangi Sharks FC    v Bidco United FC         0-0
+           FC Talanta              v Gor Mahia FC            0-2
+           Posta Rangers FC        v Muhoroni Youth FC       0-1
+           Ulinzi Stars FC         v Nairobi City Stars FC   1-2
+           Nzoia Sugar FC          v Tusker FC               0-2
+           AFC Leopards            v Kakamega Homeboyz FC    2-0
+
+▪ Matchday 16
+  Wed Dec 20 2023
+           Murang'a Seal FC        v AFC Leopards            1-1
+           Muhoroni Youth FC       v Sofapaka FC             1-0
+           Tusker FC               v Kenya Police FC         1-0
+  Thu Dec 21 2023
+           KCB FC                  v Nzoia Sugar FC          0-1
+           Bidco United FC         v Shabana FC              1-0
+           Ulinzi Stars FC         v Posta Rangers FC        0-2
+           FC Talanta              v Kariobangi Sharks FC    0-3
+  Fri Dec 22 2023
+           Kakamega Homeboyz FC    v Nairobi City Stars FC   0-1
+           Gor Mahia FC            v Bandari FC              1-0
+
+▪ Matchday 17
+  Sat Jan 6 2024
+           Bandari FC              v Nzoia Sugar FC          1-0
+           Nairobi City Stars FC   v FC Talanta              3-0
+           Shabana FC              v Muhoroni Youth FC       0-1
+           Kenya Police FC         v Kakamega Homeboyz FC    3-0
+           Posta Rangers FC        v Gor Mahia FC            0-1
+  Sun Jan 7 2024
+           Kariobangi Sharks FC    v Murang'a Seal FC        1-1
+           Sofapaka FC             v Bidco United FC         3-0
+           AFC Leopards            v Ulinzi Stars FC         1-0
+           KCB FC                  v Tusker FC               0-5
+
+▪ Matchday 18
+  Sat Jan 13 2024
+           Gor Mahia FC            v Kariobangi Sharks FC    1-0
+           Kakamega Homeboyz FC    v Bandari FC              0-0
+  Sun Jan 14 2024
+           Bidco United FC         v Kenya Police FC         0-1
+           Muhoroni Youth FC       v AFC Leopards            0-1
+           Murang'a Seal FC        v FC Talanta              0-1
+           Nairobi City Stars FC   v Posta Rangers FC        1-0
+           Nzoia Sugar FC          v Shabana FC              2-5
+           Tusker FC               v Sofapaka FC             3-1
+           Ulinzi Stars FC         v KCB FC                  0-0
+
+▪ Matchday 19
+  Fri Jan 19 2024
+           Sofapaka FC             v Kakamega Homeboyz FC    1-0
+  Sat Jan 20 2024
+           Bandari FC              v Kariobangi Sharks FC    2-2
+           Shabana FC              v Ulinzi Stars FC         0-1
+           KCB FC                  v Muhoroni Youth FC       0-0
+           Gor Mahia FC            v Tusker FC               1-0
+  Sun Jan 21 2024
+           FC Talanta              v Bidco United FC         3-5
+           Kenya Police FC         v Nzoia Sugar FC          2-0
+           AFC Leopards            v Nairobi City Stars FC   2-0
+           Posta Rangers FC        v Murang'a Seal FC        1-0
+
+▪ Matchday 20
+  Sat Feb 3 2024
+           Tusker FC               v Bidco United FC         0-1
+           Kakamega Homeboyz FC    v Muhoroni Youth FC       0-0
+           Nzoia Sugar FC          v Posta Rangers FC        0-1
+           Kenya Police FC         v Gor Mahia FC            3-1
+           Sofapaka FC             v KCB FC                  2-1
+  Sun Feb 4 2024
+           Nairobi City Stars FC   v Shabana FC              0-0
+           Murang'a Seal FC        v Bandari FC              2-3
+           Ulinzi Stars FC         v FC Talanta              1-0
+           Kariobangi Sharks FC    v AFC Leopards            0-2
+
+▪ Matchday 21
+  Sat Feb 10 2024
+           Posta Rangers FC        v Kenya Police FC         0-0
+           Bandari FC              v Nairobi City Stars FC   0-1
+           Gor Mahia FC            v Ulinzi Stars FC         0-0
+  Sun Feb 11 2024
+           FC Talanta              v Sofapaka FC             1-1
+           Muhoroni Youth FC       v Kariobangi Sharks FC    1-2
+           Shabana FC              v Tusker FC               0-4
+           Bidco United FC         v Nzoia Sugar FC          1-2
+           AFC Leopards            v Murang'a Seal FC        1-0
+           KCB FC                  v Kakamega Homeboyz FC    1-2
+
+▪ Matchday 22
+  Sat Feb 17 2024
+           Posta Rangers FC        v Ulinzi Stars FC         1-0
+           Murang'a Seal FC        v Bidco United FC         1-0
+           Nzoia Sugar FC          v Bandari FC              1-2
+           Kenya Police FC         v Shabana FC              1-0
+           Nairobi City Stars FC   v Gor Mahia FC            0-1
+  Sun Feb 18 2024
+           Sofapaka FC             v Muhoroni Youth FC       2-2
+           Kariobangi Sharks FC    v FC Talanta              1-1
+           Kakamega Homeboyz FC    v AFC Leopards            0-0
+           Tusker FC               v KCB FC                  2-0
+
+▪ Matchday 23
+  Sat Mar 2 2024
+           FC Talanta              v Kakamega Homeboyz FC    1-1
+           Muhoroni Youth FC       v Tusker FC               1-2
+           Kariobangi Sharks FC    v Nairobi City Stars FC   0-0
+           Gor Mahia FC            v Posta Rangers FC        4-0
+           Bidco United FC         v Sofapaka FC             1-1
+  Sun Mar 3 2024
+           KCB FC                  v Murang'a Seal FC        0-0
+           Shabana FC              v Bandari FC              0-2
+           AFC Leopards            v Nzoia Sugar FC          2-0
+  Mon Mar 4 2024
+           Ulinzi Stars FC         v Kenya Police FC         0-0
+
+▪ Matchday 24
+  Fri Mar 8 2024
+           KCB FC                  v Shabana FC              3-2
+  Sat Mar 9 2024
+           Nairobi City Stars FC   v Bidco United FC         1-1
+           Bandari FC              v Gor Mahia FC            1-0
+           Sofapaka FC             v Murang'a Seal FC        1-2
+  Sun Mar 10 2024
+           Posta Rangers FC        v Kariobangi Sharks FC    1-5
+           Kakamega Homeboyz FC    v Ulinzi Stars FC         2-0
+           Nzoia Sugar FC          v FC Talanta              1-1
+           Tusker FC               v AFC Leopards            1-0
+           Kenya Police FC         v Muhoroni Youth FC       1-1
+
+▪ Matchday 25
+  Sat Apr 6 2024
+           Kariobangi Sharks FC    v Tusker FC               3-2
+           Ulinzi Stars FC         v Bandari FC              1-0
+           Shabana FC              v Posta Rangers FC        3-0
+           Muhoroni Youth FC       v Nairobi City Stars FC   2-0
+           Gor Mahia FC            v Kakamega Homeboyz FC    0-0
+  Sun Apr 7 2024
+           Bidco United FC         v KCB FC                  0-0
+           AFC Leopards            v Sofapaka FC             1-1
+           Murang'a Seal FC        v Nzoia Sugar FC          4-0
+           FC Talanta              v Kenya Police FC         1-2
+
+▪ Matchday 26
+  Sat Apr 13 2024
+           Nairobi City Stars FC   v Murang'a Seal FC        3-0
+           Kakamega Homeboyz FC    v Kariobangi Sharks FC    1-1
+           Nzoia Sugar FC          v Gor Mahia FC            1-3
+           Bandari FC              v Bidco United FC         1-1
+           Sofapaka FC             v Ulinzi Stars FC         1-1
+           KCB FC                  v Kenya Police FC         0-1
+  Sun Apr 14 2024
+           Tusker FC               v FC Talanta              1-3
+           Posta Rangers FC        v AFC Leopards            0-1
+  Mon Apr 15 2024
+           Muhoroni Youth FC       v Shabana FC              1-2
+
+▪ Matchday 27
+  Sat Apr 20 2024
+           Kariobangi Sharks FC    v Nzoia Sugar FC          3-0
+           Bidco United FC         v Posta Rangers FC        1-0
+           Shabana FC              v Kakamega Homeboyz FC    0-0
+           Bandari FC              v KCB FC                  0-0
+           FC Talanta              v Nairobi City Stars FC   0-3
+           Kenya Police FC         v Sofapaka FC             2-1
+  Sun Apr 21 2024
+           Ulinzi Stars FC         v Tusker FC               0-1
+           Murang'a Seal FC        v Muhoroni Youth FC       0-0
+           Gor Mahia FC            v AFC Leopards            1-0
+
+▪ Matchday 28
+  Sat May 4 2024
+           Muhoroni Youth FC       v Bidco United FC         1-3
+           KCB FC                  v Kariobangi Sharks FC    0-3
+           Sofapaka FC             v Shabana FC              0-1
+           Murang'a Seal FC        v Gor Mahia FC            1-3
+  Sun May 5 2024
+           Kakamega Homeboyz FC    v Kenya Police FC         1-2
+           AFC Leopards            v Bandari FC              1-0
+  Mon May 6 2024
+           Tusker FC               v Nzoia Sugar FC          1-0
+  Tue May 7 2024
+           Nairobi City Stars FC   v Ulinzi Stars FC         1-1
+           Posta Rangers FC        v FC Talanta              1-0
+
+▪ Matchday 29
+  Sat May 11 2024
+           Bidco United FC         v Kakamega Homeboyz FC    2-2
+           Kariobangi Sharks FC    v Sofapaka FC             5-2
+           Ulinzi Stars FC         v Muhoroni Youth FC       0-0
+           Gor Mahia FC            v Shabana FC              1-0
+           Bandari FC              v Posta Rangers FC        0-0
+           Nzoia Sugar FC          v KCB FC                  1-1
+  Sun May 12 2024
+           Tusker FC               v Murang'a Seal FC        2-1
+           Kenya Police FC         v Nairobi City Stars FC   2-1
+           FC Talanta              v AFC Leopards            0-3
+
+▪ Matchday 30
+  Wed May 15 2024
+           Bidco United FC         v Ulinzi Stars FC         0-1
+           Kakamega Homeboyz FC    v Nzoia Sugar FC          1-0
+           Shabana FC              v FC Talanta              1-1
+           Muhoroni Youth FC       v Bandari FC              0-0
+           AFC Leopards            v Kenya Police FC         1-0
+           Murang'a Seal FC        v Kariobangi Sharks FC    0-0
+           Nairobi City Stars FC   v Tusker FC               2-2
+           Sofapaka FC             v Posta Rangers FC        2-1
+  Thu May 16 2024
+           KCB FC                  v Gor Mahia FC            0-0
+
+▪ Matchday 31
+  Sat May 18 2024
+           Posta Rangers FC        v Kakamega Homeboyz FC    2-1
+           Kariobangi Sharks FC    v Shabana FC              2-1
+           Kenya Police FC         v Tusker FC               0-1
+  Sun May 19 2024
+           Nzoia Sugar FC          v Nairobi City Stars FC   0-0
+           Bandari FC              v Sofapaka FC             2-2
+           Gor Mahia FC            v Muhoroni Youth FC       3-0
+           AFC Leopards            v Bidco United FC         0-1
+  Mon May 20 2024
+           FC Talanta              v KCB FC                  0-2
+           Ulinzi Stars FC         v Murang'a Seal FC        1-1
+
+▪ Matchday 32
+  Fri Jun 14 2024
+           Ulinzi Stars FC         v Nzoia Sugar FC          1-3
+  Sat Jun 15 2024
+           Nairobi City Stars FC   v Kakamega Homeboyz FC    1-1
+           Bidco United FC         v Kariobangi Sharks FC    0-1
+           Shabana FC              v AFC Leopards            4-3
+           Muhoroni Youth FC       v FC Talanta              0-1
+           Tusker FC               v Bandari FC              2-1
+           KCB FC                  v Posta Rangers FC        0-0
+  Sun Jun 16 2024
+           Murang'a Seal FC        v Kenya Police FC         2-2
+           Sofapaka FC             v Gor Mahia FC            0-1
+
+▪ Matchday 33
+  Wed Jun 19 2024
+           Kariobangi Sharks FC    v Ulinzi Stars FC         1-2
+           Nairobi City Stars FC   v Sofapaka FC             1-1
+           Nzoia Sugar FC          v Muhoroni Youth FC       0-6
+           Gor Mahia FC            v FC Talanta              2-4
+           Posta Rangers FC        v Tusker FC               1-2
+           Shabana FC              v Bidco United FC         3-0
+           Kakamega Homeboyz FC    v Murang'a Seal FC        1-0
+           AFC Leopards            v KCB FC                  0-0
+           Kenya Police FC         v Bandari FC              0-0
+
+▪ Matchday 34
+  Sun Jun 23 2024
+           Bidco United FC         v Gor Mahia FC            3-4
+           KCB FC                  v Nairobi City Stars FC   3-2
+           Kenya Police FC         v Kariobangi Sharks FC    2-2
+           Muhoroni Youth FC       v Posta Rangers FC        1-1
+           Murang'a Seal FC        v Shabana FC              0-1
+           Sofapaka FC             v Nzoia Sugar FC          3-1
+           FC Talanta              v Bandari FC              1-2
+           Tusker FC               v Kakamega Homeboyz FC    1-0
+           Ulinzi Stars FC         v AFC Leopards            0-1
