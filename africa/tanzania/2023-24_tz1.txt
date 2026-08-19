@@ -1,0 +1,444 @@
+= Tanzania | Premier League 2023/24
+
+# Date       Tue Aug 15 2023 - Tue May 28 2024 (287d)
+# Teams      16
+# Matches    240
+# Source     https://www.rsssf.org/tablest/tanz2024.html
+# Retrieved  2026-08-19
+
+
+▪ Matchday 1
+  Tue Aug 15 2023
+           Ihefu FC               v Geita Gold FC          0-1
+           Namungo FC             v JKT Tanzania FC        0-1
+           Dodoma Jiji FC         v Coastal Union FC       2-1
+  Wed Aug 16 2023
+           Mashujaa FC            v Kagera Sugar FC        2-0
+           Azam FC                v Tabora United FC       4-0
+  Thu Aug 17 2023
+           Mtibwa Sugar FC        v Simba SC               2-4
+  Tue Aug 22 2023
+           Singida Big Stars FC   v Tanzania Prisons FC    0-0
+  Wed Aug 23 2023
+           Young Africans SC      v KMC FC                 5-0
+
+▪ Matchday 2
+  Sat Aug 19 2023
+           Ihefu FC               v Kagera Sugar FC        1-0
+           Namungo FC             v KMC FC                 1-1
+  Sun Aug 20 2023
+           Mtibwa Sugar FC        v Coastal Union FC       1-1
+           Simba SC               v Dodoma Jiji FC         2-0
+  Mon Aug 21 2023
+           Mashujaa FC            v Geita Gold FC          0-0
+  Mon Aug 28 2023
+           Azam FC                v Tanzania Prisons FC    3-1
+  Tue Aug 29 2023
+           Young Africans SC      v JKT Tanzania FC        5-0
+  Thu Aug 31 2023
+           Singida Big Stars FC   v Tabora United FC       0-0
+
+▪ Matchday 3
+  Fri Sep 15 2023
+           KMC FC                 v JKT Tanzania FC        2-1
+           Tabora United FC       v Tanzania Prisons FC    3-1
+           Dodoma Jiji FC         v Mtibwa Sugar FC        1-1
+  Sat Sep 16 2023
+           Mashujaa FC            v Ihefu FC               2-0
+  Sun Sep 17 2023
+           Kagera Sugar FC        v Geita Gold FC          1-0
+  Wed Sep 20 2023
+           Young Africans SC      v Namungo FC             1-0
+  Thu Sep 21 2023
+           Simba SC               v Coastal Union FC       3-0
+           Azam FC                v Singida Big Stars FC   2-1
+
+▪ Matchday 4
+  Fri Sep 29 2023
+           JKT Tanzania FC        v Kagera Sugar FC        1-1
+           Coastal Union FC       v Tabora United FC       0-0
+  Sat Sep 30 2023
+           Geita Gold FC          v KMC FC                 1-2
+           Namungo FC             v Mashujaa FC            0-0
+  Tue Oct 3 2023
+           Dodoma Jiji FC         v Azam FC                0-0
+  Wed Oct 4 2023
+           Ihefu FC               v Young Africans SC      2-1
+  Thu Oct 5 2023
+           Mtibwa Sugar FC        v Singida Big Stars FC   0-1
+           Tanzania Prisons FC    v Simba SC               1-3
+
+▪ Matchday 5
+  Tue Oct 3 2023
+           JKT Tanzania FC        v Mashujaa FC            1-0
+  Wed Oct 4 2023
+           Kagera Sugar FC        v Namungo FC             1-1
+  Fri Oct 6 2023
+           Coastal Union FC       v Azam FC                0-1
+           Tabora United FC       v Dodoma Jiji FC         2-1
+  Sat Oct 7 2023
+           Geita Gold FC          v Young Africans SC      0-3
+           KMC FC                 v Ihefu FC               1-0
+  Sun Oct 8 2023
+           Tanzania Prisons FC    v Mtibwa Sugar FC        3-2
+           Singida Big Stars FC   v Simba SC               1-2
+
+▪ Matchday 6
+  Thu Oct 19 2023
+           Mtibwa Sugar FC        v Kagera Sugar FC        0-2
+  Sat Oct 21 2023
+           Geita Gold FC          v Dodoma Jiji FC         2-2
+           Ihefu FC               v Coastal Union FC       0-0
+           Namungo FC             v Singida Big Stars FC   2-3
+  Sun Oct 22 2023
+           Tabora United FC       v KMC FC                 0-0
+           Tanzania Prisons FC    v JKT Tanzania FC        1-1
+  Mon Oct 23 2023
+           Young Africans SC      v Azam FC                3-2
+  Sat Feb 3 2024
+           Mashujaa FC            v Simba SC               0-1
+
+▪ Matchday 7
+  Wed Oct 25 2023
+           JKT Tanzania FC        v Tabora United FC       1-0
+           Coastal Union FC       v Mashujaa FC            2-0
+           Dodoma Jiji FC         v Kagera Sugar FC        1-0
+  Thu Oct 26 2023
+           Mtibwa Sugar FC        v Geita Gold FC          3-1
+  Fri Oct 27 2023
+           KMC FC                 v Tanzania Prisons FC    1-1
+           Young Africans SC      v Singida Big Stars FC   2-0
+           Azam FC                v Namungo FC             1-3
+  Sat Oct 28 2023
+           Simba SC               v Ihefu FC               2-1
+
+▪ Matchday 8
+  Mon Oct 30 2023
+           JKT Tanzania FC        v Dodoma Jiji FC         0-1
+           Tanzania Prisons FC    v Geita Gold FC          0-0
+           Kagera Sugar FC        v Tabora United FC       0-0
+  Tue Oct 31 2023
+           KMC FC                 v Mtibwa Sugar FC        1-0
+  Wed Nov 1 2023
+           Singida Big Stars FC   v Ihefu FC               2-2
+           Mashujaa FC            v Azam FC                0-3
+           Coastal Union FC       v Namungo FC             0-0
+  Sun Nov 5 2023
+           Simba SC               v Young Africans SC      1-5
+
+▪ Matchday 9
+  Fri Nov 3 2023
+           KMC FC                 v Dodoma Jiji FC         1-2
+           Mtibwa Sugar FC        v JKT Tanzania FC        1-2
+           Kagera Sugar FC        v Tanzania Prisons FC    2-1
+  Sat Nov 4 2023
+           Ihefu FC               v Azam FC                1-3
+  Mon Nov 6 2023
+           Geita Gold FC          v Tabora United FC       0-0
+           Mashujaa FC            v Singida Big Stars FC   1-3
+  Wed Nov 8 2023
+           Coastal Union FC       v Young Africans SC      0-1
+  Thu Nov 9 2023
+           Simba SC               v Namungo FC             1-1
+
+▪ Matchday 10
+  Wed Nov 22 2023
+           Geita Gold FC          v JKT Tanzania FC        1-0
+           Kagera Sugar FC        v KMC FC                 1-1
+  Thu Nov 23 2023
+           Tanzania Prisons FC    v Coastal Union FC       0-1
+           Namungo FC             v Ihefu FC               2-0
+  Fri Nov 24 2023
+           Azam FC                v Mtibwa Sugar FC        5-0
+           Dodoma Jiji FC         v Singida Big Stars FC   1-2
+  Tue Feb 6 2024
+           Tabora United FC       v Simba SC               0-4
+  Thu Feb 8 2024
+           Young Africans SC      v Mashujaa FC            2-1
+
+▪ Matchday 11
+  Sun Nov 26 2023
+           Geita Gold FC          v Namungo FC             1-0
+           JKT Tanzania FC        v Ihefu FC               1-1
+  Mon Nov 27 2023
+           Singida Big Stars FC   v Coastal Union FC       2-1
+  Wed Nov 29 2023
+           Tanzania Prisons FC    v Dodoma Jiji FC         1-0
+  Fri Dec 1 2023
+           Tabora United FC       v Mtibwa Sugar FC        2-1
+  Sat Dec 2 2023
+           KMC FC                 v Mashujaa FC            3-2
+  Fri Feb 2 2024
+           Kagera Sugar FC        v Young Africans SC      0-0
+  Fri Feb 9 2024
+           Simba SC               v Azam FC                1-1
+
+▪ Matchday 12
+  Thu Nov 30 2023
+           Coastal Union FC       v Geita Gold FC          3-1
+  Fri Dec 1 2023
+           Singida Big Stars FC   v JKT Tanzania FC        2-2
+  Sun Dec 3 2023
+           Namungo FC             v Dodoma Jiji FC         1-0
+  Mon Dec 4 2023
+           Ihefu FC               v Tanzania Prisons FC    0-0
+  Tue Dec 5 2023
+           Mashujaa FC            v Tabora United FC       1-1
+  Thu Dec 7 2023
+           Azam FC                v KMC FC                 5-0
+  Fri Dec 15 2023
+           Simba SC               v Kagera Sugar FC        3-0
+  Sat Dec 16 2023
+           Young Africans SC      v Mtibwa Sugar FC        4-1
+
+▪ Matchday 13
+  Thu Dec 7 2023
+           Namungo FC             v Mtibwa Sugar FC        1-0
+  Fri Dec 8 2023
+           Mashujaa FC            v Tanzania Prisons FC    0-2
+           Ihefu FC               v Tabora United FC       2-1
+  Sat Dec 9 2023
+           Coastal Union FC       v Kagera Sugar FC        1-0
+  Mon Dec 11 2023
+           Singida Big Stars FC   v KMC FC                 0-0
+           Azam FC                v JKT Tanzania FC        2-1
+  Mon Feb 5 2024
+           Young Africans SC      v Dodoma Jiji FC         1-0
+  Mon Feb 12 2024
+           Geita Gold FC          v Simba SC               0-1
+
+▪ Matchday 14
+  Mon Dec 18 2023
+           JKT Tanzania FC        v Coastal Union FC       0-1
+           Dodoma Jiji FC         v Ihefu FC               1-0
+  Tue Dec 19 2023
+           Mtibwa Sugar FC        v Mashujaa FC            2-1
+  Thu Dec 21 2023
+           Tanzania Prisons FC    v Namungo FC             1-0
+           Geita Gold FC          v Singida Big Stars FC   1-0
+           Kagera Sugar FC        v Azam FC                0-4
+  Sat Dec 23 2023
+           KMC FC                 v Simba SC               2-2
+           Tabora United FC       v Young Africans SC      0-1
+
+▪ Matchday 15
+  Sun Feb 11 2024
+           Tabora United FC       v Namungo FC             1-1
+           Tanzania Prisons FC    v Young Africans SC      1-2
+           Dodoma Jiji FC         v Mashujaa FC            1-1
+  Mon Feb 12 2024
+           Mtibwa Sugar FC        v Ihefu FC               2-3
+           Kagera Sugar FC        v Singida Big Stars FC   1-0
+           KMC FC                 v Coastal Union FC       0-0
+  Thu Feb 15 2024
+           JKT Tanzania FC        v Simba SC               0-1
+  Fri Feb 16 2024
+           Azam FC                v Geita Gold FC          2-1
+
+▪ Matchday 16
+  Thu Feb 15 2024
+           Tanzania Prisons FC    v Singida Big Stars FC   3-1
+           Coastal Union FC       v Dodoma Jiji FC         1-0
+  Fri Feb 16 2024
+           Kagera Sugar FC        v Mashujaa FC            1-1
+  Sat Feb 17 2024
+           KMC FC                 v Young Africans SC      0-3
+  Sun Feb 18 2024
+           JKT Tanzania FC        v Namungo FC             0-0
+  Mon Feb 19 2024
+           Geita Gold FC          v Ihefu FC               1-2
+           Tabora United FC       v Azam FC                0-0
+  Fri May 3 2024
+           Simba SC               v Mtibwa Sugar FC        2-0
+
+▪ Matchday 17
+  Sat Feb 24 2024
+           Coastal Union FC       v Mtibwa Sugar FC        1-0
+           KMC FC                 v Namungo FC             2-2
+  Sun Feb 25 2024
+           Tabora United FC       v Singida Big Stars FC   1-1
+           Tanzania Prisons FC    v Azam FC                1-1
+           Geita Gold FC          v Mashujaa FC            1-3
+           Kagera Sugar FC        v Ihefu FC               2-1
+  Wed Apr 24 2024
+           JKT Tanzania FC        v Young Africans SC      0-0
+  Fri May 17 2024
+           Dodoma Jiji FC         v Simba SC               0-1
+
+▪ Matchday 18
+  Tue Feb 27 2024
+           Mtibwa Sugar FC        v Dodoma Jiji FC         0-0
+           JKT Tanzania FC        v KMC FC                 1-1
+  Wed Feb 28 2024
+           Tanzania Prisons FC    v Tabora United FC       2-1
+           Ihefu FC               v Mashujaa FC            1-1
+           Singida Big Stars FC   v Azam FC                0-1
+           Geita Gold FC          v Kagera Sugar FC        0-0
+  Fri Mar 8 2024
+           Namungo FC             v Young Africans SC      1-3
+  Sat Mar 9 2024
+           Coastal Union FC       v Simba SC               1-2
+
+▪ Matchday 19
+  Sat Mar 2 2024
+           Singida Big Stars FC   v Mtibwa Sugar FC        0-2
+           Mashujaa FC            v Namungo FC             1-0
+           Kagera Sugar FC        v JKT Tanzania FC        1-1
+           KMC FC                 v Geita Gold FC          1-1
+  Sun Mar 3 2024
+           Tabora United FC       v Coastal Union FC       1-0
+           Azam FC                v Dodoma Jiji FC         4-1
+  Wed Mar 6 2024
+           Simba SC               v Tanzania Prisons FC    1-2
+  Mon Mar 11 2024
+           Young Africans SC      v Ihefu FC               5-0
+
+▪ Matchday 20
+  Tue Mar 5 2024
+           Ihefu FC               v KMC FC                 1-0
+           Namungo FC             v Kagera Sugar FC        1-0
+  Wed Mar 6 2024
+           Mashujaa FC            v JKT Tanzania FC        1-0
+           Azam FC                v Coastal Union FC       1-1
+           Dodoma Jiji FC         v Tabora United FC       1-0
+  Sat Mar 9 2024
+           Mtibwa Sugar FC        v Tanzania Prisons FC    2-1
+  Tue Mar 12 2024
+           Simba SC               v Singida Big Stars FC   3-1
+  Thu Mar 14 2024
+           Young Africans SC      v Geita Gold FC          1-0
+
+▪ Matchday 21
+  Sat Mar 9 2024
+           Dodoma Jiji FC         v Geita Gold FC          0-1
+  Sun Mar 10 2024
+           KMC FC                 v Tabora United FC       4-2
+  Wed Mar 13 2024
+           JKT Tanzania FC        v Tanzania Prisons FC    1-1
+           Kagera Sugar FC        v Mtibwa Sugar FC        0-0
+  Thu Mar 14 2024
+           Coastal Union FC       v Ihefu FC               1-0
+  Fri Mar 15 2024
+           Simba SC               v Mashujaa FC            2-0
+  Sat Mar 16 2024
+           Singida Big Stars FC   v Namungo FC             1-0
+  Sun Mar 17 2024
+           Azam FC                v Young Africans SC      2-1
+
+▪ Matchday 22
+  Fri Apr 12 2024
+           Tanzania Prisons FC    v KMC FC                 1-1
+           Mashujaa FC            v Coastal Union FC       1-2
+  Sat Apr 13 2024
+           Geita Gold FC          v Mtibwa Sugar FC        2-2
+           Ihefu FC               v Simba SC               1-1
+           Tabora United FC       v JKT Tanzania FC        1-1
+           Kagera Sugar FC        v Dodoma Jiji FC         1-1
+  Sun Apr 14 2024
+           Singida Big Stars FC   v Young Africans SC      0-3
+           Namungo FC             v Azam FC                0-2
+
+▪ Matchday 23
+  Tue Apr 16 2024
+           Mtibwa Sugar FC        v KMC FC                 0-1
+           Dodoma Jiji FC         v JKT Tanzania FC        0-0
+  Wed Apr 17 2024
+           Geita Gold FC          v Tanzania Prisons FC    0-0
+           Tabora United FC       v Kagera Sugar FC        0-3
+           Namungo FC             v Coastal Union FC       1-0
+           Azam FC                v Mashujaa FC            0-0
+  Thu Apr 18 2024
+           Ihefu FC               v Singida Big Stars FC   1-1
+  Sat Apr 20 2024
+           Young Africans SC      v Simba SC               2-1
+
+▪ Matchday 24
+  Sun Apr 21 2024
+           Tabora United FC       v Geita Gold FC          0-0
+           Singida Big Stars FC   v Mashujaa FC            0-0
+           Azam FC                v Ihefu FC               1-0
+  Mon Apr 22 2024
+           Tanzania Prisons FC    v Kagera Sugar FC        0-0
+  Fri Apr 26 2024
+           Dodoma Jiji FC         v KMC FC                 1-0
+  Sat Apr 27 2024
+           Young Africans SC      v Coastal Union FC       1-0
+  Mon Apr 29 2024
+           JKT Tanzania FC        v Mtibwa Sugar FC        2-1
+  Tue Apr 30 2024
+           Namungo FC             v Simba SC               2-2
+
+▪ Matchday 25
+  Sat May 4 2024
+           JKT Tanzania FC        v Geita Gold FC          2-0
+           Singida Big Stars FC   v Dodoma Jiji FC         2-0
+           KMC FC                 v Kagera Sugar FC        0-0
+  Sun May 5 2024
+           Mashujaa FC            v Young Africans SC      0-1
+  Mon May 6 2024
+           Ihefu FC               v Namungo FC             2-0
+           Mtibwa Sugar FC        v Azam FC                0-2
+           Simba SC               v Tabora United FC       2-0
+           Coastal Union FC       v Tanzania Prisons FC    0-0
+
+▪ Matchday 26
+  Wed May 8 2024
+           Mashujaa FC            v KMC FC                 3-0
+           Young Africans SC      v Kagera Sugar FC        1-0
+  Thu May 9 2024
+           Mtibwa Sugar FC        v Tabora United FC       3-0
+           Ihefu FC               v JKT Tanzania FC        0-0
+           Azam FC                v Simba SC               0-3
+  Fri May 10 2024
+           Namungo FC             v Geita Gold FC          2-0
+           Coastal Union FC       v Singida Big Stars FC   2-0
+           Dodoma Jiji FC         v Tanzania Prisons FC    0-0
+
+▪ Matchday 27
+  Sun May 12 2024
+           Tabora United FC       v Mashujaa FC            1-0
+           Kagera Sugar FC        v Simba SC               1-1
+           KMC FC                 v Azam FC                1-2
+  Mon May 13 2024
+           Tanzania Prisons FC    v Ihefu FC               0-1
+           Mtibwa Sugar FC        v Young Africans SC      1-3
+           JKT Tanzania FC        v Singida Big Stars FC   1-1
+  Tue May 14 2024
+           Geita Gold FC          v Coastal Union FC       0-0
+           Dodoma Jiji FC         v Namungo FC             0-0
+
+▪ Matchday 28
+  Thu May 16 2024
+           KMC FC                 v Singida Big Stars FC   1-0
+  Mon May 20 2024
+           Mtibwa Sugar FC        v Namungo FC             0-0
+           Tanzania Prisons FC    v Mashujaa FC            1-2
+  Tue May 21 2024
+           Kagera Sugar FC        v Coastal Union FC       1-2
+           JKT Tanzania FC        v Azam FC                0-2
+           Simba SC               v Geita Gold FC          4-1
+  Wed May 22 2024
+           Tabora United FC       v Ihefu FC               1-1
+           Dodoma Jiji FC         v Young Africans SC      0-4
+
+▪ Matchday 29
+  Sat May 25 2024
+           Azam FC                v Kagera Sugar FC        5-1
+           Coastal Union FC       v JKT Tanzania FC        0-0
+           Ihefu FC               v Dodoma Jiji FC         0-2
+           Mashujaa FC            v Mtibwa Sugar FC        3-2
+           Namungo FC             v Tanzania Prisons FC    2-2
+           Simba SC               v KMC FC                 1-0
+           Singida Big Stars FC   v Geita Gold FC          2-1
+           Young Africans SC      v Tabora United FC       3-0
+
+▪ Matchday 30
+  Tue May 28 2024
+           Coastal Union FC       v KMC FC                 0-0
+           Geita Gold FC          v Azam FC                0-2
+           Ihefu FC               v Mtibwa Sugar FC        5-1
+           Mashujaa FC            v Dodoma Jiji FC         3-0
+           Namungo FC             v Tabora United FC       3-2
+           Simba SC               v JKT Tanzania FC        2-0
+           Singida Big Stars FC   v Kagera Sugar FC        2-3
+           Young Africans SC      v Tanzania Prisons FC    4-1

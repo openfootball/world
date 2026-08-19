@@ -1,0 +1,444 @@
+= Tanzania | Premier League 2025/26
+
+# Date       Wed Sep 17 2025 - Tue Jun 30 2026 (286d)
+# Teams      16
+# Matches    240
+# Source     https://www.rsssf.org/tablest/tanz2026.html
+# Retrieved  2026-08-19
+
+
+▪ Matchday 1
+  Wed Sep 17 2025
+           KMC FC                     v Dodoma Jiji FC             1-0
+           Coastal Union FC           v Tanzania Prisons FC        1-0
+  Thu Sep 18 2025
+           Singida Fountain Gate FC   v Mbeya City FC              0-1
+           Mashujaa FC                v JKT Tanzania FC            1-1
+           Namungo FC                 v Pamba Jiji FC              1-1
+  Tue Oct 28 2025
+           Young Africans SC          v Mtibwa Sugar FC            2-0
+  Wed Dec 3 2025
+           Azam FC                    v Singida Black Stars FC     0-0
+  Thu Apr 9 2026
+           TRA United SC              v Simba SC                   0-0
+
+▪ Matchday 2
+  Sat Sep 20 2025
+           TRA United SC              v Dodoma Jiji FC             2-2
+  Sun Sep 21 2025
+           Mashujaa FC                v Mtibwa Sugar FC            1-0
+           Namungo FC                 v Tanzania Prisons FC        1-0
+  Mon Sep 22 2025
+           Coastal Union FC           v JKT Tanzania FC            1-2
+  Tue Sep 23 2025
+           KMC FC                     v Singida Black Stars FC     0-1
+  Wed Sep 24 2025
+           Young Africans SC          v Pamba Jiji FC              3-0
+           Azam FC                    v Mbeya City FC              2-0
+  Thu Sep 25 2025
+           Simba SC                   v Singida Fountain Gate FC   3-0
+
+▪ Matchday 3
+  Sat Sep 27 2025
+           Tanzania Prisons FC        v KMC FC                     1-0
+           Dodoma Jiji FC             v Coastal Union FC           2-0
+  Sun Sep 28 2025
+           Pamba Jiji FC              v TRA United SC              0-0
+           Mtibwa Sugar FC            v Singida Fountain Gate FC   2-0
+  Tue Sep 30 2025
+           Singida Black Stars FC     v Mashujaa FC                1-0
+           Mbeya City FC              v Young Africans SC          0-0
+  Wed Oct 1 2025
+           JKT Tanzania FC            v Azam FC                    1-1
+           Simba SC                   v Namungo FC                 3-0
+
+▪ Matchday 4
+  Fri Oct 17 2025
+           Pamba Jiji FC              v Mashujaa FC                2-1
+           Singida Fountain Gate FC   v Dodoma Jiji FC             1-0
+  Sat Oct 18 2025
+           KMC FC                     v Mbeya City FC              0-3
+  Sun Oct 19 2025
+           Mtibwa Sugar FC            v Coastal Union FC           0-0
+           JKT Tanzania FC            v Namungo FC                 1-1
+  Sat Dec 6 2025
+           Singida Black Stars FC     v TRA United SC              1-3
+  Sun Dec 7 2025
+           Simba SC                   v Azam FC                    0-2
+  Thu Mar 12 2026
+           Tanzania Prisons FC        v Young Africans SC          0-1
+
+▪ Matchday 5
+  Tue Oct 21 2025
+           Mbeya City FC              v Tanzania Prisons FC        1-2
+  Wed Oct 22 2025
+           TRA United SC              v Mashujaa FC                0-0
+           Coastal Union FC           v Singida Fountain Gate FC   1-1
+           Dodoma Jiji FC             v Mtibwa Sugar FC            0-0
+  Sat Nov 8 2025
+           Pamba Jiji FC              v Singida Black Stars FC     1-1
+           JKT Tanzania FC            v Simba SC                   1-2
+  Sun Nov 9 2025
+           Young Africans SC          v KMC FC                     4-1
+           Namungo FC                 v Azam FC                    1-1
+
+▪ Matchday 6
+  Fri Oct 24 2025
+           Mbeya City FC              v JKT Tanzania FC            2-2
+  Sat Oct 25 2025
+           Mashujaa FC                v Namungo FC                 1-0
+           Singida Fountain Gate FC   v KMC FC                     1-0
+           Dodoma Jiji FC             v Pamba Jiji FC              0-3 [awarded]
+  Sun Dec 7 2025
+           Coastal Union FC           v Young Africans SC          0-1
+  Thu Jan 29 2026
+           Azam FC                    v TRA United SC              2-0
+  Sun Feb 22 2026
+           Mtibwa Sugar FC            v Singida Black Stars FC     1-3
+           Tanzania Prisons FC        v Simba SC                   0-2
+
+▪ Matchday 7
+  Fri Nov 21 2025
+           KMC FC                     v JKT Tanzania FC            0-1
+           Namungo FC                 v Dodoma Jiji FC             2-0
+  Sat Nov 22 2025
+           TRA United SC              v Tanzania Prisons FC        1-0
+           Mashujaa FC                v Mbeya City FC              1-0
+  Sun Nov 23 2025
+           Pamba Jiji FC              v Singida Fountain Gate FC   1-0
+  Wed Feb 25 2026
+           Azam FC                    v Mtibwa Sugar FC            3-0
+  Sun Mar 1 2026
+           Young Africans SC          v Simba SC                   0-0
+  Mon Mar 2 2026
+           Singida Black Stars FC     v Coastal Union FC           1-0
+
+▪ Matchday 8
+  Tue Nov 25 2025
+           KMC FC                     v Mtibwa Sugar FC            0-0
+  Wed Nov 26 2025
+           Coastal Union FC           v Mbeya City FC              2-0
+           Singida Fountain Gate FC   v Tanzania Prisons FC        1-0
+           JKT Tanzania FC            v TRA United SC              1-0
+  Tue Jan 27 2026
+           Young Africans SC          v Dodoma Jiji FC             3-1
+  Thu Jan 29 2026
+           Simba SC                   v Mashujaa FC                2-0
+  Thu Feb 26 2026
+           Namungo FC                 v Singida Black Stars FC     1-1
+  Mon Mar 2 2026
+           Pamba Jiji FC              v Azam FC                    2-2
+
+▪ Matchday 9
+  Fri Nov 28 2025
+           Mashujaa FC                v Dodoma Jiji FC             0-0
+  Sat Nov 29 2025
+           Pamba Jiji FC              v KMC FC                     3-0
+           Mtibwa Sugar FC            v TRA United SC              2-1
+  Sun Nov 30 2025
+           Mbeya City FC              v Namungo FC                 0-1
+           Singida Fountain Gate FC   v JKT Tanzania FC            0-2
+  Thu Mar 5 2026
+           Tanzania Prisons FC        v Azam FC                    0-0
+           Singida Black Stars FC     v Young Africans SC          0-3
+  Thu Apr 2 2026
+           Simba SC                   v Coastal Union FC           2-0
+
+▪ Matchday 10
+  Mon Dec 1 2025
+           Mashujaa FC                v Coastal Union FC           0-0
+  Wed Dec 3 2025
+           JKT Tanzania FC            v Mtibwa Sugar FC            0-0
+  Sat Dec 6 2025
+           Tanzania Prisons FC        v Pamba Jiji FC              0-0
+  Sun Feb 22 2026
+           KMC FC                     v Azam FC                    0-2
+           Namungo FC                 v Young Africans SC          0-1
+  Wed Feb 25 2026
+           Dodoma Jiji FC             v Simba SC                   0-0
+  Thu Feb 26 2026
+           Singida Fountain Gate FC   v TRA United SC              1-4
+  Sun Mar 15 2026
+           Mbeya City FC              v Singida Black Stars FC     1-4
+
+▪ Matchday 11
+  Mon Jan 19 2026
+           Young Africans SC          v Mashujaa FC                6-0
+  Tue Jan 20 2026
+           Azam FC                    v Singida Fountain Gate FC   0-0
+           Singida Black Stars FC     v JKT Tanzania FC            0-1
+  Wed Jan 21 2026
+           Mtibwa Sugar FC            v Mbeya City FC              2-1
+  Thu Jan 22 2026
+           Dodoma Jiji FC             v Tanzania Prisons FC        1-0
+  Fri Jan 23 2026
+           TRA United SC              v KMC FC                     3-0
+           Namungo FC                 v Coastal Union FC           1-0
+  Thu Mar 19 2026
+           Pamba Jiji FC              v Simba SC                   1-1
+
+▪ Matchday 12
+  Thu Dec 4 2025
+           Young Africans SC          v Singida Fountain Gate FC   2-0
+           Simba SC                   v Mbeya City FC              3-0
+  Fri Jan 16 2026
+           Dodoma Jiji FC             v Singida Black Stars FC     1-1
+  Sun Jan 25 2026
+           Tanzania Prisons FC        v JKT Tanzania FC            0-0
+           Mtibwa Sugar FC            v Pamba Jiji FC              1-0
+  Tue Jan 27 2026
+           Coastal Union FC           v KMC FC                     1-1
+  Wed Mar 11 2026
+           TRA United SC              v Namungo FC                 2-0
+  Thu Mar 19 2026
+           Mashujaa FC                v Azam FC                    0-0
+
+▪ Matchday 13
+  Sun Jan 18 2026
+           Simba SC                   v Mtibwa Sugar FC            1-1
+  Fri Jan 30 2026
+           Mbeya City FC              v Pamba Jiji FC              1-1
+           JKT Tanzania FC            v Dodoma Jiji FC             0-1
+  Sat Jan 31 2026
+           Namungo FC                 v KMC FC                     1-0
+  Sun Feb 1 2026
+           Coastal Union FC           v TRA United SC              1-1
+  Fri Mar 13 2026
+           Mashujaa FC                v Singida Fountain Gate FC   1-1
+  Sun Mar 15 2026
+           Azam FC                    v Young Africans SC          0-0
+  Wed Mar 18 2026
+           Tanzania Prisons FC        v Singida Black Stars FC     1-2
+
+▪ Matchday 14
+  Sat Jan 17 2026
+           Azam FC                    v Coastal Union FC           3-0
+  Mon Feb 2 2026
+           Mtibwa Sugar FC            v Tanzania Prisons FC        2-1
+           JKT Tanzania FC            v Pamba Jiji FC              3-0
+  Tue Feb 3 2026
+           Mbeya City FC              v Dodoma Jiji FC             1-1
+           KMC FC                     v Mashujaa FC                1-0
+  Wed Feb 4 2026
+           Singida Fountain Gate FC   v Namungo FC                 1-1
+  Wed Mar 11 2026
+           Singida Black Stars FC     v Simba SC                   1-2
+  Wed Mar 18 2026
+           TRA United SC              v Young Africans SC          0-0
+
+▪ Matchday 15
+  Fri Feb 6 2026
+           Pamba Jiji FC              v Coastal Union FC           3-0
+           Tanzania Prisons FC        v Mashujaa FC                0-0
+  Sat Feb 7 2026
+           TRA United SC              v Mbeya City FC              0-2
+           Mtibwa Sugar FC            v Namungo FC                 1-1
+  Wed Feb 11 2026
+           Singida Black Stars FC     v Singida Fountain Gate FC   1-0
+           KMC FC                     v Simba SC                   0-2
+  Wed Feb 25 2026
+           Young Africans SC          v JKT Tanzania FC            5-0
+  Wed Mar 11 2026
+           Dodoma Jiji FC             v Azam FC                    0-3
+
+▪ Matchday 16
+  Sun Feb 8 2026
+           Dodoma Jiji FC             v KMC FC                     2-1
+  Mon Feb 9 2026
+           JKT Tanzania FC            v Mashujaa FC                1-0
+  Tue Feb 10 2026
+           Tanzania Prisons FC        v Coastal Union FC           1-4
+           Pamba Jiji FC              v Namungo FC                 1-0
+  Tue Mar 3 2026
+           Mbeya City FC              v Singida Fountain Gate FC   0-1
+  Sat Mar 21 2026
+           Mtibwa Sugar FC            v Young Africans SC          1-1
+  Sun Mar 22 2026
+           Simba SC                   v TRA United SC              3-0
+  Wed Apr 1 2026
+           Singida Black Stars FC     v Azam FC                    1-2
+
+▪ Matchday 17
+  Thu Feb 12 2026
+           Dodoma Jiji FC             v TRA United SC              3-0
+  Fri Feb 13 2026
+           JKT Tanzania FC            v Coastal Union FC           1-1
+           Mtibwa Sugar FC            v Mashujaa FC                1-3
+  Sat Feb 14 2026
+           Tanzania Prisons FC        v Namungo FC                 3-2
+  Wed Apr 8 2026
+           Singida Black Stars FC     v KMC FC                     1-0
+           Pamba Jiji FC              v Young Africans SC          0-3
+  Thu Apr 9 2026
+           Mbeya City FC              v Azam FC                    0-0
+  Wed Apr 15 2026
+           Singida Fountain Gate FC   v Simba SC                   0-3
+
+▪ Matchday 18
+  Fri Apr 3 2026
+           Dodoma Jiji FC             v Singida Fountain Gate FC   3-0
+           Mbeya City FC              v KMC FC                     3-2
+  Sat Apr 4 2026
+           Mashujaa FC                v Pamba Jiji FC              0-0
+           Young Africans SC          v Tanzania Prisons FC        3-0
+           Namungo FC                 v JKT Tanzania FC            2-2
+  Sun Apr 5 2026
+           TRA United SC              v Singida Black Stars FC     2-0
+           Azam FC                    v Simba SC                   0-0
+  Mon Apr 6 2026
+           Coastal Union FC           v Mtibwa Sugar FC            1-1
+
+▪ Matchday 19
+  Tue Apr 14 2026
+           KMC FC                     v Tanzania Prisons FC        1-1
+  Wed Apr 15 2026
+           Coastal Union FC           v Dodoma Jiji FC             3-1
+  Thu Apr 16 2026
+           Mashujaa FC                v Singida Black Stars FC     1-1
+           Young Africans SC          v Mbeya City FC              6-0
+  Fri Apr 17 2026
+           TRA United SC              v Pamba Jiji FC              1-0
+           Azam FC                    v JKT Tanzania FC            3-0
+  Sat Apr 18 2026
+           Singida Fountain Gate FC   v Mtibwa Sugar FC            2-1
+  Sun Apr 19 2026
+           Namungo FC                 v Simba SC                   1-3
+
+▪ Matchday 20
+  Mon May 4 2026
+           Mashujaa FC                v TRA United SC              1-0
+           Tanzania Prisons FC        v Mbeya City FC              1-2
+  Tue May 5 2026
+           Singida Black Stars FC     v Pamba Jiji FC              3-1
+           Singida Fountain Gate FC   v Coastal Union FC           3-2
+           Azam FC                    v Namungo FC                 1-0
+  Wed May 6 2026
+           KMC FC                     v Young Africans SC          0-1
+           Simba SC                   v JKT Tanzania FC            1-0
+           Mtibwa Sugar FC            v Dodoma Jiji FC             0-1
+
+▪ Matchday 21
+  Fri May 8 2026
+           TRA United SC              v Azam FC                    4-1
+           Namungo FC                 v Mashujaa FC                0-0
+  Sat May 9 2026
+           Singida Black Stars FC     v Mtibwa Sugar FC            4-0
+           Young Africans SC          v Coastal Union FC           3-0
+           JKT Tanzania FC            v Mbeya City FC              1-0
+  Sun May 10 2026
+           KMC FC                     v Singida Fountain Gate FC   2-3
+           Pamba Jiji FC              v Dodoma Jiji FC             0-0
+           Simba SC                   v Tanzania Prisons FC        4-0
+
+▪ Matchday 22
+  Thu Apr 30 2026
+           Singida Fountain Gate FC   v Pamba Jiji FC              1-2
+           Mbeya City FC              v Mashujaa FC                0-0
+           JKT Tanzania FC            v KMC FC                     1-0
+  Fri May 1 2026
+           Tanzania Prisons FC        v TRA United SC              0-3
+           Dodoma Jiji FC             v Namungo FC                 0-0
+  Sat May 2 2026
+           Mtibwa Sugar FC            v Azam FC                    0-3
+           Coastal Union FC           v Singida Black Stars FC     2-1
+  Sun May 3 2026
+           Simba SC                   v Young Africans SC          2-2
+
+▪ Matchday 23
+  Tue May 12 2026
+           Singida Black Stars FC     v Namungo FC                 1-0
+           TRA United SC              v JKT Tanzania FC            1-1
+  Wed May 13 2026
+           Mbeya City FC              v Coastal Union FC           0-2
+           Dodoma Jiji FC             v Young Africans SC          3-2
+  Thu May 14 2026
+           Tanzania Prisons FC        v Singida Fountain Gate FC   1-0
+           Mtibwa Sugar FC            v KMC FC                     4-3
+           Mashujaa FC                v Simba SC                   0-3
+           Azam FC                    v Pamba Jiji FC              2-0
+
+▪ Matchday 24
+  Wed May 20 2026
+           TRA United SC              v Mtibwa Sugar FC            2-1
+           KMC FC                     v Pamba Jiji FC              0-1
+           Dodoma Jiji FC             v Mashujaa FC                1-1
+  Thu May 21 2026
+           JKT Tanzania FC            v Singida Fountain Gate FC   2-2
+           Coastal Union FC           v Simba SC                   1-2
+           Namungo FC                 v Mbeya City FC              1-1
+  Fri May 22 2026
+           Young Africans SC          v Singida Black Stars FC     3-0
+           Azam FC                    v Tanzania Prisons FC        2-0
+
+▪ Matchday 25
+  Sun May 24 2026
+           Mtibwa Sugar FC            v JKT Tanzania FC            2-2
+           TRA United SC              v Singida Fountain Gate FC   1-2
+           Simba SC                   v Dodoma Jiji FC             1-0
+           Coastal Union FC           v Mashujaa FC                1-0
+  Mon May 25 2026
+           Young Africans SC          v Namungo FC                 3-1
+           Azam FC                    v KMC FC                     3-0
+  Tue May 26 2026
+           Pamba Jiji FC              v Tanzania Prisons FC        2-3
+           Singida Black Stars FC     v Mbeya City FC              4-1
+
+▪ Matchday 26
+  Fri Jun 12 2026
+           Singida Fountain Gate FC   v Azam FC                    0-2
+           Coastal Union FC           v Namungo FC                 1-1
+           KMC FC                     v TRA United SC              0-1
+  Sat Jun 13 2026
+           Mbeya City FC              v Mtibwa Sugar FC            1-0
+           Mashujaa FC                v Young Africans SC          0-2
+           JKT Tanzania FC            v Singida Black Stars FC     1-2
+  Sun Jun 14 2026
+           Simba SC                   v Pamba Jiji FC              2-1
+           Tanzania Prisons FC        v Dodoma Jiji FC             3-1
+
+▪ Matchday 27
+  Mon Jun 15 2026
+           KMC FC                     v Coastal Union FC           1-3
+  Tue Jun 16 2026
+           Namungo FC                 v TRA United SC              0-0
+           Azam FC                    v Mashujaa FC                2-0
+  Wed Jun 17 2026
+           Mbeya City FC              v Simba SC                   0-1
+           Singida Black Stars FC     v Dodoma Jiji FC             5-0
+  Thu Jun 18 2026
+           Singida Fountain Gate FC   v Young Africans SC          0-2
+           JKT Tanzania FC            v Tanzania Prisons FC        0-1
+           Pamba Jiji FC              v Mtibwa Sugar FC            4-0
+
+▪ Matchday 28
+  Wed Jun 24 2026
+           Dodoma Jiji FC             v JKT Tanzania FC            0-0
+           KMC FC                     v Namungo FC                 2-3
+           Mtibwa Sugar FC            v Simba SC                   0-3
+           Pamba Jiji FC              v Mbeya City FC              0-2
+           Singida Black Stars FC     v Tanzania Prisons FC        3-1
+           Singida Fountain Gate FC   v Mashujaa FC                0-1
+           TRA United SC              v Coastal Union FC           1-1
+           Young Africans SC          v Azam FC                    3-0
+
+▪ Matchday 29
+  Sat Jun 27 2026
+           Coastal Union FC           v Azam FC                    0-2
+           Dodoma Jiji FC             v Mbeya City FC              1-1
+           Mashujaa FC                v KMC FC                     2-0
+           Namungo FC                 v Singida Fountain Gate FC   0-0
+           Pamba Jiji FC              v JKT Tanzania FC            1-2
+           Simba SC                   v Singida Black Stars FC     2-0
+           Tanzania Prisons FC        v Mtibwa Sugar FC            2-1
+           Young Africans SC          v TRA United SC              3-0
+
+▪ Matchday 30
+  Tue Jun 30 2026
+           Azam FC                    v Dodoma Jiji FC             2-0
+           Coastal Union FC           v Pamba Jiji FC              2-1
+           JKT Tanzania FC            v Young Africans SC          0-3
+           Mashujaa FC                v Tanzania Prisons FC        0-1
+           Mbeya City FC              v TRA United SC              0-0
+           Namungo FC                 v Mtibwa Sugar FC            2-1
+           Simba SC                   v KMC FC                     1-0
+           Singida Fountain Gate FC   v Singida Black Stars FC     4-3
