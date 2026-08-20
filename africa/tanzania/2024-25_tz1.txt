@@ -1,0 +1,440 @@
+= Tanzania | Premier League 2024/25
+
+# Date       Fri Aug 16 2024 - Wed Jun 25 2025 (313d)
+# Teams      16
+# Matches    240
+# Source     https://www.rsssf.org/tablest/tanz2025.html
+# Retrieved  2026-08-19
+
+
+▪ Matchday 1
+  Fri Aug 16 2024
+           Pamba Jiji FC              v Tanzania Prisons FC        0-0
+  Sat Aug 17 2024
+           Mashujaa FC                v Dodoma Jiji FC             1-0
+  Sun Aug 18 2024
+           KenGold FC                 v Singida Black Stars FC     1-3
+           Simba SC                   v Tabora United FC           3-0
+  Wed Aug 28 2024
+           JKT Tanzania FC            v Azam FC                    0-0
+  Thu Aug 29 2024
+           KMC FC                     v Coastal Union FC           1-1
+           Kagera Sugar FC            v Young Africans SC          0-2
+           Namungo FC                 v Singida Fountain Gate FC   0-2
+
+▪ Matchday 2
+  Fri Aug 23 2024
+           Mashujaa FC                v Tanzania Prisons FC        0-0
+  Sat Aug 24 2024
+           Pamba Jiji FC              v Dodoma Jiji FC             0-0
+           Kagera Sugar FC            v Singida Black Stars FC     0-1
+  Sun Aug 25 2024
+           Simba SC                   v Singida Fountain Gate FC   4-0
+           Namungo FC                 v Tabora United FC           1-2
+  Thu Sep 19 2024
+           KMC FC                     v Azam FC                    0-4
+  Wed Sep 25 2024
+           JKT Tanzania FC            v Coastal Union FC           2-1
+           KenGold FC                 v Young Africans SC          0-1
+
+▪ Matchday 3
+  Wed Sep 11 2024
+           Tabora United FC           v Kagera Sugar FC            1-0
+           Singida Fountain Gate FC   v KenGold FC                 2-1
+  Thu Sep 12 2024
+           Dodoma Jiji FC             v Namungo FC                 1-0
+           Singida Black Stars FC     v KMC FC                     2-1
+  Fri Sep 13 2024
+           Coastal Union FC           v Mashujaa FC                0-1
+  Sat Sep 14 2024
+           Azam FC                    v Pamba Jiji FC              0-0
+  Tue Oct 22 2024
+           Tanzania Prisons FC        v Simba SC                   0-1
+           Young Africans SC          v JKT Tanzania FC            2-0
+
+▪ Matchday 4
+  Sat Sep 14 2024
+           Tabora United FC           v Tanzania Prisons FC        0-0
+  Sun Sep 15 2024
+           Singida Fountain Gate FC   v Dodoma Jiji FC             2-2
+  Mon Sep 16 2024
+           KMC FC                     v KenGold FC                 1-0
+           Kagera Sugar FC            v JKT Tanzania FC            0-0
+  Tue Sep 17 2024
+           Pamba Jiji FC              v Singida Black Stars FC     0-1
+           Coastal Union FC           v Namungo FC                 0-2
+  Thu Sep 26 2024
+           Azam FC                    v Simba SC                   0-2
+  Thu Dec 19 2024
+           Young Africans SC          v Mashujaa FC                3-2
+
+▪ Matchday 5
+  Fri Sep 20 2024
+           Tabora United FC           v Singida Fountain Gate FC   1-3
+           Kagera Sugar FC            v KenGold FC                 2-0
+  Sat Sep 21 2024
+           Tanzania Prisons FC        v Dodoma Jiji FC             0-0
+           Pamba Jiji FC              v Mashujaa FC                2-2
+  Sun Sep 22 2024
+           JKT Tanzania FC            v KMC FC                     0-0
+           Azam FC                    v Coastal Union FC           1-0
+  Fri Oct 25 2024
+           Simba SC                   v Namungo FC                 3-0
+  Wed Oct 30 2024
+           Singida Black Stars FC     v Young Africans SC          0-1
+
+▪ Matchday 6
+  Fri Sep 27 2024
+           Singida Fountain Gate FC   v Kagera Sugar FC            3-1
+  Sat Sep 28 2024
+           KenGold FC                 v Tabora United FC           1-1
+           Coastal Union FC           v Pamba Jiji FC              2-0
+           Namungo FC                 v Tanzania Prisons FC        1-0
+  Sun Sep 29 2024
+           Singida Black Stars FC     v JKT Tanzania FC            1-1
+           Mashujaa FC                v Azam FC                    0-0
+           Dodoma Jiji FC             v Simba SC                   0-1
+           Young Africans SC          v KMC FC                     1-0
+
+▪ Matchday 7
+  Tue Oct 1 2024
+           Tanzania Prisons FC        v Singida Fountain Gate FC   3-2
+  Wed Oct 2 2024
+           Dodoma Jiji FC             v Tabora United FC           2-0
+  Thu Oct 3 2024
+           KMC FC                     v Kagera Sugar FC            1-0
+           Young Africans SC          v Pamba Jiji FC              4-0
+           Namungo FC                 v Azam FC                    0-1
+  Fri Oct 4 2024
+           KenGold FC                 v JKT Tanzania FC            1-0
+           Mashujaa FC                v Singida Black Stars FC     0-1
+           Simba SC                   v Coastal Union FC           2-2
+
+▪ Matchday 8
+  Fri Oct 18 2024
+           Coastal Union FC           v Dodoma Jiji FC             2-0
+           Tanzania Prisons FC        v Azam FC                    0-2
+           JKT Tanzania FC            v Tabora United FC           4-2
+  Sat Oct 19 2024
+           Simba SC                   v Young Africans SC          0-1
+  Sun Oct 20 2024
+           Pamba Jiji FC              v Kagera Sugar FC            1-1
+           Singida Black Stars FC     v Namungo FC                 2-0
+  Mon Oct 21 2024
+           Singida Fountain Gate FC   v KMC FC                     3-1
+           Mashujaa FC                v KenGold FC                 3-0
+
+▪ Matchday 9
+  Fri Oct 25 2024
+           Singida Black Stars FC     v Singida Fountain Gate FC   2-0
+           Azam FC                    v KenGold FC                 4-1
+  Sat Oct 26 2024
+           Tanzania Prisons FC        v KMC FC                     1-2
+           Dodoma Jiji FC             v JKT Tanzania FC            1-0
+  Mon Oct 28 2024
+           Namungo FC                 v Pamba Jiji FC              1-0
+  Tue Oct 29 2024
+           Coastal Union FC           v Kagera Sugar FC            1-0
+  Fri Nov 1 2024
+           Mashujaa FC                v Simba SC                   0-1
+  Thu Nov 7 2024
+           Young Africans SC          v Tabora United FC           1-3
+
+▪ Matchday 10
+  Wed Oct 23 2024
+           Tabora United FC           v Pamba Jiji FC              1-0
+  Sat Oct 26 2024
+           Coastal Union FC           v Young Africans SC          0-1
+  Mon Oct 28 2024
+           Singida Fountain Gate FC   v Mashujaa FC                2-2
+  Tue Oct 29 2024
+           KenGold FC                 v Dodoma Jiji FC             2-2
+  Thu Oct 31 2024
+           KMC FC                     v Namungo FC                 1-0
+  Thu Nov 28 2024
+           Azam FC                    v Singida Black Stars FC     2-1
+  Thu Dec 5 2024
+           Kagera Sugar FC            v Tanzania Prisons FC        0-0
+  Tue Dec 24 2024
+           Simba SC                   v JKT Tanzania FC            1-0
+
+▪ Matchday 11
+  Sat Nov 2 2024
+           Young Africans SC          v Azam FC                    0-1
+           Singida Black Stars FC     v Coastal Union FC           0-0
+  Sun Nov 3 2024
+           Tanzania Prisons FC        v KenGold FC                 1-0
+  Mon Nov 4 2024
+           Tabora United FC           v Mashujaa FC                1-0
+           Kagera Sugar FC            v Dodoma Jiji FC             2-1
+  Tue Nov 5 2024
+           Singida Fountain Gate FC   v Pamba Jiji FC              1-3
+  Wed Nov 6 2024
+           Simba SC                   v KMC FC                     4-0
+  Fri Dec 20 2024
+           Namungo FC                 v JKT Tanzania FC            0-0
+
+▪ Matchday 12
+  Fri Nov 22 2024
+           Pamba Jiji FC              v Simba SC                   0-1
+  Sat Nov 23 2024
+           KenGold FC                 v Coastal Union FC           1-1
+           Mashujaa FC                v Namungo FC                 1-0
+           Azam FC                    v Kagera Sugar FC            1-0
+  Sun Nov 24 2024
+           JKT Tanzania FC            v Tanzania Prisons FC        1-0
+           Dodoma Jiji FC             v KMC FC                     2-1
+  Mon Nov 25 2024
+           Tabora United FC           v Singida Black Stars FC     2-2
+  Sun Dec 29 2024
+           Young Africans SC          v Singida Fountain Gate FC   5-0
+
+▪ Matchday 13
+  Fri Nov 29 2024
+           KMC FC                     v Tabora United FC           0-2
+           Singida Fountain Gate FC   v JKT Tanzania FC            0-1
+  Sat Nov 30 2024
+           Mashujaa FC                v Kagera Sugar FC            1-1
+           Namungo FC                 v Young Africans SC          0-2
+  Sun Dec 1 2024
+           Pamba Jiji FC              v KenGold FC                 1-0
+           Dodoma Jiji FC             v Azam FC                    1-3
+  Mon Dec 2 2024
+           Coastal Union FC           v Tanzania Prisons FC        2-1
+  Sat Dec 28 2024
+           Singida Black Stars FC     v Simba SC                   0-1
+
+▪ Matchday 14
+  Wed Dec 11 2024
+           JKT Tanzania FC            v Pamba Jiji FC              0-0
+           Kagera Sugar FC            v Namungo FC                 1-1
+  Thu Dec 12 2024
+           Singida Black Stars FC     v Dodoma Jiji FC             2-1
+           KMC FC                     v Mashujaa FC                0-0
+  Fri Dec 13 2024
+           Singida Fountain Gate FC   v Coastal Union FC           3-2
+           Tabora United FC           v Azam FC                    2-1
+  Wed Dec 18 2024
+           Simba SC                   v KenGold FC                 2-0
+  Sun Dec 22 2024
+           Young Africans SC          v Tanzania Prisons FC        4-0
+
+▪ Matchday 15
+  Sun Dec 15 2024
+           KenGold FC                 v Namungo FC                 2-3
+           JKT Tanzania FC            v Mashujaa FC                0-0
+  Mon Dec 16 2024
+           Tanzania Prisons FC        v Singida Black Stars FC     0-2
+           KMC FC                     v Pamba Jiji FC              1-0
+  Tue Dec 17 2024
+           Tabora United FC           v Coastal Union FC           1-1
+           Azam FC                    v Singida Fountain Gate FC   2-0
+  Sat Dec 21 2024
+           Kagera Sugar FC            v Simba SC                   2-5
+  Wed Dec 25 2024
+           Dodoma Jiji FC             v Young Africans SC          0-4
+
+▪ Matchday 16
+  Tue Dec 24 2024
+           Singida Black Stars FC     v KenGold FC                 2-1
+  Wed Dec 25 2024
+           Singida Fountain Gate FC   v Namungo FC                 1-2
+  Thu Dec 26 2024
+           Tanzania Prisons FC        v Pamba Jiji FC              1-0
+  Fri Dec 27 2024
+           Azam FC                    v JKT Tanzania FC            3-1
+  Sat Dec 28 2024
+           Dodoma Jiji FC             v Mashujaa FC                3-1
+  Sun Dec 29 2024
+           Coastal Union FC           v KMC FC                     1-1
+  Sat Feb 1 2025
+           Young Africans SC          v Kagera Sugar FC            4-0
+  Sun Feb 2 2025
+           Tabora United FC           v Simba SC                   0-3
+
+▪ Matchday 17
+  Wed Feb 5 2025
+           Tabora United FC           v Namungo FC                 2-1
+           Young Africans SC          v KenGold FC                 6-1
+  Thu Feb 6 2025
+           Dodoma Jiji FC             v Pamba Jiji FC              0-1
+           Tanzania Prisons FC        v Mashujaa FC                2-1
+           Singida Fountain Gate FC   v Simba SC                   1-1
+           Azam FC                    v KMC FC                     2-0
+  Fri Feb 7 2025
+           Coastal Union FC           v JKT Tanzania FC            2-1
+           Singida Black Stars FC     v Kagera Sugar FC            2-2
+
+▪ Matchday 18
+  Sun Feb 9 2025
+           Pamba Jiji FC              v Azam FC                    1-0
+           Namungo FC                 v Dodoma Jiji FC             2-2
+  Mon Feb 10 2025
+           KenGold FC                 v Singida Fountain Gate FC   2-0
+           KMC FC                     v Singida Black Stars FC     2-0
+           JKT Tanzania FC            v Young Africans SC          0-0
+  Tue Feb 11 2025
+           Mashujaa FC                v Coastal Union FC           0-0
+           Simba SC                   v Tanzania Prisons FC        3-0
+           Kagera Sugar FC            v Tabora United FC           1-2
+
+▪ Matchday 19
+  Thu Feb 13 2025
+           JKT Tanzania FC            v Singida Black Stars FC     0-1
+  Fri Feb 14 2025
+           Tabora United FC           v KenGold FC                 1-1
+           KMC FC                     v Young Africans SC          1-6
+           Tanzania Prisons FC        v Namungo FC                 0-1
+           Kagera Sugar FC            v Singida Fountain Gate FC   3-0
+  Sat Feb 15 2025
+           Pamba Jiji FC              v Coastal Union FC           2-0
+           Azam FC                    v Mashujaa FC                2-0
+  Fri Mar 14 2025
+           Simba SC                   v Dodoma Jiji FC             6-0
+
+▪ Matchday 20
+  Mon Feb 17 2025
+           Young Africans SC          v Singida Black Stars FC     2-1
+           Singida Fountain Gate FC   v Tabora United FC           0-0
+  Tue Feb 18 2025
+           KMC FC                     v JKT Tanzania FC            0-2
+           KenGold FC                 v Kagera Sugar FC            1-0
+           Dodoma Jiji FC             v Tanzania Prisons FC        3-2
+  Wed Feb 19 2025
+           Coastal Union FC           v Azam FC                    0-0
+           Mashujaa FC                v Pamba Jiji FC              2-0
+           Namungo FC                 v Simba SC                   0-3
+
+▪ Matchday 21
+  Fri Feb 21 2025
+           Tanzania Prisons FC        v Tabora United FC           1-1
+           JKT Tanzania FC            v Kagera Sugar FC            2-0
+  Sat Feb 22 2025
+           KenGold FC                 v KMC FC                     1-1
+           Dodoma Jiji FC             v Singida Fountain Gate FC   1-0
+  Sun Feb 23 2025
+           Singida Black Stars FC     v Pamba Jiji FC              2-2
+           Mashujaa FC                v Young Africans SC          0-5
+           Namungo FC                 v Coastal Union FC           0-0
+  Mon Feb 24 2025
+           Simba SC                   v Azam FC                    2-2
+
+▪ Matchday 22
+  Wed Feb 26 2025
+           Singida Fountain Gate FC   v Tanzania Prisons FC        1-0
+           Singida Black Stars FC     v Mashujaa FC                3-0
+           Kagera Sugar FC            v KMC FC                     0-0
+  Thu Feb 27 2025
+           JKT Tanzania FC            v KenGold FC                 1-1
+           Azam FC                    v Namungo FC                 1-1
+  Fri Feb 28 2025
+           Tabora United FC           v Dodoma Jiji FC             1-0
+           Pamba Jiji FC              v Young Africans SC          0-3
+  Sat Mar 1 2025
+           Coastal Union FC           v Simba SC                   0-3
+
+▪ Matchday 23
+  Wed Mar 5 2025
+           KenGold FC                 v Mashujaa FC                2-2
+  Thu Mar 6 2025
+           KMC FC                     v Singida Fountain Gate FC   1-2
+           Namungo FC                 v Singida Black Stars FC     0-1
+           Azam FC                    v Tanzania Prisons FC        4-0
+  Fri Mar 7 2025
+           Tabora United FC           v JKT Tanzania FC            1-2
+           Kagera Sugar FC            v Pamba Jiji FC              2-1
+           Dodoma Jiji FC             v Coastal Union FC           0-0
+  Wed Jun 25 2025
+           Young Africans SC          v Simba SC                   2-0
+
+▪ Matchday 24
+  Wed Apr 2 2025
+           Pamba Jiji FC              v Namungo FC                 1-1
+           Tabora United FC           v Young Africans SC          0-3
+           Singida Fountain Gate FC   v Singida Black Stars FC     0-3
+           KMC FC                     v Tanzania Prisons FC        3-2
+  Thu Apr 3 2025
+           JKT Tanzania FC            v Dodoma Jiji FC             2-2
+           KenGold FC                 v Azam FC                    0-2
+           Kagera Sugar FC            v Coastal Union FC           2-1
+  Fri May 2 2025
+           Simba SC                   v Mashujaa FC                2-1
+
+▪ Matchday 25
+  Sat Apr 5 2025
+           Pamba Jiji FC              v Tabora United FC           1-0
+           Mashujaa FC                v Singida Fountain Gate FC   3-0
+  Sun Apr 6 2025
+           Tanzania Prisons FC        v Kagera Sugar FC            1-0
+           Singida Black Stars FC     v Azam FC                    1-0
+           Dodoma Jiji FC             v KenGold FC                 3-0
+           Namungo FC                 v KMC FC                     2-1
+  Mon Apr 7 2025
+           Young Africans SC          v Coastal Union FC           1-0
+  Mon May 5 2025
+           JKT Tanzania FC            v Simba SC                   0-1
+
+▪ Matchday 26
+  Tue Apr 8 2025
+           Pamba Jiji FC              v Singida Fountain Gate FC   1-1
+  Wed Apr 9 2025
+           KenGold FC                 v Tanzania Prisons FC        1-3
+           Dodoma Jiji FC             v Kagera Sugar FC            2-0
+  Thu Apr 10 2025
+           JKT Tanzania FC            v Namungo FC                 2-2
+           Mashujaa FC                v Tabora United FC           3-0
+           Coastal Union FC           v Singida Black Stars FC     2-1
+           Azam FC                    v Young Africans SC          1-2
+  Sun May 11 2025
+           KMC FC                     v Simba SC                   1-2
+
+▪ Matchday 27
+  Fri Apr 18 2025
+           KMC FC                     v Dodoma Jiji FC             2-1
+           Tanzania Prisons FC        v JKT Tanzania FC            3-2
+  Sat Apr 19 2025
+           Singida Black Stars FC     v Tabora United FC           3-0
+           Kagera Sugar FC            v Azam FC                    2-4
+  Sun Apr 20 2025
+           Namungo FC                 v Mashujaa FC                2-1
+  Mon Apr 21 2025
+           Singida Fountain Gate FC   v Young Africans SC          0-4
+           Coastal Union FC           v KenGold FC                 2-1
+  Thu May 8 2025
+           Simba SC                   v Pamba Jiji FC              5-1
+
+▪ Matchday 28
+  Mon May 12 2025
+           Tanzania Prisons FC        v Coastal Union FC           2-1
+           Kagera Sugar FC            v Mashujaa FC                0-1
+  Tue May 13 2025
+           JKT Tanzania FC            v Singida Fountain Gate FC   3-1
+           KenGold FC                 v Pamba Jiji FC              0-2
+           Young Africans SC          v Namungo FC                 3-0
+           Azam FC                    v Dodoma Jiji FC             5-0
+  Wed May 14 2025
+           Tabora United FC           v KMC FC                     0-1
+  Wed May 28 2025
+           Simba SC                   v Singida Black Stars FC     1-0
+
+▪ Matchday 29
+  Wed Jun 18 2025
+           Azam FC                    v Tabora United FC           5-0
+           Coastal Union FC           v Singida Fountain Gate FC   1-0
+           Dodoma Jiji FC             v Singida Black Stars FC     1-2
+           KenGold FC                 v Simba SC                   0-5
+           Mashujaa FC                v KMC FC                     1-1
+           Namungo FC                 v Kagera Sugar FC            0-0
+           Pamba Jiji FC              v JKT Tanzania FC            1-0
+           Tanzania Prisons FC        v Young Africans SC          0-5
+
+▪ Matchday 30
+  Sun Jun 22 2025
+           Coastal Union FC           v Tabora United FC           1-1
+           Mashujaa FC                v JKT Tanzania FC            0-0
+           Namungo FC                 v KenGold FC                 5-0
+           Pamba Jiji FC              v KMC FC                     1-1
+           Simba SC                   v Kagera Sugar FC            1-0
+           Singida Black Stars FC     v Tanzania Prisons FC        3-3
+           Singida Fountain Gate FC   v Azam FC                    2-3
+           Young Africans SC          v Dodoma Jiji FC             5-0
