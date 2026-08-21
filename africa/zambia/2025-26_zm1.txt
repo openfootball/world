@@ -1,0 +1,491 @@
+= Zambia Super League 2025/2026
+
+# Date       Sat Aug 16 2025 - Sun May 24 2026 (281d)
+# Teams      18
+# Matches    306
+# Source     https://www.rsssf.org/tablesz/zamb2026.html
+# Retrieved  2026-08-21
+
+
+▪ Matchday 1
+  Sat Aug 16 2025
+           Kansanshi Dynamos    v Kabwe Warriors       0-0
+           Mines United         v Mufulira Wanderers   1-2
+           FC MUZA              v Zanaco               0-0
+           NAPSA Stars          v Green Eagles         0-2
+           Nchanga Rangers      v Mutondo Stars        2-0
+           ZESCO United         v Konkola Blades       0-3 [awarded]
+           Nkwazi               v Green Buffaloes      1-2
+           Prison Leopards      v Nkana                0-0
+  Sat Oct 11 2025
+           Power Dynamos        v Red Arrows           1-2
+
+▪ Matchday 2
+  Sat Aug 23 2025
+           Kabwe Warriors       v Prison Leopards      0-0
+           Konkola Blades       v FC MUZA              0-2
+           Mufulira Wanderers   v NAPSA Stars          0-0
+           Nkana                v Nkwazi               1-1
+           Red Arrows           v Mines United         4-1
+           Zanaco               v Kansanshi Dynamos    1-0
+           ZESCO United         v Mutondo Stars        3-0
+  Sun Aug 24 2025
+           Green Buffaloes      v Power Dynamos        1-2
+           Green Eagles         v Nchanga Rangers      0-1
+
+▪ Matchday 3
+  Sat Aug 30 2025
+           NAPSA Stars          v Red Arrows           1-1
+           Nkana                v Green Buffaloes      0-3 [awarded]
+           Prison Leopards      v Zanaco               0-1
+           Kansanshi Dynamos    v Konkola Blades       1-1
+           FC MUZA              v Mutondo Stars        1-0
+           ZESCO United         v Green Eagles         1-1
+  Sun Aug 31 2025
+           Nchanga Rangers      v Mufulira Wanderers   2-0
+           Mines United         v Power Dynamos        0-0
+           Nkwazi               v Kabwe Warriors       0-0
+
+▪ Matchday 4
+  Sat Sep 13 2025
+           Kabwe Warriors       v Nkana                1-0
+           Red Arrows           v Nchanga Rangers      2-0
+           Power Dynamos        v NAPSA Stars          2-0
+           Mufulira Wanderers   v ZESCO United         0-1
+           Konkola Blades       v Prison Leopards      1-1
+           Green Buffaloes      v Mines United         2-0
+           Green Eagles         v FC MUZA              0-1
+  Sun Sep 14 2025
+           Zanaco               v Nkwazi               1-1
+           Mutondo Stars        v Kansanshi Dynamos    1-0
+
+▪ Matchday 5
+  Sat Sep 20 2025
+           Kansanshi Dynamos    v Green Eagles         0-1
+           Nkwazi               v Konkola Blades       0-1
+           Kabwe Warriors       v Green Buffaloes      1-0
+           FC MUZA              v Mufulira Wanderers   0-1
+  Sun Sep 21 2025
+           Prison Leopards      v Mutondo Stars        1-1
+           Nkana                v Zanaco               0-1
+           NAPSA Stars          v Mines United         1-0
+  Wed Oct 29 2025
+           Nchanga Rangers      v Power Dynamos        0-1
+  Sat Dec 13 2025
+           ZESCO United         v Red Arrows           3-1
+
+▪ Matchday 6
+  Fri Sep 26 2025
+           Konkola Blades       v Nkana                0-0
+           Mutondo Stars        v Nkwazi               1-0
+           Mufulira Wanderers   v Kansanshi Dynamos    0-0
+  Sat Sep 27 2025
+           Red Arrows           v FC MUZA              1-0
+           Green Buffaloes      v NAPSA Stars          0-0
+           Green Eagles         v Prison Leopards      2-2
+           Mines United         v Nchanga Rangers      1-2
+  Sun Sep 28 2025
+           Zanaco               v Kabwe Warriors       3-2
+  Wed Nov 5 2025
+           Power Dynamos        v ZESCO United         1-0
+
+▪ Matchday 7
+  Fri Oct 3 2025
+           Zanaco               v Green Buffaloes      1-1
+  Sat Oct 4 2025
+           Nkwazi               v Green Eagles         1-1
+           Kabwe Warriors       v Konkola Blades       1-0
+           FC MUZA              v Power Dynamos        0-0
+           Nkana                v Mutondo Stars        0-0
+  Sun Oct 5 2025
+           Prison Leopards      v Mufulira Wanderers   0-1
+           Kansanshi Dynamos    v Red Arrows           1-1
+           ZESCO United         v Mines United         5-0
+           Nchanga Rangers      v NAPSA Stars          1-1
+
+▪ Matchday 8
+  Fri Oct 17 2025
+           Mufulira Wanderers   v Nkwazi               1-1
+  Sat Oct 18 2025
+           Green Buffaloes      v Nchanga Rangers      1-1
+  Sun Oct 19 2025
+           Green Eagles         v Nkana                2-0
+           Red Arrows           v Prison Leopards      3-1
+           Konkola Blades       v Zanaco               0-1
+           Mines United         v FC MUZA              0-1
+           Mutondo Stars        v Kabwe Warriors       1-2
+  Thu Oct 30 2025
+           NAPSA Stars          v ZESCO United         1-0
+  Thu Nov 13 2025
+           Power Dynamos        v Kansanshi Dynamos    2-0
+
+▪ Matchday 9
+  Sat Oct 25 2025
+           Kansanshi Dynamos    v Mines United         1-1
+           FC MUZA              v NAPSA Stars          3-2
+           Nkwazi               v Red Arrows           0-0
+           Nkana                v Mufulira Wanderers   0-1
+           Konkola Blades       v Green Buffaloes      2-0
+  Sun Oct 26 2025
+           Zanaco               v Mutondo Stars        2-0
+  Thu Nov 13 2025
+           Kabwe Warriors       v Green Eagles         0-0
+  Wed Dec 3 2025
+           Prison Leopards      v Power Dynamos        1-1
+  Wed Dec 17 2025
+           ZESCO United         v Nchanga Rangers      0-0
+
+▪ Matchday 10
+  Sat Oct 18 2025
+           NAPSA Stars          v Kansanshi Dynamos    1-1
+  Sat Nov 1 2025
+           Mutondo Stars        v Konkola Blades       1-2
+           Red Arrows           v Nkana                3-0
+           Green Eagles         v Zanaco               1-0
+           Mines United         v Prison Leopards      2-2
+           Mufulira Wanderers   v Kabwe Warriors       0-1
+  Sun Nov 2 2025
+           Nchanga Rangers      v FC MUZA              1-0
+           Green Buffaloes      v ZESCO United         2-1
+           Power Dynamos        v Nkwazi               1-0
+
+▪ Matchday 11
+  Fri Nov 7 2025
+           Mutondo Stars        v Green Buffaloes      0-0
+  Sat Nov 8 2025
+           FC MUZA              v ZESCO United         0-0
+           Nkana                v Power Dynamos        1-1
+           Nkwazi               v Mines United         2-1
+           Prison Leopards      v NAPSA Stars          2-0
+  Sun Nov 9 2025
+           Kabwe Warriors       v Red Arrows           0-1
+           Kansanshi Dynamos    v Nchanga Rangers      1-0
+           Konkola Blades       v Green Eagles         0-0
+           Zanaco               v Mufulira Wanderers   1-0
+
+▪ Matchday 12
+  Fri Nov 21 2025
+           NAPSA Stars          v Nkwazi               0-0
+  Sat Nov 22 2025
+           Mufulira Wanderers   v Konkola Blades       2-0
+           Nchanga Rangers      v Prison Leopards      2-0
+           Mines United         v Nkana                1-1
+           Green Buffaloes      v FC MUZA              1-5
+  Sun Nov 23 2025
+           Green Eagles         v Mutondo Stars        1-1
+           Red Arrows           v Zanaco               2-1
+  Sat Dec 13 2025
+           Power Dynamos        v Kabwe Warriors       1-1
+  Sat Dec 20 2025
+           ZESCO United         v Kansanshi Dynamos    2-0
+
+▪ Matchday 13
+  Sat Nov 29 2025
+           Kansanshi Dynamos    v FC MUZA              0-0
+  Sun Nov 30 2025
+           Kabwe Warriors       v Mines United         2-0
+           Green Eagles         v Green Buffaloes      1-1
+           Nkana                v NAPSA Stars          1-0
+           Mutondo Stars        v Mufulira Wanderers   0-0
+           Konkola Blades       v Red Arrows           1-1
+           Nkwazi               v Nchanga Rangers      0-1
+  Sat Dec 20 2025
+           Zanaco               v Power Dynamos        1-0
+  Wed Dec 24 2025
+           Prison Leopards      v ZESCO United         0-0
+
+▪ Matchday 14
+  Sat Dec 6 2025
+           ZESCO United         v Nkwazi               0-1
+           Mines United         v Zanaco               1-0
+           Mufulira Wanderers   v Green Eagles         1-0
+           Green Buffaloes      v Kansanshi Dynamos    1-1
+           NAPSA Stars          v Kabwe Warriors       2-0
+  Sun Dec 7 2025
+           FC MUZA              v Prison Leopards      1-1
+           Nchanga Rangers      v Nkana                1-1
+           Power Dynamos        v Konkola Blades       2-1
+           Red Arrows           v Mutondo Stars        2-0
+
+▪ Matchday 15
+  Sat Jan 10 2026
+           Mutondo Stars        v Power Dynamos        0-2
+  Sun Jan 11 2026
+           Nkana                v ZESCO United         2-1
+  Thu Jan 15 2026
+           Zanaco               v NAPSA Stars          0-2
+  Sat Jan 17 2026
+           Konkola Blades       v Mines United         1-1
+           Nkwazi               v FC MUZA              2-2
+           Prison Leopards      v Kansanshi Dynamos    0-3
+  Sun Jan 18 2026
+           Green Eagles         v Red Arrows           1-0
+  Wed Jan 28 2026
+           Kabwe Warriors       v Nchanga Rangers      0-1
+           Mufulira Wanderers   v Green Buffaloes      2-1
+
+▪ Matchday 16
+  Wed Jan 14 2026
+           Power Dynamos        v Green Eagles         1-0
+  Sat Jan 17 2026
+           ZESCO United         v Kabwe Warriors       1-0
+  Sat Jan 24 2026
+           Green Buffaloes      v Prison Leopards      2-1
+           Kansanshi Dynamos    v Nkwazi               1-0
+           Mines United         v Mutondo Stars        0-0
+           FC MUZA              v Nkana                0-1
+           NAPSA Stars          v Konkola Blades       0-0
+           Nchanga Rangers      v Zanaco               0-0
+           Red Arrows           v Mufulira Wanderers   1-0
+
+▪ Matchday 17
+  Sun Jan 18 2026
+           Mufulira Wanderers   v Power Dynamos        0-1
+  Sat Jan 31 2026
+           Green Eagles         v Mines United         0-1
+           Kabwe Warriors       v FC MUZA              1-0
+           Konkola Blades       v Nchanga Rangers      1-0
+           Nkana                v Kansanshi Dynamos    1-0
+           Nkwazi               v Prison Leopards      2-0
+  Sun Feb 1 2026
+           Mutondo Stars        v NAPSA Stars          1-1
+           Green Buffaloes      v Red Arrows           0-0
+  Thu Feb 19 2026
+           Zanaco               v ZESCO United         1-2
+
+▪ Matchday 18
+  Fri Feb 6 2026
+           Mutondo Stars        v Nchanga Rangers      0-0
+           Nkana                v Prison Leopards      2-0
+           Mufulira Wanderers   v Mines United         1-0
+  Sat Feb 7 2026
+           Green Buffaloes      v Nkwazi               0-0
+           Green Eagles         v NAPSA Stars          1-0
+           Kabwe Warriors       v Kansanshi Dynamos    1-1
+           Zanaco               v FC MUZA              0-1
+  Thu Feb 26 2026
+           Konkola Blades       v ZESCO United         1-0
+           Red Arrows           v Power Dynamos        0-0
+
+▪ Matchday 19
+  Wed Feb 11 2026
+           Prison Leopards      v Kabwe Warriors       1-0
+           Kansanshi Dynamos    v Zanaco               1-0
+           Nkwazi               v Nkana                0-1
+           Mines United         v Red Arrows           1-1
+  Thu Feb 12 2026
+           NAPSA Stars          v Mufulira Wanderers   0-1
+           FC MUZA              v Konkola Blades       1-1
+           Nchanga Rangers      v Green Eagles         1-1
+  Thu Mar 5 2026
+           Mutondo Stars        v ZESCO United         1-0
+           Power Dynamos        v Green Buffaloes      3-0
+
+▪ Matchday 20
+  Sat Feb 14 2026
+           Green Buffaloes      v Nkana                1-0
+           Kabwe Warriors       v Nkwazi               4-0
+  Sun Feb 15 2026
+           Mufulira Wanderers   v Nchanga Rangers      0-1
+           Konkola Blades       v Kansanshi Dynamos    2-1
+           Zanaco               v Prison Leopards      3-0
+           Mutondo Stars        v FC MUZA              2-1
+           Red Arrows           v NAPSA Stars          2-0
+  Wed Apr 8 2026
+           Power Dynamos        v Mines United         3-0
+  Thu May 7 2026
+           Green Eagles         v ZESCO United         1-0
+
+▪ Matchday 21
+  Sat Feb 21 2026
+           NAPSA Stars          v Power Dynamos        1-3
+           Kansanshi Dynamos    v Mutondo Stars        1-1
+           Mines United         v Green Buffaloes      1-1
+           FC MUZA              v Green Eagles         1-2
+           Nchanga Rangers      v Red Arrows           2-1
+           Nkana                v Kabwe Warriors       0-1
+  Sun Feb 22 2026
+           Prison Leopards      v Konkola Blades       1-1
+           ZESCO United         v Mufulira Wanderers   1-2
+           Nkwazi               v Zanaco               0-1
+
+▪ Matchday 22
+  Sat Feb 28 2026
+           Mines United         v NAPSA Stars          0-1
+           Mufulira Wanderers   v FC MUZA              1-0
+           Zanaco               v Nkana                2-0
+  Sun Mar 1 2026
+           Green Eagles         v Kansanshi Dynamos    2-1
+           Green Buffaloes      v Kabwe Warriors       0-2
+           Mutondo Stars        v Prison Leopards      2-0
+           Power Dynamos        v Nchanga Rangers      3-1
+           Red Arrows           v ZESCO United         3-1
+  Sat Mar 28 2026
+           Konkola Blades       v Nkwazi               0-1
+
+▪ Matchday 23
+  Sat Mar 7 2026
+           Kansanshi Dynamos    v Mufulira Wanderers   2-0
+           FC MUZA              v Red Arrows           2-1
+           Nchanga Rangers      v Mines United         3-0
+           Nkana                v Konkola Blades       2-0
+           Prison Leopards      v Green Eagles         3-0
+  Sun Mar 8 2026
+           Nkwazi               v Mutondo Stars        1-1
+           NAPSA Stars          v Green Buffaloes      1-1
+           ZESCO United         v Power Dynamos        2-3
+  Wed May 20 2026
+           Kabwe Warriors       v Zanaco               0-0
+
+▪ Matchday 24
+  Wed Mar 11 2026
+           Green Eagles         v Nkwazi               1-0
+           Red Arrows           v Kansanshi Dynamos    1-0
+           Konkola Blades       v Kabwe Warriors       2-1
+           Mufulira Wanderers   v Prison Leopards      1-0
+           Mutondo Stars        v Nkana                1-1
+  Thu Mar 12 2026
+           NAPSA Stars          v Nchanga Rangers      0-1
+           Power Dynamos        v FC MUZA              4-2
+           Green Buffaloes      v Zanaco               1-1
+  Wed May 20 2026
+           Mines United         v ZESCO United         1-2
+
+▪ Matchday 25
+  Sat Mar 14 2026
+           Prison Leopards      v Red Arrows           0-0
+           Nkana                v Green Eagles         0-0
+  Sun Mar 15 2026
+           Kabwe Warriors       v Mutondo Stars        1-0
+           Nkwazi               v Mufulira Wanderers   1-1
+           FC MUZA              v Mines United         1-0
+           Nchanga Rangers      v Green Buffaloes      1-2
+           Zanaco               v Konkola Blades       1-1
+  Thu Apr 23 2026
+           ZESCO United         v NAPSA Stars          1-1
+  Wed May 6 2026
+           Kansanshi Dynamos    v Power Dynamos        0-0
+
+▪ Matchday 26
+  Wed Mar 18 2026
+           Mines United         v Kansanshi Dynamos    1-1
+  Thu Mar 19 2026
+           Red Arrows           v Nkwazi               0-0
+           Green Eagles         v Kabwe Warriors       1-1
+           Mufulira Wanderers   v Nkana                1-1
+           Mutondo Stars        v Zanaco               0-2
+           NAPSA Stars          v FC MUZA              1-2
+           Green Buffaloes      v Konkola Blades       0-0
+  Fri Mar 20 2026
+           Nchanga Rangers      v ZESCO United         0-1
+           Power Dynamos        v Prison Leopards      1-1
+
+▪ Matchday 27
+  Wed Apr 1 2026
+           Kansanshi Dynamos    v NAPSA Stars          3-2
+           Konkola Blades       v Mutondo Stars        1-1
+           Nkana                v Red Arrows           1-2
+           Prison Leopards      v Mines United         3-0
+           ZESCO United         v Green Buffaloes      1-0
+  Wed Apr 8 2026
+           Kabwe Warriors       v Mufulira Wanderers   2-0
+           FC MUZA              v Nchanga Rangers      2-1
+  Wed Apr 22 2026
+           Nkwazi               v Power Dynamos        0-1
+           Zanaco               v Green Eagles         1-2
+
+▪ Matchday 28
+  Sat Apr 11 2026
+           Green Buffaloes      v Mutondo Stars        1-1
+           Mines United         v Nkwazi               0-1
+           NAPSA Stars          v Prison Leopards      1-0
+           Power Dynamos        v Nkana                1-0
+  Sun Apr 12 2026
+           ZESCO United         v FC MUZA              0-0
+           Red Arrows           v Kabwe Warriors       3-1
+           Nchanga Rangers      v Kansanshi Dynamos    1-2
+           Green Eagles         v Konkola Blades       1-1
+           Mufulira Wanderers   v Zanaco               2-0
+
+▪ Matchday 29
+  Wed Apr 15 2026
+           Nkwazi               v NAPSA Stars          2-1
+           Mutondo Stars        v Green Eagles         0-1
+           Nkana                v Mines United         3-1
+           Kabwe Warriors       v Power Dynamos        0-3
+  Thu Apr 16 2026
+           FC MUZA              v Green Buffaloes      0-0
+           Kansanshi Dynamos    v ZESCO United         0-1
+           Konkola Blades       v Mufulira Wanderers   2-0
+           Prison Leopards      v Nchanga Rangers      1-0
+  Wed May 6 2026
+           Zanaco               v Red Arrows           0-0
+
+▪ Matchday 30
+  Wed Apr 29 2026
+           Green Buffaloes      v Green Eagles         1-0
+           Mines United         v Kabwe Warriors       0-1
+           Mufulira Wanderers   v Mutondo Stars        1-0
+           FC MUZA              v Kansanshi Dynamos    0-3
+           Power Dynamos        v Zanaco               2-0
+           Red Arrows           v Konkola Blades       1-1
+           ZESCO United         v Prison Leopards      1-1
+           Nchanga Rangers      v Nkwazi               1-0
+  Thu Apr 30 2026
+           NAPSA Stars          v Nkana                1-1
+
+▪ Matchday 31
+  Sat May 2 2026
+           Kansanshi Dynamos    v Green Buffaloes      1-0
+           Konkola Blades       v Power Dynamos        1-2
+           Mutondo Stars        v Red Arrows           1-0
+           Prison Leopards      v FC MUZA              0-2
+           Zanaco               v Mines United         2-0
+  Sun May 3 2026
+           Green Eagles         v Mufulira Wanderers   2-0
+           Nkwazi               v ZESCO United         1-1
+           Kabwe Warriors       v NAPSA Stars          1-0
+           Nkana                v Nchanga Rangers      0-1
+
+▪ Matchday 32
+  Fri May 8 2026
+           Nchanga Rangers      v Kabwe Warriors       1-1
+  Tue May 12 2026
+           NAPSA Stars          v Zanaco               2-0
+  Wed May 13 2026
+           Kansanshi Dynamos    v Prison Leopards      1-0
+           Green Buffaloes      v Mufulira Wanderers   1-0
+           Power Dynamos        v Mutondo Stars        2-2
+           ZESCO United         v Nkana                0-1
+  Thu May 14 2026
+           Red Arrows           v Green Eagles         2-1
+           Mines United         v Konkola Blades       1-2
+  Wed May 20 2026
+           FC MUZA              v Nkwazi               0-1
+
+▪ Matchday 33
+  Sat May 16 2026
+           Kabwe Warriors       v ZESCO United         0-1
+           Zanaco               v Nchanga Rangers      1-0
+  Sun May 17 2026
+           Nkana                v FC MUZA              1-2
+           Mutondo Stars        v Mines United         3-1
+           Green Eagles         v Power Dynamos        0-1
+           Konkola Blades       v NAPSA Stars          0-0
+           Mufulira Wanderers   v Red Arrows           0-0
+           Prison Leopards      v Green Buffaloes      1-0
+           Nkwazi               v Kansanshi Dynamos    1-0
+
+▪ Matchday 34
+  Fri May 22 2026
+           Mines United         v Green Eagles         1-0
+           Red Arrows           v Green Buffaloes      2-0
+  Sat May 23 2026
+           Kansanshi Dynamos    v Nkana                0-0
+           Power Dynamos        v Mufulira Wanderers   2-0
+           Nchanga Rangers      v Konkola Blades       1-2
+  Sun May 24 2026
+           ZESCO United         v Zanaco               6-1
+           FC MUZA              v Kabwe Warriors       2-1
+           Prison Leopards      v Nkwazi               1-0
+           NAPSA Stars          v Mutondo Stars        1-0
