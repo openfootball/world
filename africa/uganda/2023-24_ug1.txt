@@ -1,0 +1,411 @@
+= Uganda Premier League 2023/2024
+
+# Date       Fri Sep 15 2023 - Sat May 18 2024 (246d)
+# Teams      16
+# Matches    225
+# Source     https://www.rsssf.org/tableso/oeg2024.html
+# Retrieved  2026-08-21
+
+
+▪ Matchday 1
+  Fri Sep 15 2023
+           Bright Stars FC     v BUL FC              0-1
+           SC Villa            v Kitara FC           1-2
+           Mbarara City FC     v NEC FC              0-1
+  Sat Sep 16 2023
+           UPDF FC             v URA FC              0-0
+           Wakiso Giants FC    v Maroons FC          0-3
+           Gaddafi Modern FC   v Vipers SC           1-2
+           Arua Hill SC        v Busoga United FC    0-1
+  Sun Oct 8 2023
+           KCCA FC             v Express FC          1-2
+
+▪ Matchday 2
+  Thu Sep 21 2023
+           Vipers SC           v Arua Hill SC        2-0
+  Fri Sep 22 2023
+           URA FC              v Gaddafi Modern FC   2-0
+           NEC FC              v Busoga United FC    5-0
+           Kitara FC           v UPDF FC             1-0
+  Sat Sep 23 2023
+           BUL FC              v KCCA FC             1-0
+           Express FC          v Mbarara City FC     0-0
+           Wakiso Giants FC    v Bright Stars FC     1-1
+  Sun Sep 24 2023
+           Maroons FC          v SC Villa            1-1
+
+▪ Matchday 3
+  Thu Sep 28 2023
+           Bright Stars FC     v URA FC              1-1
+           Busoga United FC    v Express FC          0-2
+  Fri Sep 29 2023
+           Gaddafi Modern FC   v Kitara FC           1-2
+           SC Villa            v NEC FC              3-0
+           UPDF FC             v Wakiso Giants FC    0-2
+  Sun Oct 1 2023
+           Arua Hill SC        v BUL FC              1-2
+  Tue Oct 3 2023
+           Mbarara City FC     v Vipers SC           0-0
+           KCCA FC             v Maroons FC          1-2
+
+▪ Matchday 4
+  Thu Oct 19 2023
+           Busoga United FC    v Mbarara City FC     0-0
+           Arua Hill SC        abd.   Gaddafi Modern FC   [abandoned at 0-0 after 10' due to heavy rain]
+  Fri Oct 20 2023
+           Arua Hill SC        v Gaddafi Modern FC   0-1 [remaining 80']
+           Kitara FC           v KCCA FC             3-1
+           NEC FC              v UPDF FC             2-0
+           BUL FC              v Maroons FC          3-0
+           Vipers SC           v SC Villa            1-1
+  Sat Oct 21 2023
+           URA FC              v Wakiso Giants FC    1-0
+           Express FC          v Bright Stars FC     1-0
+
+▪ Matchday 5
+  Tue Oct 24 2023
+           Gaddafi Modern FC   v Busoga United FC    0-1
+           SC Villa            v BUL FC              1-2
+  Wed Oct 25 2023
+           Mbarara City FC     v Arua Hill SC        1-0
+           Wakiso Giants FC    v Kitara FC           1-3
+  Thu Oct 26 2023
+           KCCA FC             v NEC FC              0-2
+  Fri Oct 27 2023
+           Maroons FC          v URA FC              1-1
+           Bright Stars FC     v Vipers SC           0-2
+           UPDF FC             v Express FC          1-1
+
+▪ Matchday 6
+  Tue Oct 31 2023
+           Mbarara City FC     v Bright Stars FC     1-1
+           BUL FC              v URA FC              1-0
+           Arua Hill SC        v KCCA FC             1-1
+           Vipers SC           v Wakiso Giants FC    3-0
+  Wed Nov 1 2023
+           NEC FC              v Gaddafi Modern FC   0-3
+           Busoga United FC    v UPDF FC             0-2
+           Kitara FC           v Maroons FC          0-1
+  Fri Dec 8 2023
+           Express FC          v SC Villa            1-2
+
+▪ Matchday 7
+  Thu Nov 9 2023
+           SC Villa            v Arua Hill SC        3-1
+           UPDF FC             v BUL FC              2-0
+  Fri Nov 10 2023
+           URA FC              v Kitara FC           2-2
+           Bright Stars FC     v Busoga United FC    3-2
+           KCCA FC             v Vipers SC           3-1
+  Sat Nov 11 2023
+           Gaddafi Modern FC   v Mbarara City FC     2-1
+           Maroons FC          v NEC FC              0-1
+  Fri Nov 17 2023
+           Wakiso Giants FC    v Express FC          0-0
+
+▪ Matchday 8
+  Thu Nov 23 2023
+           Gaddafi Modern FC   v Bright Stars FC     2-2
+           Vipers SC           v URA FC              2-0
+  Fri Nov 24 2023
+           Arua Hill SC        v UPDF FC             2-0
+           Express FC          v Maroons FC          0-1
+           Busoga United FC    v KCCA FC             2-1
+  Sat Nov 25 2023
+           Mbarara City FC     v SC Villa            0-0
+           NEC FC              v Wakiso Giants FC    1-1
+  Sun Nov 26 2023
+           BUL FC              v Kitara FC           2-1
+
+▪ Matchday 9
+  Thu Nov 30 2023
+           SC Villa            v Busoga United FC    2-0
+           Bright Stars FC     v Arua Hill SC        3-1
+  Fri Dec 1 2023
+           URA FC              v Express FC          2-1
+           Wakiso Giants FC    v BUL FC              0-3
+           KCCA FC             v Gaddafi Modern FC   6-1
+  Sat Dec 2 2023
+           Kitara FC           v NEC FC              1-0
+           Maroons FC          v Mbarara City FC     1-0
+  Sun Dec 3 2023
+           UPDF FC             v Vipers SC           0-1
+
+▪ Matchday 10
+  Tue Dec 5 2023
+           Bright Stars FC     v SC Villa            1-1
+           Arua Hill SC        v Wakiso Giants FC    2-2
+           Express FC          v BUL FC              1-1
+  Wed Dec 6 2023
+           Mbarara City FC     v KCCA FC             2-1
+           Busoga United FC    v Maroons FC          1-1
+           NEC FC              v URA FC              2-0
+  Thu Dec 7 2023
+           Gaddafi Modern FC   v UPDF FC             2-1
+           Vipers SC           v Kitara FC           2-1
+
+▪ Matchday 11
+  Sun Dec 10 2023
+           URA FC              v Arua Hill SC        4-1
+           BUL FC              v NEC FC              1-1
+           Wakiso Giants FC    v Busoga United FC    3-0
+  Mon Dec 11 2023
+           UPDF FC             v Mbarara City FC     1-1
+  Tue Dec 12 2023
+           Kitara FC           v Express FC          1-0
+           KCCA FC             v Bright Stars FC     3-0
+  Wed Dec 13 2023
+           SC Villa            v Gaddafi Modern FC   1-0
+           Maroons FC          v Vipers SC           1-1
+
+▪ Matchday 12
+  Wed Dec 20 2023
+           Mbarara City FC     v Kitara FC           0-0
+           Arua Hill SC        v Maroons FC          1-3
+  Thu Dec 21 2023
+           Busoga United FC    v URA FC              2-2
+           NEC FC              v Express FC          2-5
+  Fri Dec 22 2023
+           SC Villa            v KCCA FC             1-2
+           Bright Stars FC     v UPDF FC             2-1
+           Vipers SC           v BUL FC              2-3
+  Sat Dec 23 2023
+           Gaddafi Modern FC   v Wakiso Giants FC    0-1
+
+▪ Matchday 13
+  Thu Dec 28 2023
+           Kitara FC           v Arua Hill SC        7-1
+           BUL FC              v Busoga United FC    1-0
+           UPDF FC             v KCCA FC             1-2
+  Fri Dec 29 2023
+           URA FC              v Mbarara City FC     3-0
+           NEC FC              v Bright Stars FC     0-0
+  Sat Dec 30 2023
+           Wakiso Giants FC    v SC Villa            0-1
+           Express FC          v Vipers SC           2-0
+           Maroons FC          v Gaddafi Modern FC   5-0
+
+▪ Matchday 14
+  Tue Jan 2 2024
+           Busoga United FC    v Kitara FC           2-1
+           Mbarara City FC     v Wakiso Giants FC    2-1
+           Bright Stars FC     v Maroons FC          1-0
+           SC Villa            v UPDF FC             3-0
+           KCCA FC             v URA FC              3-2
+  Wed Jan 3 2024
+           Arua Hill SC        v Express FC          0-1
+           Gaddafi Modern FC   v BUL FC              2-1
+           Vipers SC           v NEC FC              4-1
+
+▪ Matchday 15
+  Fri Jan 5 2024
+           Kitara FC           v Bright Stars FC     3-1
+           Maroons FC          v UPDF FC             4-2
+  Sat Jan 6 2024
+           Wakiso Giants FC    v KCCA FC             2-1
+           BUL FC              v Mbarara City FC     1-1
+           Express FC          v Gaddafi Modern FC   3-0
+           NEC FC              v Arua Hill SC        2-1
+  Sun Jan 7 2024
+           URA FC              v SC Villa            0-0
+           Vipers SC           v Busoga United FC    3-0
+
+▪ Matchday 16
+  Thu Feb 1 2024
+           SC Villa            v Maroons FC          2-1
+  Fri Feb 2 2024
+           Mbarara City FC     v Express FC          3-1
+           Gaddafi Modern FC   v URA FC              0-1
+           KCCA FC             v BUL FC              0-0
+  Sat Feb 3 2024
+           UPDF FC             v Kitara FC           0-3
+  Sun Feb 4 2024
+           Busoga United FC    v NEC FC              2-3
+           Bright Stars FC     v Wakiso Giants FC    1-0
+           Vipers SC            bye
+
+▪ Matchday 17
+  Tue Feb 6 2024
+           URA FC              v UPDF FC             1-0
+  Wed Feb 7 2024
+           BUL FC              v Bright Stars FC     2-1
+  Thu Feb 8 2024
+           Maroons FC          v Wakiso Giants FC    0-0
+           Vipers SC           v Gaddafi Modern FC   0-0
+  Fri Feb 9 2024
+           Kitara FC           v SC Villa            1-1
+           NEC FC              v Mbarara City FC     2-0
+  Sat Feb 10 2024
+           Express FC          v KCCA FC             3-4
+           Busoga United FC     bye
+
+▪ Matchday 18
+  Tue Feb 13 2024
+           UPDF FC             v NEC FC              2-2
+           Wakiso Giants FC    v URA FC              1-0
+  Thu Feb 22 2024
+           Bright Stars FC     v Express FC          1-1
+           Mbarara City FC     v Busoga United FC    1-0
+  Fri Feb 23 2024
+           Maroons FC          v BUL FC              0-0
+           KCCA FC             v Kitara FC           0-1
+  Tue Apr 9 2024
+           SC Villa            v Vipers SC           0-0
+           Gaddafi Modern FC    bye
+
+▪ Matchday 19
+  Tue Feb 27 2024
+           Express FC          v UPDF FC             3-1
+           Kitara FC           v Wakiso Giants FC    1-0
+  Wed Feb 28 2024
+           NEC FC              v KCCA FC             0-3
+  Thu Feb 29 2024
+           Busoga United FC    v Gaddafi Modern FC   1-1
+           URA FC              v Maroons FC          2-0
+           Vipers SC           v Bright Stars FC     1-1
+  Fri Mar 15 2024
+           BUL FC              v SC Villa            0-1
+           Mbarara City FC     bye
+
+▪ Matchday 20
+  Fri Mar 8 2024
+           URA FC              v BUL FC              1-1
+           Bright Stars FC     v Mbarara City FC     1-1
+           Maroons FC          v Kitara FC           0-0
+  Sat Mar 9 2024
+           UPDF FC             v Busoga United FC    2-0
+           Gaddafi Modern FC   v NEC FC              0-1
+           SC Villa            v Express FC          1-0
+  Sun Mar 10 2024
+           Wakiso Giants FC    v Vipers SC           0-4
+           KCCA FC             bye
+
+▪ Matchday 21
+  Tue Mar 12 2024
+           BUL FC              v UPDF FC             0-1
+  Wed Mar 13 2024
+           Express FC          v Wakiso Giants FC    2-3
+           Mbarara City FC     v Gaddafi Modern FC   5-0
+           NEC FC              v Maroons FC          2-1
+  Thu Mar 14 2024
+           Kitara FC           v URA FC              3-0
+           Busoga United FC    v Bright Stars FC     2-2
+  Fri Mar 15 2024
+           Vipers SC           v KCCA FC             0-1
+           SC Villa            bye
+
+▪ Matchday 22
+  Thu Mar 28 2024
+           Maroons FC          v Express FC          2-0
+           KCCA FC             v Busoga United FC    4-1
+  Fri Mar 29 2024
+           Kitara FC           v BUL FC              0-0
+           Wakiso Giants FC    v NEC FC              1-0
+  Sat Mar 30 2024
+           SC Villa            v Mbarara City FC     2-1
+           URA FC              v Vipers SC           0-2
+  Sun Mar 31 2024
+           Bright Stars FC     v Gaddafi Modern FC   4-0
+           UPDF FC             bye
+
+▪ Matchday 23
+  Thu Apr 4 2024
+           Busoga United FC    v SC Villa            1-1
+           NEC FC              v Kitara FC           1-0
+  Fri Apr 5 2024
+           Mbarara City FC     v Maroons FC          0-0
+           Gaddafi Modern FC   v KCCA FC             1-2
+           Vipers SC           v UPDF FC             2-1
+  Sat Apr 6 2024
+           BUL FC              v Wakiso Giants FC    3-0
+           Express FC          v URA FC              1-0
+           Bright Stars FC     bye
+  Tue Apr 16 2024
+           URA FC              v NEC FC              2-0
+           UPDF FC             v Gaddafi Modern FC   1-1
+  Thu Apr 18 2024
+           Maroons FC          v Busoga United FC    3-0
+           KCCA FC             v Mbarara City FC     4-0
+  Fri Apr 19 2024
+           Kitara FC           v Vipers SC           0-2
+  Sat Apr 20 2024
+           BUL FC              v Express FC          2-0
+  Sun Apr 21 2024
+           SC Villa            v Bright Stars FC     1-1
+           Wakiso Giants FC    bye
+
+▪ Matchday 25
+  Tue Apr 23 2024
+           Vipers SC           v Maroons FC          1-1
+  Wed Apr 24 2024
+           Express FC          v Kitara FC           1-2
+           NEC FC              v BUL FC              1-0
+  Thu Apr 25 2024
+           Gaddafi Modern FC   v SC Villa            0-1
+           Bright Stars FC     v KCCA FC             2-2
+  Fri Apr 26 2024
+           Mbarara City FC     v UPDF FC             0-0
+           Busoga United FC    v Wakiso Giants FC    2-1
+           URA FC              bye
+
+▪ Matchday 26
+  Tue Apr 30 2024
+           Kitara FC           v Mbarara City FC     1-1
+           URA FC              v Busoga United FC    0-0
+  Wed May 1 2024
+           BUL FC              v Vipers SC           1-0
+           KCCA FC             v SC Villa            2-0
+  Thu May 2 2024
+           UPDF FC             v Bright Stars FC     1-0
+           Wakiso Giants FC    v Gaddafi Modern FC   3-0
+  Mon May 13 2024
+           Express FC          v NEC FC              1-2
+           Maroons FC          bye
+
+▪ Matchday 27
+  Tue May 7 2024
+           Gaddafi Modern FC   v Maroons FC          3-1
+           Mbarara City FC     v URA FC              0-0
+           KCCA FC             v UPDF FC             1-0
+  Wed May 8 2024
+           SC Villa            v Wakiso Giants FC    3-2
+           Bright Stars FC     v NEC FC              1-1
+           Vipers SC           v Express FC          1-0
+  Sat May 18 2024
+           Busoga United FC    v BUL FC              0-3
+           Kitara FC           bye
+
+▪ Matchday 28
+  Sat May 11 2024
+           URA FC              v KCCA FC             1-0
+           Kitara FC           v Busoga United FC    3-2
+           Maroons FC          v Bright Stars FC     0-0
+           BUL FC              v Gaddafi Modern FC   1-0
+           NEC FC              v Vipers SC           0-0
+           Wakiso Giants FC    v Mbarara City FC     2-0
+           UPDF FC             v SC Villa            0-2
+           Express FC          bye
+
+▪ Matchday 29
+  Tue May 14 2024
+           Bright Stars FC     v Kitara FC           1-0
+           Busoga United FC    v Vipers SC           1-2
+           KCCA FC             v Wakiso Giants FC    4-0
+           UPDF FC             v Maroons FC          2-1
+           SC Villa            v URA FC              2-1
+           Mbarara City FC     v BUL FC              0-0
+  Wed May 15 2024
+           Gaddafi Modern FC   v Express FC          3-2
+           NEC FC              bye
+
+▪ Matchday 30
+  Sun May 5 2024
+           Express FC          v Busoga United FC    1-2
+  Sat May 18 2024
+           Kitara FC           v Gaddafi Modern FC   3-0
+           Maroons FC          v KCCA FC             1-1
+           NEC FC              v SC Villa            0-2
+           URA FC              v Bright Stars FC     1-1
+           Vipers SC           v Mbarara City FC     4-1
+           Wakiso Giants FC    v UPDF FC             0-1
+           BUL FC              bye
