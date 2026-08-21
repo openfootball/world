@@ -1,0 +1,462 @@
+= Zambia Super League 2024/2025
+
+# Date       Sun Aug 18 2024 - Sat May 17 2025 (272d)
+# Teams      18
+# Matches    306
+# Source     https://www.rsssf.org/tablesz/zamb2025.html
+# Retrieved  2026-08-21
+
+
+▪ Matchday 1
+  Sun Aug 18 2024
+           Forest Rangers       v Atletico Lusaka      3-1
+           Green Eagles         v Kabwe Warriors       1-1
+           Indeni               v Zanaco               0-2
+           Mufulira Wanderers   v Power Dynamos        1-2
+           Nkana                v Lumwana Radiants     0-0
+           Nkwazi               v Mutondo Stars        2-0
+           Nchanga Rangers      v FC MUZA              3-0
+  Thu Sep 5 2024
+           NAPSA Stars          v ZESCO United         0-1
+           Red Arrows           v Green Buffaloes      1-0
+
+▪ Matchday 2
+  Sat Aug 24 2024
+           Kabwe Warriors       v Nchanga Rangers      2-0
+           Lumwana Radiants     v Green Eagles         0-1
+           FC MUZA              v Mufulira Wanderers   0-0
+  Sun Aug 25 2024
+           Green Buffaloes      v Indeni               4-0
+           Mutondo Stars        v Nkana                1-1
+           Zanaco               v Forest Rangers       1-1
+           Atletico Lusaka      v NAPSA Stars          1-1
+  Sun Sep 8 2024
+           Power Dynamos        v Red Arrows           0-0
+  Wed Sep 18 2024
+           ZESCO United         v Nkwazi               1-1
+
+▪ Matchday 3
+  Wed Aug 28 2024
+           Indeni               v Power Dynamos        0-0
+           Forest Rangers       v Green Buffaloes      0-0
+           Red Arrows           v FC MUZA              1-0
+           Green Eagles         v Mutondo Stars        1-1
+           Nchanga Rangers      v Lumwana Radiants     4-0
+           Nkwazi               v NAPSA Stars          0-1
+  Thu Aug 29 2024
+           Zanaco               v Atletico Lusaka      0-1
+  Sat Aug 31 2024
+           Mufulira Wanderers   v Kabwe Warriors       0-0
+  Sun Sep 1 2024
+           Nkana                v ZESCO United         0-1
+
+▪ Matchday 4
+  Sat Aug 31 2024
+           Power Dynamos        v Forest Rangers       1-1
+  Sun Sep 1 2024
+           Atletico Lusaka      v Nkwazi               0-0
+           Green Buffaloes      v Zanaco               2-1
+           Mutondo Stars        v Nchanga Rangers      1-1
+           FC MUZA              v Indeni               3-1
+  Wed Sep 11 2024
+           ZESCO United         v Green Eagles         1-0
+  Thu Sep 12 2024
+           Lumwana Radiants     v Mufulira Wanderers   0-2
+  Sat Sep 14 2024
+           NAPSA Stars          v Nkana                0-1
+  Wed Oct 30 2024
+           Kabwe Warriors       v Red Arrows           0-2
+
+▪ Matchday 5
+  Sat Sep 21 2024
+           Forest Rangers       v FC MUZA              2-2
+           Green Buffaloes      v Atletico Lusaka      0-0
+           Zanaco               v Power Dynamos        1-1
+           Green Eagles         v NAPSA Stars          1-1
+           Indeni               v Kabwe Warriors       0-1
+           Mufulira Wanderers   v Mutondo Stars        0-2
+           Nchanga Rangers      v ZESCO United         1-2
+  Sun Sep 22 2024
+           Nkana                v Nkwazi               0-0
+  Thu Oct 3 2024
+           Red Arrows           v Lumwana Radiants     0-0
+
+▪ Matchday 6
+  Sat Sep 28 2024
+           Power Dynamos        v Green Buffaloes      1-2
+           Kabwe Warriors       v Forest Rangers       2-2
+           Lumwana Radiants     v Indeni               2-1
+           Nkwazi               v Green Eagles         0-0
+  Sun Sep 29 2024
+           Mutondo Stars        v Red Arrows           3-1
+           FC MUZA              v Zanaco               2-2
+           ZESCO United         v Mufulira Wanderers   2-0
+           NAPSA Stars          v Nchanga Rangers      3-0
+           Atletico Lusaka      v Nkana                2-1
+
+▪ Matchday 7
+  Sat Oct 5 2024
+           Green Buffaloes      v FC MUZA              0-1
+           Green Eagles         v Nkana                2-1
+           Indeni               v Mutondo Stars        0-1
+           Mufulira Wanderers   v NAPSA Stars          1-0
+           Nchanga Rangers      v Nkwazi               1-1
+           Power Dynamos        v Atletico Lusaka      5-0
+           Zanaco               v Kabwe Warriors       0-2
+  Sun Oct 6 2024
+           Forest Rangers       v Lumwana Radiants     2-1
+           Red Arrows           v ZESCO United         2-0
+
+▪ Matchday 8
+  Sat Oct 19 2024
+           Kabwe Warriors       v Green Buffaloes      1-1
+           Lumwana Radiants     v Zanaco               0-0
+           FC MUZA              v Power Dynamos        0-1
+           NAPSA Stars          v Red Arrows           1-0
+           Nkwazi               v Mufulira Wanderers   2-1
+  Sun Oct 20 2024
+           Mutondo Stars        v Forest Rangers       2-1
+           ZESCO United         v Indeni               1-0
+           Atletico Lusaka      v Green Eagles         1-0
+  Wed Oct 23 2024
+           Nkana                v Nchanga Rangers      0-0
+
+▪ Matchday 9
+  Sat Oct 26 2024
+           Forest Rangers       v ZESCO United         2-2
+           Green Buffaloes      v Lumwana Radiants     2-0
+           Indeni               v NAPSA Stars          1-1
+           Mufulira Wanderers   v Nkana                1-3
+           FC MUZA              v Atletico Lusaka      2-0
+           Nchanga Rangers      v Green Eagles         1-2
+           Red Arrows           v Nkwazi               1-0
+           Zanaco               v Mutondo Stars        1-1
+  Sun Oct 27 2024
+           Power Dynamos        v Kabwe Warriors       2-1
+
+▪ Matchday 10
+  Sat Nov 2 2024
+           Nkana                v Red Arrows           3-1
+           Nkwazi               v Indeni               1-0
+           Atletico Lusaka      v Nchanga Rangers      0-0
+           Green Eagles         v Mufulira Wanderers   1-0
+           Kabwe Warriors       v FC MUZA              3-0
+           Lumwana Radiants     v Power Dynamos        0-2
+           NAPSA Stars          v Forest Rangers       0-0
+  Sun Nov 3 2024
+           Mutondo Stars        v Green Buffaloes      1-4
+           ZESCO United         v Zanaco               0-0
+
+▪ Matchday 11
+  Sat Nov 9 2024
+           Forest Rangers       v Nkwazi               0-2
+           Indeni               v Nkana                0-3
+           Kabwe Warriors       v Atletico Lusaka      3-0
+           Mufulira Wanderers   v Nchanga Rangers      2-0
+           FC MUZA              v Lumwana Radiants     2-1
+           Zanaco               v NAPSA Stars          0-1
+           Red Arrows           v Green Eagles         1-1
+  Sun Nov 10 2024
+           Green Buffaloes      v ZESCO United         1-1
+           Power Dynamos        v Mutondo Stars        1-0
+
+▪ Matchday 12
+  Sat Nov 23 2024
+           Green Eagles         v Indeni               2-1
+           Lumwana Radiants     v Kabwe Warriors       0-1
+           NAPSA Stars          v Green Buffaloes      1-2
+           Nchanga Rangers      v Red Arrows           1-0
+           ZESCO United         v Power Dynamos        2-0
+           Nkwazi               v Zanaco               0-0
+  Sun Nov 24 2024
+           Nkana                v Forest Rangers       2-0
+           Atletico Lusaka      v Mufulira Wanderers   0-0
+           Mutondo Stars        v FC MUZA              0-1
+
+▪ Matchday 13
+  Wed Nov 27 2024
+           Green Buffaloes      v Nkwazi               1-2
+           Indeni               v Nchanga Rangers      0-0
+           FC MUZA              v ZESCO United         0-0
+           Power Dynamos        v NAPSA Stars          3-1
+           Red Arrows           v Mufulira Wanderers   1-1
+           Zanaco               v Nkana                1-0
+           Kabwe Warriors       v Mutondo Stars        1-0
+  Thu Nov 28 2024
+           Forest Rangers       v Green Eagles         0-1
+           Lumwana Radiants     v Atletico Lusaka      0-2
+
+▪ Matchday 14
+  Sat Nov 30 2024
+           Nkana                v Green Buffaloes      3-0
+           ZESCO United         v Kabwe Warriors       0-2
+           NAPSA Stars          v FC MUZA              1-1
+  Sun Dec 1 2024
+           Nkwazi               v Power Dynamos        1-3
+           Atletico Lusaka      v Red Arrows           0-2
+           Nchanga Rangers      v Forest Rangers       1-0
+           Green Eagles         v Zanaco               3-3
+           Mufulira Wanderers   v Indeni               2-1
+           Mutondo Stars        v Lumwana Radiants     0-2
+
+▪ Matchday 15
+  Sat Dec 7 2024
+           Power Dynamos        v Nkana                1-2
+           Green Buffaloes      v Green Eagles         1-1
+           Kabwe Warriors       v NAPSA Stars          0-0
+           Lumwana Radiants     v ZESCO United         1-1
+           FC MUZA              v Nkwazi               0-0
+           Zanaco               v Nchanga Rangers      1-1
+  Sun Dec 8 2024
+           Mutondo Stars        v Atletico Lusaka      1-0
+           Forest Rangers       v Mufulira Wanderers   0-1
+           Indeni               v Red Arrows           1-2
+
+▪ Matchday 16
+  Sat Dec 14 2024
+           Atletico Lusaka      v Indeni               2-1
+           Nkwazi               v Kabwe Warriors       1-0
+           ZESCO United         v Mutondo Stars        2-0
+           Green Eagles         v Power Dynamos        1-1
+           Mufulira Wanderers   v Zanaco               0-0
+           Nkana                v FC MUZA              2-0
+           Nchanga Rangers      v Green Buffaloes      0-0
+  Sun Dec 15 2024
+           NAPSA Stars          v Lumwana Radiants     0-1
+           Red Arrows           v Forest Rangers       1-0
+
+▪ Matchday 17
+  Wed Dec 18 2024
+           Atletico Lusaka      v ZESCO United         1-1
+           Green Buffaloes      v Mufulira Wanderers   1-1
+           Kabwe Warriors       v Nkana                1-1
+           Power Dynamos        v Nchanga Rangers      0-1
+           FC MUZA              v Green Eagles         0-0
+  Thu Dec 19 2024
+           Forest Rangers       v Indeni               2-1
+           Lumwana Radiants     v Nkwazi               1-0
+           Mutondo Stars        v NAPSA Stars          1-1
+           Zanaco               v Red Arrows           2-2
+
+▪ Matchday 18
+  Sat Dec 21 2024
+           Power Dynamos        v Mufulira Wanderers   0-1
+           FC MUZA              v Nchanga Rangers      2-0
+           Kabwe Warriors       v Green Eagles         1-2
+  Sun Dec 22 2024
+           Mutondo Stars        v Nkwazi               0-1
+           ZESCO United         v NAPSA Stars          0-0
+           Zanaco               v Indeni               2-3
+           Lumwana Radiants     v Nkana                0-0
+           Atletico Lusaka      v Forest Rangers       3-2
+           Green Buffaloes      v Red Arrows           0-0
+
+▪ Matchday 19
+  Sat Jan 11 2025
+           NAPSA Stars          v Atletico Lusaka      0-0
+           Red Arrows           v Power Dynamos        3-2
+           Forest Rangers       v Zanaco               2-0
+           Indeni               v Green Buffaloes      0-0
+           Mufulira Wanderers   v FC MUZA              4-1
+           Nchanga Rangers      v Kabwe Warriors       0-1
+           Nkana                v Mutondo Stars        2-0
+  Sun Jan 12 2025
+           Green Eagles         v Lumwana Radiants     0-1
+           Nkwazi               v ZESCO United         2-2
+
+▪ Matchday 20
+  Sat Jan 18 2025
+           Green Buffaloes      v Forest Rangers       2-3
+           Kabwe Warriors       v Mufulira Wanderers   3-0
+           Lumwana Radiants     v Nchanga Rangers      2-1
+           FC MUZA              v Red Arrows           0-0
+           Power Dynamos        v Indeni               3-1
+           Atletico Lusaka      v Zanaco               0-2
+           NAPSA Stars          v Nkwazi               1-1
+  Sun Jan 19 2025
+           Mutondo Stars        v Green Eagles         2-1
+           ZESCO United         v Nkana                2-0
+
+▪ Matchday 21
+  Sat Jan 25 2025
+           Red Arrows           v Kabwe Warriors       1-1
+           Indeni               v FC MUZA              1-0
+           Mufulira Wanderers   v Lumwana Radiants     2-0
+           Forest Rangers       v Power Dynamos        0-0
+           Nkana                v NAPSA Stars          0-1
+  Sun Jan 26 2025
+           Nchanga Rangers      v Mutondo Stars        1-1
+           Zanaco               v Green Buffaloes      4-1
+           Green Eagles         v ZESCO United         0-1
+           Nkwazi               v Atletico Lusaka      2-1
+
+▪ Matchday 22
+  Sat Feb 1 2025
+           Nkwazi               v Nkana                1-1
+           NAPSA Stars          v Green Eagles         0-0
+           Lumwana Radiants     v Red Arrows           0-1
+           FC MUZA              v Forest Rangers       2-0
+           Power Dynamos        v Zanaco               4-0
+           ZESCO United         v Nchanga Rangers      1-1
+           Atletico Lusaka      v Green Buffaloes      0-1
+  Sun Feb 2 2025
+           Kabwe Warriors       v Indeni               3-1
+           Mutondo Stars        v Mufulira Wanderers   0-1
+
+▪ Matchday 23
+  Sat Feb 8 2025
+           Green Buffaloes      v Power Dynamos        0-2
+           Green Eagles         v Nkwazi               0-1
+           Indeni               v Lumwana Radiants     0-1
+           Nchanga Rangers      v NAPSA Stars          0-0
+           Nkana                v Atletico Lusaka      5-1
+           Red Arrows           v Mutondo Stars        0-0
+           Forest Rangers       v Kabwe Warriors       1-1
+  Sun Feb 9 2025
+           Mufulira Wanderers   v ZESCO United         0-1
+           Zanaco               v FC MUZA              0-2
+
+▪ Matchday 24
+  Sat Feb 15 2025
+           Mutondo Stars        v Indeni               2-1
+           ZESCO United         v Red Arrows           1-0
+           Kabwe Warriors       v Zanaco               1-0
+           Lumwana Radiants     v Forest Rangers       1-1
+           FC MUZA              v Green Buffaloes      0-1
+           NAPSA Stars          v Mufulira Wanderers   1-0
+           Atletico Lusaka      v Power Dynamos        0-2
+           Nkwazi               v Nchanga Rangers      2-1
+  Sun Feb 16 2025
+           Nkana                v Green Eagles         1-0
+
+▪ Matchday 25
+  Sat Feb 22 2025
+           Nchanga Rangers      v Nkana                2-0
+           Forest Rangers       v Mutondo Stars        0-0
+           Green Eagles         v Atletico Lusaka      1-2
+           Indeni               v ZESCO United         0-0
+           Mufulira Wanderers   v Nkwazi               2-1
+  Sun Feb 23 2025
+           Red Arrows           v NAPSA Stars          1-0
+           Power Dynamos        v FC MUZA              2-0
+           Zanaco               v Lumwana Radiants     1-0
+           Green Buffaloes      v Kabwe Warriors       1-0
+
+▪ Matchday 26
+  Sat Mar 1 2025
+           Mutondo Stars        v Zanaco               1-2
+           Kabwe Warriors       v Power Dynamos        1-3
+           ZESCO United         v Forest Rangers       0-0
+           Green Eagles         v Nchanga Rangers      2-2
+           NAPSA Stars          v Indeni               1-0
+           Atletico Lusaka      v FC MUZA              2-1
+           Nkwazi               v Red Arrows           0-0
+  Sun Mar 2 2025
+           Nkana                v Mufulira Wanderers   1-0
+  Mon Mar 3 2025
+           Lumwana Radiants     v Green Buffaloes      2-0
+
+▪ Matchday 27
+  Sat Mar 8 2025
+           Zanaco               v ZESCO United         2-1
+           Forest Rangers       v NAPSA Stars          0-0
+           Green Buffaloes      v Mutondo Stars        1-0
+           Indeni               v Nkwazi               0-0
+           Mufulira Wanderers   v Green Eagles         2-1
+           FC MUZA              v Kabwe Warriors       2-0
+           Nchanga Rangers      v Atletico Lusaka      0-0
+           Power Dynamos        v Lumwana Radiants     2-0
+  Sun Mar 9 2025
+           Red Arrows           v Nkana                1-2
+
+▪ Matchday 28
+  Wed Mar 12 2025
+           Lumwana Radiants     v FC MUZA              1-1
+           Nchanga Rangers      v Mufulira Wanderers   1-0
+           Nkwazi               v Forest Rangers       0-0
+           Mutondo Stars        v Power Dynamos        0-2
+           Atletico Lusaka      v Kabwe Warriors       0-0
+           Green Eagles         v Red Arrows           1-1
+           NAPSA Stars          v Zanaco               1-0
+           Nkana                v Indeni               4-1
+           ZESCO United         v Green Buffaloes      1-0
+
+▪ Matchday 29
+  Sat Mar 22 2025
+           Mufulira Wanderers   v Atletico Lusaka      3-0
+           Forest Rangers       v Nkana                1-1
+  Wed Mar 26 2025
+           Green Buffaloes      v NAPSA Stars          2-2
+           Indeni               v Green Eagles         1-2
+           Kabwe Warriors       v Lumwana Radiants     2-0
+           FC MUZA              v Mutondo Stars        1-1
+           Red Arrows           v Nchanga Rangers      2-1
+  Sat Mar 29 2025
+           Zanaco               v Nkwazi               1-3
+  Sun Mar 30 2025
+           Power Dynamos        v ZESCO United         1-0
+
+▪ Matchday 30
+  Wed Apr 2 2025
+           Green Eagles         v Forest Rangers       1-1
+           Mufulira Wanderers   v Red Arrows           1-0
+           Nchanga Rangers      v Indeni               1-0
+           Nkana                v Zanaco               2-2
+           Nkwazi               v Green Buffaloes      2-0
+           ZESCO United         v FC MUZA              1-0
+           Atletico Lusaka      v Lumwana Radiants     1-2
+           Mutondo Stars        v Kabwe Warriors       0-0
+  Thu Apr 3 2025
+           NAPSA Stars          v Power Dynamos        0-2
+
+▪ Matchday 31
+  Wed Apr 9 2025
+           Lumwana Radiants     v Mutondo Stars        0-1
+           Forest Rangers       v Nchanga Rangers      0-0
+           Green Buffaloes      v Nkana                0-1
+           Indeni               v Mufulira Wanderers   1-0
+           Kabwe Warriors       v ZESCO United         0-1
+           Power Dynamos        v Nkwazi               2-0
+           Red Arrows           v Atletico Lusaka      0-1
+           Zanaco               v Green Eagles         1-0
+  Sat Apr 12 2025
+           FC MUZA              v NAPSA Stars          0-0
+
+▪ Matchday 32
+  Sat Apr 19 2025
+           Atletico Lusaka      v Mutondo Stars        1-2
+           Red Arrows           v Indeni               2-1
+           Green Eagles         v Green Buffaloes      2-2
+           NAPSA Stars          v Kabwe Warriors       2-2
+           Nchanga Rangers      v Zanaco               2-0
+           Nkwazi               v FC MUZA              1-2
+           Mufulira Wanderers   v Forest Rangers       0-1
+  Sun Apr 20 2025
+           Nkana                v Power Dynamos        1-1
+  Mon Apr 21 2025
+           ZESCO United         v Lumwana Radiants     1-0
+
+▪ Matchday 33
+  Sat May 3 2025
+           Forest Rangers       v Red Arrows           0-1
+           Green Buffaloes      v Nchanga Rangers      0-0
+           Indeni               v Atletico Lusaka      0-2
+           Lumwana Radiants     v NAPSA Stars          0-2
+           FC MUZA              v Nkana                5-2
+           Power Dynamos        v Green Eagles         1-0
+           Zanaco               v Mufulira Wanderers   2-0
+  Sun May 4 2025
+           Kabwe Warriors       v Nkwazi               1-1
+           Mutondo Stars        v ZESCO United         1-0
+
+▪ Matchday 34
+  Sat May 17 2025
+           Green Eagles         v FC MUZA              1-0
+           Indeni               v Forest Rangers       1-3
+           Mufulira Wanderers   v Green Buffaloes      1-2
+           NAPSA Stars          v Mutondo Stars        0-0
+           Nchanga Rangers      v Power Dynamos        1-1
+           Nkana                v Kabwe Warriors       2-0
+           Nkwazi               v Lumwana Radiants     0-2
+           Red Arrows           v Zanaco               1-0
+           ZESCO United         v Atletico Lusaka      3-2

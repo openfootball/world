@@ -1,0 +1,460 @@
+= Zambia Super League 2023/2024
+
+# Date       Fri Aug 18 2023 - Sat Jun 1 2024 (288d)
+# Teams      18
+# Matches    306
+# Source     https://www.rsssf.org/tablesz/zamb2024.html
+# Retrieved  2026-08-21
+
+
+▪ Matchday 1
+  Fri Aug 18 2023
+           Nkwazi               v Konkola Blades       1-0
+  Sat Aug 19 2023
+           NAPSA Stars          v ZESCO United         0-1
+           Nkana                v Red Arrows           0-1
+           Green Eagles         v Mutondo Stars        0-0
+           Trident              v Kansanshi Dynamos    1-1
+  Sun Aug 20 2023
+           Forest Rangers       v Kabwe Warriors       1-0
+           Mufulira Wanderers   v Green Buffaloes      1-0
+  Wed Aug 30 2023
+           Prison Leopards      v Power Dynamos        0-0
+           FC MUZA              v Zanaco               1-1
+
+▪ Matchday 2
+  Sat Aug 26 2023
+           Kansanshi Dynamos    v Mufulira Wanderers   0-0
+           Kabwe Warriors       v Trident              2-1
+           Green Buffaloes      v NAPSA Stars          2-1
+           Zanaco               v Forest Rangers       1-1
+           Konkola Blades       v Green Eagles         0-0
+  Sun Aug 27 2023
+           Mutondo Stars        v Nkana                1-0
+           ZESCO United         v Prison Leopards      1-1
+  Sat Sep 9 2023
+           Power Dynamos        v Nkwazi               2-1
+           Red Arrows           v FC MUZA              1-1
+
+▪ Matchday 3
+  Sat Sep 2 2023
+           Mufulira Wanderers   v Kabwe Warriors       2-2
+           Trident              v Zanaco               0-2
+           FC MUZA              v Mutondo Stars        2-0
+           Nkwazi               v ZESCO United         1-0
+           Konkola Blades       v Power Dynamos        0-0
+           Green Eagles         v Nkana                1-0
+           NAPSA Stars          v Kansanshi Dynamos    0-0
+  Sun Sep 3 2023
+           Forest Rangers       v Red Arrows           0-0
+           Prison Leopards      v Green Buffaloes      1-0
+
+▪ Matchday 4
+  Sat Sep 16 2023
+           Green Buffaloes      v Nkwazi               0-0
+           Zanaco               v Mufulira Wanderers   1-0
+           Red Arrows           v Trident              2-0
+  Sun Sep 17 2023
+           Kabwe Warriors       v NAPSA Stars          1-1
+           Kansanshi Dynamos    v Prison Leopards      2-1
+           Mutondo Stars        v Forest Rangers       3-2
+           ZESCO United         v Konkola Blades       3-0
+  Wed Sep 20 2023
+           Power Dynamos        v Green Eagles         2-0
+           Nkana                v FC MUZA              1-1
+
+▪ Matchday 5
+  Sat Sep 23 2023
+           Forest Rangers       v Nkana                1-0
+           Konkola Blades       v Green Buffaloes      1-1
+           Mufulira Wanderers   v Red Arrows           1-0
+           NAPSA Stars          v Zanaco               3-0
+           Nkwazi               v Kansanshi Dynamos    0-0
+           Prison Leopards      v Kabwe Warriors       1-2
+           Trident              v Mutondo Stars        0-0
+  Sun Sep 24 2023
+           Green Eagles         v FC MUZA              0-4
+           Power Dynamos        v ZESCO United         2-2
+
+▪ Matchday 6
+  Sat Sep 30 2023
+           Mutondo Stars        v Mufulira Wanderers   2-1
+           Red Arrows           v NAPSA Stars          1-0
+           Zanaco               v Prison Leopards      0-0
+           ZESCO United         v Green Eagles         3-2
+  Sun Oct 1 2023
+           Nkana                v Trident              0-0
+           Kabwe Warriors       v Nkwazi               1-1
+           Kansanshi Dynamos    v Konkola Blades       0-1
+  Sat Oct 14 2023
+           FC MUZA              v Forest Rangers       2-2
+           Green Buffaloes      v Power Dynamos        3-1
+
+▪ Matchday 7
+  Sat Oct 7 2023
+           Konkola Blades       v Kabwe Warriors       0-2
+           Mufulira Wanderers   v Nkana                2-1
+           Prison Leopards      v Red Arrows           1-2
+           Trident              v FC MUZA              0-1
+           ZESCO United         v Green Buffaloes      1-0
+  Sun Oct 8 2023
+           Power Dynamos        v Kansanshi Dynamos    3-1
+           Green Eagles         v Forest Rangers       2-1
+           NAPSA Stars          v Mutondo Stars        3-2
+           Nkwazi               v Zanaco               1-1
+
+▪ Matchday 8
+  Fri Oct 20 2023
+           Green Buffaloes      v Green Eagles         2-0
+  Sat Oct 21 2023
+           Zanaco               v Konkola Blades       3-0
+           Forest Rangers       v Trident              1-1
+           FC MUZA              v Mufulira Wanderers   1-0
+           Nkana                v NAPSA Stars          1-1
+           Mutondo Stars        v Prison Leopards      3-2
+           Red Arrows           v Nkwazi               4-0
+  Sun Oct 22 2023
+           Kansanshi Dynamos    v ZESCO United         1-1
+           Kabwe Warriors       v Power Dynamos        2-0
+
+▪ Matchday 9
+  Sat Oct 28 2023
+           Mufulira Wanderers   v Forest Rangers       1-1
+           Konkola Blades       v Red Arrows           1-1
+           NAPSA Stars          v FC MUZA              1-1
+           Prison Leopards      v Nkana                0-1
+           Green Eagles         v Trident              2-2
+           Nkwazi               v Mutondo Stars        2-0
+           ZESCO United         v Kabwe Warriors       1-2
+  Sun Oct 29 2023
+           Green Buffaloes      v Kansanshi Dynamos    1-1
+           Power Dynamos        v Zanaco               1-1
+
+▪ Matchday 10
+  Sat Nov 4 2023
+           Forest Rangers       v NAPSA Stars          1-0
+           FC MUZA              v Prison Leopards      2-0
+           Mutondo Stars        v Konkola Blades       0-1
+           Zanaco               v ZESCO United         1-1
+           Trident              v Mufulira Wanderers   1-2
+           Kabwe Warriors       v Green Buffaloes      3-0
+           Red Arrows           v Power Dynamos        1-1
+  Sun Nov 5 2023
+           Kansanshi Dynamos    v Green Eagles         0-2
+           Nkana                v Nkwazi               1-3
+
+▪ Matchday 11
+  Wed Nov 8 2023
+           Green Buffaloes      v Zanaco               1-0
+           Kansanshi Dynamos    v Kabwe Warriors       2-0
+           Nkwazi               v FC MUZA              2-1
+           NAPSA Stars          v Trident              0-0
+           Prison Leopards      v Forest Rangers       2-1
+           ZESCO United         v Red Arrows           1-0
+           Konkola Blades       v Nkana                1-2
+           Power Dynamos        v Mutondo Stars        2-0
+  Thu Nov 9 2023
+           Green Eagles         v Mufulira Wanderers   0-0
+
+▪ Matchday 12
+  Sat Nov 11 2023
+           Red Arrows           v Green Buffaloes      4-1
+           Zanaco               v Kansanshi Dynamos    1-0
+           Mutondo Stars        v ZESCO United         1-2
+           Forest Rangers       v Nkwazi               1-2
+           FC MUZA              v Konkola Blades       0-0
+           Kabwe Warriors       v Green Eagles         0-1
+  Sun Nov 12 2023
+           Nkana                v Power Dynamos        0-2
+           Mufulira Wanderers   v NAPSA Stars          2-1
+           Trident              v Prison Leopards      1-1
+
+▪ Matchday 13
+  Sat Nov 25 2023
+           Prison Leopards      v Mufulira Wanderers   2-0
+           Green Eagles         v NAPSA Stars          3-0
+           Kabwe Warriors       v Zanaco               0-1
+           Konkola Blades       v Forest Rangers       1-1
+           Power Dynamos        v FC MUZA              1-1
+  Sun Nov 26 2023
+           Nkwazi               v Trident              1-1
+           Kansanshi Dynamos    v Red Arrows           2-1
+           Green Buffaloes      v Mutondo Stars        0-0
+           ZESCO United         v Nkana                3-1
+
+▪ Matchday 14
+  Sat Dec 2 2023
+           Mufulira Wanderers   v Nkwazi               1-1
+           NAPSA Stars          v Prison Leopards      1-0
+           Forest Rangers       v Power Dynamos        1-0
+           FC MUZA              v ZESCO United         1-3
+           Nkana                v Green Buffaloes      2-1
+  Sun Dec 3 2023
+           Zanaco               v Green Eagles         1-1
+           Red Arrows           v Kabwe Warriors       1-1
+           Mutondo Stars        v Kansanshi Dynamos    2-0
+           Trident              v Konkola Blades       0-0
+
+▪ Matchday 15
+  Sat Dec 9 2023
+           Nkwazi               v NAPSA Stars          0-2
+           Green Buffaloes      v FC MUZA              1-1
+           ZESCO United         v Forest Rangers       1-1
+           Power Dynamos        v Trident              0-0
+           Konkola Blades       v Mufulira Wanderers   2-0
+           Green Eagles         v Prison Leopards      4-0
+           Kabwe Warriors       v Mutondo Stars        0-2
+  Sun Dec 10 2023
+           Kansanshi Dynamos    v Nkana                0-0
+           Zanaco               v Red Arrows           1-2
+
+▪ Matchday 16
+  Sat Dec 16 2023
+           Mufulira Wanderers   v Power Dynamos        1-3
+           Prison Leopards      v Nkwazi               0-1
+           NAPSA Stars          v Konkola Blades       0-0
+           Red Arrows           v Green Eagles         1-2
+           Forest Rangers       v Green Buffaloes      2-0
+           FC MUZA              v Kansanshi Dynamos    1-0
+           Trident              v ZESCO United         2-3
+  Sun Dec 17 2023
+           Mutondo Stars        v Zanaco               1-0
+           Nkana                v Kabwe Warriors       0-1
+
+▪ Matchday 17
+  Fri Dec 22 2023
+           Red Arrows           v Mutondo Stars        3-1
+  Sat Dec 23 2023
+           Green Buffaloes      v Trident              2-0
+           Green Eagles         v Nkwazi               0-1
+           Konkola Blades       v Prison Leopards      1-1
+           Zanaco               v Nkana                0-1
+           Power Dynamos        v NAPSA Stars          1-1
+           ZESCO United         v Mufulira Wanderers   1-1
+  Sun Dec 24 2023
+           Kansanshi Dynamos    v Forest Rangers       0-0
+           Kabwe Warriors       v FC MUZA              0-0
+
+▪ Matchday 18
+  Fri Dec 29 2023
+           Green Buffaloes      v Mufulira Wanderers   2-1
+  Sat Dec 30 2023
+           Zanaco               v FC MUZA              0-0
+           Mutondo Stars        v Green Eagles         1-2
+           Konkola Blades       v Nkwazi               2-1
+           Red Arrows           v Nkana                1-0
+           Power Dynamos        v Prison Leopards      1-0
+           Kabwe Warriors       v Forest Rangers       1-0
+           Kansanshi Dynamos    v Trident              2-1
+  Sun Dec 31 2023
+           ZESCO United         v NAPSA Stars          1-0
+
+▪ Matchday 19
+  Sat Jan 6 2024
+           Nkwazi               v Power Dynamos        0-3
+           Green Eagles         v Konkola Blades       0-1
+           FC MUZA              v Red Arrows           1-4
+           Nkana                v Mutondo Stars        2-1
+           Forest Rangers       v Zanaco               1-1
+           NAPSA Stars          v Green Buffaloes      2-1
+  Sun Jan 7 2024
+           Prison Leopards      v ZESCO United         1-0
+  Wed Jan 10 2024
+           Trident              v Kabwe Warriors       0-1
+           Mufulira Wanderers   v Kansanshi Dynamos    0-0
+
+▪ Matchday 20
+  Fri Jan 12 2024
+           Power Dynamos        v Konkola Blades       1-1
+  Sat Jan 13 2024
+           Mutondo Stars        v FC MUZA              0-1
+           Nkana                v Green Eagles         0-2
+           Green Buffaloes      v Prison Leopards      1-1
+           Red Arrows           v Forest Rangers       2-0
+           Kabwe Warriors       v Mufulira Wanderers   2-3
+           ZESCO United         v Nkwazi               2-0
+  Sun Jan 14 2024
+           Kansanshi Dynamos    v NAPSA Stars          1-0
+           Zanaco               v Trident              2-1
+
+▪ Matchday 21
+  Sat Feb 17 2024
+           NAPSA Stars          v Kabwe Warriors       1-0
+           Nkwazi               v Green Buffaloes      2-1
+           FC MUZA              v Nkana                0-1
+           Konkola Blades       v ZESCO United         1-1
+           Prison Leopards      v Kansanshi Dynamos    2-1
+           Forest Rangers       v Mutondo Stars        2-1
+           Mufulira Wanderers   v Zanaco               5-0
+           Trident              v Red Arrows           0-1
+  Sun Feb 18 2024
+           Green Eagles         v Power Dynamos        0-4
+
+▪ Matchday 22
+  Sat Feb 24 2024
+           FC MUZA              v Green Eagles         1-0
+           Nkana                v Forest Rangers       1-1
+           Green Buffaloes      v Konkola Blades       4-2
+           Kansanshi Dynamos    v Nkwazi               1-1
+           Red Arrows           v Mufulira Wanderers   0-0
+           Kabwe Warriors       v Prison Leopards      0-0
+           Zanaco               v NAPSA Stars          0-0
+  Sun Feb 25 2024
+           Mutondo Stars        v Trident              0-1
+           ZESCO United         v Power Dynamos        1-1
+
+▪ Matchday 23
+  Sat Mar 2 2024
+           Forest Rangers       v FC MUZA              0-1
+           Power Dynamos        v Green Buffaloes      1-0
+           Green Eagles         v ZESCO United         1-1
+           Konkola Blades       v Kansanshi Dynamos    1-0
+           NAPSA Stars          v Red Arrows           0-1
+           Nkwazi               v Kabwe Warriors       1-0
+           Prison Leopards      v Zanaco               0-1
+           Trident              v Nkana                1-2
+  Sun Mar 3 2024
+           Mufulira Wanderers   v Mutondo Stars        0-0
+
+▪ Matchday 24
+  Sat Mar 9 2024
+           Nkana                v Mufulira Wanderers   2-1
+           FC MUZA              v Trident              1-0
+           Green Buffaloes      v ZESCO United         0-1
+           Kabwe Warriors       v Konkola Blades       1-0
+           Kansanshi Dynamos    v Power Dynamos        0-1
+           Red Arrows           v Prison Leopards      2-0
+           Zanaco               v Nkwazi               1-1
+  Sun Mar 10 2024
+           Mutondo Stars        v NAPSA Stars          3-0
+           Forest Rangers       v Green Eagles         1-1
+
+▪ Matchday 25
+  Sat Mar 16 2024
+           Green Eagles         v Green Buffaloes      1-3
+           Trident              v Forest Rangers       1-3
+           Mufulira Wanderers   v FC MUZA              0-2
+           Power Dynamos        v Kabwe Warriors       0-0
+           NAPSA Stars          v Nkana                1-0
+           Konkola Blades       v Zanaco               0-0
+           Prison Leopards      v Mutondo Stars        0-1
+           Nkwazi               v Red Arrows           0-1
+  Sun Mar 17 2024
+           ZESCO United         v Kansanshi Dynamos    2-1
+
+▪ Matchday 26
+  Mon Apr 1 2024
+           Mutondo Stars        v Nkwazi               0-1
+  Wed Apr 3 2024
+           Forest Rangers       v Mufulira Wanderers   1-0
+           Kansanshi Dynamos    v Green Buffaloes      0-0
+           Nkana                v Prison Leopards      0-0
+           Red Arrows           v Konkola Blades       2-0
+           Zanaco               v Power Dynamos        0-0
+  Thu Apr 4 2024
+           Kabwe Warriors       v ZESCO United         0-0
+           FC MUZA              v NAPSA Stars          1-0
+           Trident              v Green Eagles         4-1
+
+▪ Matchday 27
+  Sat Apr 6 2024
+           Konkola Blades       v Mutondo Stars        0-0
+           Nkwazi               v Nkana                0-0
+           Power Dynamos        v Red Arrows           0-1
+  Sun Apr 7 2024
+           Green Buffaloes      v Kabwe Warriors       1-0
+           Green Eagles         v Kansanshi Dynamos    4-1
+           Mufulira Wanderers   v Trident              0-1
+           NAPSA Stars          v Forest Rangers       1-0
+           Prison Leopards      v FC MUZA              3-2
+           ZESCO United         v Zanaco               2-2
+
+▪ Matchday 28
+  Wed Apr 17 2024
+           Forest Rangers       v Prison Leopards      1-1
+           Nkana                v Konkola Blades       2-1
+           Mutondo Stars        v Power Dynamos        0-1
+           Trident              v NAPSA Stars          1-1
+           Kabwe Warriors       v Kansanshi Dynamos    2-1
+           Zanaco               v Green Buffaloes      1-1
+  Thu Apr 18 2024
+           Red Arrows           v ZESCO United         2-0
+           Mufulira Wanderers   v Green Eagles         0-1
+  Wed Apr 24 2024
+           FC MUZA              v Nkwazi               3-0 [awarded]
+  Sat Apr 20 2024
+           Power Dynamos        v Nkana                0-2
+           Nkwazi               v Forest Rangers       1-1
+  Sun Apr 21 2024
+           Green Eagles         v Kabwe Warriors       1-1
+           Green Buffaloes      v Red Arrows           0-0
+           Kansanshi Dynamos    v Zanaco               2-1
+           Konkola Blades       v FC MUZA              2-0
+           NAPSA Stars          v Mufulira Wanderers   1-1
+           Prison Leopards      v Trident              1-1
+           ZESCO United         v Mutondo Stars        0-0
+
+▪ Matchday 30
+  Sat Apr 27 2024
+           Nkana                v ZESCO United         0-0
+           Forest Rangers       v Konkola Blades       0-0
+           Red Arrows           v Kansanshi Dynamos    1-0
+           NAPSA Stars          v Green Eagles         1-0
+  Sun Apr 28 2024
+           Mufulira Wanderers   v Prison Leopards      2-0
+           Mutondo Stars        v Green Buffaloes      3-0
+           Zanaco               v Kabwe Warriors       2-1
+           FC MUZA              v Power Dynamos        3-2
+  Sat May 4 2024
+           Trident              v Nkwazi               1-3
+
+▪ Matchday 31
+  Wed May 15 2024
+           Nkwazi               v Mufulira Wanderers   0-1
+           Prison Leopards      v NAPSA Stars          0-0
+           Power Dynamos        v Forest Rangers       5-0
+           ZESCO United         v FC MUZA              2-1
+           Green Eagles         v Zanaco               0-1
+           Kabwe Warriors       v Red Arrows           1-0
+           Kansanshi Dynamos    v Mutondo Stars        1-0
+           Konkola Blades       v Trident              0-1
+  Thu May 16 2024
+           Green Buffaloes      v Nkana                0-0
+
+▪ Matchday 32
+  Sat May 18 2024
+           NAPSA Stars          v Nkwazi               1-2
+           Red Arrows           v Zanaco               1-0
+           Forest Rangers       v ZESCO United         0-0
+           Mufulira Wanderers   v Konkola Blades       1-0
+           Mutondo Stars        v Kabwe Warriors       1-1
+           Trident              v Power Dynamos        0-0
+           Prison Leopards      v Green Eagles         2-0
+  Sun May 19 2024
+           FC MUZA              v Green Buffaloes      0-0
+           Nkana                v Kansanshi Dynamos    1-0
+
+▪ Matchday 33
+  Sat May 25 2024
+           Green Eagles         v Red Arrows           0-0
+           Kabwe Warriors       v Nkana                2-0
+           Kansanshi Dynamos    v FC MUZA              2-0
+           Konkola Blades       v NAPSA Stars          1-1
+           Nkwazi               v Prison Leopards      0-1
+           Power Dynamos        v Mufulira Wanderers   1-0
+           Zanaco               v Mutondo Stars        0-1
+           ZESCO United         v Trident              5-1
+  Sun May 26 2024
+           Green Buffaloes      v Forest Rangers       1-0
+
+▪ Matchday 34
+  Sat Jun 1 2024
+           Forest Rangers       v Kansanshi Dynamos    4-0
+           Mufulira Wanderers   v ZESCO United         2-0
+           Mutondo Stars        v Red Arrows           0-1
+           FC MUZA              v Kabwe Warriors       0-1
+           NAPSA Stars          v Power Dynamos        1-1
+           Nkana                v Zanaco               0-0
+           Nkwazi               v Green Eagles         2-1
+           Prison Leopards      v Konkola Blades       1-2
+           Trident              v Green Buffaloes      1-1
