@@ -1,0 +1,411 @@
+= Uganda Premier League 2024/2025
+
+# Date       Fri Sep 13 2024 - Sat May 24 2025 (253d)
+# Teams      16
+# Matches    240
+# Source     https://www.rsssf.org/tableso/oeg2025.html
+# Retrieved  2026-08-21
+
+
+▪ Matchday 1
+  Fri Sep 13 2024
+           KCCA FC            v URA FC             1-0
+  Sat Sep 14 2024
+           Lugazi FC          v Kitara FC          0-3
+  Sun Sep 15 2024
+           Wakiso Giants FC   v Bright Stars FC    1-1
+           Maroons FC         v UPDF FC            1-1
+           NEC FC             v Vipers SC          3-1
+  Mon Sep 16 2024
+           Police FC          v BUL FC             0-0
+           SC Villa           v Mbarara City FC    4-2
+           Express FC         v Mbale Heroes FC    2-1
+
+▪ Matchday 2
+  Thu Sep 19 2024
+           Kitara FC          v NEC FC             1-2
+           UPDF FC            v Lugazi FC          1-0
+           Vipers SC          v Express FC         3-0
+  Fri Sep 20 2024
+           BUL FC             v KCCA FC            1-1
+           Mbarara City FC    v Police FC          0-0
+           Bright Stars FC    v URA FC             0-1
+           Maroons FC         v Wakiso Giants FC   2-3
+  Sun Sep 22 2024
+           Mbale Heroes FC    v SC Villa           1-0
+
+▪ Matchday 3
+  Tue Sep 24 2024
+           Police FC          v Bright Stars FC    1-1
+           NEC FC             v UPDF FC            1-0
+  Thu Sep 26 2024
+           Lugazi FC          v Vipers SC          0-0
+           SC Villa           v BUL FC             2-1
+  Fri Sep 27 2024
+           Wakiso Giants FC   v Mbale Heroes FC    1-0
+           KCCA FC            v Kitara FC          2-0
+  Sat Sep 28 2024
+           URA FC             v Mbarara City FC    1-1
+           Express FC         v Maroons FC         0-0
+
+▪ Matchday 4
+  Tue Oct 1 2024
+           UPDF FC            v Wakiso Giants FC   1-0
+           Bright Stars FC    v KCCA FC            0-1
+  Wed Oct 2 2024
+           BUL FC             v Mbarara City FC    0-2
+  Thu Oct 3 2024
+           Kitara FC          v Police FC          0-1
+           Express FC         v NEC FC             2-1
+  Sat Oct 5 2024
+           Mbale Heroes FC    v URA FC             0-4
+           Vipers SC          v SC Villa           2-1
+  Sun Oct 6 2024
+           Maroons FC         v Lugazi FC          1-0
+
+▪ Matchday 5
+  Wed Oct 16 2024
+           Lugazi FC          v Mbale Heroes FC    1-1
+           Police FC          v Express FC         2-2
+  Thu Oct 17 2024
+           Wakiso Giants FC   v Vipers SC          0-2
+  Fri Oct 18 2024
+           Mbarara City FC    v Kitara FC          1-1
+           SC Villa           v Bright Stars FC    2-2
+           NEC FC             v Maroons FC         2-1
+           URA FC             v BUL FC             0-1
+  Sat Oct 19 2024
+           KCCA FC            v UPDF FC            0-0
+
+▪ Matchday 6
+  Tue Oct 22 2024
+           Express FC         v Lugazi FC          0-1
+  Wed Oct 23 2024
+           Bright Stars FC    v Mbarara City FC    0-1
+  Thu Oct 24 2024
+           UPDF FC            v URA FC             0-0
+           Maroons FC         v SC Villa           1-1
+  Fri Oct 25 2024
+           Kitara FC          v BUL FC             1-3
+           Vipers SC          v Police FC          2-1
+  Sat Oct 26 2024
+           Mbale Heroes FC    v KCCA FC            0-1
+           NEC FC             v Wakiso Giants FC   2-0
+
+▪ Matchday 7
+  Tue Oct 29 2024
+           Mbarara City FC    v Vipers SC          1-3
+  Wed Oct 30 2024
+           Lugazi FC          v NEC FC             1-0
+           Police FC          v Mbale Heroes FC    2-1
+  Thu Oct 31 2024
+           BUL FC             v Bright Stars FC    1-0
+           Wakiso Giants FC   v Express FC         0-0
+           KCCA FC            v Maroons FC         5-0
+  Fri Nov 1 2024
+           SC Villa           v UPDF FC            5-0
+           URA FC             v Kitara FC          2-0
+
+▪ Matchday 8
+  Tue Nov 5 2024
+           NEC FC             v Police FC          0-0
+  Wed Nov 6 2024
+           Wakiso Giants FC   v Lugazi FC          0-0
+           UPDF FC            v Mbarara City FC    2-1
+  Fri Nov 8 2024
+           Bright Stars FC    v Kitara FC          1-0
+           Express FC         v SC Villa           1-0
+  Sat Nov 9 2024
+           Maroons FC         v URA FC             2-1
+           Vipers SC          v KCCA FC            1-1
+  Sun Nov 10 2024
+           Mbale Heroes FC    v BUL FC             0-0
+
+▪ Matchday 9
+  Wed Nov 20 2024
+           Police FC          v Lugazi FC          0-0
+  Thu Nov 21 2024
+           BUL FC             v Express FC         1-1
+           Bright Stars FC    v Maroons FC         0-1
+           KCCA FC            v NEC FC             0-1
+  Fri Nov 22 2024
+           Kitara FC          v UPDF FC            4-0
+           URA FC             v Vipers SC          0-2
+  Sat Nov 23 2024
+           Mbarara City FC    v Mbale Heroes FC    1-0
+           SC Villa           v Wakiso Giants FC   6-1
+
+▪ Matchday 10
+  Wed Nov 27 2024
+           UPDF FC            v Police FC          2-2
+           Wakiso Giants FC   v URA FC             0-3
+  Thu Nov 28 2024
+           Mbale Heroes FC    v Bright Stars FC    1-0
+           Express FC         v Mbarara City FC    3-1
+  Fri Nov 29 2024
+           Maroons FC         v BUL FC             0-0
+           NEC FC             v SC Villa           2-1
+  Sat Nov 30 2024
+           Lugazi FC          v KCCA FC            1-1
+           Vipers SC          v Kitara FC          0-0
+
+▪ Matchday 11
+  Wed Dec 4 2024
+           Police FC          v Wakiso Giants FC   2-1
+           BUL FC             v UPDF FC            0-2
+  Thu Dec 5 2024
+           Mbarara City FC    v Maroons FC         0-3
+           URA FC             v NEC FC             1-1
+  Fri Dec 6 2024
+           Kitara FC          v Mbale Heroes FC    6-0
+           SC Villa           v Lugazi FC          1-1
+  Sat Dec 7 2024
+           Bright Stars FC    v Vipers SC          1-2
+           KCCA FC            v Express FC         0-1
+
+▪ Matchday 12
+  Wed Dec 11 2024
+           UPDF FC            v Mbale Heroes FC    1-1
+           NEC FC             v Bright Stars FC    1-0
+  Thu Dec 12 2024
+           Maroons FC         v Kitara FC          0-4
+           Lugazi FC          v Mbarara City FC    1-1
+  Fri Dec 13 2024
+           SC Villa           v Police FC          1-1
+           Express FC         v URA FC             1-2
+  Sat Dec 14 2024
+           Vipers SC          v BUL FC             1-1
+  Sun Dec 15 2024
+           Wakiso Giants FC   v KCCA FC            1-2
+
+▪ Matchday 13
+  Wed Dec 18 2024
+           Bright Stars FC    v UPDF FC            2-1
+           BUL FC             v NEC FC             1-1
+  Thu Dec 19 2024
+           URA FC             v Lugazi FC          1-0
+           Police FC          v Maroons FC         1-2
+  Fri Dec 20 2024
+           Mbale Heroes FC    v Vipers SC          0-4
+           KCCA FC            v SC Villa           1-1
+  Sat Dec 21 2024
+           Kitara FC          v Express FC         7-0
+  Mon Dec 30 2024
+           Mbarara City FC    v Wakiso Giants FC   0-0
+
+▪ Matchday 14
+  Thu Jan 2 2025
+           Maroons FC         v Mbale Heroes FC    1-0
+           Police FC          v KCCA FC            0-0
+           Express FC         v Bright Stars FC    2-1
+  Fri Jan 3 2025
+           UPDF FC            v Vipers SC          0-1
+           Lugazi FC          v BUL FC             1-2
+  Sat Jan 4 2025
+           SC Villa           v URA FC             1-0
+           NEC FC             v Mbarara City FC    1-0
+  Sun Jan 5 2025
+           Wakiso Giants FC   v Kitara FC          0-0
+
+▪ Matchday 15
+  Mon Jan 6 2025
+           UPDF FC            v Express FC         0-2
+           Bright Stars FC    v Lugazi FC          1-1
+           Vipers SC          v Maroons FC         1-0
+  Tue Jan 7 2025
+           Mbarara City FC    v KCCA FC            3-0 [awarded 3-0; originally 0-2, KCC fielded suspended player]
+           BUL FC             v Wakiso Giants FC   1-1
+           Kitara FC          v SC Villa           1-0
+           Mbale Heroes FC    v NEC FC             0-1
+           URA FC             v Police FC          1-0
+
+▪ Matchday 16
+  Tue Feb 11 2025
+           Wakiso Giants FC   v SC Villa           1-1
+           Vipers SC          v URA FC             2-0
+  Wed Feb 12 2025
+           Lugazi FC          v Police FC          1-0
+           Maroons FC         v Bright Stars FC    1-1
+           Express FC         v BUL FC             0-2
+  Thu Feb 13 2025
+           Mbale Heroes FC    v Mbarara City FC    0-1
+           UPDF FC            v Kitara FC          0-0
+           NEC FC             v KCCA FC            1-0
+
+▪ Matchday 17
+  Sat Feb 15 2025
+           SC Villa           v Express FC         1-0
+           URA FC             v Maroons FC         1-0
+  Sun Feb 16 2025
+           Police FC          v NEC FC             1-1
+           Lugazi FC          v Wakiso Giants FC   1-0
+           BUL FC             v Mbale Heroes FC    3-0
+           KCCA FC            v Vipers SC          0-2
+  Mon Feb 17 2025
+           Kitara FC          v Bright Stars FC    2-0
+           Mbarara City FC    v UPDF FC            0-1
+
+▪ Matchday 18
+  Sat Mar 1 2025
+           Kitara FC          v URA FC             1-0
+           Mbale Heroes FC    v Police FC          1-1
+           Bright Stars FC    v BUL FC             0-2
+           NEC FC             v Lugazi FC          2-0
+  Sun Mar 2 2025
+           UPDF FC            v SC Villa           2-0
+           Maroons FC         v KCCA FC            0-0
+           Vipers SC          v Mbarara City FC    1-0
+  Mon Mar 3 2025
+           Express FC         v Wakiso Giants FC   4-1
+
+▪ Matchday 19
+  Thu Mar 6 2025
+           Police FC          v Vipers SC          0-1
+           Lugazi FC          v Express FC         1-0
+           BUL FC             v Kitara FC          1-0
+  Fri Mar 7 2025
+           Wakiso Giants FC   v NEC FC             0-0
+           URA FC             v UPDF FC            2-1
+  Sat Mar 8 2025
+           Mbarara City FC    v Bright Stars FC    0-0
+           KCCA FC            v Mbale Heroes FC    5-0
+  Sun Mar 9 2025
+           SC Villa           v Maroons FC         0-2
+
+▪ Matchday 20
+  Thu Mar 13 2025
+           UPDF FC            v KCCA FC            1-2
+           Mbale Heroes FC    v Lugazi FC          1-3
+           Express FC         v Police FC          1-2
+  Fri Mar 14 2025
+           Kitara FC          v Mbarara City FC    1-1
+           Maroons FC         v NEC FC             1-3
+           BUL FC             v URA FC             2-1
+           Bright Stars FC    v SC Villa           1-3
+           Vipers SC          v Wakiso Giants FC   1-0
+
+▪ Matchday 21
+  Thu Mar 27 2025
+           Police FC          v Kitara FC          0-1
+           NEC FC             v Express FC         3-1
+  Fri Mar 28 2025
+           Lugazi FC          v Maroons FC         0-1
+           Wakiso Giants FC   v UPDF FC            0-1
+           KCCA FC            v Bright Stars FC    5-0
+  Sat Mar 29 2025
+           SC Villa           v Vipers SC          1-0
+           Mbarara City FC    v BUL FC             0-0
+           URA FC             v Mbale Heroes FC    3-2
+
+▪ Matchday 22
+  Thu Apr 3 2025
+           Bright Stars FC    v Police FC          3-1
+           Vipers SC          v Lugazi FC          1-0
+  Fri Apr 4 2025
+           UPDF FC            v NEC FC             0-0
+           Mbarara City FC    v URA FC             0-2
+           BUL FC             v SC Villa           1-0
+  Sat Apr 5 2025
+           Mbale Heroes FC    v Wakiso Giants FC   0-1
+           Maroons FC         v Express FC         1-0
+           Kitara FC          v KCCA FC            4-0
+
+▪ Matchday 23
+  Wed Apr 9 2025
+           Wakiso Giants FC   v Maroons FC         3-3
+           URA FC             v Bright Stars FC    4-0
+  Thu Apr 10 2025
+           Police FC          v Mbarara City FC    2-0
+           SC Villa           v Mbale Heroes FC    3-1
+           NEC FC             v Kitara FC          2-1
+  Fri Apr 11 2025
+           Lugazi FC          v UPDF FC            2-2
+           Express FC         v Vipers SC          2-2
+  Sat Apr 12 2025
+           KCCA FC            v BUL FC             1-2
+
+▪ Matchday 24
+  Tue Apr 15 2025
+           Kitara FC          v Lugazi FC          0-0
+           Bright Stars FC    v Wakiso Giants FC   0-0
+  Wed Apr 16 2025
+           Mbarara City FC    v SC Villa           0-2
+           Mbale Heroes FC    v Express FC         0-1
+           BUL FC             v Police FC          0-0
+           UPDF FC            v Maroons FC         2-1
+           URA FC             v KCCA FC            1-0
+  Thu Apr 17 2025
+           Vipers SC          v NEC FC             3-1
+
+▪ Matchday 25
+  Thu Apr 24 2025
+           Maroons FC         v Vipers SC          0-1
+           Express FC         v UPDF FC            2-2
+  Fri Apr 25 2025
+           Lugazi FC          v Bright Stars FC    3-1
+           Police FC          v URA FC             2-0
+           NEC FC             v Mbale Heroes FC    2-0
+  Sat Apr 26 2025
+           SC Villa           v Kitara FC          0-0
+           Wakiso Giants FC   v BUL FC             1-2
+           KCCA FC            v Mbarara City FC    1-0
+
+▪ Matchday 26
+  Tue Apr 29 2025
+           BUL FC             v Lugazi FC          4-0
+           KCCA FC            v Police FC          2-1
+           Vipers SC          v UPDF FC            1-0
+  Wed Apr 30 2025
+           Mbarara City FC    v NEC FC             1-2
+           Kitara FC          v Wakiso Giants FC   0-0
+           Bright Stars FC    v Express FC         0-1
+           Mbale Heroes FC    v Maroons FC         0-1
+           URA FC             v SC Villa           1-1
+
+▪ Matchday 27
+  Tue May 6 2025
+           Wakiso Giants FC   v Mbarara City FC    0-1
+           Maroons FC         v Police FC          1-0
+           Lugazi FC          v URA FC             0-1
+           UPDF FC            v Bright Stars FC    1-0
+           Express FC         v Kitara FC          1-0
+  Wed May 7 2025
+           SC Villa           v KCCA FC            2-2
+           Vipers SC          v Mbale Heroes FC    6-0
+           NEC FC             v BUL FC             1-1
+
+▪ Matchday 28
+  Sat May 10 2025
+           BUL FC             v Vipers SC          1-0
+           Kitara FC          v Maroons FC         1-0
+           KCCA FC            v Wakiso Giants FC   5-0
+           Mbarara City FC    v Lugazi FC          1-0
+           Mbale Heroes FC    v UPDF FC            0-3
+           Bright Stars FC    v NEC FC             1-5
+           URA FC             v Express FC         5-0
+  Sun May 11 2025
+           Police FC          v SC Villa           1-3
+
+▪ Matchday 29
+  Wed May 14 2025
+           Kitara FC          v Vipers SC          0-2
+           SC Villa           v NEC FC             0-1
+           BUL FC             v Maroons FC         1-0
+           KCCA FC            v Lugazi FC          5-0
+  Thu May 15 2025
+           Police FC          v UPDF FC            1-0
+  Fri May 16 2025
+           Mbarara City FC    v Express FC         2-0
+           Bright Stars FC    v Mbale Heroes FC    5-1
+           URA FC             v Wakiso Giants FC   4-1
+
+▪ Matchday 30
+  Sat May 24 2025
+           Vipers SC          v Bright Stars FC    1-1
+           Lugazi FC          v SC Villa           0-1
+           Mbale Heroes FC    v Kitara FC          1-6
+           NEC FC             v URA FC             1-0
+           UPDF FC            v BUL FC             2-3
+           Wakiso Giants FC   v Police FC          0-2
+           Maroons FC         v Mbarara City FC    2-0
+           Express FC         v KCCA FC            0-3
