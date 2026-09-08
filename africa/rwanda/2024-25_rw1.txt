@@ -1,0 +1,424 @@
+= Rwanda | Premier League 2024/25
+
+# Date       Thu Aug 15 2024 - Wed May 28 2025 (286d)
+# Teams      16
+# Matches    240
+# Source     https://www.rsssf.org/tablesr/rwan2025.html
+# Retrieved  2026-09-08
+
+
+▪ Matchday 1
+  Thu Aug 15 2024
+           Bugesera FC        v Amagaju FC         0-0
+           Gorilla FC         v Vision FC          1-0
+           Mukura VS          v Gasogi United      0-1
+  Sat Aug 17 2024
+           Rayon Sports       v Marines FC         0-0
+  Sun Aug 18 2024
+           Musanze FC         v Muhazi United FC   1-1
+  Wed Aug 21 2024
+           Kiyovu Sports      v AS Kigali          2-1
+  Wed Sep 18 2024
+           Etincelles FC      v Police FC          0-0
+  Sun Nov 10 2024
+           APR FC             v Rutsiro FC         0-0
+
+▪ Matchday 2
+  Fri Aug 23 2024
+           Gasogi United      v Marines FC         1-0
+           Rayon Sports       v Amagaju FC         2-2
+  Sat Aug 24 2024
+           Mukura VS          v Etincelles FC      0-0
+           Rutsiro FC         v Vision FC          1-0
+  Sun Aug 25 2024
+           Muhazi United FC   v Gorilla FC         0-0
+  Mon Aug 26 2024
+           AS Kigali          v Musanze FC         1-0
+  Thu Sep 26 2024
+           Police FC          v Kiyovu Sports      4-0
+  Wed Nov 27 2024
+           APR FC             v Bugesera FC        2-0
+
+▪ Matchday 3
+  Fri Sep 13 2024
+           Vision FC          v Muhazi United FC   1-1
+  Sun Sep 15 2024
+           Amagaju FC         v Gasogi United      2-2
+           Bugesera FC        v Rutsiro FC         2-3
+           Musanze FC         v Police FC          0-1
+           Kiyovu Sports      v Mukura VS          0-1
+           AS Kigali          v Gorilla FC         1-0
+           Marines FC         v Etincelles FC      2-0
+  Sat Dec 7 2024
+           Rayon Sports       v APR FC             0-0
+
+▪ Matchday 4
+  Sat Sep 21 2024
+           AS Kigali          v Rutsiro FC         0-0
+           Bugesera FC        v Etincelles FC      1-1
+           Amagaju FC         v Musanze FC         0-3
+           Gasogi United      v Rayon Sports       0-1
+  Sun Sep 22 2024
+           Mukura VS          v Vision FC          2-1
+           Gorilla FC         v Marines FC         1-0
+  Mon Sep 23 2024
+           Police FC          v Muhazi United FC   3-0
+  Wed Dec 11 2024
+           APR FC             v Kiyovu Sports      3-0
+
+▪ Matchday 5
+  Fri Sep 27 2024
+           Gorilla FC         v Mukura VS          3-1
+           Bugesera FC        v Gasogi United      0-0
+  Sat Sep 28 2024
+           Musanze FC         v Marines FC         1-1
+           Muhazi United FC   v AS Kigali          1-2
+           Rutsiro FC         v Rayon Sports       0-1
+  Sun Sep 29 2024
+           Kiyovu Sports      v Amagaju FC         0-2
+           Etincelles FC      v APR FC             0-0
+           Vision FC          abd.   Police FC           [abandoned at 0-0 at half-time due to heavy rain]
+           Vision FC          v Police FC          0-0 [second half]
+
+▪ Matchday 6
+  Sat Oct 19 2024
+           Etincelles FC      v Amagaju FC         2-3
+           Musanze FC         v Mukura VS          1-1
+           Muhazi United FC   v Rutsiro FC         1-0
+           Rayon Sports       v Bugesera FC        2-0
+           APR FC             abd.   Gasogi United       [abandoned at 0-0 after 15' due to heavy rain]
+           Police FC          v Gorilla FC         0-0
+           Marines FC         v Kiyovu Sports      4-2
+           APR FC             v Gasogi United      1-0 [remaining 75']
+  Mon Oct 21 2024
+           AS Kigali          v Vision FC          2-1
+
+▪ Matchday 7
+  Fri Oct 25 2024
+           Gorilla FC         v Amagaju FC         3-0
+  Sat Oct 26 2024
+           Vision FC          v Marines FC         4-0
+           Kiyovu Sports      v Bugesera FC        1-2
+           Rutsiro FC         v Gasogi United      0-1
+           Muhazi United FC   v Mukura VS          0-0
+  Sat Nov 9 2024
+           Rayon Sports       v Etincelles FC      1-0
+  Sun Nov 10 2024
+           AS Kigali          v Police FC          1-0
+  Sat Jan 4 2025
+           Musanze FC         v APR FC             0-1
+
+▪ Matchday 8
+  Fri Nov 1 2024
+           Gasogi United      v Etincelles FC      0-1
+  Sat Nov 2 2024
+           Bugesera FC        v Musanze FC         1-1
+           Amagaju FC         v Vision FC          3-1
+           Police FC          v Rutsiro FC         3-2
+           Rayon Sports       v Kiyovu Sports      4-0
+  Sun Nov 3 2024
+           Marines FC         v Muhazi United FC   2-1
+           Mukura VS          v AS Kigali          0-0
+           Gorilla FC         v APR FC             3-0 [awarded; originally 0-0; APR used 7 foreign players while at most 6 are allowed]
+
+▪ Matchday 9
+  Tue Nov 5 2024
+           Kiyovu Sports      v Gasogi United      3-4
+  Wed Nov 6 2024
+           Bugesera FC        v Gorilla FC         0-0
+           Musanze FC         v Rayon Sports       0-1
+           AS Kigali          v Marines FC         1-2
+           Etincelles FC      v Rutsiro FC         0-0
+           Muhazi United FC   v Amagaju FC         3-0
+  Thu Nov 7 2024
+           Mukura VS          v Police FC          2-0
+           Vision FC          v APR FC             0-2
+
+▪ Matchday 10
+  Fri Nov 22 2024
+           Kiyovu Sports      v Etincelles FC      2-1
+  Sat Nov 23 2024
+           Bugesera FC        v Vision FC          1-2
+           Gasogi United      v Musanze FC         1-1
+           Marines FC         v Police FC          0-1
+           APR FC             v Muhazi United FC   1-0
+  Sun Nov 24 2024
+           Gorilla FC         v Rayon Sports       0-2
+           Amagaju FC         v AS Kigali          1-2
+           Rutsiro FC         v Mukura VS          3-0
+
+▪ Matchday 11
+  Fri Nov 29 2024
+           Police FC          v Amagaju FC         0-1
+  Sat Nov 30 2024
+           Gasogi United      v Gorilla FC         2-2
+           Muhazi United FC   v Bugesera FC        0-2
+           Mukura VS          v Marines FC         1-1
+           Musanze FC         v Etincelles FC      0-0
+           Vision FC          v Rayon Sports       0-3
+  Sun Dec 1 2024
+           Rutsiro FC         v Kiyovu Sports      0-0
+           AS Kigali          v APR FC             0-1
+
+▪ Matchday 12
+  Wed Dec 4 2024
+           APR FC             v Police FC          1-1
+           Rayon Sports       v Muhazi United FC   2-1
+  Fri Dec 6 2024
+           Gasogi United      v Vision FC          3-0
+  Sat Dec 7 2024
+           Bugesera FC        v AS Kigali          1-2
+           Etincelles FC      v Gorilla FC         0-1
+           Mukura VS          v Amagaju FC         1-0
+  Sun Dec 8 2024
+           Kiyovu Sports      v Musanze FC         0-1
+           Marines FC         v Rutsiro FC         1-1
+
+▪ Matchday 13
+  Fri Dec 13 2024
+           Police FC          v Bugesera FC        2-2
+  Sat Dec 14 2024
+           Muhazi United FC   v Gasogi United      0-0
+           Rutsiro FC         v Musanze FC         0-0
+           Amagaju FC         v Marines FC         2-1
+           APR FC             v Mukura VS          4-2
+           AS Kigali          v Rayon Sports       1-3
+  Sun Dec 15 2024
+           Gorilla FC         v Kiyovu Sports      1-1
+  Mon Dec 16 2024
+           Vision FC          v Etincelles FC      1-1
+
+▪ Matchday 14
+  Fri Dec 20 2024
+           Rutsiro FC         v Amagaju FC         2-1
+  Sat Dec 21 2024
+           Bugesera FC        v Mukura VS          0-0
+           Kiyovu Sports      v Vision FC          3-2
+           Musanze FC         v Gorilla FC         1-0
+  Mon Dec 23 2024
+           Etincelles FC      v Muhazi United FC   0-0
+  Sat Jan 4 2025
+           Gasogi United      v AS Kigali          1-2
+           Rayon Sports       v Police FC          2-0
+  Wed Jan 8 2025
+           Marines FC         v APR FC             1-2
+
+▪ Matchday 15
+  Fri Dec 27 2024
+           Police FC          v Gasogi United      2-0
+  Sun Dec 29 2024
+           Muhazi United FC   v Kiyovu Sports      0-0
+           Gorilla FC         v Rutsiro FC         1-2
+  Mon Dec 30 2024
+           Marines FC         v Bugesera FC        1-4
+           Vision FC          v Musanze FC         3-0
+  Tue Jan 7 2025
+           Etincelles FC      v AS Kigali          1-0
+  Sat Jan 11 2025
+           Mukura VS          v Rayon Sports       2-1
+  Sun Jan 12 2025
+           Amagaju FC         v APR FC             1-0
+
+▪ Matchday 16
+  Thu Feb 6 2025
+           Vision FC          v Gorilla FC         1-2
+  Sat Feb 8 2025
+           Mukura VS          v Muhazi United FC   1-0
+           Rutsiro FC         v Police FC          0-0
+           AS Kigali          v Bugesera FC        1-0
+           Kiyovu Sports      v APR FC             1-2
+  Sun Feb 9 2025
+           Amagaju FC         v Etincelles FC      0-1
+           Marines FC         v Gasogi United      3-0
+           Rayon Sports       v Musanze FC         2-2
+
+▪ Matchday 17
+  Sat Feb 15 2025
+           Etincelles FC      v Mukura VS          2-0
+           Muhazi United FC   v Vision FC          3-0
+           Gasogi United      v Bugesera FC        2-2
+           Amagaju FC         v Rutsiro FC         0-0
+           Kiyovu Sports      v Rayon Sports       1-2
+  Sun Feb 16 2025
+           Police FC          v Marines FC         4-0
+           Gorilla FC         v Musanze FC         1-0
+           APR FC             v AS Kigali          2-1
+
+▪ Matchday 18
+  Sat Feb 22 2025
+           Muhazi United FC   v Marines FC         2-0
+           Rutsiro FC         v Etincelles FC      0-1
+           Police FC          v Musanze FC         3-3
+           Amagaju FC         v Rayon Sports       1-1
+  Sun Feb 23 2025
+           Vision FC          v Bugesera FC        0-4
+           Mukura VS          v APR FC             1-0
+           Gorilla FC         v AS Kigali          0-0
+  Mon Feb 24 2025
+           Gasogi United      v Kiyovu Sports      2-1
+
+▪ Matchday 19
+  Fri Feb 28 2025
+           Vision FC          v Rutsiro FC         1-2
+  Sat Mar 1 2025
+           Muhazi United FC   v Etincelles FC      1-0
+           Amagaju FC         v Bugesera FC        0-1
+           Kiyovu Sports      v Gorilla FC         3-1
+           Musanze FC         v AS Kigali          1-2
+           Marines FC         v Mukura VS          3-1
+  Sun Mar 2 2025
+           Rayon Sports       v Gasogi United      0-0
+           Police FC          v APR FC             1-3
+
+▪ Matchday 20
+  Fri Mar 7 2025
+           Kiyovu Sports      v Marines FC         2-1
+  Sat Mar 8 2025
+           Vision FC          v Amagaju FC         1-0
+           Etincelles FC      v Gasogi United      1-0
+           Muhazi United FC   v Police FC          1-1
+           Musanze FC         v Bugesera FC        0-0
+  Sun Mar 9 2025
+           APR FC             v Rayon Sports       0-0
+           Mukura VS          abd.   Gorilla FC          [abandoned at 1-0 in 60' due to heavy rain]
+           Rutsiro FC         v AS Kigali          2-1
+  Mon Mar 10 2025
+           Mukura VS          v Gorilla FC         2-0 [remaining 30']
+
+▪ Matchday 21
+  Fri Mar 14 2025
+           Gorilla FC         v Muhazi United FC   2-0
+           Gasogi United      v APR FC             0-0
+  Sat Mar 15 2025
+           Marines FC         v Amagaju FC         1-2
+           Bugesera FC        v Police FC          0-1
+           Musanze FC         v Kiyovu Sports      3-0
+           Rayon Sports       v AS Kigali          2-1
+  Sun Mar 16 2025
+           Etincelles FC      v Vision FC          1-1
+  Wed Apr 2 2025
+           Mukura VS          v Rutsiro FC         0-0
+
+▪ Matchday 22
+  Fri Mar 28 2025
+           AS Kigali          v Gasogi United      0-0
+  Sat Mar 29 2025
+           Bugesera FC        v Muhazi United FC   0-1
+           Rutsiro FC         v Gorilla FC         1-0
+           Musanze FC         v Amagaju FC         1-0
+           Rayon Sports       v Mukura VS          0-1
+  Sun Mar 30 2025
+           Kiyovu Sports      v Police FC          1-0
+           Etincelles FC      v Marines FC         0-0
+           APR FC             v Vision FC          2-1
+
+▪ Matchday 23
+  Fri Apr 4 2025
+           Vision FC          v Gasogi United      1-0
+  Sat Apr 5 2025
+           AS Kigali          v Muhazi United FC   1-0
+           Musanze FC         v Rutsiro FC         1-1
+           Bugesera FC        v APR FC             0-1
+           Amagaju FC         v Gorilla FC         1-0
+           Marines FC         v Rayon Sports       2-2
+  Sun Apr 6 2025
+           Etincelles FC      v Kiyovu Sports      0-2
+           Police FC          v Mukura VS          0-0
+
+▪ Matchday 24
+  Fri Apr 18 2025
+           Gasogi United      v Police FC          0-2
+  Sat Apr 19 2025
+           AS Kigali          v Amagaju FC         2-1
+           Marines FC         v Gorilla FC         2-1
+           Muhazi United FC   v Rayon Sports       0-2
+           Mukura VS          v Kiyovu Sports      0-1
+           Musanze FC         v Vision FC          0-0
+  Sun Apr 20 2025
+           Rutsiro FC         v Bugesera FC        4-2
+           APR FC             v Etincelles FC      2-2
+
+▪ Matchday 25
+  Fri Apr 25 2025
+           Vision FC          v Kiyovu Sports      0-1
+  Sat Apr 26 2025
+           Muhazi United FC   v Musanze FC         0-1
+           AS Kigali          v Mukura VS          1-1
+           Rutsiro FC         v APR FC             0-5
+           Bugesera FC        v Marines FC         2-1
+  Sun Apr 27 2025
+           Gorilla FC         v Police FC          0-0
+           Etincelles FC      v Rayon Sports       1-2
+           Gasogi United      v Amagaju FC         1-0
+
+▪ Matchday 26
+  Thu May 1 2025
+           Etincelles FC      v Musanze FC         3-0
+           Kiyovu Sports      v Muhazi United FC   2-2
+  Fri May 2 2025
+           Gorilla FC         v Bugesera FC        0-1
+  Mon May 5 2025
+           Vision FC          v AS Kigali          0-2
+  Wed May 7 2025
+           Amagaju FC         v Police FC          0-2
+           Gasogi United      v Mukura VS          1-0
+           APR FC             v Marines FC         3-0
+  Thu May 8 2025
+           Rayon Sports       v Rutsiro FC         2-0
+
+▪ Matchday 27
+  Fri May 9 2025
+           AS Kigali          v Kiyovu Sports      0-1
+  Sat May 10 2025
+           Marines FC         v Vision FC          2-1
+           Mukura VS          v Bugesera FC        1-1
+           Musanze FC         v Gasogi United      1-1
+           APR FC             v Amagaju FC         3-1
+  Sun May 11 2025
+           Rutsiro FC         v Muhazi United FC   1-2
+           Police FC          v Rayon Sports       0-1
+  Mon May 12 2025
+           Gorilla FC         v Etincelles FC      2-1
+
+▪ Matchday 28
+  Fri May 16 2025
+           Kiyovu Sports      v Rutsiro FC         2-1
+  Sat May 17 2025
+           Amagaju FC         v Mukura VS          1-1
+           APR FC             v Gorilla FC         1-0
+           Bugesera FC        abd.   Rayon Sports        [abandoned at 2-0 in 57' due to crowd trouble]
+           Marines FC         v Musanze FC         3-0
+           Gasogi United      v Muhazi United FC   1-0
+  Sun May 18 2025
+           Police FC          v Vision FC          3-0
+  Mon May 19 2025
+           AS Kigali          v Etincelles FC      2-2
+  Wed May 21 2025
+           Bugesera FC        v Rayon Sports       2-1 [remaining 33']
+
+▪ Matchday 29
+  Tue May 20 2025
+           Rutsiro FC         v Marines FC         3-3
+           Gorilla FC         v Gasogi United      2-1
+  Wed May 21 2025
+           Mukura VS          v Musanze FC         0-2
+  Thu May 22 2025
+           Amagaju FC         v Kiyovu Sports      2-0
+           Police FC          v AS Kigali          1-1
+  Sat May 24 2025
+           Muhazi United FC   v APR FC             0-1
+           Rayon Sports       v Vision FC          0-0
+           Etincelles FC      v Bugesera FC        0-1
+
+▪ Matchday 30
+  Sun May 25 2025
+           Gasogi United      v Rutsiro FC         4-1
+  Tue May 27 2025
+           Vision FC          v Mukura VS          0-1
+           Marines FC         v AS Kigali          0-1
+           Police FC          v Etincelles FC      3-3
+           Bugesera FC        v Kiyovu Sports      5-0
+  Wed May 28 2025
+           Rayon Sports       v Gorilla FC         1-0
+           Amagaju FC         v Muhazi United FC   2-1
+           APR FC             v Musanze FC         3-1

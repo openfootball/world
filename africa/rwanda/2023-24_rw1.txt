@@ -1,0 +1,411 @@
+= Rwanda | Premier League 2023/24
+
+# Date       Fri Aug 18 2023 - Sun May 12 2024 (268d)
+# Teams      16
+# Matches    240
+# Source     https://www.rsssf.org/tablesr/rwan2024.html
+# Retrieved  2026-09-08
+
+
+▪ Matchday 1
+  Fri Aug 18 2023
+           Gasogi United        v Rayon Sports         1-2
+  Sun Aug 20 2023
+           Etoile de l'Est FC   v Musanze FC           1-4
+           Amagaju FC           v Mukura VS            1-1
+           Etincelles FC        v Gorilla FC           1-1
+           Police FC            v Sunrise FC           2-0
+           Kiyovu Sports        v Muhazi United FC     0-0
+  Mon Aug 21 2023
+           AS Kigali            v Bugesera FC          1-0
+  Sat Sep 23 2023
+           Marines FC           v APR FC               2-2
+
+▪ Matchday 2
+  Fri Aug 25 2023
+           Gasogi United        v Muhazi United FC     2-0
+  Sat Aug 26 2023
+           Musanze FC           v Bugesera FC          1-0
+           Kiyovu Sports        v AS Kigali            2-0
+           Sunrise FC           v Etoile de l'Est FC   1-0
+           Mukura VS            v Marines FC           1-0
+  Sun Aug 27 2023
+           Gorilla FC           v Rayon Sports         0-0
+  Mon Aug 28 2023
+           Amagaju FC           v Etincelles FC        2-0
+           APR FC               v Police FC            1-0
+
+▪ Matchday 3
+  Fri Sep 1 2023
+           Rayon Sports         v Amagaju FC           1-1
+  Sat Sep 2 2023
+           Bugesera FC          v Kiyovu Sports        4-0
+           Musanze FC           v Sunrise FC           2-1
+           AS Kigali            v Gasogi United        1-2
+           Etoile de l'Est FC   v APR FC               0-1
+           Marines FC           v Etincelles FC        1-0
+  Sun Sep 3 2023
+           Police FC            v Mukura VS            1-1
+           Muhazi United FC     v Gorilla FC           1-1
+
+▪ Matchday 4
+  Fri Sep 15 2023
+           Gasogi United        v Kiyovu Sports        1-1
+  Sat Sep 16 2023
+           Sunrise FC           v Bugesera FC          1-0
+           Amagaju FC           v Muhazi United FC     2-0
+  Sun Sep 17 2023
+           Etincelles FC        v Police FC            1-0
+           Mukura VS            v Etoile de l'Est FC   0-3
+  Mon Sep 18 2023
+           Gorilla FC           v AS Kigali            0-0
+  Fri Oct 6 2023
+           APR FC               v Musanze FC           2-1
+  Sat Oct 7 2023
+           Marines FC           v Rayon Sports         2-2
+
+▪ Matchday 5
+  Sat Sep 30 2023
+           Bugesera FC          v Gasogi United        3-0
+           Musanze FC           v Mukura VS            0-0
+           Etoile de l'Est FC   v Etincelles FC        1-0
+  Sun Oct 1 2023
+           Muhazi United FC     v Marines FC           0-0
+           AS Kigali            v Amagaju FC           1-1
+  Mon Oct 2 2023
+           Kiyovu Sports        v Gorilla FC           1-0
+  Tue Nov 28 2023
+           Police FC            v Rayon Sports         1-2
+  Wed Nov 29 2023
+           Sunrise FC           v APR FC               0-1
+
+▪ Matchday 6
+  Tue Oct 10 2023
+           Etincelles FC        v Musanze FC           0-3 [awarded; Etincelles forfeited]
+           Mukura VS            v Sunrise FC           1-0
+           Gorilla FC           v Gasogi United        2-2
+           APR FC               v Bugesera FC          1-1
+  Wed Oct 11 2023
+           Police FC            v Muhazi United FC     2-1
+           Amagaju FC           v Kiyovu Sports        1-1
+           Marines FC           v AS Kigali            0-1
+           Rayon Sports         v Etoile de l'Est FC   2-1
+
+▪ Matchday 7
+  Fri Oct 13 2023
+           APR FC               v Mukura VS            1-0
+  Sat Oct 14 2023
+           Bugesera FC          v Gorilla FC           2-2
+           Sunrise FC           v Etincelles FC        0-1
+           Gasogi United        v Amagaju FC           0-1
+           Kiyovu Sports        v Marines FC           2-1
+  Sun Oct 15 2023
+           AS Kigali            v Police FC            0-1
+           Musanze FC           v Rayon Sports         1-0
+           Etoile de l'Est FC   v Muhazi United FC     0-1
+
+▪ Matchday 8
+  Fri Oct 20 2023
+           Police FC            v Kiyovu Sports        3-1
+  Sat Oct 21 2023
+           Rayon Sports         v Sunrise FC           3-0
+           Mukura VS            v Bugesera FC          2-1
+           Muhazi United FC     v Musanze FC           1-1
+           Marines FC           v Gasogi United        0-1
+  Sun Oct 22 2023
+           Etincelles FC        v APR FC               0-3
+           Amagaju FC           v Gorilla FC           0-1
+           Etoile de l'Est FC   v AS Kigali            0-0
+
+▪ Matchday 9
+  Fri Oct 27 2023
+           Gorilla FC           v Marines FC           2-3
+           Kiyovu Sports        v Etoile de l'Est FC   6-1
+  Sat Oct 28 2023
+           Bugesera FC          v Amagaju FC           2-2
+           Mukura VS            v Etincelles FC        1-0
+           Gasogi United        v Police FC            0-1
+  Sun Oct 29 2023
+           APR FC               v Rayon Sports         0-0
+           Sunrise FC           v Muhazi United FC     1-2
+           Musanze FC           v AS Kigali            1-0
+
+▪ Matchday 10
+  Fri Nov 3 2023
+           Police FC            v Gorilla FC           1-0
+  Sat Nov 4 2023
+           Marines FC           v Amagaju FC           1-0
+           Rayon Sports         v Mukura VS            4-1
+           Muhazi United FC     v APR FC               1-2
+           Musanze FC           v Kiyovu Sports        1-0
+  Sun Nov 5 2023
+           Etoile de l'Est FC   v Gasogi United        1-0
+           AS Kigali            v Sunrise FC           0-1
+           Etincelles FC        v Bugesera FC          3-2
+
+▪ Matchday 11
+  Fri Nov 24 2023
+           Gorilla FC           v Etoile de l'Est FC   1-0
+  Sat Nov 25 2023
+           Bugesera FC          v Marines FC           0-1
+           Etincelles FC        v Rayon Sports         1-1
+           Amagaju FC           v Police FC            1-2
+           APR FC               v AS Kigali            1-1
+           Sunrise FC           abd.   Kiyovu Sports         [abandoned at 0-0 in 7' due to rain]
+  Sun Nov 26 2023
+           Sunrise FC           v Kiyovu Sports        0-0 [remaining 83']
+           Gasogi United        v Musanze FC           2-0
+           Mukura VS            v Muhazi United FC     0-0
+
+▪ Matchday 12
+  Fri Dec 1 2023
+           Rayon Sports         v Bugesera FC          1-0
+  Sat Dec 2 2023
+           Police FC            v Marines FC           2-1
+           Etoile de l'Est FC   v Amagaju FC           0-1
+           Musanze FC           v Gorilla FC           0-1
+           Sunrise FC           v Gasogi United        0-1
+           Kiyovu Sports        v APR FC               1-1
+  Sun Dec 3 2023
+           Muhazi United FC     v Etincelles FC        3-1
+           AS Kigali            v Mukura VS            1-1
+
+▪ Matchday 13
+  Tue Dec 5 2023
+           Amagaju FC           v Musanze FC           0-2
+           Bugesera FC          v Police FC            4-2
+           Marines FC           v Etoile de l'Est FC   3-2
+           Gorilla FC           v Sunrise FC           0-2
+           APR FC               v Gasogi United        0-0
+  Wed Dec 6 2023
+           Etincelles FC        v AS Kigali            4-2
+           Mukura VS            v Kiyovu Sports        4-1
+           Rayon Sports         v Muhazi United FC     2-0
+
+▪ Matchday 14
+  Fri Dec 8 2023
+           Sunrise FC           v Amagaju FC           2-1
+           Etoile de l'Est FC   v Police FC            0-3
+           Gorilla FC           v APR FC               1-4
+  Sat Dec 9 2023
+           Kiyovu Sports        v Etincelles FC        2-1
+           Musanze FC           v Marines FC           4-0
+           Muhazi United FC     v Bugesera FC          1-0
+           Gasogi United        v Mukura VS            2-4
+           AS Kigali            v Rayon Sports         2-1
+
+▪ Matchday 15
+  Mon Dec 11 2023
+           Amagaju FC           v APR FC               1-3
+  Tue Dec 12 2023
+           Police FC            v Musanze FC           3-0
+           Bugesera FC          v Etoile de l'Est FC   2-0
+           Muhazi United FC     v AS Kigali            0-0
+           Marines FC           v Sunrise FC           1-1
+           Mukura VS            v Gorilla FC           0-1
+           Rayon Sports         v Kiyovu Sports        1-1
+  Wed Dec 13 2023
+           Etincelles FC        v Gasogi United        2-1
+
+▪ Matchday 16
+  Fri Jan 12 2024
+           Rayon Sports         v Gasogi United        1-2
+  Sat Jan 13 2024
+           Mukura VS            v Amagaju FC           3-2
+           Musanze FC           v Etoile de l'Est FC   0-0
+           Bugesera FC          v AS Kigali            0-0
+           Gorilla FC           v Etincelles FC        2-1
+  Sun Jan 14 2024
+           Muhazi United FC     v Kiyovu Sports        1-1
+           Sunrise FC           v Police FC            2-1
+  Wed Feb 7 2024
+           APR FC               v Marines FC           5-2
+
+▪ Matchday 17
+  Fri Jan 19 2024
+           Rayon Sports         v Gorilla FC           1-0
+  Sat Jan 20 2024
+           AS Kigali            v Kiyovu Sports        1-0
+           Bugesera FC          v Musanze FC           1-2
+           Etincelles FC        v Amagaju FC           0-1
+           Etoile de l'Est FC   v Sunrise FC           2-2
+  Sun Jan 21 2024
+           Marines FC           v Mukura VS            1-1
+           Muhazi United FC     v Gasogi United        0-0
+           Police FC            v APR FC               0-1
+
+▪ Matchday 18
+  Fri Jan 26 2024
+           Kiyovu Sports        v Bugesera FC          2-2
+  Sat Jan 27 2024
+           Etincelles FC        v Marines FC           2-2
+           Gorilla FC           v Muhazi United FC     1-2
+           Gasogi United        v AS Kigali            0-1
+  Wed Feb 7 2024
+           Amagaju FC           v Rayon Sports         0-1
+           Sunrise FC           v Musanze FC           0-0
+  Thu Feb 8 2024
+           Mukura VS            v Police FC            2-0
+  Tue Mar 5 2024
+           APR FC               v Etoile de l'Est FC   1-0
+
+▪ Matchday 19
+  Fri Feb 2 2024
+           AS Kigali            v Gorilla FC           1-0
+  Sat Feb 3 2024
+           Bugesera FC          v Sunrise FC           0-2
+           Etoile de l'Est FC   v Mukura VS            0-2
+           Kiyovu Sports        v Gasogi United        1-1
+  Sun Feb 4 2024
+           Muhazi United FC     v Amagaju FC           1-2
+           Police FC            v Etincelles FC        1-1
+           Musanze FC           v APR FC               1-3
+           Rayon Sports         v Marines FC           2-0
+
+▪ Matchday 20
+  Sat Feb 10 2024
+           Amagaju FC           v AS Kigali            2-1
+           Etincelles FC        v Etoile de l'Est FC   1-1
+           Gorilla FC           v Kiyovu Sports        0-1
+           APR FC               v Sunrise FC           1-0
+  Sun Feb 11 2024
+           Gasogi United        v Bugesera FC          2-3
+           Marines FC           v Muhazi United FC     1-1
+           Mukura VS            v Musanze FC           0-1
+           Rayon Sports         v Police FC            2-1
+
+▪ Matchday 21
+  Fri Feb 16 2024
+           Kiyovu Sports        v Amagaju FC           0-0
+  Sat Feb 17 2024
+           Musanze FC           v Etincelles FC        1-1
+           Sunrise FC           v Mukura VS            2-4
+           Gasogi United        v Gorilla FC           1-0
+           Etoile de l'Est FC   v Rayon Sports         0-1
+  Sun Feb 18 2024
+           AS Kigali            v Marines FC           2-1
+           Bugesera FC          v APR FC               0-0
+           Muhazi United FC     v Police FC            0-0
+
+▪ Matchday 22
+  Fri Feb 23 2024
+           Rayon Sports         v Musanze FC           0-1
+  Sat Feb 24 2024
+           Amagaju FC           v Gasogi United        2-0
+           Marines FC           v Kiyovu Sports        3-0
+           Police FC            v AS Kigali            0-1
+           Muhazi United FC     v Etoile de l'Est FC   2-0
+  Sun Feb 25 2024
+           Mukura VS            v APR FC               0-2
+           Gorilla FC           v Bugesera FC          1-1
+           Etincelles FC        v Sunrise FC           2-2
+
+▪ Matchday 23
+  Fri Mar 1 2024
+           AS Kigali            v Etoile de l'Est FC   0-1
+           Kiyovu Sports        v Police FC            2-1
+  Sat Mar 2 2024
+           Musanze FC           v Muhazi United FC     1-0
+           Bugesera FC          v Mukura VS            0-2
+           Gorilla FC           v Amagaju FC           1-1
+           APR FC               v Etincelles FC        1-0
+  Sun Mar 3 2024
+           Sunrise FC           v Rayon Sports         0-2
+           Gasogi United        v Marines FC           2-0
+
+▪ Matchday 24
+  Fri Mar 8 2024
+           Amagaju FC           v Bugesera FC          1-1
+           AS Kigali            v Musanze FC           1-0
+           Etincelles FC        v Mukura VS            3-1
+           Etoile de l'Est FC   v Kiyovu Sports        1-0
+  Sat Mar 9 2024
+           Rayon Sports         v APR FC               0-2
+           Muhazi United FC     v Sunrise FC           1-0
+  Sun Mar 10 2024
+           Marines FC           v Gorilla FC           2-1
+           Police FC            v Gasogi United        2-1
+
+▪ Matchday 25
+  Thu Mar 28 2024
+           Gasogi United        v Etoile de l'Est FC   0-1
+  Fri Mar 29 2024
+           Amagaju FC           v Marines FC           1-0
+  Sat Mar 30 2024
+           Gorilla FC           v Police FC            2-0
+           Kiyovu Sports        v Musanze FC           3-1
+           Mukura VS            v Rayon Sports         0-1
+  Sun Mar 31 2024
+           APR FC               v Muhazi United FC     1-1
+           Bugesera FC          v Etincelles FC        2-2
+           Sunrise FC           v AS Kigali            0-2
+
+▪ Matchday 26
+  Tue Apr 2 2024
+           Etoile de l'Est FC   v Gorilla FC           0-1
+           Police FC            v Amagaju FC           2-0
+  Wed Apr 3 2024
+           Musanze FC           v Gasogi United        2-1
+           Kiyovu Sports        v Sunrise FC           4-0
+  Thu Apr 4 2024
+           Muhazi United FC     v Mukura VS            0-3
+           Rayon Sports         v Etincelles FC        1-3
+  Fri Apr 5 2024
+           Marines FC           v Bugesera FC          0-0
+  Mon Apr 15 2024
+           AS Kigali            v APR FC               2-2
+
+▪ Matchday 27
+  Fri Apr 19 2024
+           Gasogi United        v Sunrise FC           3-0
+  Sat Apr 20 2024
+           APR FC               v Kiyovu Sports        1-0
+           Bugesera FC          v Rayon Sports         1-2
+           Amagaju FC           v Etoile de l'Est FC   0-1
+           Marines FC           v Police FC            2-1
+  Sun Apr 21 2024
+           Mukura VS            v AS Kigali            0-0
+           Gorilla FC           v Musanze FC           1-0
+           Etincelles FC        v Muhazi United FC     2-1
+
+▪ Matchday 28
+  Thu Apr 25 2024
+           Kiyovu Sports        v Mukura VS            1-1
+  Fri Apr 26 2024
+           Police FC            v Bugesera FC          1-2
+  Sat Apr 27 2024
+           Muhazi United FC     v Rayon Sports         0-2
+           Musanze FC           v Amagaju FC           2-1
+           AS Kigali            v Etincelles FC        1-0
+  Sun Apr 28 2024
+           Sunrise FC           v Gorilla FC           2-1
+           Etoile de l'Est FC   v Marines FC           1-0
+           Gasogi United        v APR FC               1-1
+
+▪ Matchday 29
+  Thu May 2 2024
+           Marines FC           v Musanze FC           1-0
+  Fri May 3 2024
+           APR FC               v Gorilla FC           2-0
+           Etincelles FC        v Kiyovu Sports        2-3
+  Sat May 4 2024
+           Amagaju FC           v Sunrise FC           1-0
+           Bugesera FC          v Muhazi United FC     0-0
+           Police FC            v Etoile de l'Est FC   1-2
+  Sun May 5 2024
+           Mukura VS            v Gasogi United        2-1
+           Rayon Sports         v AS Kigali            4-2
+
+▪ Matchday 30
+  Thu May 9 2024
+           AS Kigali            v Muhazi United FC     1-0
+  Fri May 10 2024
+           Gasogi United        v Etincelles FC        1-0
+  Sat May 11 2024
+           Gorilla FC           v Mukura VS            2-1
+           Etoile de l'Est FC   v Bugesera FC          0-3
+           Sunrise FC           v Marines FC           3-1
+           Kiyovu Sports        v Rayon Sports         1-0
+  Sun May 12 2024
+           APR FC               v Amagaju FC           1-1
+           Musanze FC           v Police FC            1-0
