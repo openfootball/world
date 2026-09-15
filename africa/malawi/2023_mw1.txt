@@ -1,0 +1,368 @@
+= Malawi | Super League 2023
+
+# Date       Sat Apr 15 2023 - Sun Dec 3 2023 (232d)
+# Teams      16
+# Matches    240
+# Source     https://www.rsssf.org/tablesm/malaw2023.html
+# Retrieved  2026-09-15
+
+
+▪ Matchday 1
+  Sat Apr 15 2023
+           Silver Strikers FC           v Nyasa Big Bullets FC         1-1
+           Moyale Barracks FC           v Karonga United FC            1-1
+           Mighty Tigers FC             v Extreme FC                   1-0
+           MAFCO FC                     v Chitipa United FC            2-1
+  Sun Apr 16 2023
+           Dedza Dynamos FC             v Bangwe All Stars FC          1-1
+           Blue Eagles FC               v Red Lions FC                 1-1
+           Ekwendeni Hammers FC         v Kamuzu Barracks FC           0-0
+           Mighty Mukuru Wanderers FC   v Civil Service United FC      2-0
+
+▪ Matchday 2
+  Sat Apr 22 2023
+           Karonga United FC            v Chitipa United FC            2-2
+           Blue Eagles FC               v Silver Strikers FC           0-1
+           Bangwe All Stars FC          v Mighty Tigers FC             0-0
+           Red Lions FC                 v Mighty Mukuru Wanderers FC   0-3
+  Sun Apr 23 2023
+           Nyasa Big Bullets FC         v MAFCO FC                     4-0
+           Civil Service United FC      v Extreme FC                   1-1
+           Ekwendeni Hammers FC         v Moyale Barracks FC           0-0
+           Dedza Dynamos FC             v Kamuzu Barracks FC           3-2
+
+▪ Matchday 3
+  Sat Apr 29 2023
+           Extreme FC                   v Nyasa Big Bullets FC         0-1
+           Mighty Mukuru Wanderers FC   v Ekwendeni Hammers FC         2-1
+           MAFCO FC                     v Karonga United FC            2-3
+           Chitipa United FC            v Dedza Dynamos FC             3-1
+  Sun Apr 30 2023
+           Kamuzu Barracks FC           v Moyale Barracks FC           0-1
+           Bangwe All Stars FC          v Blue Eagles FC               1-1
+           Silver Strikers FC           v Red Lions FC                 4-1
+           Mighty Tigers FC             v Civil Service United FC      0-1
+
+▪ Matchday 4
+  Sat May 6 2023
+           Blue Eagles FC               v Chitipa United FC            3-1
+           Nyasa Big Bullets FC         v Moyale Barracks FC           3-1
+           Civil Service United FC      v MAFCO FC                     1-1
+  Sun May 7 2023
+           Extreme FC                   v Kamuzu Barracks FC           1-4
+           Karonga United FC            v Bangwe All Stars FC          1-2
+           Mighty Tigers FC             v Mighty Mukuru Wanderers FC   1-1
+           Red Lions FC                 v Dedza Dynamos FC             2-1
+           Ekwendeni Hammers FC         v Silver Strikers FC           1-3
+
+▪ Matchday 5
+  Fri May 12 2023
+           Bangwe All Stars FC          v Nyasa Big Bullets FC         0-2
+  Sat May 13 2023
+           Moyale Barracks FC           v Mighty Mukuru Wanderers FC   0-0
+           Karonga United FC            v Civil Service United FC      1-0
+           Blue Eagles FC               v Dedza Dynamos FC             2-2
+  Sun May 14 2023
+           Ekwendeni Hammers FC         v MAFCO FC                     1-0
+           Chitipa United FC            v Extreme FC                   2-1
+  Mon May 15 2023
+           Kamuzu Barracks FC           v Red Lions FC                 1-0
+  Fri May 26 2023
+           Silver Strikers FC           v Mighty Tigers FC             0-0
+
+▪ Matchday 6
+  Sat May 20 2023
+           Extreme FC                   v Karonga United FC            0-0
+           Kamuzu Barracks FC           v Blue Eagles FC               1-1
+           Ekwendeni Hammers FC         v Chitipa United FC            1-0
+           Mighty Mukuru Wanderers FC   v Bangwe All Stars FC          2-0
+  Sun May 21 2023
+           Dedza Dynamos FC             v Silver Strikers FC           0-0
+           Red Lions FC                 v Moyale Barracks FC           0-1
+           Civil Service United FC      v Nyasa Big Bullets FC         1-1
+           Mighty Tigers FC             v MAFCO FC                     1-1
+
+▪ Matchday 7
+  Sat May 27 2023
+           Mighty Mukuru Wanderers FC   v Chitipa United FC            0-1
+           MAFCO FC                     v Extreme FC                   2-1
+           Ekwendeni Hammers FC         v Karonga United FC            1-1
+  Sun May 28 2023
+           Silver Strikers FC           v Bangwe All Stars FC          4-1
+           Civil Service United FC      v Kamuzu Barracks FC           1-0
+           Dedza Dynamos FC             v Mighty Tigers FC             1-1
+           Nyasa Big Bullets FC         v Red Lions FC                 4-0
+           Moyale Barracks FC           v Blue Eagles FC               1-1
+
+▪ Matchday 8
+  Sat Jun 3 2023
+           Chitipa United FC            v Nyasa Big Bullets FC         1-0
+           MAFCO FC                     v Moyale Barracks FC           1-0
+           Blue Eagles FC               v Extreme FC                   1-0
+           Bangwe All Stars FC          v Red Lions FC                 2-0
+  Sun Jun 4 2023
+           Mighty Tigers FC             v Ekwendeni Hammers FC         0-1
+           Dedza Dynamos FC             v Civil Service United FC      2-1
+           Kamuzu Barracks FC           v Silver Strikers FC           0-1
+           Karonga United FC            v Mighty Mukuru Wanderers FC   1-2
+
+▪ Matchday 9
+  Sat Jun 10 2023
+           Nyasa Big Bullets FC         v Ekwendeni Hammers FC         4-1
+           Karonga United FC            v Mighty Tigers FC             1-1
+           Extreme FC                   v Mighty Mukuru Wanderers FC   1-0
+  Sun Jun 11 2023
+           Kamuzu Barracks FC           v Bangwe All Stars FC          2-0
+           Silver Strikers FC           v MAFCO FC                     1-0
+           Blue Eagles FC               v Civil Service United FC      1-1
+           Red Lions FC                 v Chitipa United FC            1-0
+           Moyale Barracks FC           v Dedza Dynamos FC             2-0
+
+▪ Matchday 10
+  Sat Jun 24 2023
+           Kamuzu Barracks FC           v Nyasa Big Bullets FC         0-0
+           Red Lions FC                 v Civil Service United FC      1-1
+           Moyale Barracks FC           v Mighty Tigers FC             0-1
+           MAFCO FC                     v Blue Eagles FC               0-1
+           Chitipa United FC            v Bangwe All Stars FC          1-0
+  Sun Jun 25 2023
+           Silver Strikers FC           v Karonga United FC            4-0
+           Mighty Mukuru Wanderers FC   v Dedza Dynamos FC             1-1
+           Extreme FC                   v Ekwendeni Hammers FC         0-1
+
+▪ Matchday 11
+  Sat Jul 1 2023
+           Silver Strikers FC           v Chitipa United FC            0-0
+           Red Lions FC                 v Karonga United FC            2-1
+           Mighty Mukuru Wanderers FC   v Nyasa Big Bullets FC         0-0
+           Moyale Barracks FC           v Extreme FC                   2-0
+  Sun Jul 2 2023
+           Dedza Dynamos FC             v MAFCO FC                     2-1
+           Civil Service United FC      v Bangwe All Stars FC          2-1
+           Mighty Tigers FC             v Kamuzu Barracks FC           0-1
+           Ekwendeni Hammers FC         v Blue Eagles FC               1-0
+
+▪ Matchday 12
+  Sat Jul 8 2023
+           Chitipa United FC            v Kamuzu Barracks FC           1-0
+           Bangwe All Stars FC          v Moyale Barracks FC           1-0
+           Red Lions FC                 v Mighty Tigers FC             1-0
+  Sun Jul 9 2023
+           Nyasa Big Bullets FC         v Blue Eagles FC               3-0
+           Karonga United FC            v Dedza Dynamos FC             2-1
+           Civil Service United FC      v Ekwendeni Hammers FC         0-0
+  Wed Jul 26 2023
+           MAFCO FC                     v Mighty Mukuru Wanderers FC   0-2
+           Extreme FC                   v Silver Strikers FC           1-2
+
+▪ Matchday 13
+  Sat Jul 15 2023
+           Nyasa Big Bullets FC         v Dedza Dynamos FC             2-2
+           Chitipa United FC            v Mighty Tigers FC             2-1
+           Civil Service United FC      v Moyale Barracks FC           2-2
+  Sun Jul 16 2023
+           Bangwe All Stars FC          v Extreme FC                   0-0
+           Kamuzu Barracks FC           v MAFCO FC                     1-2
+           Blue Eagles FC               v Karonga United FC            0-1
+           Ekwendeni Hammers FC         v Red Lions FC                 3-2
+  Thu Jul 20 2023
+           Mighty Mukuru Wanderers FC   v Silver Strikers FC           1-0
+
+▪ Matchday 14
+  Sat Jul 22 2023
+           MAFCO FC                     v Red Lions FC                 2-0
+           Chitipa United FC            v Civil Service United FC      2-1
+           Bangwe All Stars FC          v Ekwendeni Hammers FC         1-1
+  Sun Jul 23 2023
+           Karonga United FC            v Kamuzu Barracks FC           1-1
+           Mighty Mukuru Wanderers FC   v Blue Eagles FC               1-0
+           Extreme FC                   v Dedza Dynamos FC             0-1
+  Wed Aug 2 2023
+           Mighty Tigers FC             v Nyasa Big Bullets FC         1-1
+           Moyale Barracks FC           v Silver Strikers FC           0-0
+
+▪ Matchday 15
+  Sat Jul 29 2023
+           Nyasa Big Bullets FC         v Karonga United FC            2-0
+           Kamuzu Barracks FC           v Mighty Mukuru Wanderers FC   1-0
+           Mighty Tigers FC             v Blue Eagles FC               0-0
+           Chitipa United FC            v Moyale Barracks FC           1-0
+           Extreme FC                   v Red Lions FC                 2-1
+  Sun Jul 30 2023
+           Silver Strikers FC           v Civil Service United FC      1-2
+           Dedza Dynamos FC             v Ekwendeni Hammers FC         1-1
+           Bangwe All Stars FC          v MAFCO FC                     2-1
+
+▪ Results (continuation)
+  Sun Aug 6 2023
+           Silver Strikers FC           v Blue Eagles FC               2-1
+           Chitipa United FC            v Karonga United FC            2-0
+  Tue Aug 8 2023
+           Mighty Tigers FC             v Bangwe All Stars FC          0-1
+  Wed Aug 9 2023
+           MAFCO FC                     v Nyasa Big Bullets FC         0-0
+           Mighty Mukuru Wanderers FC   v Red Lions FC                 1-1
+           Extreme FC                   v Civil Service United FC      1-1
+  Thu Aug 10 2023
+           Moyale Barracks FC           v Ekwendeni Hammers FC         0-0
+           Kamuzu Barracks FC           v Dedza Dynamos FC             2-0
+  Sat Aug 12 2023
+           Civil Service United FC      v Mighty Tigers FC             0-0
+           MAFCO FC                     v Kamuzu Barracks FC           0-1
+  Sun Aug 13 2023
+           Red Lions FC                 v Silver Strikers FC           1-0
+           Nyasa Big Bullets FC         v Extreme FC                   3-0
+           Dedza Dynamos FC             v Chitipa United FC            1-0
+           Blue Eagles FC               v Bangwe All Stars FC          2-2
+  Wed Aug 16 2023
+           Ekwendeni Hammers FC         v Mighty Mukuru Wanderers FC   1-2
+  Sat Aug 19 2023
+           Mighty Tigers FC             v Dedza Dynamos FC             2-0
+           Chitipa United FC            v Mighty Mukuru Wanderers FC   0-0
+           Blue Eagles FC               v Moyale Barracks FC           0-1
+           Kamuzu Barracks FC           v Civil Service United FC      0-1
+  Sun Aug 20 2023
+           Karonga United FC            v Ekwendeni Hammers FC         4-1
+           Bangwe All Stars FC          v Silver Strikers FC           3-2
+           Extreme FC                   v MAFCO FC                     2-1
+  Fri Aug 25 2023
+           Silver Strikers FC           v Extreme FC                   0-0
+  Sat Aug 26 2023
+           Chitipa United FC            v Ekwendeni Hammers FC         1-0
+           Kamuzu Barracks FC           v Karonga United FC            1-2
+           Blue Eagles FC               v Mighty Tigers FC             3-1
+  Sun Aug 27 2023
+           Mighty Mukuru Wanderers FC   v MAFCO FC                     1-0
+           Moyale Barracks FC           v Bangwe All Stars FC          1-1
+           Dedza Dynamos FC             v Red Lions FC                 2-0
+  Tue Aug 29 2023
+           Extreme FC                   v Mighty Tigers FC             0-1
+  Wed Aug 30 2023
+           Nyasa Big Bullets FC         v Civil Service United FC      3-2
+           Red Lions FC                 v MAFCO FC                     1-2
+           Ekwendeni Hammers FC         v Bangwe All Stars FC          0-1
+           Karonga United FC            v Moyale Barracks FC           2-0
+  Sun Sep 3 2023
+           Moyale Barracks FC           v Kamuzu Barracks FC           0-1
+           Mighty Tigers FC             v Chitipa United FC            2-1
+           Karonga United FC            v Blue Eagles FC               0-0
+  Wed Sep 6 2023
+           Bangwe All Stars FC          v Chitipa United FC            0-2
+           MAFCO FC                     v Civil Service United FC      2-0
+  Sun Sep 10 2023
+           Karonga United FC            v Extreme FC                   2-0
+           MAFCO FC                     v Dedza Dynamos FC             0-0
+           Civil Service United FC      v Blue Eagles FC               0-1
+           Mighty Tigers FC             v Red Lions FC                 1-0
+  Wed Sep 13 2023
+           Mighty Mukuru Wanderers FC   v Kamuzu Barracks FC           1-1
+           Silver Strikers FC           v Moyale Barracks FC           4-1
+           Ekwendeni Hammers FC         v Extreme FC                   1-0
+  Sat Sep 16 2023
+           Red Lions FC                 v Bangwe All Stars FC          0-2
+           Extreme FC                   v Moyale Barracks FC           0-2
+           Silver Strikers FC           v Dedza Dynamos FC             0-1
+  Mon Sep 18 2023
+           Blue Eagles FC               v Ekwendeni Hammers FC         2-1
+  Wed Sep 20 2023
+           Mighty Mukuru Wanderers FC   v Karonga United FC            2-1
+  Thu Sep 21 2023
+           Nyasa Big Bullets FC         v Mighty Tigers FC             1-0
+           Kamuzu Barracks FC           v Ekwendeni Hammers FC         1-0
+  Sat Sep 23 2023
+           Red Lions FC                 v Blue Eagles FC               0-2
+  Sun Sep 24 2023
+           Ekwendeni Hammers FC         v Mighty Tigers FC             1-1
+           Civil Service United FC      v Karonga United FC            1-1
+           Kamuzu Barracks FC           v Chitipa United FC            2-0
+  Wed Sep 27 2023
+           MAFCO FC                     v Mighty Tigers FC             2-1
+           Dedza Dynamos FC             v Karonga United FC            2-2
+           Blue Eagles FC               v Mighty Mukuru Wanderers FC   1-2
+  Sat Sep 30 2023
+           Chitipa United FC            v Red Lions FC                 1-0
+           Civil Service United FC      v Silver Strikers FC           0-1
+  Sun Oct 1 2023
+           Mighty Mukuru Wanderers FC   v Extreme FC                   3-0
+  Wed Oct 4 2023
+           Karonga United FC            v Red Lions FC                 2-3
+           Moyale Barracks FC           v Civil Service United FC      0-3 [awarded; originally 1-0]
+           MAFCO FC                     v Ekwendeni Hammers FC         2-0
+           Nyasa Big Bullets FC         v Bangwe All Stars FC          1-0
+  Thu Oct 5 2023
+           Dedza Dynamos FC             v Extreme FC                   0-0
+  Sat Oct 7 2023
+           Bangwe All Stars FC          v Kamuzu Barracks FC           1-1
+  Sun Oct 8 2023
+           Dedza Dynamos FC             v Blue Eagles FC               2-1
+           Mighty Mukuru Wanderers FC   v Moyale Barracks FC           1-1
+  Wed Oct 11 2023
+           Red Lions FC                 v Kamuzu Barracks FC           0-2
+           Mighty Tigers FC             v Moyale Barracks FC           3-0
+           MAFCO FC                     v Silver Strikers FC           0-0
+  Sat Oct 14 2023
+           Extreme FC                   v Bangwe All Stars FC          3-2
+           Ekwendeni Hammers FC         v Nyasa Big Bullets FC         1-1
+           Dedza Dynamos FC             v Moyale Barracks FC           1-1
+  Sun Oct 15 2023
+           Karonga United FC            v MAFCO FC                     2-0
+  Mon Oct 16 2023
+           Chitipa United FC            v Blue Eagles FC               2-2
+           Civil Service United FC      v Red Lions FC                 0-0
+           Silver Strikers FC           v Mighty Mukuru Wanderers FC   1-0
+  Tue Oct 17 2023
+           Moyale Barracks FC           v Nyasa Big Bullets FC         2-3
+  Wed Oct 18 2023
+           Bangwe All Stars FC          v Dedza Dynamos FC             3-0
+  Sat Oct 21 2023
+           Red Lions FC                 v Extreme FC                   2-1
+           Nyasa Big Bullets FC         v Chitipa United FC            2-0
+  Sun Oct 22 2023
+           Mighty Tigers FC             v Silver Strikers FC           0-2
+           Dedza Dynamos FC             v Mighty Mukuru Wanderers FC   0-1
+  Wed Oct 25 2023
+           Nyasa Big Bullets FC         v Kamuzu Barracks FC           3-2
+           Civil Service United FC      v Chitipa United FC            0-0
+  Sat Oct 28 2023
+           Extreme FC                   v Blue Eagles FC               0-3
+  Sun Oct 29 2023
+           Karonga United FC            v Silver Strikers FC           0-0
+           Bangwe All Stars FC          v Mighty Mukuru Wanderers FC   0-3
+  Wed Nov 1 2023
+           Chitipa United FC            v Silver Strikers FC           0-1
+           Red Lions FC                 v Ekwendeni Hammers FC         1-0
+  Sat Nov 4 2023
+           MAFCO FC                     v Bangwe All Stars FC          1-4
+           Silver Strikers FC           v Ekwendeni Hammers FC         3-1
+           Civil Service United FC      v Dedza Dynamos FC             3-0
+           Mighty Tigers FC             v Karonga United FC            1-0
+  Sun Nov 5 2023
+           Nyasa Big Bullets FC         v Mighty Mukuru Wanderers FC   1-1
+           Blue Eagles FC               v Kamuzu Barracks FC           1-2
+           Moyale Barracks FC           v Chitipa United FC            4-1
+  Wed Nov 8 2023
+           Kamuzu Barracks FC           v Extreme FC                   1-0
+           Ekwendeni Hammers FC         v Civil Service United FC      3-2
+           Red Lions FC                 v Nyasa Big Bullets FC         1-1
+  Sat Nov 11 2023
+           Chitipa United FC            v MAFCO FC                     1-1
+  Sun Nov 12 2023
+           Blue Eagles FC               v Nyasa Big Bullets FC         0-0
+  Thu Nov 23 2023
+           Dedza Dynamos FC             v Nyasa Big Bullets FC         1-0
+           Mighty Mukuru Wanderers FC   v Mighty Tigers FC             0-0
+           Silver Strikers FC           v Kamuzu Barracks FC           2-1
+  Sat Nov 25 2023
+           Bangwe All Stars FC          v Civil Service United FC      2-2
+           Moyale Barracks FC           v MAFCO FC                     1-1
+  Wed Nov 29 2023
+           Karonga United FC            v Nyasa Big Bullets FC         0-1
+  Sun Dec 3 2023
+           Nyasa Big Bullets FC         v Silver Strikers FC           1-1
+           Civil Service United FC      v Mighty Mukuru Wanderers FC   1-0
+           Blue Eagles FC               v MAFCO FC                     1-2
+           Moyale Barracks FC           v Red Lions FC                 7-0
+           Kamuzu Barracks FC           v Mighty Tigers FC             0-0
+           Extreme FC                   v Chitipa United FC            1-2
+           Ekwendeni Hammers FC         v Dedza Dynamos FC             2-1
+           Bangwe All Stars FC          v Karonga United FC            3-0

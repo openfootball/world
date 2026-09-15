@@ -1,0 +1,431 @@
+= Malawi | Super League 2024
+
+# Date       Sat Apr 6 2024 - Sat Dec 7 2024 (245d)
+# Teams      16
+# Matches    240
+# Source     https://www.rsssf.org/tablesm/malaw2024.html
+# Retrieved  2026-09-15
+
+
+▪ Matchday 1
+  Sat Apr 6 2024
+           Moyale Barracks FC           v MAFCO FC                     2-1
+           FOMO FC                      v Bangwe All Stars FC          1-0
+           Silver Strikers FC           v Chitipa United FC            2-0
+           Dedza Dynamos FC             v Nyasa Big Bullets FC         1-1
+  Sun Apr 7 2024
+           Mighty Mukuru Wanderers FC   v Kamuzu Barracks FC           1-1
+           Creck Sporting FC            v Mighty Tigers FC             3-1
+           Mzuzu City Hammers FC        v Civil Service United FC      1-0
+           Baka City FC                 v Karonga United FC            0-1
+
+▪ Matchday 2
+  Sat Apr 13 2024
+           Nyasa Big Bullets FC         v Mighty Tigers FC             0-0
+           MAFCO FC                     v Kamuzu Barracks FC           1-1
+           Civil Service United FC      v Dedza Dynamos FC             3-0
+           Mzuzu City Hammers FC        v Baka City FC                 2-1
+  Sun Apr 14 2024
+           Creck Sporting FC            v Moyale Barracks FC           3-2
+           FOMO FC                      v Mighty Mukuru Wanderers FC   0-3
+           Silver Strikers FC           v Bangwe All Stars FC          3-1
+           Chitipa United FC            v Karonga United FC            4-1
+
+▪ Matchday 3
+  Sat Apr 20 2024
+           Moyale Barracks FC           v Civil Service United FC      3-0
+           Baka City FC                 v MAFCO FC                     0-0
+           Mighty Mukuru Wanderers FC   v Creck Sporting FC            3-0
+           Kamuzu Barracks FC           v FOMO FC                      3-1
+  Sun Apr 21 2024
+           Chitipa United FC            v Nyasa Big Bullets FC         0-3
+           Mighty Tigers FC             v Mzuzu City Hammers FC        1-0
+           Dedza Dynamos FC             v Silver Strikers FC           1-1
+           Bangwe All Stars FC          v Karonga United FC            1-1
+
+▪ Matchday 4
+  Sat Apr 27 2024
+           Nyasa Big Bullets FC         v Baka City FC                 2-1
+           Silver Strikers FC           v MAFCO FC                     5-1
+           Creck Sporting FC            v Mzuzu City Hammers FC        1-2
+  Sun Apr 28 2024
+           FOMO FC                      v Chitipa United FC            1-0
+           Karonga United FC            v Mighty Tigers FC             3-1
+           Civil Service United FC      v Kamuzu Barracks FC           1-2
+           Bangwe All Stars FC          v Mighty Mukuru Wanderers FC   0-0
+           Moyale Barracks FC           v Dedza Dynamos FC             0-0
+
+▪ Matchday 5
+  Thu May 2 2024
+           Chitipa United FC            v Mighty Tigers FC             0-1
+  Sat May 4 2024
+           Baka City FC                 v Silver Strikers FC           0-2
+           Mzuzu City Hammers FC        v Moyale Barracks FC           1-1
+           Nyasa Big Bullets FC         v Mighty Mukuru Wanderers FC   1-1
+  Sun May 5 2024
+           Kamuzu Barracks FC           v Bangwe All Stars FC          1-0
+           Karonga United FC            v Creck Sporting FC            1-1
+           Dedza Dynamos FC             v MAFCO FC                     3-0
+           Civil Service United FC      v FOMO FC                      1-0
+
+▪ Matchday 6
+  Sat May 11 2024
+           Moyale Barracks FC           v Chitipa United FC            1-1
+           MAFCO FC                     v Nyasa Big Bullets FC         1-1
+           Civil Service United FC      v Bangwe All Stars FC          1-1
+           Mighty Mukuru Wanderers FC   v Karonga United FC            1-0
+           FOMO FC                      v Baka City FC                 1-1
+  Sun May 12 2024
+           Silver Strikers FC           v Creck Sporting FC            2-0
+           Mzuzu City Hammers FC        v Kamuzu Barracks FC           1-0
+           Mighty Tigers FC             v Dedza Dynamos FC             1-1
+
+▪ Matchday 7
+  Thu May 16 2024
+           Mighty Tigers FC             v Baka City FC                 4-1
+  Sat May 18 2024
+           Creck Sporting FC            v FOMO FC                      1-0
+           Nyasa Big Bullets FC         v Mzuzu City Hammers FC        2-0
+           Kamuzu Barracks FC           v Moyale Barracks FC           0-0
+  Sun May 19 2024
+           Bangwe All Stars FC          v MAFCO FC                     0-1
+           Dedza Dynamos FC             v Chitipa United FC            0-0
+           Karonga United FC            v Civil Service United FC      1-1
+           Silver Strikers FC           v Mighty Mukuru Wanderers FC   2-0
+
+▪ Matchday 8
+  Fri May 24 2024
+           Chitipa United FC            v Civil Service United FC      1-3
+  Sat May 25 2024
+           MAFCO FC                     v FOMO FC                      1-0
+           Silver Strikers FC           v Karonga United FC            4-2
+           Mzuzu City Hammers FC        v Mighty Mukuru Wanderers FC   2-0
+           Baka City FC                 v Creck Sporting FC            1-1
+  Sun May 26 2024
+           Mighty Tigers FC             v Kamuzu Barracks FC           2-3
+           Dedza Dynamos FC             v Bangwe All Stars FC          3-0
+  Mon May 27 2024
+           Moyale Barracks FC           v Nyasa Big Bullets FC         0-0
+
+▪ Matchday 9
+  Thu May 30 2024
+           Kamuzu Barracks FC           v Karonga United FC            2-1
+  Fri May 31 2024
+           Civil Service United FC      v Baka City FC                 3-0
+  Sat Jun 1 2024
+           Mighty Mukuru Wanderers FC   v Dedza Dynamos FC             3-1
+           FOMO FC                      v Mzuzu City Hammers FC        2-1
+           MAFCO FC                     v Creck Sporting FC            1-2
+           Moyale Barracks FC           v Mighty Tigers FC             1-0
+  Sun Jun 2 2024
+           Nyasa Big Bullets FC         v Silver Strikers FC           0-1
+           Bangwe All Stars FC          v Chitipa United FC            3-0
+
+▪ Matchday 10
+  Sun Jun 23 2024
+           Creck Sporting FC            v Nyasa Big Bullets FC         1-1
+           Karonga United FC            v Moyale Barracks FC           2-0
+           Mighty Mukuru Wanderers FC   v Civil Service United FC      3-0
+           MAFCO FC                     v Chitipa United FC            2-0
+           Bangwe All Stars FC          v Mzuzu City Hammers FC        0-0
+           FOMO FC                      v Dedza Dynamos FC             1-1
+  Mon Jun 24 2024
+           Mighty Tigers FC             v Silver Strikers FC           2-2
+           Baka City FC                 v Kamuzu Barracks FC           0-0
+
+▪ Matchday 11
+  Sat Jun 29 2024
+           Kamuzu Barracks FC           v Nyasa Big Bullets FC         0-0
+           FOMO FC                      v Moyale Barracks FC           2-1
+           Baka City FC                 v Bangwe All Stars FC          2-0
+  Sun Jun 30 2024
+           Civil Service United FC      v Silver Strikers FC           0-2
+           Chitipa United FC            v Creck Sporting FC            1-1
+           Mighty Tigers FC             v Mighty Mukuru Wanderers FC   1-2
+           Dedza Dynamos FC             v Karonga United FC            1-0
+  Mon Jul 1 2024
+           Mzuzu City Hammers FC        v MAFCO FC                     1-1
+
+▪ Matchday 12
+  Sat Jul 13 2024
+           Mighty Mukuru Wanderers FC   v Moyale Barracks FC           1-2
+           Mighty Tigers FC             v MAFCO FC                     2-3
+           Creck Sporting FC            v Bangwe All Stars FC          1-0
+           Karonga United FC            v FOMO FC                      3-0
+  Sun Jul 14 2024
+           Nyasa Big Bullets FC         v Civil Service United FC      1-1
+           Kamuzu Barracks FC           v Silver Strikers FC           2-2
+           Mzuzu City Hammers FC        v Dedza Dynamos FC             2-1
+           Chitipa United FC            v Baka City FC                 4-1
+
+▪ Matchday 13
+  Tue Jul 16 2024
+           Bangwe All Stars FC          v Mighty Tigers FC             0-0
+  Wed Jul 17 2024
+           Nyasa Big Bullets FC         v FOMO FC                      3-0
+           Creck Sporting FC            v Civil Service United FC      1-2
+           MAFCO FC                     v Karonga United FC            2-0
+  Thu Jul 18 2024
+           Silver Strikers FC           v Mzuzu City Hammers FC        5-0
+           Mighty Mukuru Wanderers FC   v Chitipa United FC            2-0
+           Dedza Dynamos FC             v Kamuzu Barracks FC           2-2
+           Baka City FC                 v Moyale Barracks FC           1-2
+
+▪ Matchday 14
+  Sun Jul 21 2024
+           MAFCO FC                     v Mighty Mukuru Wanderers FC   0-0
+           Silver Strikers FC           v FOMO FC                      1-0
+           Mzuzu City Hammers FC        v Chitipa United FC            1-0
+           Karonga United FC            v Nyasa Big Bullets FC         2-1
+  Wed Jul 24 2024
+           Civil Service United FC      v Mighty Tigers FC             0-0
+           Kamuzu Barracks FC           v Creck Sporting FC            2-2
+           Moyale Barracks FC           v Bangwe All Stars FC          1-1
+  Thu Jul 25 2024
+           Dedza Dynamos FC             v Baka City FC                 4-0
+
+▪ Matchday 15
+  Sat Jul 27 2024
+           Mighty Tigers FC             v FOMO FC                      2-2
+  Sun Jul 28 2024
+           Moyale Barracks FC           v Silver Strikers FC           0-0
+  Mon Jul 29 2024
+           Chitipa United FC            v Kamuzu Barracks FC           4-1
+  Wed Jul 31 2024
+           Karonga United FC            v Mzuzu City Hammers FC        1-1
+           MAFCO FC                     v Civil Service United FC      2-2
+           Bangwe All Stars FC          v Nyasa Big Bullets FC         0-2
+  Thu Aug 1 2024
+           Baka City FC                 v Mighty Mukuru Wanderers FC   0-2
+           Creck Sporting FC            v Dedza Dynamos FC             2-0
+
+▪ Matchday 16
+  Sat Aug 10 2024
+           Civil Service United FC      v Chitipa United FC            4-0
+           Bangwe All Stars FC          v Dedza Dynamos FC             2-1
+           Karonga United FC            v Silver Strikers FC           0-1
+           Mighty Mukuru Wanderers FC   v Mzuzu City Hammers FC        8-0
+           Creck Sporting FC            v Baka City FC                 8-0
+  Sun Aug 11 2024
+           FOMO FC                      v MAFCO FC                     0-1
+           Kamuzu Barracks FC           v Mighty Tigers FC             0-0
+           Nyasa Big Bullets FC         v Moyale Barracks FC           1-1
+
+▪ Matchday 17
+  Sat Aug 17 2024
+           Mighty Tigers FC             v Moyale Barracks FC           2-0
+           Mzuzu City Hammers FC        v FOMO FC                      2-1
+           Chitipa United FC            v Bangwe All Stars FC          4-0
+  Sun Aug 18 2024
+           Creck Sporting FC            v MAFCO FC                     2-1
+           Dedza Dynamos FC             v Mighty Mukuru Wanderers FC   0-0
+           Baka City FC                 v Civil Service United FC      0-0
+  Wed Aug 21 2024
+           Karonga United FC            v Kamuzu Barracks FC           0-0
+  Sat Nov 23 2024
+           Silver Strikers FC           v Nyasa Big Bullets FC         0-0
+
+▪ Matchday 18
+  Thu Aug 22 2024
+           Mzuzu City Hammers FC        v Bangwe All Stars FC          2-0
+  Fri Aug 23 2024
+           Civil Service United FC      v Mighty Mukuru Wanderers FC   0-1
+  Sat Aug 24 2024
+           Moyale Barracks FC           v Karonga United FC            1-0
+           Chitipa United FC            v MAFCO FC                     0-0
+           Silver Strikers FC           v Mighty Tigers FC             2-0
+  Sun Aug 25 2024
+           Kamuzu Barracks FC           v Baka City FC                 4-0
+           Dedza Dynamos FC             v FOMO FC                      1-0
+  Wed Sep 25 2024
+           Nyasa Big Bullets FC         v Creck Sporting FC            3-2
+
+▪ Matchday 19
+  Thu Aug 29 2024
+           Chitipa United FC            v Silver Strikers FC           1-1
+           Kamuzu Barracks FC           v Mighty Mukuru Wanderers FC   0-1
+  Fri Aug 30 2024
+           Bangwe All Stars FC          v FOMO FC                      0-1
+  Sat Aug 31 2024
+           Civil Service United FC      v Mzuzu City Hammers FC        3-0
+           Mighty Tigers FC             v Creck Sporting FC            1-0
+           MAFCO FC                     v Moyale Barracks FC           1-1
+           Karonga United FC            v Baka City FC                 1-0
+  Thu Oct 31 2024
+           Nyasa Big Bullets FC         v Dedza Dynamos FC             1-1
+
+▪ Matchday 20
+  Sat Sep 14 2024
+           Silver Strikers FC           v Moyale Barracks FC           1-1
+           Dedza Dynamos FC             v Creck Sporting FC            1-1
+           Mzuzu City Hammers FC        v Karonga United FC            0-1
+  Sun Sep 15 2024
+           FOMO FC                      v Mighty Tigers FC             0-0
+  Wed Sep 18 2024
+           Civil Service United FC      v MAFCO FC                     0-0
+  Thu Sep 19 2024
+           Nyasa Big Bullets FC         v Bangwe All Stars FC          0-1
+           Kamuzu Barracks FC           v Chitipa United FC            2-0
+  Sat Sep 21 2024
+           Mighty Mukuru Wanderers FC   v Baka City FC                 10-0
+
+▪ Matchday 21
+  Sat Sep 21 2024
+           Moyale Barracks FC           v Creck Sporting FC            0-0
+  Sun Sep 22 2024
+           Dedza Dynamos FC             v Civil Service United FC      0-1
+  Sat Sep 28 2024
+           Karonga United FC            v Chitipa United FC            1-1
+  Wed Oct 2 2024
+           Bangwe All Stars FC          v Silver Strikers FC           0-0
+           Mighty Mukuru Wanderers FC   v FOMO FC                      1-0
+  Sat Oct 19 2024
+           Baka City FC                 v Mzuzu City Hammers FC        0-4
+  Wed Nov 6 2024
+           Mighty Tigers FC             v Nyasa Big Bullets FC         0-3
+  Sat Nov 16 2024
+           Kamuzu Barracks FC           v MAFCO FC                     1-2
+
+▪ Matchday 22
+  Sun Sep 22 2024
+           Nyasa Big Bullets FC         v Chitipa United FC            4-2
+           Mzuzu City Hammers FC        v Mighty Tigers FC             0-0
+  Sat Sep 28 2024
+           Civil Service United FC      v Moyale Barracks FC           1-0
+  Sun Sep 29 2024
+           FOMO FC                      v Kamuzu Barracks FC           1-0
+  Sun Oct 27 2024
+           MAFCO FC                     v Baka City FC                 2-1
+  Sun Dec 1 2024
+           Karonga United FC            v Bangwe All Stars FC          2-0
+  Wed Dec 4 2024
+           Creck Sporting FC            v Mighty Mukuru Wanderers FC   1-1
+  Sat Dec 7 2024
+           Silver Strikers FC           v Dedza Dynamos FC             5-2
+
+▪ Matchday 23
+  Wed Sep 25 2024
+           Bangwe All Stars FC          v Baka City FC                 3-0
+  Sat Oct 19 2024
+           Moyale Barracks FC           v FOMO FC                      3-1
+  Sun Oct 27 2024
+           Silver Strikers FC           v Civil Service United FC      0-0
+  Sun Nov 10 2024
+           Mighty Mukuru Wanderers FC   v Mighty Tigers FC             5-0
+  Sun Nov 17 2024
+           Creck Sporting FC            v Chitipa United FC            1-1
+           Karonga United FC            v Dedza Dynamos FC             0-0
+  Sat Dec 7 2024
+           Nyasa Big Bullets FC         v Kamuzu Barracks FC           1-0
+           MAFCO FC                     v Mzuzu City Hammers FC        0-3
+
+▪ Matchday 24
+  Sun Sep 22 2024
+           Silver Strikers FC           v Kamuzu Barracks FC           1-0
+  Wed Sep 25 2024
+           MAFCO FC                     v Mighty Tigers FC             2-0
+  Wed Nov 27 2024
+           Civil Service United FC      v Nyasa Big Bullets FC         2-2
+  Sun Dec 1 2024
+           Dedza Dynamos FC             v Mzuzu City Hammers FC        0-0
+  Sat Dec 7 2024
+           Moyale Barracks FC           v Mighty Mukuru Wanderers FC   1-2
+           Bangwe All Stars FC          v Creck Sporting FC            1-4
+           FOMO FC                      v Karonga United FC            0-0
+           Baka City FC                 v Chitipa United FC            1-3
+
+▪ Matchday 25
+  Sun Sep 22 2024
+           Karonga United FC            v MAFCO FC                     3-1
+  Wed Sep 25 2024
+           Kamuzu Barracks FC           v Dedza Dynamos FC             2-0
+  Sun Oct 20 2024
+           Mighty Tigers FC             v Bangwe All Stars FC          1-0
+  Wed Oct 30 2024
+           Chitipa United FC            v Mighty Mukuru Wanderers FC   1-2
+           Civil Service United FC      v Creck Sporting FC            1-3
+           Mzuzu City Hammers FC        v Silver Strikers FC           0-2
+  Thu Oct 31 2024
+           Moyale Barracks FC           v Baka City FC                 4-1
+  Sun Dec 1 2024
+           FOMO FC                      v Nyasa Big Bullets FC         0-2
+
+▪ Matchday 26
+  Sun Sep 29 2024
+           Baka City FC                 v Nyasa Big Bullets FC         0-1
+  Wed Oct 30 2024
+           Mighty Tigers FC             v Karonga United FC            0-0
+  Sat Nov 9 2024
+           Chitipa United FC            v FOMO FC                      2-1
+  Sun Nov 10 2024
+           Kamuzu Barracks FC           v Civil Service United FC      0-0
+           Dedza Dynamos FC             v Moyale Barracks FC           1-0
+           Mzuzu City Hammers FC        v Creck Sporting FC            0-0
+  Wed Nov 20 2024
+           MAFCO FC                     v Silver Strikers FC           1-6
+           Mighty Mukuru Wanderers FC   v Bangwe All Stars FC          1-0
+
+▪ Matchday 27
+  Sun Oct 6 2024
+           Dedza Dynamos FC             v Mighty Tigers FC             3-0
+           Kamuzu Barracks FC           v Mzuzu City Hammers FC        0-2
+           Nyasa Big Bullets FC         v MAFCO FC                     1-0
+  Sun Oct 20 2024
+           Creck Sporting FC            v Silver Strikers FC           2-2
+           Karonga United FC            v Mighty Mukuru Wanderers FC   1-0
+  Wed Nov 6 2024
+           Baka City FC                 v FOMO FC                      2-1
+  Sat Nov 16 2024
+           Bangwe All Stars FC          v Civil Service United FC      1-0
+  Wed Dec 4 2024
+           Chitipa United FC            v Moyale Barracks FC           2-0
+
+▪ Matchday 28
+  Sat Oct 19 2024
+           MAFCO FC                     v Dedza Dynamos FC             0-0
+  Sat Oct 26 2024
+           Mighty Mukuru Wanderers FC   v Nyasa Big Bullets FC         1-2
+           Moyale Barracks FC           v Mzuzu City Hammers FC        0-0
+  Sun Oct 27 2024
+           Bangwe All Stars FC          v Kamuzu Barracks FC           1-1
+           Creck Sporting FC            v Karonga United FC            0-1
+  Sun Nov 3 2024
+           FOMO FC                      v Civil Service United FC      1-2
+  Sun Nov 24 2024
+           Mighty Tigers FC             v Chitipa United FC            1-0
+  Wed Nov 27 2024
+           Silver Strikers FC           v Baka City FC                 2-0
+
+▪ Matchday 29
+  Wed Oct 2 2024
+           Mzuzu City Hammers FC        v Nyasa Big Bullets FC         0-0
+  Sat Oct 26 2024
+           Chitipa United FC            v Dedza Dynamos FC             2-2
+  Thu Oct 31 2024
+           MAFCO FC                     v Bangwe All Stars FC          0-0
+  Sat Nov 16 2024
+           Baka City FC                 v Mighty Tigers FC             2-2
+  Wed Nov 20 2024
+           FOMO FC                      v Creck Sporting FC            1-0
+  Sat Nov 23 2024
+           Moyale Barracks FC           v Kamuzu Barracks FC           2-0
+  Sun Nov 24 2024
+           Civil Service United FC      v Karonga United FC            3-0
+  Sat Nov 30 2024
+           Mighty Mukuru Wanderers FC   v Silver Strikers FC           0-1
+
+▪ Matchday 30
+  Sun Nov 3 2024
+           Bangwe All Stars FC          v Moyale Barracks FC           1-0
+           Chitipa United FC            v Mzuzu City Hammers FC        1-3
+  Wed Nov 6 2024
+           Creck Sporting FC            v Kamuzu Barracks FC           0-0
+  Wed Nov 20 2024
+           Baka City FC                 v Dedza Dynamos FC             1-1
+  Wed Nov 27 2024
+           Mighty Mukuru Wanderers FC   v MAFCO FC                     2-2
+  Wed Dec 4 2024
+           FOMO FC                      v Silver Strikers FC           1-0
+           Nyasa Big Bullets FC         v Karonga United FC            3-1
+  Sat Dec 7 2024
+           Mighty Tigers FC             v Civil Service United FC      1-0
