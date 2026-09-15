@@ -1,0 +1,463 @@
+= Zimbabwe | Premier Soccer League 2025
+
+# Date       Fri Feb 28 2025 - Sun Nov 23 2025 (268d)
+# Teams      18
+# Matches    306
+# Source     https://www.rsssf.org/tablesz/zimb2025.html
+# Retrieved  2026-09-15
+
+
+▪ Matchday 1
+  Fri Feb 28 2025
+           Scottland FC              v Triangle United FC        1-0
+  Sat Mar 1 2025
+           Herentals College FC      v TelOne FC                 2-1
+           Simba Bhora FC            v FC Platinum               0-0
+           Manica Diamonds FC        v Yadah Stars FC            1-0
+           Chicken Inn FC            v Bikita Minerals FC        0-0
+           Kwekwe United FC          v Ngezi Platinum Stars FC   1-1
+           Green Fuel FC             v CAPS United FC            1-1
+  Sun Mar 2 2025
+           Dynamos FC                v ZPC Kariba FC             0-0
+           MWOS FC                   v Highlanders FC            1-0
+
+▪ Matchday 2
+  Fri Mar 7 2025
+           Yadah Stars FC            v Chicken Inn FC            0-0
+  Sat Mar 8 2025
+           TelOne FC                 v Triangle United FC        4-1
+           Ngezi Platinum Stars FC   v Green Fuel FC             1-0
+           Bikita Minerals FC        v MWOS FC                   1-1
+           FC Platinum               v Manica Diamonds FC        1-0
+           ZPC Kariba FC             v Simba Bhora FC            0-0
+           Herentals College FC      v Dynamos FC                0-0
+  Sun Mar 9 2025
+           CAPS United FC            v Scottland FC              0-2
+           Highlanders FC            v Kwekwe United FC          4-0
+
+▪ Matchday 3
+  Fri Mar 14 2025
+           Scottland FC              v Ngezi Platinum Stars FC   0-1
+  Sat Mar 15 2025
+           Simba Bhora FC            v Herentals College FC      1-0
+           Dynamos FC                v TelOne FC                 1-1
+           Chicken Inn FC            v FC Platinum               1-1
+           MWOS FC                   v Yadah Stars FC            2-0
+           Kwekwe United FC          v Bikita Minerals FC        1-0
+           Green Fuel FC             v Highlanders FC            2-2
+  Sun Mar 16 2025
+           Manica Diamonds FC        v ZPC Kariba FC             1-0
+           Triangle United FC        v CAPS United FC            0-2
+
+▪ Matchday 4
+  Sat Mar 29 2025
+           TelOne FC                 v CAPS United FC            1-0
+           Ngezi Platinum Stars FC   v Triangle United FC        1-0
+           Bikita Minerals FC        v Green Fuel FC             2-4
+           Yadah Stars FC            v Kwekwe United FC          3-0
+           FC Platinum               v MWOS FC                   0-0
+           ZPC Kariba FC             v Chicken Inn FC            1-0
+           Herentals College FC      v Manica Diamonds FC        1-1
+  Sun Mar 30 2025
+           Highlanders FC            v Scottland FC              1-1
+           Dynamos FC                v Simba Bhora FC            1-0
+
+▪ Matchday 5
+  Sat Apr 5 2025
+           Manica Diamonds FC        v Dynamos FC                1-0
+           Chicken Inn FC            v Herentals College FC      0-0
+           Simba Bhora FC            v TelOne FC                 1-0
+           MWOS FC                   v ZPC Kariba FC             1-0
+           Kwekwe United FC          v FC Platinum               0-0
+           Green Fuel FC             v Yadah Stars FC            1-0
+           Scottland FC              v Bikita Minerals FC        3-0
+  Sun Apr 6 2025
+           Triangle United FC        v Highlanders FC            1-1
+           CAPS United FC            v Ngezi Platinum Stars FC   1-2
+
+▪ Matchday 6
+  Sat Apr 12 2025
+           TelOne FC                 v Ngezi Platinum Stars FC   2-1
+           Bikita Minerals FC        v Triangle United FC        2-1
+           Yadah Stars FC            v Scottland FC              1-1
+           FC Platinum               v Green Fuel FC             0-0
+           Simba Bhora FC            v Manica Diamonds FC        4-1
+           ZPC Kariba FC             v Kwekwe United FC          5-0
+  Sun Apr 13 2025
+           Highlanders FC            v CAPS United FC            1-0
+           Herentals College FC      v MWOS FC                   0-1
+           Dynamos FC                v Chicken Inn FC            0-1
+
+▪ Matchday 7
+  Sat Apr 19 2025
+           Green Fuel FC             v ZPC Kariba FC             0-0
+  Sun Apr 20 2025
+           Manica Diamonds FC        v TelOne FC                 2-2
+           Triangle United FC        v Yadah Stars FC            1-0
+           CAPS United FC            v Bikita Minerals FC        0-1
+  Mon Apr 21 2025
+           Chicken Inn FC            v Simba Bhora FC            0-1
+           MWOS FC                   v Dynamos FC                1-0
+           Kwekwe United FC          v Herentals College FC      0-3 [awarded; Kwekwe dns]
+           Scottland FC              v FC Platinum               1-1
+           Ngezi Platinum Stars FC   v Highlanders FC            0-0
+
+▪ Matchday 8
+  Fri Apr 25 2025
+           Herentals College FC      v Green Fuel FC             1-0
+  Sat Apr 26 2025
+           TelOne FC                 v Highlanders FC            1-1
+           Bikita Minerals FC        v Ngezi Platinum Stars FC   1-1
+           Yadah Stars FC            v CAPS United FC            0-1
+           FC Platinum               v Triangle United FC        1-1
+           ZPC Kariba FC             v Scottland FC              0-0
+           Simba Bhora FC            v MWOS FC                   0-0
+           Manica Diamonds FC        v Chicken Inn FC            1-1
+  Sun Apr 27 2025
+           Dynamos FC                v Kwekwe United FC          0-0
+
+▪ Matchday 9
+  Wed Apr 30 2025
+           Chicken Inn FC            v TelOne FC                 0-0
+           Kwekwe United FC          v Simba Bhora FC            1-2
+           Green Fuel FC             v Dynamos FC                0-0
+           Triangle United FC        v ZPC Kariba FC             1-2
+           CAPS United FC            v FC Platinum               1-2
+           Ngezi Platinum Stars FC   v Yadah Stars FC            1-2
+           Highlanders FC            v Bikita Minerals FC        1-0
+  Thu May 1 2025
+           Scottland FC              v Herentals College FC      1-0
+           MWOS FC                   v Manica Diamonds FC        1-1
+
+▪ Matchday 10
+  Sat May 3 2025
+           TelOne FC                 v Bikita Minerals FC        1-0
+           Yadah Stars FC            v Highlanders FC            0-2
+           FC Platinum               v Ngezi Platinum Stars FC   0-0
+           ZPC Kariba FC             v CAPS United FC            0-0
+           Simba Bhora FC            v Green Fuel FC             0-0
+  Sun May 4 2025
+           Dynamos FC                v Scottland FC              0-1
+           Manica Diamonds FC        v Kwekwe United FC          0-0
+           Chicken Inn FC            v MWOS FC                   0-1
+  Mon May 5 2025
+           Herentals College FC      v Triangle United FC        2-1
+
+▪ Matchday 11
+  Sat May 10 2025
+           MWOS FC                   v TelOne FC                 2-2
+           Green Fuel FC             v Manica Diamonds FC        0-0
+           CAPS United FC            v Herentals College FC      1-1
+           Ngezi Platinum Stars FC   v ZPC Kariba FC             2-2
+           Bikita Minerals FC        v Yadah Stars FC            1-1
+  Sun May 11 2025
+           Kwekwe United FC          v Chicken Inn FC            2-4
+           Scottland FC              v Simba Bhora FC            2-0
+           Triangle United FC        v Dynamos FC                2-0
+           Highlanders FC            v FC Platinum               1-1
+
+▪ Matchday 12
+  Sat May 17 2025
+           FC Platinum               v Bikita Minerals FC        1-1
+           TelOne FC                 v Yadah Stars FC            1-1
+           ZPC Kariba FC             v Highlanders FC            2-1
+           Herentals College FC      v Ngezi Platinum Stars FC   1-0
+           Simba Bhora FC            v Triangle United FC        4-0
+           Manica Diamonds FC        v Scottland FC              0-0
+           Chicken Inn FC            v Green Fuel FC             0-1
+           MWOS FC                   v Kwekwe United FC          4-0
+  Sun May 18 2025
+           Dynamos FC                v CAPS United FC            1-1
+
+▪ Matchday 13
+  Fri May 23 2025
+           Kwekwe United FC          v TelOne FC                 0-1
+           Scottland FC              v Chicken Inn FC            3-0 [awarded; abandoned at 0-0 in injury time due to crowd trouble after a penalty had been awarded to Scottland]
+           Green Fuel FC             v MWOS FC                   1-1
+           Ngezi Platinum Stars FC   v Dynamos FC                2-1
+           Bikita Minerals FC        v ZPC Kariba FC             0-0
+           Yadah Stars FC            v FC Platinum               0-0
+  Sun May 25 2025
+           Triangle United FC        v Manica Diamonds FC        0-1
+           CAPS United FC            v Simba Bhora FC            1-3
+           Highlanders FC            v Herentals College FC      0-1
+
+▪ Matchday 14
+  Sat May 31 2025
+           ZPC Kariba FC             v Yadah Stars FC            1-0
+           TelOne FC                 v FC Platinum               0-1
+           Herentals College FC      v Bikita Minerals FC        0-2
+           Simba Bhora FC            v Ngezi Platinum Stars FC   0-0
+           Manica Diamonds FC        v CAPS United FC            0-1
+           Chicken Inn FC            v Triangle United FC        0-0
+           MWOS FC                   v Scottland FC              1-0
+  Sun Jun 1 2025
+           Dynamos FC                v Highlanders FC            0-0
+           Kwekwe United FC          v Green Fuel FC             1-1
+
+▪ Matchday 15
+  Sat Jun 14 2025
+           Green Fuel FC             v TelOne FC                 0-1
+           CAPS United FC            v Chicken Inn FC            1-0
+           Ngezi Platinum Stars FC   v Manica Diamonds FC        1-1
+           Bikita Minerals FC        v Dynamos FC                1-1
+           Yadah Stars FC            v Herentals College FC      1-0
+           FC Platinum               v ZPC Kariba FC             4-0
+  Sun Jun 15 2025
+           Scottland FC              v Kwekwe United FC          1-0
+           Triangle United FC        v MWOS FC                   2-2
+           Highlanders FC            v Simba Bhora FC            2-3
+
+▪ Matchday 16
+  Wed Jun 18 2025
+           TelOne FC                 v ZPC Kariba FC             1-1
+           Herentals College FC      v FC Platinum               0-0
+           Simba Bhora FC            v Bikita Minerals FC        1-0
+           Manica Diamonds FC        v Highlanders FC            0-1
+           Chicken Inn FC            v Ngezi Platinum Stars FC   1-0
+           Green Fuel FC             v Scottland FC              2-2
+  Thu Jun 19 2025
+           Dynamos FC                v Yadah Stars FC            1-0
+           MWOS FC                   v CAPS United FC            2-1
+           Kwekwe United FC          v Triangle United FC        0-3
+
+▪ Matchday 17
+  Sat Jun 21 2025
+           Scottland FC              v TelOne FC                 0-1
+           Bikita Minerals FC        v Manica Diamonds FC        1-0
+           ZPC Kariba FC             v Herentals College FC      0-0
+  Sun Jun 22 2025
+           Triangle United FC        v Green Fuel FC             5-1
+           CAPS United FC            v Kwekwe United FC          2-0
+           Ngezi Platinum Stars FC   v MWOS FC                   3-1
+           Highlanders FC            v Chicken Inn FC            0-0
+           Yadah Stars FC            v Simba Bhora FC            0-1
+           FC Platinum               v Dynamos FC                3-0 [awarded; abandoned at 1-1 in 75', Dynamos walked off]
+
+▪ Matchday 18
+  Sat Jun 28 2025
+           TelOne FC                 v Herentals College FC      0-0
+           ZPC Kariba FC             v Dynamos FC                0-0
+           FC Platinum               v Simba Bhora FC            1-1
+           Yadah Stars FC            v Manica Diamonds FC        1-0
+           Bikita Minerals FC        v Chicken Inn FC            1-0
+           Ngezi Platinum Stars FC   v Kwekwe United FC          5-2
+  Sun Jun 29 2025
+           Highlanders FC            v MWOS FC                   0-1
+           CAPS United FC            v Green Fuel FC             0-0
+           Triangle United FC        v Scottland FC              0-0
+
+▪ Matchday 19
+  Sat Jul 5 2025
+           Green Fuel FC             v Ngezi Platinum Stars FC   0-1
+           MWOS FC                   v Bikita Minerals FC        1-0
+           Chicken Inn FC            v Yadah Stars FC            2-1
+           Simba Bhora FC            v ZPC Kariba FC             1-1
+           Dynamos FC                v Herentals College FC      0-2
+  Sun Jul 6 2025
+           Triangle United FC        v TelOne FC                 1-1
+           Scottland FC              v CAPS United FC            0-1
+           Kwekwe United FC          v Highlanders FC            0-0
+  Sat Sep 6 2025
+           Manica Diamonds FC        v FC Platinum               0-0
+
+▪ Matchday 20
+  Sat Jul 12 2025
+           Herentals College FC      v Simba Bhora FC            2-3
+           TelOne FC                 v Dynamos FC                1-0
+           ZPC Kariba FC             v Manica Diamonds FC        0-0
+           FC Platinum               v Chicken Inn FC            1-0
+           Yadah Stars FC            v MWOS FC                   1-0
+           Bikita Minerals FC        v Kwekwe United FC          1-0
+           Ngezi Platinum Stars FC   v Scottland FC              1-2
+  Sun Jul 13 2025
+           Highlanders FC            v Green Fuel FC             1-0
+           CAPS United FC            v Triangle United FC        1-1
+
+▪ Matchday 21
+  Sat Jul 19 2025
+           CAPS United FC            v TelOne FC                 0-0
+           Triangle United FC        v Ngezi Platinum Stars FC   1-1
+           Green Fuel FC             v Bikita Minerals FC        2-0
+           Kwekwe United FC          v Yadah Stars FC            0-1
+           MWOS FC                   v FC Platinum               0-2
+           Chicken Inn FC            v ZPC Kariba FC             1-0
+           Manica Diamonds FC        v Herentals College FC      0-1
+           Simba Bhora FC            v Dynamos FC                1-0
+  Sun Jul 20 2025
+           Scottland FC              v Highlanders FC            2-1
+
+▪ Matchday 22
+  Wed Jul 23 2025
+           Herentals College FC      v Chicken Inn FC            1-0
+           TelOne FC                 v Simba Bhora FC            2-0
+           ZPC Kariba FC             v MWOS FC                   1-1
+           FC Platinum               v Kwekwe United FC          2-1
+           Yadah Stars FC            v Green Fuel FC             1-1
+           Ngezi Platinum Stars FC   v CAPS United FC            1-0
+  Thu Jul 24 2025
+           Dynamos FC                v Manica Diamonds FC        0-0
+           Bikita Minerals FC        v Scottland FC              0-1
+           Highlanders FC            v Triangle United FC        0-0
+
+▪ Matchday 23
+  Sat Jul 26 2025
+           Ngezi Platinum Stars FC   v TelOne FC                 2-1
+           Green Fuel FC             v FC Platinum               0-1
+           Kwekwe United FC          v ZPC Kariba FC             0-3
+           MWOS FC                   v Herentals College FC      1-1
+  Sun Jul 27 2025
+           CAPS United FC            v Highlanders FC            1-0
+           Triangle United FC        v Bikita Minerals FC        3-0
+           Chicken Inn FC            v Dynamos FC                3-0
+           Manica Diamonds FC        v Simba Bhora FC            1-1
+  Mon Jul 28 2025
+           Scottland FC              v Yadah Stars FC            1-0
+
+▪ Matchday 24
+  Sat Aug 2 2025
+           TelOne FC                 v Manica Diamonds FC        0-1
+           Simba Bhora FC            v Chicken Inn FC            1-0
+           Dynamos FC                v MWOS FC                   1-0
+           ZPC Kariba FC             v Green Fuel FC             0-1
+           FC Platinum               v Scottland FC              2-5
+           Yadah Stars FC            v Triangle United FC        0-0
+  Sun Aug 3 2025
+           Herentals College FC      v Kwekwe United FC          3-1
+           Highlanders FC            v Ngezi Platinum Stars FC   1-1
+           Bikita Minerals FC        v CAPS United FC            2-1
+
+▪ Matchday 25
+  Fri Aug 15 2025
+           Scottland FC              v ZPC Kariba FC             2-1
+  Sat Aug 16 2025
+           Ngezi Platinum Stars FC   v Bikita Minerals FC        1-1
+           Green Fuel FC             v Herentals College FC      0-1
+           MWOS FC                   v Simba Bhora FC            0-1
+           Chicken Inn FC            v Manica Diamonds FC        0-0
+  Sun Aug 17 2025
+           Highlanders FC            v TelOne FC                 0-2
+           CAPS United FC            v Yadah Stars FC            1-2
+           Triangle United FC        v FC Platinum               2-0
+           Kwekwe United FC          v Dynamos FC                0-3
+
+▪ Matchday 26
+  Fri Aug 22 2025
+           Yadah Stars FC            v Ngezi Platinum Stars FC   2-3
+  Sat Aug 23 2025
+           TelOne FC                 v Chicken Inn FC            1-2
+           Simba Bhora FC            v Kwekwe United FC          3-1
+           Herentals College FC      v Scottland FC              1-3
+           ZPC Kariba FC             v Triangle United FC        1-0
+           FC Platinum               v CAPS United FC            0-1
+  Sun Aug 24 2025
+           Manica Diamonds FC        v MWOS FC                   1-1
+           Dynamos FC                v Green Fuel FC             2-0
+           Bikita Minerals FC        v Highlanders FC            1-2
+
+▪ Matchday 27
+  Sat Aug 30 2025
+           Bikita Minerals FC        v TelOne FC                 0-4
+           Ngezi Platinum Stars FC   v FC Platinum               1-0
+           Scottland FC              v Dynamos FC                2-3
+           Green Fuel FC             v Simba Bhora FC            0-0
+           MWOS FC                   v Chicken Inn FC            2-1
+  Sun Aug 31 2025
+           Highlanders FC            v Yadah Stars FC            1-1
+           CAPS United FC            v ZPC Kariba FC             1-3
+           Triangle United FC        v Herentals College FC      4-2
+           Kwekwe United FC          v Manica Diamonds FC        2-2
+
+▪ Matchday 28
+  Sat Sep 13 2025
+           TelOne FC                 v MWOS FC                   0-1
+           Chicken Inn FC            v Kwekwe United FC          2-0
+           Manica Diamonds FC        v Green Fuel FC             2-1
+           Simba Bhora FC            v Scottland FC              0-0
+           Herentals College FC      v CAPS United FC            0-0
+           ZPC Kariba FC             v Ngezi Platinum Stars FC   0-2
+           FC Platinum               v Highlanders FC            1-0
+           Yadah Stars FC            v Bikita Minerals FC        0-1
+  Sun Sep 14 2025
+           Dynamos FC                v Triangle United FC        0-0
+
+▪ Matchday 29
+  Fri Sep 26 2025
+           Scottland FC              v Manica Diamonds FC        1-0
+  Sat Sep 27 2025
+           Bikita Minerals FC        v FC Platinum               1-1
+           Yadah Stars FC            v TelOne FC                 1-2
+           Ngezi Platinum Stars FC   v Herentals College FC      0-0
+           Green Fuel FC             v Chicken Inn FC            2-1
+  Sun Sep 28 2025
+           Highlanders FC            v ZPC Kariba FC             1-1
+           CAPS United FC            v Dynamos FC                0-1
+           Kwekwe United FC          v MWOS FC                   0-1
+  Sun Oct 12 2025
+           Triangle United FC        v Simba Bhora FC            0-0
+
+▪ Matchday 30
+  Fri Oct 3 2025
+           Chicken Inn FC            v Scottland FC              0-1
+  Sat Oct 4 2025
+           TelOne FC                 v Kwekwe United FC          3-1
+           MWOS FC                   v Green Fuel FC             1-0
+           Manica Diamonds FC        v Triangle United FC        0-0
+           Dynamos FC                v Ngezi Platinum Stars FC   1-1
+           ZPC Kariba FC             v Bikita Minerals FC        2-0
+           FC Platinum               v Yadah Stars FC            0-0
+           Simba Bhora FC            v CAPS United FC            0-1
+  Sun Oct 5 2025
+           Herentals College FC      v Highlanders FC            0-0
+
+▪ Matchday 31
+  Sat Oct 18 2025
+           Yadah Stars FC            v ZPC Kariba FC             1-1
+           FC Platinum               v TelOne FC                 0-1
+           Ngezi Platinum Stars FC   v Simba Bhora FC            2-1
+           Scottland FC              v MWOS FC                   1-0
+           Green Fuel FC             v Kwekwe United FC          5-0
+  Sun Oct 19 2025
+           Highlanders FC            v Dynamos FC                1-1
+           CAPS United FC            v Manica Diamonds FC        1-0
+           Triangle United FC        v Chicken Inn FC            0-1
+  Mon Oct 20 2025
+           Bikita Minerals FC        v Herentals College FC      3-0
+
+▪ Matchday 32
+  Sat Nov 1 2025
+           TelOne FC                 v Green Fuel FC             1-1
+           MWOS FC                   v Triangle United FC        1-0
+           Chicken Inn FC            v CAPS United FC            1-1
+           Simba Bhora FC            v Highlanders FC            1-1
+           Herentals College FC      v Yadah Stars FC            0-1
+           Manica Diamonds FC        v Ngezi Platinum Stars FC   1-0
+           ZPC Kariba FC             v FC Platinum               1-1
+  Sun Nov 2 2025
+           Kwekwe United FC          v Scottland FC              1-5
+           Dynamos FC                v Bikita Minerals FC        1-0
+
+▪ Matchday 33
+  Sat Nov 8 2025
+           Bikita Minerals FC        v Simba Bhora FC            1-1
+           CAPS United FC            v MWOS FC                   0-0
+           FC Platinum               v Herentals College FC      0-0
+           Highlanders FC            v Manica Diamonds FC        1-1
+           Ngezi Platinum Stars FC   v Chicken Inn FC            0-0
+           Scottland FC              v Green Fuel FC             0-0
+           Triangle United FC        v Kwekwe United FC          4-0
+           Yadah Stars FC            v Dynamos FC                1-1
+           ZPC Kariba FC             v TelOne FC                 0-0
+
+▪ Matchday 34
+  Sat Nov 22 2025
+           TelOne FC                 v Scottland FC              1-2
+           MWOS FC                   v Ngezi Platinum Stars FC   3-2
+           Herentals College FC      v ZPC Kariba FC             3-0
+  Sun Nov 23 2025
+           Green Fuel FC             v Triangle United FC        1-1
+           Kwekwe United FC          v CAPS United FC            0-2
+           Chicken Inn FC            v Highlanders FC            1-1
+           Manica Diamonds FC        v Bikita Minerals FC        1-0
+           Simba Bhora FC            v Yadah Stars FC            1-0
+           Dynamos FC                v FC Platinum               0-0
