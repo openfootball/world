@@ -1,0 +1,456 @@
+= Zimbabwe | Premier Soccer League 2024
+
+# Date       Sat Mar 9 2024 - Sun Nov 24 2024 (260d)
+# Teams      18
+# Matches    306
+# Source     https://www.rsssf.org/tablesz/zimb2024.html
+# Retrieved  2026-09-15
+
+
+▪ Matchday 1
+  Sat Mar 9 2024
+           CAPS United FC            v Chicken Inn FC            0-1
+           FC Platinum               v Chegutu Pirates FC        1-0
+           Arenel Movers FC          v Ngezi Platinum Stars FC   0-0
+           Green Fuel FC             v Bulawayo Chiefs FC        2-1
+           ZPC Kariba FC             v TelOne FC                 2-2
+  Sun Mar 10 2024
+           Manica Diamonds FC        v Simba Bhora FC            2-3
+           Highlanders FC            v Dynamos FC                2-1
+           Hwange FC                 v Yadah Stars FC            1-0
+  Sat Jun 1 2024
+           Herentals College FC      v Bikita Minerals FC        1-1
+
+▪ Matchday 2
+  Sat Mar 16 2024
+           Simba Bhora FC            v Green Fuel FC             1-1
+           TelOne FC                 v Manica Diamonds FC        3-1
+           Ngezi Platinum Stars FC   v FC Platinum               0-2
+           Chicken Inn FC            v Arenel Movers FC          0-0
+           Herentals College FC      v CAPS United FC            0-2
+           Dynamos FC                v Hwange FC                 2-2
+  Sun Mar 17 2024
+           Bulawayo Chiefs FC        v Highlanders FC            1-1
+           Chegutu Pirates FC        v ZPC Kariba FC             0-1
+  Sun Mar 24 2024
+           Bikita Minerals FC        v Yadah Stars FC            1-1
+
+▪ Matchday 3
+  Thu Mar 28 2024
+           CAPS United FC            v Bikita Minerals FC        0-1
+           FC Platinum               v Chicken Inn FC            2-2
+           ZPC Kariba FC             v Ngezi Platinum Stars FC   0-0
+           Green Fuel FC             v TelOne FC                 1-1
+           Manica Diamonds FC        v Chegutu Pirates FC        0-0
+           Arenel Movers FC          v Herentals College FC      0-0
+  Fri Mar 29 2024
+           Highlanders FC            v Simba Bhora FC            1-0
+           Hwange FC                 v Bulawayo Chiefs FC        0-2
+           Yadah Stars FC            v Dynamos FC                0-0
+
+▪ Matchday 4
+  Sun Mar 31 2024
+           CAPS United FC            v Arenel Movers FC          3-1
+           Chicken Inn FC            v ZPC Kariba FC             0-0
+           Chegutu Pirates FC        v Green Fuel FC             1-0
+  Mon Apr 1 2024
+           Bikita Minerals FC        v Dynamos FC                0-1
+           TelOne FC                 v Highlanders FC            0-2
+           Herentals College FC      v FC Platinum               0-1
+           Simba Bhora FC            v Hwange FC                 2-0
+           Ngezi Platinum Stars FC   v Manica Diamonds FC        1-0
+           Bulawayo Chiefs FC        v Yadah Stars FC            3-1
+
+▪ Matchday 5
+  Sat Apr 6 2024
+           Arenel Movers FC          v Bikita Minerals FC        2-1
+           ZPC Kariba FC             v Herentals College FC      1-2
+           FC Platinum               v CAPS United FC            3-0 [awarded; abandoned at 1-0 in 87' due to crowd trouble]
+           Green Fuel FC             v Ngezi Platinum Stars FC   2-1
+           Yadah Stars FC            v Simba Bhora FC            1-2
+  Sun Apr 7 2024
+           Manica Diamonds FC        v Chicken Inn FC            1-0
+           Highlanders FC            v Chegutu Pirates FC        3-0
+           Hwange FC                 v TelOne FC                 0-1
+           Dynamos FC                v Bulawayo Chiefs FC        0-0
+
+▪ Matchday 6
+  Sat Apr 13 2024
+           Bikita Minerals FC        v Bulawayo Chiefs FC        2-0
+           Ngezi Platinum Stars FC   v Highlanders FC            1-1
+           Chicken Inn FC            v Green Fuel FC             2-0
+           Herentals College FC      v Manica Diamonds FC        1-2
+  Sun Apr 14 2024
+           TelOne FC                 v Yadah Stars FC            2-3
+           Simba Bhora FC            v Dynamos FC                1-0
+           Chegutu Pirates FC        v Hwange FC                 2-1
+           CAPS United FC            v ZPC Kariba FC             1-1
+           Arenel Movers FC          v FC Platinum               2-2
+
+▪ Matchday 7
+  Sat Apr 20 2024
+           FC Platinum               v Bikita Minerals FC        2-2
+           ZPC Kariba FC             v Arenel Movers FC          0-0
+           Green Fuel FC             v Herentals College FC      0-0
+           Yadah Stars FC            v Chegutu Pirates FC        0-0
+  Sun Apr 21 2024
+           Manica Diamonds FC        v CAPS United FC            1-0
+           Highlanders FC            v Chicken Inn FC            1-2
+           Hwange FC                 v Ngezi Platinum Stars FC   0-0
+           Dynamos FC                v TelOne FC                 1-0
+           Bulawayo Chiefs FC        v Simba Bhora FC            1-0
+
+▪ Matchday 8
+  Wed Apr 24 2024
+           TelOne FC                 v Bulawayo Chiefs FC        1-1
+           Ngezi Platinum Stars FC   v Yadah Stars FC            2-2
+           Chicken Inn FC            v Hwange FC                 1-0
+           Herentals College FC      v Highlanders FC            2-2
+           FC Platinum               v ZPC Kariba FC             0-1
+           Bikita Minerals FC        v Simba Bhora FC            1-0
+  Thu Apr 25 2024
+           CAPS United FC            v Green Fuel FC             3-0
+           Chegutu Pirates FC        v Dynamos FC                0-3 [awarded; abandoned at 0-1 in injury time due to crowd trouble]
+           Arenel Movers FC          v Manica Diamonds FC        0-1
+
+▪ Matchday 9
+  Sat Apr 27 2024
+           Yadah Stars FC            v Chicken Inn FC            2-1
+           Simba Bhora FC            v TelOne FC                 1-1
+           ZPC Kariba FC             v Bikita Minerals FC        0-0
+  Sun Apr 28 2024
+           Highlanders FC            v CAPS United FC            2-0
+           Dynamos FC                v Ngezi Platinum Stars FC   2-2
+           Manica Diamonds FC        v FC Platinum               1-0
+           Hwange FC                 v Herentals College FC      1-1
+           Bulawayo Chiefs FC        v Chegutu Pirates FC        1-0
+           Green Fuel FC             v Arenel Movers FC          3-0
+
+▪ Matchday 10
+  Sat May 4 2024
+           Bikita Minerals FC        v TelOne FC                 1-1
+           Ngezi Platinum Stars FC   v Bulawayo Chiefs FC        1-0
+           Chicken Inn FC            v Dynamos FC                0-0
+           Herentals College FC      v Yadah Stars FC            1-0
+           FC Platinum               v Green Fuel FC             1-0
+           ZPC Kariba FC             v Manica Diamonds FC        0-2
+  Sun May 5 2024
+           Chegutu Pirates FC        v Simba Bhora FC            1-2
+           CAPS United FC            v Hwange FC                 3-0
+           Arenel Movers FC          v Highlanders FC            0-0
+
+▪ Matchday 11
+  Sat May 11 2024
+           Green Fuel FC             v ZPC Kariba FC             1-0
+           Yadah Stars FC            v CAPS United FC            0-1
+           Bulawayo Chiefs FC        v Chicken Inn FC            0-0
+           Simba Bhora FC            v Ngezi Platinum Stars FC   2-1
+  Sun May 12 2024
+           Manica Diamonds FC        v Bikita Minerals FC        1-0
+           Highlanders FC            v FC Platinum               0-2
+           Hwange FC                 v Arenel Movers FC          1-1
+           Dynamos FC                v Herentals College FC      1-1
+           TelOne FC                 v Chegutu Pirates FC        0-2
+
+▪ Matchday 12
+  Sat May 18 2024
+           Ngezi Platinum Stars FC   v TelOne FC                 2-0
+           Bikita Minerals FC        v Chegutu Pirates FC        2-1
+           Herentals College FC      v Bulawayo Chiefs FC        2-0
+           Arenel Movers FC          v Yadah Stars FC            0-2
+           FC Platinum               v Hwange FC                 3-1
+           ZPC Kariba FC             v Highlanders FC            1-1
+  Sun May 19 2024
+           Chicken Inn FC            v Simba Bhora FC            3-2
+           CAPS United FC            v Dynamos FC                1-1
+           Manica Diamonds FC        v Green Fuel FC             2-0
+
+▪ Matchday 13
+  Wed May 22 2024
+           Green Fuel FC             v Bikita Minerals FC        1-1
+           Hwange FC                 v ZPC Kariba FC             0-0
+           Yadah Stars FC            v FC Platinum               1-1
+           Bulawayo Chiefs FC        v CAPS United FC            1-1
+           Simba Bhora FC            v Herentals College FC      0-0
+           TelOne FC                 v Chicken Inn FC            1-1
+           Chegutu Pirates FC        v Ngezi Platinum Stars FC   1-2
+  Thu May 23 2024
+           Highlanders FC            v Manica Diamonds FC        1-1
+           Dynamos FC                v Arenel Movers FC          2-1
+
+▪ Matchday 14
+  Sat May 25 2024
+           Herentals College FC      v TelOne FC                 2-1
+           Bikita Minerals FC        v Ngezi Platinum Stars FC   0-2
+           ZPC Kariba FC             v Yadah Stars FC            1-0
+           Chicken Inn FC            v Chegutu Pirates FC        0-0
+  Sun May 26 2024
+           CAPS United FC            v Simba Bhora FC            1-2
+           Arenel Movers FC          v Bulawayo Chiefs FC        0-0
+           FC Platinum               v Dynamos FC                1-0
+           Manica Diamonds FC        v Hwange FC                 1-0
+           Green Fuel FC             v Highlanders FC            1-1
+
+▪ Matchday 15
+  Sat Jun 15 2024
+           Yadah Stars FC            v Manica Diamonds FC        1-1
+           Bulawayo Chiefs FC        v FC Platinum               0-1
+           Simba Bhora FC            v Arenel Movers FC          3-0
+           Ngezi Platinum Stars FC   v Chicken Inn FC            3-0
+  Sun Jun 16 2024
+           Hwange FC                 v Green Fuel FC             1-0
+           Highlanders FC            v Bikita Minerals FC        1-1
+           Dynamos FC                v ZPC Kariba FC             1-1
+           TelOne FC                 v CAPS United FC            1-1
+           Chegutu Pirates FC        v Herentals College FC      1-1
+
+▪ Matchday 16
+  Sat Jun 22 2024
+           Bikita Minerals FC        v Chicken Inn FC            2-1
+           Herentals College FC      v Ngezi Platinum Stars FC   1-2
+           Arenel Movers FC          v TelOne FC                 1-2
+           FC Platinum               v Simba Bhora FC            1-0
+           ZPC Kariba FC             v Bulawayo Chiefs FC        0-0
+  Sun Jun 23 2024
+           Manica Diamonds FC        v Dynamos FC                0-0
+           Green Fuel FC             v Yadah Stars FC            1-0
+           Highlanders FC            v Hwange FC                 1-0
+           CAPS United FC            v Chegutu Pirates FC        2-1
+
+▪ Matchday 17
+  Sat Jun 29 2024
+           Yadah Stars FC            v Highlanders FC            2-0
+           Bulawayo Chiefs FC        v Manica Diamonds FC        0-0
+           Simba Bhora FC            v ZPC Kariba FC             1-0
+           Ngezi Platinum Stars FC   v CAPS United FC            3-2
+  Sun Jun 30 2024
+           Hwange FC                 v Bikita Minerals FC        2-2
+           Dynamos FC                v Green Fuel FC             1-0
+           TelOne FC                 v FC Platinum               1-1
+           Chegutu Pirates FC        v Arenel Movers FC          1-0
+           Chicken Inn FC            v Herentals College FC      0-0
+
+▪ Matchday 18
+  Sat Jul 13 2024
+           Bikita Minerals FC        v Herentals College FC      0-1
+           Ngezi Platinum Stars FC   v Arenel Movers FC          1-0
+           Simba Bhora FC            v Manica Diamonds FC        1-0
+           Bulawayo Chiefs FC        v Green Fuel FC             2-1
+           Yadah Stars FC            v Hwange FC                 1-1
+  Sun Jul 14 2024
+           Chicken Inn FC            v CAPS United FC            0-0
+           Chegutu Pirates FC        v FC Platinum               1-3
+           TelOne FC                 v ZPC Kariba FC             1-1
+           Dynamos FC                v Highlanders FC            0-2
+
+▪ Matchday 19
+  Sat Jul 20 2024
+           Yadah Stars FC            v Bikita Minerals FC        2-0
+           Green Fuel FC             v Simba Bhora FC            1-1
+           ZPC Kariba FC             v Chegutu Pirates FC        0-0
+           FC Platinum               v Ngezi Platinum Stars FC   0-0
+           Arenel Movers FC          v Chicken Inn FC            0-1
+  Sun Jul 21 2024
+           Hwange FC                 v Dynamos FC                0-1
+           Highlanders FC            v Bulawayo Chiefs FC        2-0
+           Manica Diamonds FC        v TelOne FC                 0-0
+           CAPS United FC            v Herentals College FC      0-1
+
+▪ Matchday 20
+  Wed Jul 24 2024
+           Bikita Minerals FC        v CAPS United FC            0-0
+           Herentals College FC      v Arenel Movers FC          1-2
+           Ngezi Platinum Stars FC   v ZPC Kariba FC             0-0
+           Simba Bhora FC            v Highlanders FC            2-1
+           TelOne FC                 v Green Fuel FC             0-1
+           Bulawayo Chiefs FC        v Hwange FC                 0-1
+  Thu Jul 25 2024
+           Chicken Inn FC            v FC Platinum               2-0
+           Chegutu Pirates FC        v Manica Diamonds FC        0-0
+           Dynamos FC                v Yadah Stars FC            1-1
+
+▪ Matchday 21
+  Sat Jul 27 2024
+           Arenel Movers FC          v CAPS United FC            2-1
+  Sun Jul 28 2024
+           Yadah Stars FC            v Bulawayo Chiefs FC        2-1
+           Dynamos FC                v Bikita Minerals FC        0-0
+           Hwange FC                 v Simba Bhora FC            0-1
+           Highlanders FC            v TelOne FC                 0-0
+           Green Fuel FC             v Chegutu Pirates FC        0-0
+           Manica Diamonds FC        v Ngezi Platinum Stars FC   0-0
+           ZPC Kariba FC             v Chicken Inn FC            2-0
+           FC Platinum               v Herentals College FC      3-1
+
+▪ Matchday 22
+  Sat Aug 3 2024
+           Herentals College FC      v ZPC Kariba FC             0-0
+           Chicken Inn FC            v Manica Diamonds FC        1-0
+           Ngezi Platinum Stars FC   v Green Fuel FC             0-0
+           Simba Bhora FC            v Yadah Stars FC            1-0
+  Sun Aug 4 2024
+           Bikita Minerals FC        v Arenel Movers FC          0-0
+           CAPS United FC            v FC Platinum               1-0
+           Chegutu Pirates FC        v Highlanders FC            1-2
+           TelOne FC                 v Hwange FC                 0-0
+           Bulawayo Chiefs FC        v Dynamos FC                1-1
+
+▪ Matchday 23
+  Sat Aug 10 2024
+           Dynamos FC                v Simba Bhora FC            1-1
+           Bulawayo Chiefs FC        v Bikita Minerals FC        1-0
+           Yadah Stars FC            v TelOne FC                 1-3
+           Green Fuel FC             v Chicken Inn FC            0-0
+           ZPC Kariba FC             v CAPS United FC            0-1
+           FC Platinum               v Arenel Movers FC          3-1
+  Sun Aug 11 2024
+           Hwange FC                 v Chegutu Pirates FC        1-0
+           Highlanders FC            v Ngezi Platinum Stars FC   1-1
+           Manica Diamonds FC        v Herentals College FC      0-0
+
+▪ Matchday 24
+  Sat Aug 24 2024
+           Arenel Movers FC          v ZPC Kariba FC             0-1
+           Herentals College FC      v Green Fuel FC             2-1
+           Simba Bhora FC            v Bulawayo Chiefs FC        1-0
+  Sun Aug 25 2024
+           Bikita Minerals FC        v FC Platinum               1-0
+           Chicken Inn FC            v Highlanders FC            0-0
+           CAPS United FC            v Manica Diamonds FC        1-0
+           Chegutu Pirates FC        v Yadah Stars FC            0-2
+  Sun Sep 8 2024
+           TelOne FC                 v Dynamos FC                0-0
+  Sat Oct 12 2024
+           Ngezi Platinum Stars FC   v Hwange FC                 6-0
+
+▪ Matchday 25
+  Sat Aug 31 2024
+           Bulawayo Chiefs FC        v TelOne FC                 1-1
+           Yadah Stars FC            v Ngezi Platinum Stars FC   0-2
+           Green Fuel FC             v CAPS United FC            2-2
+           ZPC Kariba FC             v FC Platinum               1-1
+           Simba Bhora FC            v Bikita Minerals FC        1-0
+  Sun Sep 1 2024
+           Dynamos FC                v Chegutu Pirates FC        1-0
+           Hwange FC                 v Chicken Inn FC            1-0
+           Highlanders FC            v Herentals College FC      1-2
+  Sun Sep 8 2024
+           Manica Diamonds FC        v Arenel Movers FC          2-1
+
+▪ Matchday 26
+  Sat Sep 14 2024
+           FC Platinum               v Manica Diamonds FC        0-1
+           Arenel Movers FC          v Green Fuel FC             2-1
+           Herentals College FC      v Hwange FC                 2-0
+  Sun Sep 15 2024
+           Bikita Minerals FC        v ZPC Kariba FC             0-0
+           CAPS United FC            v Highlanders FC            3-2
+           Chicken Inn FC            v Yadah Stars FC            0-0
+           Chegutu Pirates FC        v Bulawayo Chiefs FC        1-1
+           TelOne FC                 v Simba Bhora FC            1-2
+  Sat Nov 16 2024
+           Ngezi Platinum Stars FC   v Dynamos FC                2-0
+
+▪ Matchday 27
+  Wed Sep 25 2024
+           Simba Bhora FC            v Chegutu Pirates FC        2-0
+           TelOne FC                 v Bikita Minerals FC        6-1
+           Bulawayo Chiefs FC        v Ngezi Platinum Stars FC   1-1
+           Yadah Stars FC            v Herentals College FC      1-0
+           Hwange FC                 v CAPS United FC            2-0
+           Highlanders FC            v Arenel Movers FC          2-0
+           Green Fuel FC             v FC Platinum               1-1
+           Manica Diamonds FC        v ZPC Kariba FC             0-1
+  Sun Oct 13 2024
+           Dynamos FC                v Chicken Inn FC            0-1
+
+▪ Matchday 28
+  Sat Sep 28 2024
+           ZPC Kariba FC             v Green Fuel FC             0-1
+           FC Platinum               v Highlanders FC            1-0
+           Arenel Movers FC          v Hwange FC                 0-0
+           Herentals College FC      v Dynamos FC                1-2
+           Ngezi Platinum Stars FC   v Simba Bhora FC            0-0
+  Sun Sep 29 2024
+           Bikita Minerals FC        v Manica Diamonds FC        0-0
+           CAPS United FC            v Yadah Stars FC            1-1
+           Chicken Inn FC            v Bulawayo Chiefs FC        2-0
+           Chegutu Pirates FC        v TelOne FC                 0-1
+
+▪ Matchday 29
+  Sat Oct 5 2024
+           TelOne FC                 v Ngezi Platinum Stars FC   1-0
+           Simba Bhora FC            v Chicken Inn FC            1-0
+           Bulawayo Chiefs FC        v Herentals College FC      0-0
+           Yadah Stars FC            v Arenel Movers FC          5-3
+           Green Fuel FC             v Manica Diamonds FC        1-1
+  Sun Oct 6 2024
+           Chegutu Pirates FC        v Bikita Minerals FC        2-1
+           Dynamos FC                v CAPS United FC            1-2
+           Hwange FC                 v FC Platinum               2-2
+           Highlanders FC            v ZPC Kariba FC             2-0
+
+▪ Matchday 30
+  Sat Oct 19 2024
+           Bikita Minerals FC        v Green Fuel FC             1-2
+           ZPC Kariba FC             v Hwange FC                 0-0
+           FC Platinum               v Yadah Stars FC            3-0
+           Herentals College FC      v Simba Bhora FC            1-0
+           Chicken Inn FC            v TelOne FC                 0-1
+           Ngezi Platinum Stars FC   v Chegutu Pirates FC        1-2
+  Sun Oct 20 2024
+           Manica Diamonds FC        v Highlanders FC            1-0
+           Arenel Movers FC          v Dynamos FC                1-2
+           CAPS United FC            v Bulawayo Chiefs FC        2-2
+
+▪ Matchday 31
+  Sat Nov 2 2024
+           Ngezi Platinum Stars FC   v Bikita Minerals FC        1-1
+           TelOne FC                 v Herentals College FC      0-1
+           Simba Bhora FC            v CAPS United FC            2-1
+           Bulawayo Chiefs FC        v Arenel Movers FC          1-0
+           Yadah Stars FC            v ZPC Kariba FC             1-1
+  Sun Nov 3 2024
+           Chegutu Pirates FC        v Chicken Inn FC            2-1
+           Dynamos FC                v FC Platinum               2-0
+           Hwange FC                 v Manica Diamonds FC        2-1
+           Highlanders FC            v Green Fuel FC             4-0
+
+▪ Matchday 32
+  Wed Nov 6 2024
+           Green Fuel FC             v Hwange FC                 1-0
+           Bikita Minerals FC        v Highlanders FC            2-0
+           ZPC Kariba FC             v Dynamos FC                0-0
+           FC Platinum               v Bulawayo Chiefs FC        1-0
+           Arenel Movers FC          v Simba Bhora FC            0-1
+           Herentals College FC      v Chegutu Pirates FC        1-0
+           Chicken Inn FC            v Ngezi Platinum Stars FC   1-1
+  Thu Nov 7 2024
+           Manica Diamonds FC        v Yadah Stars FC            2-0
+           CAPS United FC            v TelOne FC                 1-0
+
+▪ Matchday 33
+  Sat Nov 9 2024
+           Chicken Inn FC            v Bikita Minerals FC        3-0
+           Ngezi Platinum Stars FC   v Herentals College FC      4-0
+           Simba Bhora FC            v FC Platinum               0-2
+  Sun Nov 10 2024
+           Bulawayo Chiefs FC        v ZPC Kariba FC             0-0
+           Chegutu Pirates FC        v CAPS United FC            2-0
+           Dynamos FC                v Manica Diamonds FC        0-0
+           Hwange FC                 v Highlanders FC            4-3
+           TelOne FC                 v Arenel Movers FC          1-0
+           Yadah Stars FC            v Green Fuel FC             3-0
+
+▪ Matchday 34
+  Sat Nov 23 2024
+           Bikita Minerals FC        v Hwange FC                 2-0
+           Green Fuel FC             v Dynamos FC                2-1
+           Manica Diamonds FC        v Bulawayo Chiefs FC        2-1
+           ZPC Kariba FC             v Simba Bhora FC            1-0
+           FC Platinum               v TelOne FC                 0-0
+           Arenel Movers FC          v Chegutu Pirates FC        0-0
+           Herentals College FC      v Chicken Inn FC            0-0
+  Sun Nov 24 2024
+           Highlanders FC            v Yadah Stars FC            1-1
+           CAPS United FC            v Ngezi Platinum Stars FC   1-3

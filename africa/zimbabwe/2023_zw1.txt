@@ -1,0 +1,473 @@
+= Zimbabwe | Premier Soccer League 2023
+
+# Date       Sat Mar 18 2023 - Sun Nov 26 2023 (253d)
+# Teams      18
+# Matches    306
+# Source     https://www.rsssf.org/tablesz/zimb2023.html
+# Retrieved  2026-09-15
+
+
+▪ Matchday 1
+  Sat Mar 18 2023
+           Simba Bhora FC            v FC Platinum               1-2
+           Sheasham FC               v Chicken Inn FC            0-0
+           Bulawayo Chiefs FC        v Ngezi Platinum Stars FC   1-1
+           Hwange FC                 v Dynamos FC                0-1
+  Sun Mar 19 2023
+           CAPS United FC            v Manica Diamonds FC        2-0
+           Triangle United FC        v Herentals College FC      1-0
+           Highlanders FC            v ZPC Kariba FC             0-0
+  Mon Mar 20 2023
+           Yadah Stars FC            v Green Fuel FC             1-0
+           Cranborne Bullets FC      v Black Rhinos FC           0-1
+
+▪ Matchday 2
+  Sat Mar 25 2023
+           Ngezi Platinum Stars FC   v CAPS United FC            0-0
+           FC Platinum               v Cranborne Bullets FC      1-0
+           Chicken Inn FC            v Simba Bhora FC            1-0
+           Black Rhinos FC           v Highlanders FC            0-1
+           Green Fuel FC             v Herentals College FC      1-1
+  Sun Mar 26 2023
+           Dynamos FC                v Sheasham FC               4-0
+           Manica Diamonds FC        v Triangle United FC        0-0
+           Yadah Stars FC            v Hwange FC                 1-2
+  Mon Mar 27 2023
+           ZPC Kariba FC             v Bulawayo Chiefs FC        1-0
+
+▪ Matchday 3
+  Fri Mar 31 2023
+           Herentals College FC      v Manica Diamonds FC        1-1
+  Sat Apr 1 2023
+           Simba Bhora FC            v Dynamos FC                0-0
+           Sheasham FC               v Yadah Stars FC            1-1
+           Bulawayo Chiefs FC        v Black Rhinos FC           0-0
+           Cranborne Bullets FC      v Chicken Inn FC            0-0
+  Sun Apr 2 2023
+           CAPS United FC            v ZPC Kariba FC             1-0
+           Triangle United FC        v Ngezi Platinum Stars FC   0-0
+           Highlanders FC            v FC Platinum               2-1
+           Hwange FC                 v Green Fuel FC             3-0
+
+▪ Matchday 4
+  Thu Apr 6 2023
+           Yadah Stars FC            v Simba Bhora FC            0-1
+  Fri Apr 7 2023
+           Black Rhinos FC           v CAPS United FC            0-2
+           Ngezi Platinum Stars FC   v Herentals College FC      3-3
+           FC Platinum               v Bulawayo Chiefs FC        2-1
+           Green Fuel FC             v Manica Diamonds FC        1-2
+           Chicken Inn FC            v Highlanders FC            0-0
+  Sat Apr 8 2023
+           Hwange FC                 v Sheasham FC               1-1
+  Sun Apr 9 2023
+           ZPC Kariba FC             v Triangle United FC        1-0
+  Mon Apr 10 2023
+           Dynamos FC                v Cranborne Bullets FC      0-0
+
+▪ Matchday 5
+  Fri Apr 14 2023
+           Cranborne Bullets FC      v Yadah Stars FC            0-1
+           Simba Bhora FC            v Hwange FC                 2-0
+  Sat Apr 15 2023
+           Sheasham FC               v Green Fuel FC             1-1
+           Herentals College FC      v ZPC Kariba FC             2-1
+           Manica Diamonds FC        v Ngezi Platinum Stars FC   0-1
+  Sun Apr 16 2023
+           CAPS United FC            v FC Platinum               1-1
+           Triangle United FC        v Black Rhinos FC           2-1
+           Bulawayo Chiefs FC        v Chicken Inn FC            2-2
+  Thu May 25 2023
+           Highlanders FC            v Dynamos FC                0-0
+
+▪ Matchday 6
+  Fri Apr 21 2023
+           ZPC Kariba FC             v Manica Diamonds FC        0-3
+  Sat Apr 22 2023
+           Green Fuel FC             v Ngezi Platinum Stars FC   2-3
+           FC Platinum               v Triangle United FC        1-1
+           Hwange FC                 v Cranborne Bullets FC      1-0
+           Yadah Stars FC            v Highlanders FC            0-2
+           Black Rhinos FC           v Herentals College FC      0-0
+  Sun Apr 23 2023
+           Dynamos FC                v Bulawayo Chiefs FC        2-3
+           Sheasham FC               v Simba Bhora FC            1-1
+           Chicken Inn FC            v CAPS United FC            0-0
+
+▪ Matchday 7
+  Thu Apr 27 2023
+           Simba Bhora FC            v Green Fuel FC             0-1
+  Sat Apr 29 2023
+           Bulawayo Chiefs FC        v Yadah Stars FC            2-1
+           Manica Diamonds FC        v Black Rhinos FC           4-0
+           Ngezi Platinum Stars FC   v ZPC Kariba FC             5-1
+  Sun Apr 30 2023
+           CAPS United FC            v Dynamos FC                0-2
+           Triangle United FC        v Chicken Inn FC            1-1
+           Highlanders FC            v Hwange FC                 1-0
+           Cranborne Bullets FC      v Sheasham FC               1-2
+  Mon May 1 2023
+           Herentals College FC      v FC Platinum               1-0
+
+▪ Matchday 8
+  Fri May 5 2023
+           Simba Bhora FC            v Cranborne Bullets FC      0-1
+  Sat May 6 2023
+           Green Fuel FC             v ZPC Kariba FC             0-0
+           FC Platinum               v Manica Diamonds FC        2-2
+           Chicken Inn FC            v Herentals College FC      2-1
+           Yadah Stars FC            v CAPS United FC            0-1
+  Sun May 7 2023
+           Dynamos FC                v Triangle United FC        0-0
+           Sheasham FC               v Highlanders FC            0-0
+           Hwange FC                 v Bulawayo Chiefs FC        0-3
+  Wed May 10 2023
+           Black Rhinos FC           v Ngezi Platinum Stars FC   0-0
+
+▪ Matchday 9
+  Fri May 12 2023
+           Cranborne Bullets FC      v Green Fuel FC             1-0
+  Sat May 13 2023
+           Herentals College FC      v Dynamos FC                0-0
+           Bulawayo Chiefs FC        v Sheasham FC               2-0
+           Manica Diamonds FC        v Chicken Inn FC            2-0
+  Sun May 14 2023
+           CAPS United FC            v Hwange FC                 0-0
+           Triangle United FC        v Yadah Stars FC            1-1
+           Highlanders FC            v Simba Bhora FC            0-0
+           Ngezi Platinum Stars FC   v FC Platinum               2-0
+  Mon May 15 2023
+           ZPC Kariba FC             v Black Rhinos FC           3-1
+
+▪ Matchday 10
+  Fri May 19 2023
+           Yadah Stars FC            v Herentals College FC      1-0
+  Sat May 20 2023
+           Green Fuel FC             v Black Rhinos FC           1-0
+           FC Platinum               v ZPC Kariba FC             1-0
+           Chicken Inn FC            v Ngezi Platinum Stars FC   2-0
+           Cranborne Bullets FC      v Highlanders FC            1-1
+  Sun May 21 2023
+           Dynamos FC                v Manica Diamonds FC        0-0
+           Hwange FC                 v Triangle United FC        0-0
+           Sheasham FC               v CAPS United FC            0-3 [awarded; Sheasham dns]
+  Mon May 22 2023
+           Simba Bhora FC            v Bulawayo Chiefs FC        1-1
+
+▪ Matchday 11
+  Thu May 25 2023
+           Herentals College FC      v Hwange FC                 1-2
+  Sat May 27 2023
+           Black Rhinos FC           v FC Platinum               0-1
+           Bulawayo Chiefs FC        v Cranborne Bullets FC      1-1
+           Manica Diamonds FC        v Yadah Stars FC            0-1
+  Sun May 28 2023
+           CAPS United FC            v Simba Bhora FC            1-1
+           Triangle United FC        v Sheasham FC               0-0
+           Highlanders FC            v Green Fuel FC             1-1
+           Ngezi Platinum Stars FC   v Dynamos FC                2-1
+  Mon May 29 2023
+           ZPC Kariba FC             v Chicken Inn FC            0-3
+
+▪ Matchday 12
+  Fri Jun 2 2023
+           Simba Bhora FC            v Triangle United FC        1-1
+  Sat Jun 3 2023
+           Chicken Inn FC            v Black Rhinos FC           1-0
+           Cranborne Bullets FC      v CAPS United FC            2-1
+           Sheasham FC               v Herentals College FC      0-0
+  Sun Jun 4 2023
+           Green Fuel FC             v FC Platinum               0-1
+           Dynamos FC                v ZPC Kariba FC             3-0
+           Hwange FC                 v Manica Diamonds FC        0-1
+           Highlanders FC            v Bulawayo Chiefs FC        1-0
+  Mon Jun 5 2023
+           Yadah Stars FC            v Ngezi Platinum Stars FC   0-1
+
+▪ Matchday 13
+  Sat Jul 1 2023
+           Bulawayo Chiefs FC        v Green Fuel FC             0-2
+           Manica Diamonds FC        v Sheasham FC               1-0
+           FC Platinum               v Chicken Inn FC            2-0
+           Ngezi Platinum Stars FC   v Hwange FC                 2-1
+           ZPC Kariba FC             v Yadah Stars FC            2-1
+  Sun Jul 2 2023
+           Black Rhinos FC           v Dynamos FC                1-2
+           CAPS United FC            v Highlanders FC            1-2
+           Triangle United FC        v Cranborne Bullets FC      2-1
+           Herentals College FC      v Simba Bhora FC            2-1
+
+▪ Matchday 14
+  Sat Jul 8 2023
+           Bulawayo Chiefs FC        v CAPS United FC            2-1
+           Dynamos FC                v FC Platinum               0-0 [in Bulawayo]
+           Yadah Stars FC            v Black Rhinos FC           0-2
+           Cranborne Bullets FC      v Herentals College FC      0-2
+  Sun Jul 9 2023
+           Green Fuel FC             v Chicken Inn FC            1-1
+           Hwange FC                 v ZPC Kariba FC             2-1
+           Highlanders FC            v Triangle United FC        1-0
+           Sheasham FC               v Ngezi Platinum Stars FC   0-0
+           Simba Bhora FC            v Manica Diamonds FC        0-0
+
+▪ Matchday 15
+  Sat Jul 15 2023
+           Manica Diamonds FC        v Cranborne Bullets FC      1-0
+           FC Platinum               v Yadah Stars FC            0-1
+           Ngezi Platinum Stars FC   v Simba Bhora FC            0-1
+           ZPC Kariba FC             v Sheasham FC               0-0
+           Chicken Inn FC            v Dynamos FC                0-2
+           CAPS United FC            v Green Fuel FC             2-0
+  Sun Jul 16 2023
+           Triangle United FC        v Bulawayo Chiefs FC        0-3
+           Black Rhinos FC           v Hwange FC                 1-1
+           Herentals College FC      v Highlanders FC            0-1
+
+▪ Matchday 16
+  Sat Jul 22 2023
+           Green Fuel FC             v Dynamos FC                1-0
+           Yadah Stars FC            v Chicken Inn FC            1-3
+           Cranborne Bullets FC      v Ngezi Platinum Stars FC   0-1
+           Bulawayo Chiefs FC        v Herentals College FC      1-2
+           CAPS United FC            v Triangle United FC        1-1
+  Sun Jul 23 2023
+           Highlanders FC            v Manica Diamonds FC        1-0
+           Sheasham FC               v Black Rhinos FC           0-0
+           Simba Bhora FC            v ZPC Kariba FC             1-2
+           Hwange FC                 v FC Platinum               0-0
+
+▪ Matchday 17
+  Sat Jul 29 2023
+           Chicken Inn FC            v Hwange FC                 2-1
+           Manica Diamonds FC        v Bulawayo Chiefs FC        3-1
+           ZPC Kariba FC             v Cranborne Bullets FC      1-0
+           FC Platinum               v Sheasham FC               1-2
+  Sun Jul 30 2023
+           Ngezi Platinum Stars FC   v Highlanders FC            0-1
+           Black Rhinos FC           v Simba Bhora FC            1-1
+           Dynamos FC                v Yadah Stars FC            5-1
+           Triangle United FC        v Green Fuel FC             0-2
+           Herentals College FC      v CAPS United FC            2-1
+
+▪ Matchday 18
+  Sat Aug 5 2023
+           Green Fuel FC             v Yadah Stars FC            2-0
+           FC Platinum               v Simba Bhora FC            1-2
+           Ngezi Platinum Stars FC   v Bulawayo Chiefs FC        1-0
+           Black Rhinos FC           v Cranborne Bullets FC      1-2
+           Chicken Inn FC            v Sheasham FC               0-1
+           ZPC Kariba FC             v Highlanders FC            0-0
+  Sun Aug 6 2023
+           Manica Diamonds FC        v CAPS United FC            2-0
+           Herentals College FC      v Triangle United FC        2-2
+           Dynamos FC                v Hwange FC                 0-0
+
+▪ Matchday 19
+  Sat Aug 19 2023
+           Bulawayo Chiefs FC        v ZPC Kariba FC             0-0
+           CAPS United FC            v Ngezi Platinum Stars FC   0-1
+           Simba Bhora FC            v Chicken Inn FC            0-1
+           Cranborne Bullets FC      v FC Platinum               1-1
+           Herentals College FC      v Green Fuel FC             1-0
+  Sun Aug 20 2023
+           Highlanders FC            v Black Rhinos FC           1-0
+           Triangle United FC        v Manica Diamonds FC        1-3
+           Sheasham FC               v Dynamos FC                0-2
+           Hwange FC                 v Yadah Stars FC            3-1
+
+▪ Matchday 20
+  Sat Aug 26 2023
+           Green Fuel FC             v Hwange FC                 1-0
+           FC Platinum               v Highlanders FC            2-0
+           Ngezi Platinum Stars FC   v Triangle United FC        3-0
+           Chicken Inn FC            v Cranborne Bullets FC      0-0
+           ZPC Kariba FC             v CAPS United FC            0-0
+           Black Rhinos FC           v Bulawayo Chiefs FC        2-0
+  Sun Aug 27 2023
+           Manica Diamonds FC        v Herentals College FC      1-1
+           Yadah Stars FC            v Sheasham FC               2-0
+           Dynamos FC                v Simba Bhora FC            0-0
+
+▪ Matchday 21
+  Sat Sep 2 2023
+           Bulawayo Chiefs FC        v FC Platinum               1-1
+           Sheasham FC               v Hwange FC                 1-0
+           Simba Bhora FC            v Yadah Stars FC            1-1
+           Cranborne Bullets FC      v Dynamos FC                0-1
+           Herentals College FC      v Ngezi Platinum Stars FC   2-1
+           Manica Diamonds FC        v Green Fuel FC             2-0
+  Sun Sep 3 2023
+           Highlanders FC            v Chicken Inn FC            0-2
+           Triangle United FC        v ZPC Kariba FC             1-0
+           CAPS United FC            v Black Rhinos FC           0-0
+
+▪ Matchday 22
+  Sat Sep 9 2023
+           Black Rhinos FC           v Triangle United FC        1-1
+           ZPC Kariba FC             v Herentals College FC      1-0
+           Chicken Inn FC            v Bulawayo Chiefs FC        1-1
+           Ngezi Platinum Stars FC   v Manica Diamonds FC        1-0
+           FC Platinum               v CAPS United FC            2-1
+           Green Fuel FC             v Sheasham FC               1-0
+  Sun Sep 10 2023
+           Hwange FC                 v Simba Bhora FC            0-0
+           Yadah Stars FC            v Cranborne Bullets FC      1-0
+           Dynamos FC                v Highlanders FC            3-0 [awarded; abandoned at 2-0 in 38'; at Barbourfields, Bulawayo]
+
+▪ Matchday 23
+  Sat Sep 16 2023
+           Bulawayo Chiefs FC        v Dynamos FC                2-1
+           Cranborne Bullets FC      v Hwange FC                 0-1
+           Herentals College FC      v Black Rhinos FC           2-1
+           Ngezi Platinum Stars FC   v Green Fuel FC             3-0
+           Manica Diamonds FC        v ZPC Kariba FC             2-0
+  Sun Sep 17 2023
+           Highlanders FC            v Yadah Stars FC            2-0
+           Triangle United FC        v FC Platinum               0-1
+           CAPS United FC            v Chicken Inn FC            1-1
+           Simba Bhora FC            v Sheasham FC               1-0
+
+▪ Matchday 24
+  Sat Sep 23 2023
+           Green Fuel FC             v Simba Bhora FC            0-3
+           FC Platinum               v Herentals College FC      2-0
+           ZPC Kariba FC             v Ngezi Platinum Stars FC   0-3
+           Chicken Inn FC            v Triangle United FC        1-1
+           Yadah Stars FC            v Bulawayo Chiefs FC        1-2
+           Sheasham FC               v Cranborne Bullets FC      1-0
+  Sun Sep 24 2023
+           Black Rhinos FC           v Manica Diamonds FC        2-1
+           Hwange FC                 v Highlanders FC            1-0
+           Dynamos FC                v CAPS United FC            1-0
+
+▪ Matchday 25
+  Tue Oct 3 2023
+           Cranborne Bullets FC      v Simba Bhora FC            1-0
+  Wed Oct 4 2023
+           Herentals College FC      v Chicken Inn FC            1-1
+           Ngezi Platinum Stars FC   v Black Rhinos FC           1-0
+           Manica Diamonds FC        v FC Platinum               1-2
+           CAPS United FC            v Yadah Stars FC            1-2
+           Highlanders FC            v Sheasham FC               1-1
+           ZPC Kariba FC             v Green Fuel FC             1-0
+  Thu Oct 5 2023
+           Triangle United FC        v Dynamos FC                0-0
+           Bulawayo Chiefs FC        v Hwange FC                 0-2
+
+▪ Matchday 26
+  Sat Oct 7 2023
+           FC Platinum               v Ngezi Platinum Stars FC   1-0
+           Chicken Inn FC            v Manica Diamonds FC        1-1
+           Simba Bhora FC            v Highlanders FC            3-0
+           Black Rhinos FC           v ZPC Kariba FC             4-3
+  Sun Oct 8 2023
+           Hwange FC                 v CAPS United FC            0-1
+           Dynamos FC                v Herentals College FC      0-1
+           Yadah Stars FC            v Triangle United FC        3-1
+           Green Fuel FC             v Cranborne Bullets FC      1-0
+           Sheasham FC               v Bulawayo Chiefs FC        2-1
+
+▪ Matchday 27
+  Sat Oct 14 2023
+           Herentals College FC      v Yadah Stars FC            4-0
+           Ngezi Platinum Stars FC   v Chicken Inn FC            1-0
+           Bulawayo Chiefs FC        v Simba Bhora FC            0-1
+           ZPC Kariba FC             v FC Platinum               2-1
+           Black Rhinos FC           v Green Fuel FC             0-0
+  Sun Oct 15 2023
+           Triangle United FC        v Hwange FC                 2-0
+           Highlanders FC            v Cranborne Bullets FC      0-0
+           CAPS United FC            v Sheasham FC               1-0
+  Wed Nov 1 2023
+           Manica Diamonds FC        v Dynamos FC                1-0
+
+▪ Matchday 28
+  Wed Oct 18 2023
+           Green Fuel FC             v Highlanders FC            1-1
+           FC Platinum               v Black Rhinos FC           1-2
+           Chicken Inn FC            v ZPC Kariba FC             4-0
+           Sheasham FC               v Triangle United FC        1-1
+           Simba Bhora FC            v CAPS United FC            2-3
+           Dynamos FC                v Ngezi Platinum Stars FC   2-1
+           Hwange FC                 v Herentals College FC      1-0
+  Thu Oct 19 2023
+           Cranborne Bullets FC      v Bulawayo Chiefs FC        0-1
+           Yadah Stars FC            v Manica Diamonds FC        1-1
+
+▪ Matchday 29
+  Sat Oct 21 2023
+           Black Rhinos FC           v Chicken Inn FC            1-1
+           Triangle United FC        v Simba Bhora FC            1-1
+           FC Platinum               v Green Fuel FC             1-1
+           Herentals College FC      v Sheasham FC               1-0
+  Sun Oct 22 2023
+           Manica Diamonds FC        v Hwange FC                 2-0
+           ZPC Kariba FC             v Dynamos FC                0-1
+           Bulawayo Chiefs FC        v Highlanders FC            0-0
+           Ngezi Platinum Stars FC   v Yadah Stars FC            1-0
+           CAPS United FC            v Cranborne Bullets FC      1-1
+
+▪ Matchday 30
+  Sat Nov 4 2023
+           Chicken Inn FC            v FC Platinum               0-1
+           Green Fuel FC             v Bulawayo Chiefs FC        1-0
+           Cranborne Bullets FC      v Triangle United FC        1-0
+           Sheasham FC               v Manica Diamonds FC        2-0
+           Simba Bhora FC            v Herentals College FC      1-0
+  Sun Nov 5 2023
+           Highlanders FC            v CAPS United FC            1-1
+           Dynamos FC                v Black Rhinos FC           0-0
+           Hwange FC                 v Ngezi Platinum Stars FC   1-0
+           Yadah Stars FC            v ZPC Kariba FC             6-0
+
+▪ Matchday 31
+  Wed Nov 8 2023
+           Black Rhinos FC           v Yadah Stars FC            1-0
+           Chicken Inn FC            v Green Fuel FC             1-1
+           FC Platinum               v Dynamos FC                0-0
+           Herentals College FC      v Cranborne Bullets FC      2-1
+           Manica Diamonds FC        v Simba Bhora FC            1-0
+           Ngezi Platinum Stars FC   v Sheasham FC               2-1
+           ZPC Kariba FC             v Hwange FC                 1-0
+  Thu Nov 9 2023
+           CAPS United FC            v Bulawayo Chiefs FC        3-2
+           Triangle United FC        v Highlanders FC            1-0
+
+▪ Matchday 32
+  Sat Nov 11 2023
+           Cranborne Bullets FC      v Manica Diamonds FC        0-0
+           Simba Bhora FC            v Ngezi Platinum Stars FC   1-2
+           Sheasham FC               v ZPC Kariba FC             2-2
+  Sun Nov 12 2023
+           Dynamos FC                v Chicken Inn FC            2-1
+           Highlanders FC            v Herentals College FC      2-1
+           Green Fuel FC             v CAPS United FC            2-2
+           Yadah Stars FC            v FC Platinum               2-1
+           Hwange FC                 v Black Rhinos FC           3-0
+           Bulawayo Chiefs FC        v Triangle United FC        2-0
+
+▪ Matchday 33
+  Sat Nov 18 2023
+           Chicken Inn FC            v Yadah Stars FC            2-1
+           FC Platinum               v Hwange FC                 1-1
+           Black Rhinos FC           v Sheasham FC               3-2
+           ZPC Kariba FC             v Simba Bhora FC            1-1
+           Ngezi Platinum Stars FC   v Cranborne Bullets FC      3-1
+           Triangle United FC        v CAPS United FC            1-1
+           Dynamos FC                v Green Fuel FC             1-0
+  Sun Nov 19 2023
+           Manica Diamonds FC        v Highlanders FC            2-0
+           Herentals College FC      v Bulawayo Chiefs FC        1-0
+
+▪ Matchday 34
+  Sat Nov 25 2023
+           Cranborne Bullets FC      v ZPC Kariba FC             0-3
+           Yadah Stars FC            v Dynamos FC                2-1
+           Simba Bhora FC            v Black Rhinos FC           0-1
+           Sheasham FC               v FC Platinum               1-2
+           Green Fuel FC             v Triangle United FC        2-1
+           Bulawayo Chiefs FC        v Manica Diamonds FC        2-2
+  Sun Nov 26 2023
+           CAPS United FC            v Herentals College FC      3-1
+           Hwange FC                 v Chicken Inn FC            0-0
+           Highlanders FC            v Ngezi Platinum Stars FC   1-0
