@@ -1,0 +1,476 @@
+= Zambia Super League 2021/2022
+
+# Date       Sat Sep 11 2021 - Sun May 8 2022 (239d)
+# Teams      18
+# Matches    306
+# Source     https://www.rsssf.org/tablesz/zamb2022.html
+# Retrieved  2026-09-16
+
+
+▪ Matchday 1
+  Sat Sep 11 2021
+           Konkola Blades      v Power Dynamos       1-0
+           Kafue Celtic        v Chambishi           0-0
+           Prison Leopards     v Forest Rangers      1-1
+           Green Eagles        v Buildcon            1-2
+           Green Buffaloes     v Lusaka Dynamos      1-1
+  Sun Sep 12 2021
+           Nkana               v Nkwazi              2-3
+  Sat Oct 9 2021
+           Indeni              v Kabwe Warriors      0-0
+  Wed Dec 15 2021
+           Kansanshi Dynamos   v Zanaco              1-1
+           ZESCO United        v Red Arrows          1-2
+
+▪ Matchday 2
+  Sat Sep 18 2021
+           Buildcon            v Prison Leopards     1-0
+           Chambishi           v Indeni              1-1
+           Nkwazi              v Green Buffaloes     0-1
+           Forest Rangers      v Kafue Celtic        4-1
+           Lusaka Dynamos      v Konkola Blades      0-0
+  Sun Sep 19 2021
+           Power Dynamos       v Green Eagles        1-2
+  Sat Oct 9 2021
+           Red Arrows          v Kansanshi Dynamos   0-3
+           Zanaco              v Nkana               1-0
+  Wed Oct 13 2021
+           Kabwe Warriors      v ZESCO United        0-2
+
+▪ Matchday 3
+  Wed Sep 22 2021
+           ZESCO United        v Chambishi           2-0
+           Kafue Celtic        v Indeni              1-2
+           Prison Leopards     v Power Dynamos       2-1
+           Kansanshi Dynamos   v Kabwe Warriors      1-0
+           Green Eagles        v Lusaka Dynamos      0-0
+           Konkola Blades      v Nkwazi              0-1
+           Green Buffaloes     v Zanaco              2-0
+           Forest Rangers      v Buildcon            1-2
+  Thu Sep 23 2021
+           Nkana               v Red Arrows          1-0
+
+▪ Matchday 4
+  Sat Sep 25 2021
+           Nkwazi              v Green Eagles        0-0
+           Zanaco              v Konkola Blades      0-2
+           Indeni              v ZESCO United        0-2
+           Power Dynamos       v Forest Rangers      1-2
+           Chambishi           v Kansanshi Dynamos   0-0
+           Lusaka Dynamos      v Prison Leopards     1-0
+  Sun Sep 26 2021
+           Kabwe Warriors      v Nkana               0-1
+           Buildcon            v Kafue Celtic        0-1
+           Red Arrows          v Green Buffaloes     1-2
+
+▪ Matchday 5
+  Wed Sep 29 2021
+           Buildcon            v Power Dynamos       0-0
+           Kafue Celtic        v ZESCO United        2-0
+           Kansanshi Dynamos   v Indeni              1-2
+           Nkana               v Chambishi           0-1
+           Prison Leopards     v Nkwazi              0-1
+           Green Buffaloes     v Kabwe Warriors      2-1
+           Green Eagles        v Zanaco              0-0
+           Konkola Blades      v Red Arrows          1-1
+           Forest Rangers      v Lusaka Dynamos      0-0
+
+▪ Matchday 6
+  Sat Oct 2 2021
+           Nkwazi              v Forest Rangers      1-1
+           Zanaco              v Prison Leopards     0-0
+           Power Dynamos       v Kafue Celtic        0-0
+           Indeni              v Nkana               1-1
+           Chambishi           v Green Buffaloes     0-2
+           Kabwe Warriors      v Konkola Blades      2-1
+  Sun Oct 3 2021
+           Lusaka Dynamos      v Buildcon            1-1
+           Red Arrows          v Green Eagles        1-0
+  Wed Oct 20 2021
+           ZESCO United        v Kansanshi Dynamos   4-0
+
+▪ Matchday 7
+  Fri Oct 15 2021
+           Green Buffaloes     v Indeni              5-0
+  Sat Oct 16 2021
+           Nkana               v ZESCO United        1-0
+           Buildcon            v Nkwazi              0-0
+           Kafue Celtic        v Kansanshi Dynamos   1-0
+           Konkola Blades      v Chambishi           0-0
+           Green Eagles        v Kabwe Warriors      1-2
+  Sun Oct 17 2021
+           Power Dynamos       v Lusaka Dynamos      1-0
+  Wed Oct 27 2021
+           Forest Rangers      v Zanaco              0-2
+  Thu Oct 28 2021
+           Prison Leopards     v Red Arrows          0-1
+
+▪ Matchday 8
+  Sat Oct 23 2021
+           Kansanshi Dynamos   v Nkana               1-0
+           ZESCO United        v Green Buffaloes     1-1
+           Chambishi           v Green Eagles        0-1
+           Kabwe Warriors      v Prison Leopards     2-0
+  Sun Oct 24 2021
+           Lusaka Dynamos      v Kafue Celtic        1-1
+           Indeni              v Konkola Blades      1-1
+           Nkwazi              v Power Dynamos       1-0
+  Thu Nov 4 2021
+           Zanaco              v Buildcon            1-1
+           Red Arrows          v Forest Rangers      1-1
+
+▪ Matchday 9
+  Sat Oct 30 2021
+           Green Buffaloes     v Kansanshi Dynamos   0-0
+           Kafue Celtic        v Nkana               0-1
+           Forest Rangers      v Kabwe Warriors      1-1
+           Green Eagles        v Indeni              0-0
+           Lusaka Dynamos      v Nkwazi              0-3
+           Konkola Blades      v ZESCO United        1-1
+  Sun Oct 31 2021
+           Power Dynamos       v Zanaco              3-3
+           Buildcon            v Red Arrows          0-0
+           Prison Leopards     v Chambishi           2-1
+
+▪ Matchday 10
+  Fri Nov 5 2021
+           Kansanshi Dynamos   v Konkola Blades      1-0
+  Sat Nov 6 2021
+           ZESCO United        v Green Eagles        0-2
+           Nkwazi              v Kafue Celtic        0-0
+  Sun Nov 7 2021
+           Indeni              v Prison Leopards     0-1
+           Nkana               v Green Buffaloes     2-2
+           Zanaco              v Lusaka Dynamos      0-0
+           Kabwe Warriors      v Buildcon            2-0
+           Red Arrows          v Power Dynamos       1-1
+           Chambishi           v Forest Rangers      1-1
+
+▪ Matchday 11
+  Wed Nov 17 2021
+           Forest Rangers      v Indeni              2-1
+           Kafue Celtic        v Green Buffaloes     0-1
+           Power Dynamos       v Kabwe Warriors      2-0
+           Nkwazi              v Zanaco              2-0
+           Lusaka Dynamos      v Red Arrows          0-1
+           Green Eagles        v Kansanshi Dynamos   1-0
+           Buildcon            v Chambishi           2-0
+  Wed Dec 1 2021
+           Konkola Blades      v Nkana               1-1
+  Fri Dec 24 2021
+           Prison Leopards     v ZESCO United        0-1
+
+▪ Matchday 12
+  Sat Nov 20 2021
+           Green Buffaloes     v Konkola Blades      2-1
+           Red Arrows          v Nkwazi              1-0
+           Kabwe Warriors      v Lusaka Dynamos      2-0
+           Indeni              v Buildcon            1-1
+           Chambishi           v Power Dynamos       2-3
+  Sun Nov 21 2021
+           Zanaco              v Kafue Celtic        1-0
+           Nkana               v Green Eagles        2-2
+           Kansanshi Dynamos   v Prison Leopards     1-1
+           ZESCO United        v Forest Rangers      1-1
+
+▪ Matchday 13
+  Fri Nov 26 2021
+           Lusaka Dynamos      v Chambishi           1-1
+  Sat Nov 27 2021
+           Power Dynamos       v Indeni              3-0
+           Forest Rangers      v Kansanshi Dynamos   1-0
+           Nkwazi              v Kabwe Warriors      0-1
+           Prison Leopards     v Nkana               1-0
+           Kafue Celtic        v Konkola Blades      1-0
+  Sun Nov 28 2021
+           Buildcon            v ZESCO United        2-3
+           Green Eagles        v Green Buffaloes     2-0
+  Fri Dec 31 2021
+           Zanaco              v Red Arrows          1-2
+
+▪ Matchday 14
+  Sun Nov 14 2021
+           Red Arrows          v Kafue Celtic        2-2
+  Sat Dec 4 2021
+           Indeni              v Lusaka Dynamos      0-3
+           Chambishi           v Nkwazi              1-0
+           Green Buffaloes     v Prison Leopards     3-3
+           Kansanshi Dynamos   v Buildcon            0-0
+           Konkola Blades      v Green Eagles        1-2
+           Nkana               v Forest Rangers      2-0
+  Sun Dec 5 2021
+           ZESCO United        v Power Dynamos       1-2
+  Fri Dec 24 2021
+           Kabwe Warriors      v Zanaco              1-2
+
+▪ Matchday 15
+  Wed Dec 8 2021
+           Forest Rangers      v Green Buffaloes     2-2
+           Kafue Celtic        v Green Eagles        1-1
+           Buildcon            v Nkana               1-2
+           Lusaka Dynamos      v ZESCO United        0-1
+           Nkwazi              v Indeni              0-1
+           Power Dynamos       v Kansanshi Dynamos   2-1
+           Prison Leopards     v Konkola Blades      2-0
+           Red Arrows          v Kabwe Warriors      1-0
+  Thu Dec 9 2021
+           Zanaco              v Chambishi           2-0
+
+▪ Matchday 16
+  Sat Dec 11 2021
+           ZESCO United        v Nkwazi              1-0
+           Kabwe Warriors      v Kafue Celtic        2-0
+           Konkola Blades      v Forest Rangers      0-1
+           Green Buffaloes     v Buildcon            2-3
+           Kansanshi Dynamos   v Lusaka Dynamos      1-0
+  Sun Dec 12 2021
+           Green Eagles        v Prison Leopards     2-0
+           Chambishi           v Red Arrows          0-2
+           Indeni              v Zanaco              1-0
+           Nkana               v Power Dynamos       2-0
+
+▪ Matchday 17
+  Fri Dec 17 2021
+           Power Dynamos       v Green Buffaloes     2-1
+  Sat Dec 18 2021
+           Nkwazi              v Kansanshi Dynamos   1-0
+           Kabwe Warriors      v Chambishi           0-1
+           Lusaka Dynamos      v Nkana               2-2
+  Sun Dec 19 2021
+           Buildcon            v Konkola Blades      2-1
+           Forest Rangers      v Green Eagles        1-1
+           Zanaco              v ZESCO United        1-1
+  Wed Jan 5 2022
+           Kafue Celtic        v Prison Leopards     1-1
+           Red Arrows          v Indeni              0-0
+
+▪ Matchday 18
+  Fri Jan 7 2022
+           Lusaka Dynamos      v Green Buffaloes     1-1
+           Zanaco              v Kansanshi Dynamos   2-1
+  Sat Jan 8 2022
+           Red Arrows          v ZESCO United        1-0
+           Power Dynamos       v Konkola Blades      1-0
+           Nkwazi              v Nkana               0-2
+  Sun Jan 9 2022
+           Forest Rangers      v Prison Leopards     0-0
+           Kabwe Warriors      v Indeni              1-1
+           Chambishi           v Kafue Celtic        2-1
+           Buildcon            v Green Eagles        2-0
+
+▪ Matchday 19
+  Sat Jan 15 2022
+           Indeni              v Chambishi           1-0
+           Kafue Celtic        v Forest Rangers      2-2
+           Kansanshi Dynamos   v Red Arrows          0-5
+           Konkola Blades      v Lusaka Dynamos      2-0
+           Nkana               v Zanaco              1-1
+           Prison Leopards     v Buildcon            2-1
+  Sun Jan 16 2022
+           Green Buffaloes     v Nkwazi              0-1
+           ZESCO United        v Kabwe Warriors      1-0
+           Green Eagles        v Power Dynamos       0-0
+
+▪ Matchday 20
+  Sat Jan 22 2022
+           Indeni              v Kafue Celtic        2-1
+           Power Dynamos       v Prison Leopards     0-0
+           Buildcon            v Forest Rangers      2-0
+           Chambishi           v ZESCO United        0-1
+           Kabwe Warriors      v Kansanshi Dynamos   0-0
+           Zanaco              v Green Buffaloes     1-1
+           Red Arrows          v Nkana               3-0
+  Sun Jan 23 2022
+           Lusaka Dynamos      v Green Eagles        0-1
+           Nkwazi              v Konkola Blades      1-1
+
+▪ Matchday 21
+  Thu Jan 27 2022
+           Nkana               v Kabwe Warriors      1-0
+  Fri Jan 28 2022
+           ZESCO United        v Indeni              1-0
+           Forest Rangers      v Power Dynamos       0-0
+  Sat Jan 29 2022
+           Green Buffaloes     v Red Arrows          2-3
+           Green Eagles        v Nkwazi              2-1
+           Kafue Celtic        v Buildcon            1-1
+           Kansanshi Dynamos   v Chambishi           0-0
+           Konkola Blades      v Zanaco              1-1
+           Prison Leopards     v Lusaka Dynamos      3-1
+
+▪ Matchday 22
+  Wed Jan 26 2022
+           Zanaco              v Green Eagles        1-1
+  Fri Feb 4 2022
+           Nkwazi              v Prison Leopards     2-1
+  Sat Feb 5 2022
+           Lusaka Dynamos      v Forest Rangers      3-1
+           Red Arrows          v Konkola Blades      2-2
+           Indeni              v Kansanshi Dynamos   0-1
+           Kabwe Warriors      v Green Buffaloes     1-0
+           Power Dynamos       v Buildcon            2-0
+           ZESCO United        v Kafue Celtic        1-1
+           Chambishi           v Nkana               1-0
+
+▪ Matchday 23
+  Wed Jan 19 2022
+           Prison Leopards     v Zanaco              0-0
+  Sat Feb 12 2022
+           Green Buffaloes     v Chambishi           3-0
+           Kafue Celtic        v Power Dynamos       1-0
+           Kansanshi Dynamos   v ZESCO United        2-0
+           Nkana               v Indeni              1-0
+           Konkola Blades      v Kabwe Warriors      0-2
+  Sun Feb 13 2022
+           Green Eagles        v Red Arrows          2-0
+           Buildcon            v Lusaka Dynamos      3-1
+           Forest Rangers      v Nkwazi              1-0
+
+▪ Matchday 24
+  Wed Feb 2 2022
+           Zanaco              v Forest Rangers      0-0
+  Fri Feb 18 2022
+           Lusaka Dynamos      v Power Dynamos       1-1
+           Red Arrows          v Prison Leopards     2-1
+  Sat Feb 19 2022
+           ZESCO United        v Nkana               2-1
+           Kansanshi Dynamos   v Kafue Celtic        3-2
+           Nkwazi              v Buildcon            0-1
+           Indeni              v Green Buffaloes     1-2
+           Chambishi           v Konkola Blades      0-1
+           Kabwe Warriors      v Green Eagles        1-2
+
+▪ Matchday 25
+  Sat Feb 26 2022
+           Power Dynamos       v Nkwazi              1-0
+           Green Buffaloes     v ZESCO United        0-3
+           Green Eagles        v Chambishi           1-0
+           Kafue Celtic        v Lusaka Dynamos      0-1
+           Konkola Blades      v Indeni              2-1
+           Nkana               v Kansanshi Dynamos   0-0
+           Prison Leopards     v Kabwe Warriors      0-0
+  Sun Feb 27 2022
+           Forest Rangers      v Red Arrows          1-2
+  Wed Apr 27 2022
+           Buildcon            v Zanaco              2-0
+
+▪ Matchday 26
+  Sat Mar 5 2022
+           Nkwazi              v Lusaka Dynamos      2-2
+           Red Arrows          v Buildcon            3-1
+           Chambishi           v Prison Leopards     2-0
+           Kabwe Warriors      v Forest Rangers      1-1
+           Kansanshi Dynamos   v Green Buffaloes     1-0
+           Indeni              v Green Eagles        0-0
+           Nkana               v Kafue Celtic        2-0
+           ZESCO United        v Konkola Blades      2-0
+  Sun Mar 6 2022
+           Zanaco              v Power Dynamos       2-1
+
+▪ Matchday 27
+  Wed Mar 16 2022
+           Lusaka Dynamos      v Zanaco              0-0
+  Sun Mar 20 2022
+           Kafue Celtic        v Nkwazi              3-1
+           Green Buffaloes     v Nkana               1-1
+  Wed Mar 23 2022
+           Buildcon            v Kabwe Warriors      1-1
+           Prison Leopards     v Indeni              1-1
+  Thu Mar 24 2022
+           Power Dynamos       v Red Arrows          0-0
+           Green Eagles        v ZESCO United        0-0
+           Forest Rangers      v Chambishi           2-0
+  Wed Mar 30 2022
+           Konkola Blades      v Kansanshi Dynamos   0-2
+
+▪ Matchday 28
+  Sat Mar 19 2022
+           Kansanshi Dynamos   v Green Eagles        0-0
+           Red Arrows          v Lusaka Dynamos      1-0
+           Kabwe Warriors      v Power Dynamos       1-0
+           Indeni              v Forest Rangers      1-0
+           Chambishi           v Buildcon            2-1
+  Thu Mar 24 2022
+           Green Buffaloes     v Kafue Celtic        1-1
+  Sat Mar 26 2022
+           Nkana               v Konkola Blades      1-0
+  Sun Mar 27 2022
+           Zanaco              v Nkwazi              2-0
+  Wed Mar 30 2022
+           ZESCO United        v Prison Leopards     1-1
+
+▪ Matchday 29
+  Wed Apr 6 2022
+           Lusaka Dynamos      v Kabwe Warriors      3-2
+           Konkola Blades      v Green Buffaloes     0-0
+           Nkwazi              v Red Arrows          2-3
+           Buildcon            v Indeni              1-0
+           Power Dynamos       v Chambishi           0-1
+           Green Eagles        v Nkana               0-0
+           Prison Leopards     v Kansanshi Dynamos   1-1
+           Forest Rangers      v ZESCO United        0-1
+  Wed Apr 13 2022
+           Kafue Celtic        v Zanaco              0-1
+
+▪ Matchday 30
+  Sat Apr 9 2022
+           Green Buffaloes     v Green Eagles        1-2
+           Red Arrows          v Zanaco              1-1
+           Kabwe Warriors      v Nkwazi              2-0
+           Kansanshi Dynamos   v Forest Rangers      1-2
+           Konkola Blades      v Kafue Celtic        3-0
+           ZESCO United        v Buildcon            2-1
+           Chambishi           v Lusaka Dynamos      2-1
+  Sun Apr 10 2022
+           Indeni              v Power Dynamos       0-5
+           Nkana               v Prison Leopards     0-2
+
+▪ Matchday 31
+  Sat Apr 16 2022
+           Nkwazi              v Chambishi           0-1
+           Lusaka Dynamos      v Indeni              2-0
+           Green Eagles        v Konkola Blades      2-0
+           Kafue Celtic        v Red Arrows          0-1
+           Prison Leopards     v Green Buffaloes     2-0
+  Sun Apr 17 2022
+           Buildcon            v Kansanshi Dynamos   0-1
+           Forest Rangers      v Nkana               1-1
+           Power Dynamos       v ZESCO United        0-0
+           Zanaco              v Kabwe Warriors      2-2
+
+▪ Matchday 32
+  Wed Apr 20 2022
+           Indeni              v Nkwazi              0-2
+           Nkana               v Buildcon            2-0
+           Chambishi           v Zanaco              0-1
+           Green Buffaloes     v Forest Rangers      2-5
+           Green Eagles        v Kafue Celtic        2-2
+           Kabwe Warriors      v Red Arrows          1-1
+           Kansanshi Dynamos   v Power Dynamos       1-1
+           ZESCO United        v Lusaka Dynamos      1-0
+           Konkola Blades      v Prison Leopards     1-2
+
+▪ Matchday 33
+  Sat Apr 23 2022
+           Power Dynamos       v Nkana               1-0
+  Sun Apr 24 2022
+           Red Arrows          v Chambishi           4-1
+           Prison Leopards     v Green Eagles        3-1
+           Nkwazi              v ZESCO United        0-0
+           Forest Rangers      v Konkola Blades      1-1
+           Kafue Celtic        v Kabwe Warriors      0-1
+           Lusaka Dynamos      v Kansanshi Dynamos   0-1
+           Buildcon            v Green Buffaloes     1-2
+           Zanaco              v Indeni              1-0
+
+▪ Matchday 34
+  Sun May 8 2022
+           Chambishi           v Kabwe Warriors      2-2
+           Green Buffaloes     v Power Dynamos       1-3
+           Green Eagles        v Forest Rangers      0-0
+           Indeni              v Red Arrows          1-3
+           Kansanshi Dynamos   v Nkwazi              0-0
+           Konkola Blades      v Buildcon            2-2
+           Nkana               v Lusaka Dynamos      2-1
+           Prison Leopards     v Kafue Celtic        0-0
+           ZESCO United        v Zanaco              1-0
