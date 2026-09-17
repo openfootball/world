@@ -1,0 +1,484 @@
+= Ghana | Premier League 2021/22
+
+# Date       Fri Oct 29 2021 - Sun Jun 19 2022 (233d)
+# Teams      18
+# Matches    306
+# Source     https://www.rsssf.org/tablesg/gha2022.html
+# Retrieved  2026-09-16
+
+
+▪ Matchday 1
+  Fri Oct 29 2021
+           Accra Lions FC                 v Elmina Sharks FC               1-1
+  Sat Oct 30 2021
+           Dreams FC                      v Asante Kotoko FC               1-3
+  Sun Oct 31 2021
+           King Faisal Babes FC           v West Africa Football Academy   1-0
+           Bechem United FC               v Medeama SC                     4-0
+           Real Tamale United             v Great Olympics FC              1-1
+           Techiman Eleven Wonders        v Obuasi Ashanti Gold SC         0-1
+           Bibiani Gold Stars FC          v Berekum Chelsea FC             1-0
+           Accra Hearts of Oak SC         v Legon Cities FC                0-0
+           Karela United FC               v Aduana FC                      1-1
+
+▪ Matchday 2
+  Fri Nov 5 2021
+           West Africa Football Academy   v Accra Hearts of Oak SC         1-1
+  Sat Nov 6 2021
+           Obuasi Ashanti Gold SC         v Karela United FC               1-1
+           Legon Cities FC                v Real Tamale United             3-2
+  Sun Nov 7 2021
+           Asante Kotoko FC               v Bechem United FC               2-0
+           Great Olympics FC              v Accra Lions FC                 3-1
+           Elmina Sharks FC               v Dreams FC                      1-3
+           Aduana FC                      v King Faisal Babes FC           1-3
+           Berekum Chelsea FC             v Techiman Eleven Wonders        0-0
+  Tue Nov 9 2021
+           Medeama SC                     v Bibiani Gold Stars FC          1-1
+
+▪ Matchday 3
+  Fri Nov 12 2021
+           Bibiani Gold Stars FC          v Asante Kotoko FC               0-1
+  Sat Nov 13 2021
+           Dreams FC                      v Accra Lions FC                 3-1
+           Legon Cities FC                v Great Olympics FC              0-1
+  Sun Nov 14 2021
+           Accra Hearts of Oak SC         v Aduana FC                      1-1
+           Karela United FC               v Berekum Chelsea FC             2-1
+           Bechem United FC               v Elmina Sharks FC               2-0
+           Techiman Eleven Wonders        v Medeama SC                     0-0
+           King Faisal Babes FC           v Obuasi Ashanti Gold SC         2-0
+           Real Tamale United             v West Africa Football Academy   2-0
+
+▪ Matchday 4
+  Fri Nov 19 2021
+           Berekum Chelsea FC             v King Faisal Babes FC           1-0
+  Sat Nov 20 2021
+           Accra Lions FC                 v Bechem United FC               2-1
+           Asante Kotoko FC               v Techiman Eleven Wonders        2-0
+  Sun Nov 21 2021
+           Obuasi Ashanti Gold SC         v Accra Hearts of Oak SC         2-0
+           Great Olympics FC              v Dreams FC                      3-3
+           Aduana FC                      v Real Tamale United             5-1
+           Elmina Sharks FC               v Bibiani Gold Stars FC          2-1
+           West Africa Football Academy   v Legon Cities FC                2-2
+  Mon Nov 22 2021
+           Medeama SC                     v Karela United FC               2-0
+
+▪ Matchday 5
+  Fri Nov 26 2021
+           Legon Cities FC                v Aduana FC                      0-1
+  Sat Nov 27 2021
+           West Africa Football Academy   v Great Olympics FC              1-0
+  Sun Nov 28 2021
+           Real Tamale United             v Obuasi Ashanti Gold SC         2-0
+           Karela United FC               v Asante Kotoko FC               0-0
+           King Faisal Babes FC           v Medeama SC                     0-0
+           Bechem United FC               v Dreams FC                      3-1
+           Techiman Eleven Wonders        v Elmina Sharks FC               3-1
+           Bibiani Gold Stars FC          v Accra Lions FC                 2-0
+  Wed Dec 29 2021
+           Accra Hearts of Oak SC         v Berekum Chelsea FC             2-0
+
+▪ Matchday 6
+  Sat Dec 4 2021
+           Aduana FC                      v West Africa Football Academy   3-0
+           Elmina Sharks FC               v Karela United FC               2-1
+           Accra Lions FC                 v Techiman Eleven Wonders        1-0
+  Sun Dec 5 2021
+           Obuasi Ashanti Gold SC         v Legon Cities FC                0-0
+           Great Olympics FC              v Bechem United FC               0-0
+           Dreams FC                      v Bibiani Gold Stars FC          2-1
+           Berekum Chelsea FC             v Real Tamale United             0-1
+           Asante Kotoko FC               v King Faisal Babes FC           2-3
+  Wed Jan 12 2022
+           Medeama SC                     v Accra Hearts of Oak SC         1-0
+
+▪ Matchday 7
+  Fri Dec 10 2021
+           Techiman Eleven Wonders        v Dreams FC                      1-1
+  Sat Dec 11 2021
+           Aduana FC                      v Great Olympics FC              1-0
+  Sun Dec 12 2021
+           West Africa Football Academy   v Obuasi Ashanti Gold SC         0-1
+           King Faisal Babes FC           v Elmina Sharks FC               1-0
+           Real Tamale United             v Medeama SC                     0-1
+           Bibiani Gold Stars FC          v Bechem United FC               1-0
+           Karela United FC               v Accra Lions FC                 3-0
+           Legon Cities FC                v Berekum Chelsea FC             0-0
+  Sun Feb 20 2022
+           Accra Hearts of Oak SC         v Asante Kotoko FC               0-0
+
+▪ Matchday 8
+  Wed Dec 15 2021
+           Bechem United FC               v Techiman Eleven Wonders        1-0
+           Accra Lions FC                 v King Faisal Babes FC           0-0
+           Dreams FC                      v Karela United FC               3-1
+           Obuasi Ashanti Gold SC         v Aduana FC                      0-1
+           Elmina Sharks FC               v Accra Hearts of Oak SC         0-1
+           Medeama SC                     v Legon Cities FC                1-0
+           Great Olympics FC              v Bibiani Gold Stars FC          2-0
+           Berekum Chelsea FC             v West Africa Football Academy   2-0
+           Asante Kotoko FC               v Real Tamale United             1-1
+
+▪ Matchday 9
+  Sun Dec 19 2021
+           West Africa Football Academy   v Medeama SC                     1-0
+           Real Tamale United             v Elmina Sharks FC               2-0
+           Aduana FC                      v Berekum Chelsea FC             3-2
+           Accra Hearts of Oak SC         v Accra Lions FC                 2-0
+           Karela United FC               v Bechem United FC               1-1
+           Techiman Eleven Wonders        v Bibiani Gold Stars FC          2-1
+           Legon Cities FC                v Asante Kotoko FC               1-2
+           Obuasi Ashanti Gold SC         v Great Olympics FC              0-0
+  Tue Dec 21 2021
+           King Faisal Babes FC           v Dreams FC                      3-2
+
+▪ Matchday 10
+  Sat Dec 25 2021
+           Dreams FC                      v Accra Hearts of Oak SC         2-2
+  Sun Dec 26 2021
+           Bechem United FC               v King Faisal Babes FC           1-0
+           Medeama SC                     v Aduana FC                      1-0
+           Asante Kotoko FC               v West Africa Football Academy   1-0
+           Great Olympics FC              v Techiman Eleven Wonders        2-0
+           Berekum Chelsea FC             v Obuasi Ashanti Gold SC         1-0
+           Bibiani Gold Stars FC          v Karela United FC               3-1
+  Mon Dec 27 2021
+           Accra Lions FC                 v Real Tamale United             2-1
+           Elmina Sharks FC               v Legon Cities FC                0-2
+
+▪ Matchday 11
+  Sat Jan 1 2022
+           Aduana FC                      v Asante Kotoko FC               0-2
+  Sun Jan 2 2022
+           Accra Hearts of Oak SC         v Bechem United FC               0-0
+           Real Tamale United             v Dreams FC                      2-2
+           Karela United FC               v Techiman Eleven Wonders        4-2
+           King Faisal Babes FC           v Bibiani Gold Stars FC          2-1
+           West Africa Football Academy   v Elmina Sharks FC               2-0
+  Mon Jan 3 2022
+           Obuasi Ashanti Gold SC         v Medeama SC                     0-1
+           Legon Cities FC                v Accra Lions FC                 0-1
+           Berekum Chelsea FC             v Great Olympics FC              0-0
+
+▪ Matchday 12
+  Fri Jan 7 2022
+           Medeama SC                     v Berekum Chelsea FC             1-1
+  Sat Jan 8 2022
+           Bibiani Gold Stars FC          v Accra Hearts of Oak SC         0-1
+           Accra Lions FC                 v West Africa Football Academy   0-0
+  Sun Jan 9 2022
+           Asante Kotoko FC               v Obuasi Ashanti Gold SC         3-1
+           Great Olympics FC              v Karela United FC               1-1
+           Techiman Eleven Wonders        v King Faisal Babes FC           2-0
+           Bechem United FC               v Real Tamale United             2-0
+           Elmina Sharks FC               v Aduana FC                      0-1
+           Dreams FC                      v Legon Cities FC                0-1
+
+▪ Matchday 13
+  Fri Jan 14 2022
+           King Faisal Babes FC           v Karela United FC               0-2
+  Sat Jan 15 2022
+           Berekum Chelsea FC             v Asante Kotoko FC               0-0
+  Sun Jan 16 2022
+           Aduana FC                      v Accra Lions FC                 1-1
+           Obuasi Ashanti Gold SC         v Elmina Sharks FC               4-0
+           West Africa Football Academy   v Dreams FC                      1-1
+           Accra Hearts of Oak SC         v Techiman Eleven Wonders        4-1
+           Medeama SC                     v Great Olympics FC              0-0
+           Real Tamale United             v Bibiani Gold Stars FC          2-0
+  Mon Jan 17 2022
+           Legon Cities FC                v Bechem United FC               0-0
+
+▪ Matchday 14
+  Sat Jan 22 2022
+           Accra Lions FC                 v Obuasi Ashanti Gold SC         0-1
+           Karela United FC               v Accra Hearts of Oak SC         1-0
+  Sun Jan 23 2022
+           Elmina Sharks FC               v Berekum Chelsea FC             0-0
+           Bibiani Gold Stars FC          v Legon Cities FC                2-1
+           Great Olympics FC              v King Faisal Babes FC           2-1
+           Techiman Eleven Wonders        v Real Tamale United             1-0
+           Asante Kotoko FC               v Medeama SC                     1-0
+           Bechem United FC               v West Africa Football Academy   0-0
+  Mon Jan 24 2022
+           Dreams FC                      v Aduana FC                      3-1
+
+▪ Matchday 15
+  Fri Jan 28 2022
+           Asante Kotoko FC               v Great Olympics FC              2-0
+  Sat Jan 29 2022
+           Aduana FC                      v Bechem United FC               0-1
+  Sun Jan 30 2022
+           Real Tamale United             v Karela United FC               1-1
+           Medeama SC                     v Elmina Sharks FC               1-0
+           West Africa Football Academy   v Bibiani Gold Stars FC          1-0
+           Obuasi Ashanti Gold SC         v Dreams FC                      2-1
+           Berekum Chelsea FC             v Accra Lions FC                 3-1
+           Accra Hearts of Oak SC         v King Faisal Babes FC           1-0
+           Legon Cities FC                v Techiman Eleven Wonders        3-0
+
+▪ Matchday 16
+  Fri Feb 4 2022
+           Bechem United FC               v Obuasi Ashanti Gold SC         2-0
+  Sat Feb 5 2022
+           King Faisal Babes FC           v Real Tamale United             2-0
+           Accra Lions FC                 v Medeama SC                     1-0
+  Sun Feb 6 2022
+           Dreams FC                      v Berekum Chelsea FC             0-1
+           Bibiani Gold Stars FC          v Aduana FC                      1-0
+           Karela United FC               v Legon Cities FC                1-1
+           Techiman Eleven Wonders        v West Africa Football Academy   0-0
+           Accra Hearts of Oak SC         v Great Olympics FC              0-1
+  Mon Feb 7 2022
+           Elmina Sharks FC               v Asante Kotoko FC               2-1
+
+▪ Matchday 17
+  Fri Feb 11 2022
+           Berekum Chelsea FC             v Bechem United FC               1-1
+  Sat Feb 12 2022
+           Asante Kotoko FC               v Accra Lions FC                 3-1
+  Sun Feb 13 2022
+           Aduana FC                      v Techiman Eleven Wonders        3-0
+           West Africa Football Academy   v Karela United FC               0-1
+           Real Tamale United             v Accra Hearts of Oak SC         0-0
+           Great Olympics FC              v Elmina Sharks FC               1-0
+           Obuasi Ashanti Gold SC         v Bibiani Gold Stars FC          2-2
+  Mon Feb 14 2022
+           Legon Cities FC                v King Faisal Babes FC           1-0
+           Medeama SC                     v Dreams FC                      0-1
+
+▪ Matchday 18
+  Fri Feb 25 2022
+           West Africa Football Academy   v King Faisal Babes FC           1-2
+  Sat Feb 26 2022
+           Legon Cities FC                v Accra Hearts of Oak SC         1-1
+  Sun Feb 27 2022
+           Aduana FC                      v Karela United FC               2-0
+           Asante Kotoko FC               v Dreams FC                      2-0
+           Obuasi Ashanti Gold SC         v Techiman Eleven Wonders        1-4
+           Berekum Chelsea FC             v Bibiani Gold Stars FC          1-0
+           Elmina Sharks FC               v Accra Lions FC                 1-1
+           Medeama SC                     v Bechem United FC               1-0
+  Mon Feb 28 2022
+           Great Olympics FC              v Real Tamale United             2-1
+
+▪ Matchday 19
+  Sat Mar 5 2022
+           Real Tamale United             v Legon Cities FC                1-1
+  Sun Mar 6 2022
+           Accra Lions FC                 v Great Olympics FC              0-0
+           Bibiani Gold Stars FC          v Medeama SC                     1-0
+           Dreams FC                      v Elmina Sharks FC               2-0
+           Karela United FC               v Obuasi Ashanti Gold SC         2-1
+           King Faisal Babes FC           v Aduana FC                      0-1
+  Mon Mar 7 2022
+           Techiman Eleven Wonders        v Berekum Chelsea FC             1-1
+  Tue Mar 8 2022
+           Bechem United FC               v Asante Kotoko FC               0-0
+  Wed Mar 9 2022
+           Accra Hearts of Oak SC         v West Africa Football Academy   2-1
+
+▪ Matchday 20
+  Fri Mar 11 2022
+           Obuasi Ashanti Gold SC         v King Faisal Babes FC           2-0
+  Sat Mar 12 2022
+           Accra Lions FC                 v Dreams FC                      1-0
+           Berekum Chelsea FC             v Karela United FC               1-0
+  Sun Mar 13 2022
+           Great Olympics FC              v Legon Cities FC                1-0
+           Aduana FC                      v Accra Hearts of Oak SC         1-0
+           Asante Kotoko FC               v Bibiani Gold Stars FC          5-0
+           Elmina Sharks FC               v Bechem United FC               2-3
+           Medeama SC                     v Techiman Eleven Wonders        1-0
+           West Africa Football Academy   v Real Tamale United             1-0
+
+▪ Matchday 21
+  Fri Mar 18 2022
+           Karela United FC               v Medeama SC                     1-1
+  Sun Mar 20 2022
+           Accra Hearts of Oak SC         v Obuasi Ashanti Gold SC         2-1
+           Bechem United FC               v Accra Lions FC                 1-0
+           Bibiani Gold Stars FC          v Elmina Sharks FC               1-0
+           Dreams FC                      v Great Olympics FC              5-2
+           Legon Cities FC                v West Africa Football Academy   2-1
+           Real Tamale United             v Aduana FC                      1-1
+  Mon Mar 21 2022
+           Techiman Eleven Wonders        v Asante Kotoko FC               0-0
+  Thu Apr 7 2022
+           King Faisal Babes FC           v Berekum Chelsea FC             0-1
+
+▪ Matchday 22
+  Wed Mar 30 2022
+           Great Olympics FC              v West Africa Football Academy   2-2
+           Aduana FC                      v Legon Cities FC                1-1
+           Obuasi Ashanti Gold SC         v Real Tamale United             4-0
+           Berekum Chelsea FC             v Accra Hearts of Oak SC         0-0
+           Dreams FC                      v Bechem United FC               0-0
+           Elmina Sharks FC               v Techiman Eleven Wonders        2-0
+  Thu Mar 31 2022
+           Accra Lions FC                 v Bibiani Gold Stars FC          1-0
+           Asante Kotoko FC               v Karela United FC               1-1
+           Medeama SC                     v King Faisal Babes FC           1-0
+
+▪ Matchday 23
+  Sat Apr 2 2022
+           Accra Hearts of Oak SC         v Medeama SC                     1-0
+  Sun Apr 3 2022
+           Bibiani Gold Stars FC          v Dreams FC                      1-0
+           Karela United FC               v Elmina Sharks FC               3-1
+           King Faisal Babes FC           v Asante Kotoko FC               0-1
+           Legon Cities FC                v Obuasi Ashanti Gold SC         2-0
+           Techiman Eleven Wonders        v Accra Lions FC                 2-0
+           West Africa Football Academy   v Aduana FC                      0-0
+  Mon Apr 4 2022
+           Bechem United FC               v Great Olympics FC              1-0
+           Real Tamale United             v Berekum Chelsea FC             3-2
+
+▪ Matchday 24
+  Sat Apr 9 2022
+           Accra Lions FC                 v Karela United FC               1-0
+           Obuasi Ashanti Gold SC         v West Africa Football Academy   6-0
+  Sun Apr 10 2022
+           Great Olympics FC              v Aduana FC                      2-1
+           Asante Kotoko FC               v Accra Hearts of Oak SC         1-0
+           Bechem United FC               v Bibiani Gold Stars FC          1-0
+           Berekum Chelsea FC             v Legon Cities FC                1-0
+           Dreams FC                      v Techiman Eleven Wonders        1-1
+           Elmina Sharks FC               v King Faisal Babes FC           1-0
+           Medeama SC                     v Real Tamale United             2-1
+
+▪ Matchday 25
+  Sun Apr 17 2022
+           Accra Hearts of Oak SC         v Elmina Sharks FC               1-1
+           Aduana FC                      v Obuasi Ashanti Gold SC         0-0
+           Bibiani Gold Stars FC          v Great Olympics FC              2-1
+           Karela United FC               v Dreams FC                      1-0
+           King Faisal Babes FC           v Accra Lions FC                 0-1
+           Legon Cities FC                v Medeama SC                     3-1
+           Real Tamale United             v Asante Kotoko FC               2-1
+           Techiman Eleven Wonders        v Bechem United FC               3-2
+           West Africa Football Academy   v Berekum Chelsea FC             3-2
+
+▪ Matchday 26
+  Fri Apr 22 2022
+           Accra Lions FC                 v Accra Hearts of Oak SC         0-3
+  Sat Apr 23 2022
+           Great Olympics FC              v Obuasi Ashanti Gold SC         0-1
+  Sun Apr 24 2022
+           Asante Kotoko FC               v Legon Cities FC                1-3
+           Berekum Chelsea FC             v Aduana FC                      1-0
+           Bibiani Gold Stars FC          v Techiman Eleven Wonders        1-0
+           Dreams FC                      v King Faisal Babes FC           1-1
+           Elmina Sharks FC               v Real Tamale United             1-1
+           Medeama SC                     v West Africa Football Academy   1-0
+  Mon Apr 25 2022
+           Bechem United FC               v Karela United FC               1-1
+
+▪ Matchday 27
+  Sat Apr 30 2022
+           Techiman Eleven Wonders        v Great Olympics FC              0-0
+           West Africa Football Academy   v Asante Kotoko FC               0-1
+  Sun May 1 2022
+           Accra Hearts of Oak SC         v Dreams FC                      3-1
+           Obuasi Ashanti Gold SC         v Berekum Chelsea FC             5-1
+           Karela United FC               v Bibiani Gold Stars FC          2-0
+           King Faisal Babes FC           v Bechem United FC               2-2
+           Legon Cities FC                v Elmina Sharks FC               2-0
+           Real Tamale United             v Accra Lions FC                 2-0
+  Mon May 2 2022
+           Aduana FC                      v Medeama SC                     1-1
+
+▪ Matchday 28
+  Fri May 6 2022
+           Great Olympics FC              v Berekum Chelsea FC             2-0
+  Sat May 7 2022
+           Bechem United FC               v Accra Hearts of Oak SC         1-1
+  Sun May 8 2022
+           Asante Kotoko FC               v Aduana FC                      1-1
+           Bibiani Gold Stars FC          v King Faisal Babes FC           2-1
+           Dreams FC                      v Real Tamale United             2-2
+           Elmina Sharks FC               v West Africa Football Academy   2-2
+           Medeama SC                     v Obuasi Ashanti Gold SC         2-0
+           Techiman Eleven Wonders        v Karela United FC               2-1
+  Mon May 9 2022
+           Accra Lions FC                 v Legon Cities FC                1-0
+
+▪ Matchday 29
+  Wed May 18 2022
+           Accra Hearts of Oak SC         v Bibiani Gold Stars FC          1-0
+           Aduana FC                      v Elmina Sharks FC               0-0
+           Berekum Chelsea FC             v Medeama SC                     0-0
+           Karela United FC               v Great Olympics FC              1-0
+           King Faisal Babes FC           v Techiman Eleven Wonders        1-0
+           Legon Cities FC                v Dreams FC                      2-1
+           Real Tamale United             v Bechem United FC               2-2
+           West Africa Football Academy   v Accra Lions FC                 0-1
+  Thu Jun 2 2022
+           Obuasi Ashanti Gold SC         v Asante Kotoko FC               1-1
+
+▪ Matchday 30
+  Sat May 21 2022
+           Great Olympics FC              v Medeama SC                     1-2
+  Sun May 22 2022
+           Accra Lions FC                 v Aduana FC                      0-0
+           Asante Kotoko FC               v Berekum Chelsea FC             0-1
+           Bechem United FC               v Legon Cities FC                0-0
+           Bibiani Gold Stars FC          v Real Tamale United             2-0
+           Dreams FC                      v West Africa Football Academy   1-1
+           Elmina Sharks FC               v Obuasi Ashanti Gold SC         1-3
+           Karela United FC               v King Faisal Babes FC           1-1
+  Wed Jun 8 2022
+           Techiman Eleven Wonders        v Accra Hearts of Oak SC         2-1
+
+▪ Matchday 31
+  Sun May 29 2022
+           Aduana FC                      v Dreams FC                      0-0
+           Obuasi Ashanti Gold SC         v Accra Lions FC                 2-2
+           Berekum Chelsea FC             v Elmina Sharks FC               3-0
+           King Faisal Babes FC           v Great Olympics FC              1-1
+           Legon Cities FC                v Bibiani Gold Stars FC          1-1
+           Medeama SC                     v Asante Kotoko FC               0-2
+           Real Tamale United             v Techiman Eleven Wonders        0-0
+           West Africa Football Academy   v Bechem United FC               1-1
+  Mon May 30 2022
+           Accra Hearts of Oak SC         v Karela United FC               1-1
+
+▪ Matchday 32
+  Sat Jun 4 2022
+           Accra Lions FC                 v Berekum Chelsea FC             2-0
+  Sun Jun 5 2022
+           Great Olympics FC              v Asante Kotoko FC               0-1
+           Bechem United FC               v Aduana FC                      1-0
+           Bibiani Gold Stars FC          v West Africa Football Academy   3-4
+           Dreams FC                      v Obuasi Ashanti Gold SC         1-0
+           Elmina Sharks FC               v Medeama SC                     1-3
+           Karela United FC               v Real Tamale United             5-1
+           King Faisal Babes FC           v Accra Hearts of Oak SC         1-0
+           Techiman Eleven Wonders        v Legon Cities FC                0-0
+
+▪ Matchday 33
+  Sun Jun 12 2022
+           Aduana FC                      v Bibiani Gold Stars FC          0-1
+           Obuasi Ashanti Gold SC         v Bechem United FC               2-1
+           Berekum Chelsea FC             v Dreams FC                      0-1
+           Legon Cities FC                v Karela United FC               0-0
+           Real Tamale United             v King Faisal Babes FC           1-0
+           Great Olympics FC              v Accra Hearts of Oak SC         3-0
+           Medeama SC                     v Accra Lions FC                 2-1
+           West Africa Football Academy   v Techiman Eleven Wonders        1-0
+           Asante Kotoko FC               v Elmina Sharks FC               3-0
+
+▪ Matchday 34
+  Sat Jun 18 2022
+           Accra Lions FC                 v Asante Kotoko FC               1-1
+  Sun Jun 19 2022
+           Karela United FC               v West Africa Football Academy   1-0
+           Accra Hearts of Oak SC         v Real Tamale United             1-4
+           Bechem United FC               v Berekum Chelsea FC             1-1
+           Bibiani Gold Stars FC          v Obuasi Ashanti Gold SC         2-2
+           Dreams FC                      v Medeama SC                     2-0
+           Elmina Sharks FC               v Great Olympics FC              2-2
+           King Faisal Babes FC           v Legon Cities FC                2-1
+           Techiman Eleven Wonders        v Aduana FC                      2-1
