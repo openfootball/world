@@ -1,0 +1,395 @@
+= Rwanda | Premier League 2021/22
+
+# Date       Sat Oct 30 2021 - Sat Jun 18 2022 (231d)
+# Teams      16
+# Matches    240
+# Source     https://www.rsssf.org/tablesr/rwan2022.html
+# Retrieved  2026-09-16
+
+
+▪ Matchday 1
+  Sat Oct 30 2021
+           Marines FC           v Gasogi United        0-1
+           Rayon Sports         v Mukura VS            1-0
+           Espoir FC            v AS Kigali            0-2
+           Kiyovu Sports        v Gorilla FC           1-0
+  Sun Oct 31 2021
+           Etincelles FC        v Rutsiro FC           0-0
+           Etoile de l'Est FC   v Police FC            0-3
+           Musanze FC           v Bugesera FC          3-1
+           APR FC               v Gicumbi FC           3-1
+
+▪ Matchday 2
+  Tue Nov 2 2021
+           Gorilla FC           v Marines FC           1-1
+           Mukura VS            v Gasogi United        1-1
+           AS Kigali            v Kiyovu Sports        4-0
+  Wed Nov 3 2021
+           Police FC            v Espoir FC            0-2
+           Bugesera FC          v Etincelles FC        3-1
+           Rutsiro FC           v Rayon Sports         2-2
+           Gicumbi FC           v Etoile de l'Est FC   2-0
+           APR FC               v Musanze FC           2-0
+
+▪ Matchday 3
+  Thu Nov 18 2021
+           Espoir FC            v Gicumbi FC           0-0
+           Gorilla FC           v AS Kigali            0-1
+  Fri Nov 19 2021
+           Gasogi United        v Rutsiro FC           3-2
+           Kiyovu Sports        v Police FC            1-1
+  Sat Nov 20 2021
+           Etoile de l'Est FC   v Musanze FC           2-3
+           Rayon Sports         v Bugesera FC          3-1
+  Wed Dec 8 2021
+           Marines FC           v Mukura VS            0-0
+  Thu Dec 9 2021
+           Etincelles FC        v APR FC               0-0
+
+▪ Matchday 4
+  Mon Nov 22 2021
+           Police FC            v Gorilla FC           0-0
+  Tue Nov 23 2021
+           APR FC               v Rayon Sports         2-1
+           Gicumbi FC           v Kiyovu Sports        0-1
+           Bugesera FC          v Gasogi United        1-2
+  Wed Nov 24 2021
+           AS Kigali            v Marines FC           2-2
+           Etoile de l'Est FC   v Etincelles FC        4-1
+           Musanze FC           v Espoir FC            0-0
+  Tue Dec 14 2021
+           Rutsiro FC           v Mukura VS            1-1
+
+▪ Matchday 5
+  Fri Nov 26 2021
+           Gorilla FC           v Gicumbi FC           0-1
+           Mukura VS            v Bugesera FC          1-1
+  Sat Nov 27 2021
+           Kiyovu Sports        v Musanze FC           1-0
+           Rayon Sports         v Etoile de l'Est FC   1-0
+           AS Kigali            v Police FC            2-2
+  Sun Nov 28 2021
+           Marines FC           v Rutsiro FC           1-0
+           Espoir FC            v Etincelles FC        1-0
+  Sun Dec 26 2021
+           Gasogi United        v APR FC               0-2
+
+▪ Matchday 6
+  Tue Nov 30 2021
+           Musanze FC           v Gorilla FC           2-1
+  Wed Dec 1 2021
+           Police FC            v Marines FC           1-0
+           Gicumbi FC           v AS Kigali            1-2
+           Bugesera FC          v Rutsiro FC           0-0
+           Etoile de l'Est FC   v Gasogi United        1-0
+           Etincelles FC        v Kiyovu Sports        0-2
+           Espoir FC            v Rayon Sports         2-2
+  Mon Jan 31 2022
+           APR FC               abd.   Mukura VS             [abandoned at 0-1 due to heavy rain]
+  Tue Feb 1 2022
+           APR FC               v Mukura VS            0-1 [second half]
+
+▪ Matchday 7
+  Sat Dec 4 2021
+           AS Kigali            v Musanze FC           1-1
+           Mukura VS            v Etoile de l'Est FC   4-0
+           Police FC            v Gicumbi FC           0-0
+  Sun Dec 5 2021
+           Gasogi United        v Espoir FC            0-0
+           Marines FC           v Bugesera FC          2-6
+           Kiyovu Sports        v Rayon Sports         2-0
+  Mon Dec 6 2021
+           Gorilla FC           v Etincelles FC        2-2
+  Fri Feb 4 2022
+           Rutsiro FC           v APR FC               0-2
+
+▪ Matchday 8
+  Fri Dec 10 2021
+           Musanze FC           v Police FC            1-2
+           Etoile de l'Est FC   v Rutsiro FC           0-1
+  Sat Dec 11 2021
+           Rayon Sports         v Gorilla FC           1-1
+           Gicumbi FC           v Marines FC           0-1
+           Espoir FC            v Mukura VS            0-1
+  Sun Dec 12 2021
+           Kiyovu Sports        v Gasogi United        1-1
+           Etincelles FC        v AS Kigali            1-1
+           APR FC               v Bugesera FC          2-1
+
+▪ Matchday 9
+  Fri Dec 17 2021
+           Bugesera FC          v Etoile de l'Est FC   0-0
+           Gasogi United        v Gorilla FC           0-1
+           Rutsiro FC           v Espoir FC            2-2
+  Sat Dec 18 2021
+           AS Kigali            v Rayon Sports         1-2
+           Marines FC           v APR FC               1-2
+           Mukura VS            v Kiyovu Sports        1-2
+  Sun Dec 19 2021
+           Police FC            v Etincelles FC        3-0
+           Gicumbi FC           v Musanze FC           0-0
+
+▪ Matchday 10
+  Wed Dec 22 2021
+           Musanze FC           v Marines FC           5-1
+           Etoile de l'Est FC   v APR FC               2-2
+           Etincelles FC        v Gicumbi FC           2-0
+           Gorilla FC           v Mukura VS            0-1
+           Rayon Sports         v Police FC            1-0
+  Thu Dec 23 2021
+           Gasogi United        v AS Kigali            1-1
+           Espoir FC            v Bugesera FC          3-1
+           Kiyovu Sports        v Rutsiro FC           1-0
+
+▪ Matchday 11
+  Tue Dec 28 2021
+           Marines FC           v Etoile de l'Est FC   2-1
+           Musanze FC           v Etincelles FC        1-1
+           Gicumbi FC           v Rayon Sports         0-0
+  Wed Dec 29 2021
+           APR FC               v Espoir FC            1-0
+           Bugesera FC          v Kiyovu Sports        1-1
+           Police FC            v Gasogi United        3-2
+  Thu Dec 30 2021
+           Rutsiro FC           v Gorilla FC           1-0
+           AS Kigali            v Mukura VS            2-1
+
+▪ Matchday 12
+  Sat Jan 15 2022
+           AS Kigali            v Rutsiro FC           1-2
+           Etincelles FC        v Marines FC           0-1
+           Rayon Sports         v Musanze FC           0-0
+           Espoir FC            v Etoile de l'Est FC   0-0
+  Sun Jan 16 2022
+           Gorilla FC           v Bugesera FC          1-1
+           Kiyovu Sports        v APR FC               0-0
+  Mon Jan 17 2022
+           Gasogi United        v Gicumbi FC           4-1
+           Mukura VS            v Police FC            0-1
+
+▪ Matchday 13
+  Wed Jan 19 2022
+           APR FC               v Gorilla FC           1-0
+           Bugesera FC          v AS Kigali            1-2
+           Etincelles FC        v Rayon Sports         0-2
+           Etoile de l'Est FC   v Kiyovu Sports        0-0
+  Thu Jan 20 2022
+           Gicumbi FC           v Mukura VS            1-1
+           Musanze FC           v Gasogi United        1-0
+           Police FC            v Rutsiro FC           1-1
+  Thu Feb 3 2022
+           Marines FC           v Espoir FC            0-1
+
+▪ Matchday 14
+  Sat Jan 22 2022
+           Kiyovu Sports        v Espoir FC            2-1
+           AS Kigali            v APR FC               0-0
+  Sun Jan 23 2022
+           Rayon Sports         v Marines FC           0-3
+           Mukura VS            v Musanze FC           3-2
+           Gasogi United        v Etincelles FC        0-2
+  Mon Jan 24 2022
+           Gorilla FC           v Etoile de l'Est FC   2-3
+           Rutsiro FC           v Gicumbi FC           0-0
+           Police FC            v Bugesera FC          1-2
+
+▪ Matchday 15
+  Thu Jan 27 2022
+           Mukura VS            v Etincelles FC        1-0
+           Rayon Sports         v Gasogi United        1-0
+           Bugesera FC          v Gicumbi FC           2-0
+           Etoile de l'Est FC   v AS Kigali            2-0
+           Rutsiro FC           v Musanze FC           0-1
+  Fri Jan 28 2022
+           APR FC               v Police FC            2-1
+           Marines FC           v Kiyovu Sports        1-0
+           Espoir FC            v Gorilla FC           0-2
+
+▪ Matchday 16
+  Sat Feb 12 2022
+           Gasogi United        v Marines FC           3-2
+           Mukura VS            v Rayon Sports         1-0
+           Gorilla FC           v Kiyovu Sports        1-2
+  Sun Feb 13 2022
+           AS Kigali            v Espoir FC            4-0
+           Rutsiro FC           v Etincelles FC        0-2
+           Bugesera FC          v Musanze FC           0-0
+           Gicumbi FC           v APR FC               0-2
+           Police FC            v Etoile de l'Est FC   6-0
+
+▪ Matchday 17
+  Wed Feb 16 2022
+           Gasogi United        v Mukura VS            0-1
+           Marines FC           v Gorilla FC           1-2
+           Etoile de l'Est FC   v Gicumbi FC           1-1
+           Musanze FC           v APR FC               1-0
+           Kiyovu Sports        v AS Kigali            1-0
+  Thu Feb 17 2022
+           Espoir FC            v Police FC            2-0
+           Etincelles FC        v Bugesera FC          0-0
+           Rayon Sports         v Rutsiro FC           1-0
+
+▪ Matchday 18
+  Sat Feb 19 2022
+           AS Kigali            v Gorilla FC           2-0
+  Sun Feb 20 2022
+           Rutsiro FC           v Gasogi United        2-1
+           Mukura VS            v Marines FC           1-0
+           Gicumbi FC           v Espoir FC            1-1
+           Police FC            v Kiyovu Sports        0-1
+  Mon Feb 21 2022
+           Bugesera FC          v Rayon Sports         0-1
+           APR FC               v Etincelles FC        2-0
+           Musanze FC           v Etoile de l'Est FC   2-0
+
+▪ Matchday 19
+  Fri Feb 25 2022
+           Gorilla FC           v Police FC            1-2
+           Mukura VS            v Rutsiro FC           1-1
+           Marines FC           v AS Kigali            2-2
+           Gasogi United        v Bugesera FC          1-0
+  Sat Feb 26 2022
+           Rayon Sports         v APR FC               0-0
+           Espoir FC            v Musanze FC           1-1
+  Sun Feb 27 2022
+           Kiyovu Sports        v Gicumbi FC           6-0
+           Etincelles FC        v Etoile de l'Est FC   3-0
+
+▪ Matchday 20
+  Sat Mar 5 2022
+           Bugesera FC          v Mukura VS            0-2
+           Gicumbi FC           v Gorilla FC           1-1
+           APR FC               v Gasogi United        2-0
+           Rutsiro FC           v Marines FC           0-1
+           Musanze FC           v Kiyovu Sports        1-2
+  Sun Mar 6 2022
+           Police FC            v AS Kigali            1-1
+           Etoile de l'Est FC   v Rayon Sports         1-1
+           Etincelles FC        v Espoir FC            2-0
+
+▪ Matchday 21
+  Sat Mar 12 2022
+           Rutsiro FC           v Bugesera FC          1-1
+           Rayon Sports         v Espoir FC            1-1
+  Sun Mar 13 2022
+           Kiyovu Sports        v Etincelles FC        1-0
+           Mukura VS            v APR FC               1-1
+           Marines FC           v Police FC            1-1
+           Gasogi United        v Etoile de l'Est FC   1-1
+  Mon Mar 14 2022
+           AS Kigali            v Gicumbi FC           1-0
+           Gorilla FC           v Musanze FC           3-2
+
+▪ Matchday 22
+  Sat Mar 19 2022
+           Rayon Sports         v Kiyovu Sports        0-2
+           Etoile de l'Est FC   v Mukura VS            0-0
+  Sun Mar 20 2022
+           Bugesera FC          v Marines FC           3-1
+           Espoir FC            v Gasogi United        1-0
+           APR FC               v Rutsiro FC           1-0
+           Etincelles FC        v Gorilla FC           1-2
+           Gicumbi FC           v Police FC            1-1
+           Musanze FC           v AS Kigali            1-1
+
+▪ Matchday 23
+  Fri Apr 15 2022
+           Police FC            v Musanze FC           1-0
+           Rutsiro FC           v Etoile de l'Est FC   1-0
+           Gasogi United        v Kiyovu Sports        2-0
+  Sat Apr 16 2022
+           Marines FC           v Gicumbi FC           2-1
+           Gorilla FC           v Rayon Sports         0-1
+           Mukura VS            v Espoir FC            1-2
+  Sun Apr 17 2022
+           Bugesera FC          v APR FC               0-1
+           AS Kigali            v Etincelles FC        2-2
+
+▪ Matchday 24
+  Fri Apr 22 2022
+           Espoir FC            v Rutsiro FC           3-1
+           Gorilla FC           v Gasogi United        3-1
+  Sat Apr 23 2022
+           Etoile de l'Est FC   v Bugesera FC          0-1
+           Etincelles FC        v Police FC            1-0
+           Musanze FC           v Gicumbi FC           1-0
+           Rayon Sports         v AS Kigali            1-0
+  Sun Apr 24 2022
+           APR FC               v Marines FC           1-0
+           Kiyovu Sports        v Mukura VS            1-0
+
+▪ Matchday 25
+  Fri Apr 29 2022
+           Bugesera FC          v Espoir FC            1-0
+           AS Kigali            v Gasogi United        2-1
+  Sat Apr 30 2022
+           Gicumbi FC           v Etincelles FC        1-3
+           Mukura VS            v Gorilla FC           1-1
+           Police FC            v Rayon Sports         1-1
+           Marines FC           v Musanze FC           0-0
+  Sun May 1 2022
+           APR FC               v Etoile de l'Est FC   3-1
+  Mon May 2 2022
+           Rutsiro FC           v Kiyovu Sports        0-4
+
+▪ Matchday 26
+  Sat May 7 2022
+           Rayon Sports         v Gicumbi FC           2-2
+           Espoir FC            v APR FC               2-3
+           Etincelles FC        v Musanze FC           1-0
+           Gorilla FC           v Rutsiro FC           0-0
+           Mukura VS            v AS Kigali            2-2
+  Sun May 8 2022
+           Kiyovu Sports        v Bugesera FC          0-0
+           Gasogi United        v Police FC            3-0
+           Etoile de l'Est FC   v Marines FC           2-0
+
+▪ Matchday 27
+  Sat May 14 2022
+           APR FC               v Kiyovu Sports        1-2
+           Bugesera FC          v Gorilla FC           1-4
+           Etoile de l'Est FC   v Espoir FC            3-1
+           Marines FC           v Etincelles FC        4-1
+  Sun May 15 2022
+           Gicumbi FC           v Gasogi United        0-0
+           Musanze FC           v Rayon Sports         1-1
+           Rutsiro FC           v AS Kigali            0-0
+           Police FC            v Mukura VS            1-1
+
+▪ Matchday 28
+  Sat May 21 2022
+           AS Kigali            v Bugesera FC          0-0
+           Espoir FC            v Marines FC           1-1
+  Sun May 22 2022
+           Gasogi United        v Musanze FC           2-1
+           Rayon Sports         v Etincelles FC        3-1
+           Rutsiro FC           v Police FC            2-3
+  Mon May 23 2022
+           Gorilla FC           v APR FC               1-2
+           Kiyovu Sports        v Etoile de l'Est FC   1-1
+           Mukura VS            v Gicumbi FC           1-0
+
+▪ Matchday 29
+  Mon Jun 13 2022
+           Marines FC           v Rayon Sports         3-2
+           APR FC               v AS Kigali            0-2
+           Bugesera FC          v Police FC            2-0
+           Espoir FC            v Kiyovu Sports        0-0
+           Etoile de l'Est FC   v Gorilla FC           0-0
+           Gicumbi FC           v Rutsiro FC           1-3
+           Musanze FC           v Mukura VS            1-0
+  Tue Jun 14 2022
+           Etincelles FC        v Gasogi United        1-0
+
+▪ Matchday 30
+  Thu Jun 16 2022
+           AS Kigali            v Etoile de l'Est FC   2-0
+           Musanze FC           v Rutsiro FC           0-1
+           Kiyovu Sports        v Marines FC           2-0
+           Police FC            v APR FC               0-2
+  Fri Jun 17 2022
+           Etincelles FC        v Mukura VS            1-2
+           Gasogi United        v Rayon Sports         1-1
+  Sat Jun 18 2022
+           Gicumbi FC           v Bugesera FC          0-2
+           Gorilla FC           v Espoir FC            3-0
