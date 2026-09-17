@@ -1,0 +1,367 @@
+= Senegal | Ligue 1 2025/26
+
+# Date       Sat Nov 1 2025 - Thu Jun 4 2026 (215d)
+# Teams      16
+# Matches    240
+# Source     https://www.rsssf.org/tabless/sene2026.html
+# Retrieved  2026-09-16
+
+
+▪ Matchday 1
+  Sat Nov 1 2025
+           Teunguéth FC                    v US Gorée                        0-0
+  Sun Nov 2 2025
+           Casa Sports (Ziguinchor)        v AS Cambérène                    4-0
+           ASC Jaraaf                      v ASC HLM (Dakar)                 1-1
+           AS Pikine                       v US Ouakam                       0-0
+           Dakar Sacré-Cœur                v Guédiawaye FC                   3-1
+           Sonacos BFP (Diourbel)          v AJEL (Rufisque)                 1-1
+           Stade de Mbour                  v ASC La Linguère (Saint-Louis)   2-2
+           Wally Daan (Thiès)              v Génération Foot                 0-0
+
+▪ Matchday 2
+  Sat Nov 8 2025
+           US Gorée                        v Guédiawaye FC                   1-0
+           AJEL (Rufisque)                 v AS Pikine                       1-0
+  Sun Nov 9 2025
+           AS Cambérène                    v Dakar Sacré-Cœur                0-0
+           Sonacos BFP (Diourbel)          v Wally Daan (Thiès)              2-1
+           US Ouakam                       v ASC Jaraaf                      1-0
+           ASC HLM (Dakar)                 v Casa Sports (Ziguinchor)        1-1
+           ASC La Linguère (Saint-Louis)   v Teunguéth FC                    1-2
+           Génération Foot                 v Stade de Mbour                  0-2
+
+▪ Matchday 3
+  Sun Nov 16 2025
+           Dakar Sacré-Cœur                v US Gorée                        0-4
+           AS Cambérène                    v ASC HLM (Dakar)                 0-0
+           Guédiawaye FC                   v ASC La Linguère (Saint-Louis)   0-0
+           Casa Sports (Ziguinchor)        v US Ouakam                       1-0
+           Teunguéth FC                    v Génération Foot                 1-0
+           Stade de Mbour                  v Sonacos BFP (Diourbel)          1-0
+           ASC Jaraaf                      v AJEL (Rufisque)                 0-2
+           AS Pikine                       v Wally Daan (Thiès)              1-0
+
+▪ Matchday 4
+  Sat Nov 22 2025
+           AJEL (Rufisque)                 v Casa Sports (Ziguinchor)        1-1
+           Génération Foot                 v Guédiawaye FC                   2-0
+  Sun Nov 23 2025
+           AS Pikine                       v Stade de Mbour                  0-0
+           US Ouakam                       v AS Cambérène                    1-1
+           ASC HLM (Dakar)                 v Dakar Sacré-Cœur                0-1
+           Sonacos BFP (Diourbel)          v Teunguéth FC                    0-0
+           ASC La Linguère (Saint-Louis)   v US Gorée                        0-2
+           Wally Daan (Thiès)              v ASC Jaraaf                      1-1
+
+▪ Matchday 5
+  Sat Nov 29 2025
+           Dakar Sacré-Cœur                v ASC La Linguère (Saint-Louis)   0-0
+           US Gorée                        v Génération Foot                 2-1
+           ASC Jaraaf                      v Stade de Mbour                  0-0
+  Sun Nov 30 2025
+           AS Cambérène                    v AJEL (Rufisque)                 1-1
+           ASC HLM (Dakar)                 v US Ouakam                       0-0
+           Teunguéth FC                    v AS Pikine                       0-0
+           Guédiawaye FC                   v Sonacos BFP (Diourbel)          1-2 [abandoned at 1-2 in injury time due to crowd trouble; initially awarded 0-2; on appeal the original result stood]
+           Casa Sports (Ziguinchor)        v Wally Daan (Thiès)              1-0
+
+▪ Matchday 6
+  Sat Dec 6 2025
+           Génération Foot                 v ASC La Linguère (Saint-Louis)   0-2
+           ASC Jaraaf                      v Teunguéth FC                    1-0
+  Sun Dec 7 2025
+           AJEL (Rufisque)                 v ASC HLM (Dakar)                 1-1
+           US Ouakam                       v Dakar Sacré-Cœur                1-1
+           Stade de Mbour                  v Casa Sports (Ziguinchor)        0-0
+           Sonacos BFP (Diourbel)          v US Gorée                        0-0
+           AS Pikine                       v Guédiawaye FC                   3-0
+           Wally Daan (Thiès)              v AS Cambérène                    1-0
+
+▪ Matchday 7
+  Sat Dec 13 2025
+           Dakar Sacré-Cœur                v Génération Foot                 1-1
+  Sun Dec 14 2025
+           US Gorée                        v AS Pikine                       0-0
+           US Ouakam                       v AJEL (Rufisque)                 1-2
+           Casa Sports (Ziguinchor)        v Teunguéth FC                    0-0
+           Guédiawaye FC                   v ASC Jaraaf                      1-2
+           ASC HLM (Dakar)                 v Wally Daan (Thiès)              2-2
+           ASC La Linguère (Saint-Louis)   v Sonacos BFP (Diourbel)          0-1
+           AS Cambérène                    v Stade de Mbour                  2-1
+
+▪ Matchday 8
+  Sat Dec 20 2025
+           Teunguéth FC                    v AS Cambérène                    1-0
+           Wally Daan (Thiès)              v US Ouakam                       0-0
+  Sun Dec 21 2025
+           ASC Jaraaf                      v US Gorée                        2-0
+           Stade de Mbour                  v ASC HLM (Dakar)                 0-0
+           Guédiawaye FC                   v Casa Sports (Ziguinchor)        2-0
+           Sonacos BFP (Diourbel)          v Génération Foot                 0-4
+           AS Pikine                       v ASC La Linguère (Saint-Louis)   0-0
+           AJEL (Rufisque)                 v Dakar Sacré-Cœur                1-1
+
+▪ Matchday 9
+  Sun Dec 28 2025
+           Dakar Sacré-Cœur                v Sonacos BFP (Diourbel)          5-2
+           US Gorée                        v Casa Sports (Ziguinchor)        1-1
+           AJEL (Rufisque)                 v Wally Daan (Thiès)              0-0
+           ASC HLM (Dakar)                 v Teunguéth FC                    0-0
+           ASC La Linguère (Saint-Louis)   v ASC Jaraaf                      0-1
+           AS Cambérène                    v Guédiawaye FC                   0-2
+  Mon Dec 29 2025
+           US Ouakam                       v Stade de Mbour                  1-1
+           Génération Foot                 v AS Pikine                       0-0
+
+▪ Matchday 10
+  Wed Jan 7 2026
+           Teunguéth FC                    v US Ouakam                       0-0
+           Stade de Mbour                  v AJEL (Rufisque)                 0-2
+           Guédiawaye FC                   v ASC HLM (Dakar)                 0-1
+           US Gorée                        v AS Cambérène                    3-0
+           AS Pikine                       v Sonacos BFP (Diourbel)          2-0
+           Casa Sports (Ziguinchor)        v ASC La Linguère (Saint-Louis)   3-2
+           Wally Daan (Thiès)              v Dakar Sacré-Cœur                1-1
+  Thu Jan 8 2026
+           ASC Jaraaf                      v Génération Foot                 1-1
+
+▪ Matchday 11
+  Sun Jan 11 2026
+           Dakar Sacré-Cœur                v AS Pikine                       1-1
+           AJEL (Rufisque)                 v Teunguéth FC                    0-2
+           ASC HLM (Dakar)                 v US Gorée                        0-5
+           US Ouakam                       v Guédiawaye FC                   1-1
+           Sonacos BFP (Diourbel)          v ASC Jaraaf                      0-0
+           Wally Daan (Thiès)              v Stade de Mbour                  1-0
+  Mon Jan 12 2026
+           Génération Foot                 v Casa Sports (Ziguinchor)        0-0
+  Tue Jan 13 2026
+           ASC La Linguère (Saint-Louis)   v AS Cambérène                    1-0
+
+▪ Matchday 12
+  Sat Jan 24 2026
+           US Gorée                        v US Ouakam                       0-0
+  Sun Jan 25 2026
+           Teunguéth FC                    v Wally Daan (Thiès)              0-0
+           ASC Jaraaf                      v AS Pikine                       0-1
+           ASC La Linguère (Saint-Louis)   v ASC HLM (Dakar)                 0-0
+           Stade de Mbour                  v Dakar Sacré-Cœur                0-0
+           Guédiawaye FC                   v AJEL (Rufisque)                 0-1
+           AS Cambérène                    v Génération Foot                 1-2
+           Casa Sports (Ziguinchor)        v Sonacos BFP (Diourbel)          3-0
+
+▪ Matchday 13
+  Sat Jan 31 2026
+           AJEL (Rufisque)                 v US Gorée                        1-0
+  Sun Feb 1 2026
+           Génération Foot                 v ASC HLM (Dakar)                 3-0
+           Dakar Sacré-Cœur                v ASC Jaraaf                      0-0
+           US Ouakam                       v ASC La Linguère (Saint-Louis)   3-0
+           AS Pikine                       v Casa Sports (Ziguinchor)        1-1
+           Stade de Mbour                  v Teunguéth FC                    0-0
+  Mon Feb 2 2026
+           Sonacos BFP (Diourbel)          v AS Cambérène                    1-1
+           Wally Daan (Thiès)              v Guédiawaye FC                   1-0
+
+▪ Matchday 14
+  Sat Feb 7 2026
+           US Gorée                        v Wally Daan (Thiès)              1-1
+           Génération Foot                 v US Ouakam                       0-0
+  Sun Feb 8 2026
+           Teunguéth FC                    v Dakar Sacré-Cœur                2-0
+           Guédiawaye FC                   v Stade de Mbour                  0-0
+           ASC La Linguère (Saint-Louis)   v AJEL (Rufisque)                 2-0
+           Casa Sports (Ziguinchor)        v ASC Jaraaf                      1-1
+           AS Cambérène                    v AS Pikine                       1-0
+  Mon Feb 9 2026
+           ASC HLM (Dakar)                 v Sonacos BFP (Diourbel)          0-0
+
+▪ Matchday 15
+  Sat Feb 14 2026
+           Teunguéth FC                    v Guédiawaye FC                   0-0
+  Sun Feb 15 2026
+           Dakar Sacré-Cœur                v Casa Sports (Ziguinchor)        1-1
+           ASC Jaraaf                      v AS Cambérène                    1-1
+           Stade de Mbour                  v US Gorée                        0-1
+           AJEL (Rufisque)                 v Génération Foot                 2-0
+           Wally Daan (Thiès)              v ASC La Linguère (Saint-Louis)   1-1
+           AS Pikine                       v ASC HLM (Dakar)                 2-0 [awarded; originally 0-0, HLM included six amateur players on the match sheet whereas only two are allowed]
+  Mon Feb 16 2026
+           Sonacos BFP (Diourbel)          v US Ouakam                       0-0
+
+▪ Matchday 16
+  Sat Feb 21 2026
+           AJEL (Rufisque)                 v Sonacos BFP (Diourbel)          1-0
+  Sun Feb 22 2026
+           US Gorée                        v Teunguéth FC                    0-1
+           US Ouakam                       v AS Pikine                       2-1
+           ASC La Linguère (Saint-Louis)   v Stade de Mbour                  2-2
+           AS Cambérène                    v Casa Sports (Ziguinchor)        2-2
+           ASC HLM (Dakar)                 v ASC Jaraaf                      0-0
+           Guédiawaye FC                   v Dakar Sacré-Cœur                3-0
+           Génération Foot                 v Wally Daan (Thiès)              2-1
+
+▪ Matchday 17
+  Sat Feb 28 2026
+           Dakar Sacré-Cœur                v AS Cambérène                    0-0
+  Sun Mar 1 2026
+           Wally Daan (Thiès)              v Sonacos BFP (Diourbel)          2-1
+           Teunguéth FC                    v ASC La Linguère (Saint-Louis)   1-1
+           ASC Jaraaf                      v US Ouakam                       0-0
+           Stade de Mbour                  v Génération Foot                 1-1
+           AS Pikine                       v AJEL (Rufisque)                 0-2
+           Guédiawaye FC                   v US Gorée                        1-1
+           Casa Sports (Ziguinchor)        v ASC HLM (Dakar)                 0-0
+
+▪ Matchday 18
+  Sat Mar 7 2026
+           Génération Foot                 v Teunguéth FC                    1-0
+           US Gorée                        v Dakar Sacré-Cœur                1-0
+           Wally Daan (Thiès)              v AS Pikine                       2-0
+  Sun Mar 8 2026
+           US Ouakam                       v Casa Sports (Ziguinchor)        0-0
+           ASC La Linguère (Saint-Louis)   v Guédiawaye FC                   1-3
+           ASC HLM (Dakar)                 v AS Cambérène                    1-1
+           Sonacos BFP (Diourbel)          v Stade de Mbour                  0-2
+           AJEL (Rufisque)                 v ASC Jaraaf                      1-0
+
+▪ Matchday 19
+  Sun Mar 15 2026
+           AS Cambérène                    v US Ouakam                       0-1
+           Dakar Sacré-Cœur                v ASC HLM (Dakar)                 0-1
+           Teunguéth FC                    v Sonacos BFP (Diourbel)          2-2
+           ASC Jaraaf                      v Wally Daan (Thiès)              0-1
+           Stade de Mbour                  v AS Pikine                       0-0
+           US Gorée                        v ASC La Linguère (Saint-Louis)   0-0
+           Casa Sports (Ziguinchor)        v AJEL (Rufisque)                 0-1
+  Tue Mar 17 2026
+           Guédiawaye FC                   v Génération Foot                 2-1
+
+▪ Matchday 20
+  Wed Mar 25 2026
+           Génération Foot                 v US Gorée                        0-0
+           Stade de Mbour                  v ASC Jaraaf                      0-2
+           US Ouakam                       v ASC HLM (Dakar)                 1-0
+           ASC La Linguère (Saint-Louis)   v Dakar Sacré-Cœur                2-2
+           AS Pikine                       v Teunguéth FC                    0-2
+           AJEL (Rufisque)                 v AS Cambérène                    0-0
+           Wally Daan (Thiès)              v Casa Sports (Ziguinchor)        1-1
+  Thu Mar 26 2026
+           Sonacos BFP (Diourbel)          v Guédiawaye FC                   0-3
+
+▪ Matchday 21
+  Sun Mar 29 2026
+           Teunguéth FC                    v ASC Jaraaf                      1-0
+           ASC La Linguère (Saint-Louis)   v Génération Foot                 1-1
+           ASC HLM (Dakar)                 v AJEL (Rufisque)                 3-0
+           Dakar Sacré-Cœur                v US Ouakam                       1-1
+           Guédiawaye FC                   v AS Pikine                       1-3
+           Casa Sports (Ziguinchor)        v Stade de Mbour                  1-1
+  Mon Mar 30 2026
+           US Gorée                        v Sonacos BFP (Diourbel)          2-1
+           AS Cambérène                    v Wally Daan (Thiès)              1-2
+
+▪ Matchday 22
+  Sat Apr 11 2026
+           Génération Foot                 v Dakar Sacré-Cœur                5-0
+           AJEL (Rufisque)                 v US Ouakam                       1-0
+           ASC Jaraaf                      v Guédiawaye FC                   2-1
+           Wally Daan (Thiès)              v ASC HLM (Dakar)                 2-1
+  Sun Apr 12 2026
+           Teunguéth FC                    v Casa Sports (Ziguinchor)        0-0
+           AS Pikine                       v US Gorée                        0-1
+           Sonacos BFP (Diourbel)          v ASC La Linguère (Saint-Louis)   2-0
+           Stade de Mbour                  v AS Cambérène                    0-0
+
+▪ Matchday 23
+  Sat Apr 18 2026
+           Génération Foot                 v Sonacos BFP (Diourbel)          1-0
+           US Gorée                        v ASC Jaraaf                      0-0
+           Dakar Sacré-Cœur                v AJEL (Rufisque)                 2-0
+  Sun Apr 19 2026
+           ASC La Linguère (Saint-Louis)   v AS Pikine                       0-4
+           US Ouakam                       v Wally Daan (Thiès)              1-0
+           Casa Sports (Ziguinchor)        v Guédiawaye FC                   1-1
+           AS Cambérène                    v Teunguéth FC                    0-1
+  Mon Apr 20 2026
+           ASC HLM (Dakar)                 v Stade de Mbour                  1-1
+
+▪ Matchday 24
+  Sat Apr 25 2026
+           Wally Daan (Thiès)              v AJEL (Rufisque)                 0-0
+           Teunguéth FC                    v ASC HLM (Dakar)                 1-0
+           Guédiawaye FC                   v AS Cambérène                    0-0
+  Sun Apr 26 2026
+           ASC Jaraaf                      v ASC La Linguère (Saint-Louis)   1-0
+           Casa Sports (Ziguinchor)        v US Gorée                        0-0
+           AS Pikine                       v Génération Foot                 1-0
+           Sonacos BFP (Diourbel)          v Dakar Sacré-Cœur                1-1
+           Stade de Mbour                  v US Ouakam                       0-0
+
+▪ Matchday 25
+  Sat May 2 2026
+           Génération Foot                 v ASC Jaraaf                      2-0
+           Dakar Sacré-Cœur                v Wally Daan (Thiès)              1-2
+  Sun May 3 2026
+           AJEL (Rufisque)                 v Stade de Mbour                  0-1
+           ASC HLM (Dakar)                 v Guédiawaye FC                   2-1
+           AS Cambérène                    v US Gorée                        0-0
+           ASC La Linguère (Saint-Louis)   v Casa Sports (Ziguinchor)        0-0
+           US Ouakam                       v Teunguéth FC                    0-0
+           Sonacos BFP (Diourbel)          v AS Pikine                       0-0
+
+▪ Matchday 26
+  Sun May 10 2026
+           US Gorée                        v ASC HLM (Dakar)                 1-1
+           Teunguéth FC                    v AJEL (Rufisque)                 0-0
+           Guédiawaye FC                   v US Ouakam                       1-1
+           Casa Sports (Ziguinchor)        v Génération Foot                 1-2
+           AS Pikine                       v Dakar Sacré-Cœur                0-0
+           AS Cambérène                    v ASC La Linguère (Saint-Louis)   1-1
+           Stade de Mbour                  v Wally Daan (Thiès)              1-1
+           ASC Jaraaf                      v Sonacos BFP (Diourbel)          0-0
+
+▪ Matchday 27
+  Wed May 13 2026
+           Génération Foot                 v AS Cambérène                    3-0
+           Dakar Sacré-Cœur                v Stade de Mbour                  0-2
+           AJEL (Rufisque)                 v Guédiawaye FC                   1-0
+           ASC HLM (Dakar)                 v ASC La Linguère (Saint-Louis)   0-0
+           Wally Daan (Thiès)              v Teunguéth FC                    0-1
+           AS Pikine                       v ASC Jaraaf                      0-0
+           US Ouakam                       v US Gorée                        2-0
+           Sonacos BFP (Diourbel)          v Casa Sports (Ziguinchor)        0-3
+
+▪ Matchday 28
+  Sun May 17 2026
+           Teunguéth FC                    v Stade de Mbour                  2-0
+           US Gorée                        v AJEL (Rufisque)                 2-1
+           Guédiawaye FC                   v Wally Daan (Thiès)              2-3
+           Casa Sports (Ziguinchor)        v AS Pikine                       1-0
+           ASC La Linguère (Saint-Louis)   v US Ouakam                       1-1
+           AS Cambérène                    v Sonacos BFP (Diourbel)          1-1
+           ASC HLM (Dakar)                 v Génération Foot                 0-1
+           ASC Jaraaf                      v Dakar Sacré-Cœur                3-0
+
+▪ Matchday 29
+  Fri May 22 2026
+           Stade de Mbour                  v Guédiawaye FC                   0-2
+           Dakar Sacré-Cœur                v Teunguéth FC                    0-0
+           AJEL (Rufisque)                 v ASC La Linguère (Saint-Louis)   2-1
+           ASC Jaraaf                      v Casa Sports (Ziguinchor)        0-0
+           Wally Daan (Thiès)              v US Gorée                        1-1
+           AS Pikine                       v AS Cambérène                    1-2
+           US Ouakam                       v Génération Foot                 2-3
+           Sonacos BFP (Diourbel)          v ASC HLM (Dakar)                 0-0
+
+▪ Matchday 30
+  Thu Jun 4 2026
+           AS Cambérène                    v ASC Jaraaf                      0-2
+           Casa Sports (Ziguinchor)        v Dakar Sacré-Cœur                1-2
+           Génération Foot                 v AJEL (Rufisque)                 0-1
+           Guédiawaye FC                   v Teunguéth FC                    0-1
+           US Gorée                        v Stade de Mbour                  0-0
+           ASC HLM (Dakar)                 v AS Pikine                       2-1
+           ASC La Linguère (Saint-Louis)   v Wally Daan (Thiès)              1-1
+           US Ouakam                       v Sonacos BFP (Diourbel)          2-1
