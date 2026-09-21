@@ -1,0 +1,492 @@
+= Ghana | Premier League 2020/21
+
+# Date       Sat Nov 14 2020 - Sun Jul 18 2021 (246d)
+# Teams      18
+# Matches    306
+# Source     https://www.rsssf.org/tablesg/gha2021.html
+# Retrieved  2026-09-21
+
+
+▪ Matchday 1
+  Sat Nov 14 2020
+           Legon Cities FC                v Berekum Chelsea FC             1-1
+  Sun Nov 15 2020
+           Asante Kotoko FC               v Techiman Eleven Wonders        1-1
+           Obuasi Ashanti Gold SC         v Karela United FC               2-2
+           West Africa Football Academy   v King Faisal Babes FC           4-3
+           Medeama SC                     v Great Olympics FC              1-1
+           Ebusua Dwarfs FC               v Elmina Sharks FC               2-2
+  Mon Nov 16 2020
+           Liberty Professionals FC       v Bechem United FC               1-1
+           Inter Allies FC                v Dreams FC                      0-0
+  Wed Dec 16 2020
+           Aduana FC                      v Accra Hearts of Oak SC         2-0
+
+▪ Matchday 2
+  Fri Nov 20 2020
+           Great Olympics FC              v Legon Cities FC                3-0
+           Techiman Eleven Wonders        v Ebusua Dwarfs FC               2-0
+  Sat Nov 21 2020
+           Bechem United FC               v West Africa Football Academy   1-0
+  Sun Nov 22 2020
+           Berekum Chelsea FC             v Asante Kotoko FC               1-1
+           Dreams FC                      v Medeama SC                     2-1
+           Elmina Sharks FC               v Liberty Professionals FC       1-1
+           Karela United FC               v Inter Allies FC                1-0
+           King Faisal Babes FC           v Aduana FC                      1-1
+  Tue Nov 24 2020
+           Accra Hearts of Oak SC         v Obuasi Ashanti Gold SC         2-2
+
+▪ Matchday 3
+  Fri Nov 27 2020
+           Legon Cities FC                v Medeama SC                     0-0
+  Sat Nov 28 2020
+           Liberty Professionals FC       v Techiman Eleven Wonders        1-1
+  Sun Nov 29 2020
+           West Africa Football Academy   v Elmina Sharks FC               1-1
+           Ebusua Dwarfs FC               v Berekum Chelsea FC             1-0
+           Karela United FC               v Dreams FC                      2-1
+           Aduana FC                      v Bechem United FC               0-0
+           Inter Allies FC                v Accra Hearts of Oak SC         1-0
+  Wed Dec 16 2020
+           Obuasi Ashanti Gold SC         v King Faisal Babes FC           5-1
+  Thu Dec 17 2020
+           Asante Kotoko FC               v Great Olympics FC              0-1
+
+▪ Matchday 4
+  Thu Dec 3 2020
+           Elmina Sharks FC               v Aduana FC                      1-0
+  Fri Dec 4 2020
+           King Faisal Babes FC           v Inter Allies FC                1-0
+           Accra Hearts of Oak SC         v Karela United FC               0-0
+  Sat Dec 5 2020
+           Techiman Eleven Wonders        v West Africa Football Academy   0-1
+           Dreams FC                      v Legon Cities FC                0-0
+           Berekum Chelsea FC             v Liberty Professionals FC       1-0
+  Thu Dec 24 2020
+           Great Olympics FC              v Ebusua Dwarfs FC               1-1
+  Sun Dec 27 2020
+           Bechem United FC               v Obuasi Ashanti Gold SC         1-0
+           Medeama SC                     v Asante Kotoko FC               1-1
+
+▪ Matchday 5
+  Fri Dec 11 2020
+           Asante Kotoko FC               v Legon Cities FC                1-0
+  Sat Dec 12 2020
+           Ebusua Dwarfs FC               v Medeama SC                     0-1
+           Inter Allies FC                v Bechem United FC               1-2
+  Sun Dec 13 2020
+           Aduana FC                      v Techiman Eleven Wonders        1-1
+           Accra Hearts of Oak SC         v Dreams FC                      3-0
+           West Africa Football Academy   v Berekum Chelsea FC             2-0
+           Liberty Professionals FC       v Great Olympics FC              2-0
+           Karela United FC               v King Faisal Babes FC           2-0
+           Obuasi Ashanti Gold SC         v Elmina Sharks FC               4-2
+
+▪ Matchday 6
+  Fri Dec 18 2020
+           Bechem United FC               v Karela United FC               2-1
+           Legon Cities FC                v Ebusua Dwarfs FC               1-2
+  Sat Dec 19 2020
+           King Faisal Babes FC           v Accra Hearts of Oak SC         1-2
+  Sun Dec 20 2020
+           Elmina Sharks FC               v Inter Allies FC                1-0
+           Dreams FC                      v Asante Kotoko FC               0-1
+           Great Olympics FC              v West Africa Football Academy   1-0
+           Medeama SC                     v Liberty Professionals FC       0-0
+           Techiman Eleven Wonders        v Obuasi Ashanti Gold SC         1-1
+  Mon Dec 21 2020
+           Berekum Chelsea FC             v Aduana FC                      1-1
+
+▪ Matchday 7
+  Fri Jan 1 2021
+           King Faisal Babes FC           v Dreams FC                      1-1
+  Sat Jan 2 2021
+           Accra Hearts of Oak SC         v Bechem United FC               6-1
+  Sun Jan 3 2021
+           Liberty Professionals FC       v Legon Cities FC                1-0
+           Obuasi Ashanti Gold SC         v Berekum Chelsea FC             2-1
+           Aduana FC                      v Great Olympics FC              2-1
+           Inter Allies FC                v Techiman Eleven Wonders        1-0
+           West Africa Football Academy   v Medeama SC                     5-4
+           Karela United FC               v Elmina Sharks FC               3-1
+  Wed Jan 20 2021
+           Ebusua Dwarfs FC               v Asante Kotoko FC               0-1
+
+▪ Matchday 8
+  Fri Jan 8 2021
+           Legon Cities FC                v West Africa Football Academy   1-0
+  Sat Jan 9 2021
+           Medeama SC                     v Aduana FC                      2-1
+  Sun Jan 10 2021
+           Techiman Eleven Wonders        v Karela United FC               3-1
+           Elmina Sharks FC               v Accra Hearts of Oak SC         1-1
+           Dreams FC                      v Ebusua Dwarfs FC               2-0
+           Bechem United FC               v King Faisal Babes FC           1-1
+           Great Olympics FC              v Obuasi Ashanti Gold SC         1-2
+           Berekum Chelsea FC             v Inter Allies FC                1-0
+  Mon Jan 11 2021
+           Asante Kotoko FC               v Liberty Professionals FC       2-0
+
+▪ Matchday 9
+  Fri Jan 15 2021
+           Inter Allies FC                v Great Olympics FC              0-2
+  Sat Jan 16 2021
+           Liberty Professionals FC       v Ebusua Dwarfs FC               1-2
+  Sun Jan 17 2021
+           King Faisal Babes FC           v Elmina Sharks FC               1-1
+           West Africa Football Academy   v Asante Kotoko FC               1-1
+           Obuasi Ashanti Gold SC         v Medeama SC                     0-0
+           Accra Hearts of Oak SC         v Techiman Eleven Wonders        2-0
+           Bechem United FC               v Dreams FC                      1-1
+           Aduana FC                      v Legon Cities FC                2-1
+           Karela United FC               v Berekum Chelsea FC             4-1
+
+▪ Matchday 10
+  Fri Jan 22 2021
+           Legon Cities FC                v Obuasi Ashanti Gold SC         5-2
+  Sat Jan 23 2021
+           Berekum Chelsea FC             v Accra Hearts of Oak SC         0-0
+           Great Olympics FC              v Karela United FC               0-0
+  Sun Jan 24 2021
+           Techiman Eleven Wonders        v King Faisal Babes FC           1-0
+           Ebusua Dwarfs FC               v West Africa Football Academy   1-1
+           Medeama SC                     v Inter Allies FC                2-1
+           Dreams FC                      v Liberty Professionals FC       4-1
+           Asante Kotoko FC               v Aduana FC                      0-1
+           Elmina Sharks FC               v Bechem United FC               2-1
+
+▪ Matchday 11
+  Fri Jan 29 2021
+           Bechem United FC               v Techiman Eleven Wonders        3-1
+  Sat Jan 30 2021
+           Accra Hearts of Oak SC         v Great Olympics FC              0-2
+           King Faisal Babes FC           v Berekum Chelsea FC             4-3
+  Sun Jan 31 2021
+           West Africa Football Academy   v Liberty Professionals FC       5-0
+           Elmina Sharks FC               v Dreams FC                      2-2
+           Inter Allies FC                v Legon Cities FC                0-1
+           Karela United FC               v Medeama SC                     2-0
+           Obuasi Ashanti Gold SC         v Asante Kotoko FC               0-0
+           Aduana FC                      v Ebusua Dwarfs FC               2-2
+
+▪ Matchday 12
+  Tue Feb 2 2021
+           Great Olympics FC              v King Faisal Babes FC           3-1
+  Wed Feb 3 2021
+           Asante Kotoko FC               v Inter Allies FC                1-0
+           Berekum Chelsea FC             v Bechem United FC               2-0
+           Ebusua Dwarfs FC               v Obuasi Ashanti Gold SC         2-1
+           Dreams FC                      v West Africa Football Academy   3-0
+           Liberty Professionals FC       v Aduana FC                      0-0
+           Techiman Eleven Wonders        v Elmina Sharks FC               0-0
+  Thu Feb 4 2021
+           Legon Cities FC                v Karela United FC               0-0
+           Medeama SC                     v Accra Hearts of Oak SC         1-0
+
+▪ Matchday 13
+  Sat Feb 6 2021
+           Inter Allies FC                v Ebusua Dwarfs FC               0-2
+  Sun Feb 7 2021
+           Accra Hearts of Oak SC         v Legon Cities FC                1-1
+           Aduana FC                      v West Africa Football Academy   1-0
+           Obuasi Ashanti Gold SC         v Liberty Professionals FC       0-1
+           Bechem United FC               v Great Olympics FC              3-1
+           Karela United FC               v Asante Kotoko FC               0-2
+           Techiman Eleven Wonders        v Dreams FC                      0-2
+  Mon Feb 8 2021
+           Elmina Sharks FC               v Berekum Chelsea FC             1-1
+  Tue Feb 9 2021
+           King Faisal Babes FC           v Medeama SC                     1-0
+
+▪ Matchday 14
+  Sat Feb 13 2021
+           West Africa Football Academy   v Obuasi Ashanti Gold SC         0-0
+  Sun Feb 14 2021
+           Berekum Chelsea FC             v Techiman Eleven Wonders        2-0
+           Ebusua Dwarfs FC               v Karela United FC               1-2
+           Dreams FC                      v Aduana FC                      4-2
+           Liberty Professionals FC       v Inter Allies FC                2-2
+           Medeama SC                     v Bechem United FC               2-0
+  Mon Feb 15 2021
+           Legon Cities FC                v King Faisal Babes FC           1-1
+  Tue Feb 16 2021
+           Great Olympics FC              v Elmina Sharks FC               1-0
+  Sun Feb 28 2021
+           Asante Kotoko FC               v Accra Hearts of Oak SC         0-0
+
+▪ Matchday 15
+  Fri Feb 19 2021
+           Obuasi Ashanti Gold SC         v Aduana FC                      4-0
+  Sat Feb 20 2021
+           Inter Allies FC                v West Africa Football Academy   1-0
+  Sun Feb 21 2021
+           Accra Hearts of Oak SC         v Ebusua Dwarfs FC               3-2
+           Bechem United FC               v Legon Cities FC                1-1
+           Berekum Chelsea FC             v Dreams FC                      1-0
+           Elmina Sharks FC               v Medeama SC                     1-2
+           Karela United FC               v Liberty Professionals FC       2-0
+           Techiman Eleven Wonders        v Great Olympics FC              1-0
+  Wed Mar 10 2021
+           King Faisal Babes FC           v Asante Kotoko FC               0-1
+
+▪ Matchday 16
+  Wed Feb 24 2021
+           Aduana FC                      v Inter Allies FC                2-1
+           Ebusua Dwarfs FC               v King Faisal Babes FC           1-0
+           Legon Cities FC                v Elmina Sharks FC               2-0
+           Liberty Professionals FC       v Accra Hearts of Oak SC         0-1
+           Medeama SC                     v Techiman Eleven Wonders        2-0
+           West Africa Football Academy   v Karela United FC               3-1
+  Thu Feb 25 2021
+           Dreams FC                      v Obuasi Ashanti Gold SC         4-1
+  Fri Feb 26 2021
+           Great Olympics FC              v Berekum Chelsea FC             1-0
+  Wed Apr 7 2021
+           Asante Kotoko FC               v Bechem United FC               4-0
+
+▪ Matchday 17
+  Fri Mar 5 2021
+           Elmina Sharks FC               v Asante Kotoko FC               1-0
+           Inter Allies FC                v Obuasi Ashanti Gold SC         1-1
+  Sat Mar 6 2021
+           Karela United FC               v Aduana FC                      2-1
+           King Faisal Babes FC           v Liberty Professionals FC       1-0
+  Sun Mar 7 2021
+           Accra Hearts of Oak SC         v West Africa Football Academy   4-0
+           Bechem United FC               v Ebusua Dwarfs FC               1-1
+           Berekum Chelsea FC             v Medeama SC                     1-1
+           Dreams FC                      v Great Olympics FC              0-1
+           Techiman Eleven Wonders        v Legon Cities FC                1-0
+
+▪ Matchday 18
+  Fri Apr 2 2021
+           Great Olympics FC              v Medeama SC                     1-0
+  Sat Apr 3 2021
+           Techiman Eleven Wonders        v Asante Kotoko FC               1-1
+  Sun Apr 4 2021
+           Accra Hearts of Oak SC         v Aduana FC                      2-0
+           Bechem United FC               v Liberty Professionals FC       2-0
+           Berekum Chelsea FC             v Legon Cities FC                2-1
+           Dreams FC                      v Inter Allies FC                1-1
+           Elmina Sharks FC               v Ebusua Dwarfs FC               1-0
+           Karela United FC               v Obuasi Ashanti Gold SC         1-1
+           King Faisal Babes FC           v West Africa Football Academy   0-0
+
+▪ Matchday 19
+  Fri Apr 9 2021
+           Ebusua Dwarfs FC               v Techiman Eleven Wonders        1-1
+  Sat Apr 10 2021
+           Obuasi Ashanti Gold SC         v Accra Hearts of Oak SC         1-0
+           Liberty Professionals FC       v Elmina Sharks FC               4-0
+  Sun Apr 11 2021
+           Asante Kotoko FC               v Berekum Chelsea FC             2-0
+           Aduana FC                      v King Faisal Babes FC           3-1
+           Inter Allies FC                v Karela United FC               2-0
+           Legon Cities FC                v Great Olympics FC              2-0
+           Medeama SC                     v Dreams FC                      2-0
+           West Africa Football Academy   v Bechem United FC               1-0
+
+▪ Matchday 20
+  Fri Apr 16 2021
+           Great Olympics FC              v Asante Kotoko FC               0-0
+  Sat Apr 17 2021
+           King Faisal Babes FC           v Obuasi Ashanti Gold SC         0-0
+           Elmina Sharks FC               v West Africa Football Academy   1-0
+  Sun Apr 18 2021
+           Bechem United FC               v Aduana FC                      4-0
+           Techiman Eleven Wonders        v Liberty Professionals FC       0-1
+           Berekum Chelsea FC             v Ebusua Dwarfs FC               2-1
+           Accra Hearts of Oak SC         v Inter Allies FC                1-0
+           Medeama SC                     v Legon Cities FC                2-1
+  Mon Apr 19 2021
+           Dreams FC                      v Karela United FC               1-0
+
+▪ Matchday 21
+  Sat Apr 24 2021
+           Asante Kotoko FC               v Medeama SC                     1-2
+           Liberty Professionals FC       v Berekum Chelsea FC             2-0
+           Ebusua Dwarfs FC               v Great Olympics FC              4-1
+  Sun Apr 25 2021
+           Aduana FC                      v Elmina Sharks FC               2-1
+           Obuasi Ashanti Gold SC         v Bechem United FC               4-0
+           Inter Allies FC                v King Faisal Babes FC           0-1
+           Karela United FC               v Accra Hearts of Oak SC         1-1
+           Legon Cities FC                v Dreams FC                      1-1
+           West Africa Football Academy   v Techiman Eleven Wonders        1-0
+
+▪ Matchday 22
+  Fri Apr 30 2021
+           Berekum Chelsea FC             v West Africa Football Academy   2-3
+  Sat May 1 2021
+           Techiman Eleven Wonders        v Aduana FC                      2-1
+           Legon Cities FC                v Asante Kotoko FC               0-1
+  Sun May 2 2021
+           Medeama SC                     v Ebusua Dwarfs FC               3-0
+           King Faisal Babes FC           v Karela United FC               1-1
+           Great Olympics FC              v Liberty Professionals FC       2-0
+           Elmina Sharks FC               v Obuasi Ashanti Gold SC         2-1
+           Dreams FC                      v Accra Hearts of Oak SC         2-0
+           Bechem United FC               v Inter Allies FC                2-1
+
+▪ Matchday 23
+  Fri May 7 2021
+           West Africa Football Academy   v Great Olympics FC              2-3
+  Sat May 8 2021
+           Asante Kotoko FC               v Dreams FC                      3-1
+  Sun May 9 2021
+           Aduana FC                      v Berekum Chelsea FC             1-0
+           Ebusua Dwarfs FC               v Legon Cities FC                0-3 [awarded; abandoned at 0-1 at half-time after referee was threatened]
+           Liberty Professionals FC       v Medeama SC                     0-0
+           Accra Hearts of Oak SC         v King Faisal Babes FC           2-0
+           Inter Allies FC                v Elmina Sharks FC               2-0
+           Obuasi Ashanti Gold SC         v Techiman Eleven Wonders        1-1
+           Karela United FC               v Bechem United FC               2-1
+
+▪ Matchday 24
+  Wed May 12 2021
+           Legon Cities FC                v Liberty Professionals FC       2-1
+           Berekum Chelsea FC             v Obuasi Ashanti Gold SC         3-1
+           Elmina Sharks FC               v Karela United FC               1-1
+           Medeama SC                     v West Africa Football Academy   1-2
+           Techiman Eleven Wonders        v Inter Allies FC                1-1
+           Bechem United FC               v Accra Hearts of Oak SC         0-1
+           Dreams FC                      v King Faisal Babes FC           3-0
+  Thu May 13 2021
+           Great Olympics FC              v Aduana FC                      2-3
+           Asante Kotoko FC               v Ebusua Dwarfs FC               2-1
+
+▪ Matchday 25
+  Sat May 15 2021
+           West Africa Football Academy   v Legon Cities FC                1-0
+  Sun May 16 2021
+           Accra Hearts of Oak SC         v Elmina Sharks FC               2-0
+           King Faisal Babes FC           v Bechem United FC               3-1
+           Obuasi Ashanti Gold SC         v Great Olympics FC              1-0
+           Aduana FC                      v Medeama SC                     2-0
+           Inter Allies FC                v Berekum Chelsea FC             5-0
+           Karela United FC               v Techiman Eleven Wonders        2-0
+           Liberty Professionals FC       v Asante Kotoko FC               1-1
+  Mon May 17 2021
+           Ebusua Dwarfs FC               v Dreams FC                      1-1
+
+▪ Matchday 26
+  Fri May 21 2021
+           Techiman Eleven Wonders        v Accra Hearts of Oak SC         0-1
+  Sat May 22 2021
+           Great Olympics FC              v Inter Allies FC                1-0
+           Asante Kotoko FC               v West Africa Football Academy   1-1
+  Sun May 23 2021
+           Medeama SC                     v Obuasi Ashanti Gold SC         1-0
+           Ebusua Dwarfs FC               v Liberty Professionals FC       2-1
+           Elmina Sharks FC               v King Faisal Babes FC           0-1
+           Dreams FC                      v Bechem United FC               2-1
+           Berekum Chelsea FC             v Karela United FC               1-1
+           Legon Cities FC                v Aduana FC                      2-0
+
+▪ Matchday 27
+  Fri May 28 2021
+           Karela United FC               v Great Olympics FC              1-1
+  Sat May 29 2021
+           Liberty Professionals FC       v Dreams FC                      2-1
+           Aduana FC                      v Asante Kotoko FC               0-0
+  Sun May 30 2021
+           West Africa Football Academy   v Ebusua Dwarfs FC               2-1
+           Obuasi Ashanti Gold SC         v Legon Cities FC                0-1
+           King Faisal Babes FC           v Techiman Eleven Wonders        0-1
+           Accra Hearts of Oak SC         v Berekum Chelsea FC             2-0
+           Bechem United FC               v Elmina Sharks FC               1-1
+           Inter Allies FC                v Medeama SC                     3-0
+
+▪ Matchday 28
+  Sat Jun 5 2021
+           Medeama SC                     v Karela United FC               1-0
+  Sun Jun 6 2021
+           Techiman Eleven Wonders        v Bechem United FC               2-1
+           Liberty Professionals FC       v West Africa Football Academy   3-2
+           Dreams FC                      v Elmina Sharks FC               2-0
+           Ebusua Dwarfs FC               v Aduana FC                      1-0
+           Asante Kotoko FC               v Obuasi Ashanti Gold SC         1-0
+           Berekum Chelsea FC             v King Faisal Babes FC           5-0
+           Great Olympics FC              v Accra Hearts of Oak SC         1-1
+  Mon Jun 7 2021
+           Legon Cities FC                v Inter Allies FC                1-0
+
+▪ Matchday 29
+  Fri Jun 11 2021
+           Elmina Sharks FC               v Techiman Eleven Wonders        2-1
+  Sun Jun 13 2021
+           West Africa Football Academy   v Dreams FC                      1-1
+           King Faisal Babes FC           v Great Olympics FC              1-0
+           Obuasi Ashanti Gold SC         v Ebusua Dwarfs FC               1-0
+           Bechem United FC               v Berekum Chelsea FC             2-0
+           Karela United FC               v Legon Cities FC                2-0
+           Accra Hearts of Oak SC         v Medeama SC                     2-0
+           Aduana FC                      v Liberty Professionals FC       2-0
+  Mon Jun 14 2021
+           Inter Allies FC                v Asante Kotoko FC               2-3
+
+▪ Matchday 30
+  Wed Jun 23 2021
+           Great Olympics FC              v Bechem United FC               1-0
+           West Africa Football Academy   v Aduana FC                      3-2
+           Berekum Chelsea FC             v Elmina Sharks FC               2-1
+           Asante Kotoko FC               v Karela United FC               2-1
+           Dreams FC                      v Techiman Eleven Wonders        2-1
+  Thu Jun 24 2021
+           Ebusua Dwarfs FC               v Inter Allies FC                1-0
+           Liberty Professionals FC       v Obuasi Ashanti Gold SC         1-5
+           Legon Cities FC                v Accra Hearts of Oak SC         1-2
+           Medeama SC                     v King Faisal Babes FC           1-1
+
+▪ Matchday 31
+  Sun Jun 27 2021
+           Techiman Eleven Wonders        v Berekum Chelsea FC             3-1
+           Aduana FC                      v Dreams FC                      2-0
+           Inter Allies FC                v Liberty Professionals FC       0-2
+           Obuasi Ashanti Gold SC         v West Africa Football Academy   0-0
+           Accra Hearts of Oak SC         v Asante Kotoko FC               1-0
+           Elmina Sharks FC               v Great Olympics FC              1-1
+           Bechem United FC               v Medeama SC                     0-0
+  Mon Jun 28 2021
+           King Faisal Babes FC           v Legon Cities FC                2-0
+           Karela United FC               v Ebusua Dwarfs FC               1-4
+
+▪ Matchday 32
+  Sat Jul 3 2021
+           Asante Kotoko FC               v King Faisal Babes FC           1-1
+           Legon Cities FC                v Bechem United FC               1-1
+           West Africa Football Academy   v Inter Allies FC                1-0
+  Sun Jul 4 2021
+           Liberty Professionals FC       v Karela United FC               3-2
+           Ebusua Dwarfs FC               v Accra Hearts of Oak SC         1-1
+           Great Olympics FC              v Techiman Eleven Wonders        0-1
+           Dreams FC                      v Berekum Chelsea FC             0-1
+           Medeama SC                     v Elmina Sharks FC               3-2
+  Mon Jul 5 2021
+           Aduana FC                      v Obuasi Ashanti Gold SC         1-0
+
+▪ Matchday 33
+  Sun Jul 11 2021
+           Accra Hearts of Oak SC         v Liberty Professionals FC       1-1
+           Obuasi Ashanti Gold SC         v Dreams FC                      0-0
+           Bechem United FC               v Asante Kotoko FC               2-1
+           Berekum Chelsea FC             v Great Olympics FC              2-1
+           Elmina Sharks FC               v Legon Cities FC                2-0
+           Inter Allies FC                v Aduana FC                      2-4
+           Karela United FC               v West Africa Football Academy   0-2
+           King Faisal Babes FC           v Ebusua Dwarfs FC               2-0
+           Techiman Eleven Wonders        v Medeama SC                     3-1
+
+▪ Matchday 34
+  Sat Jul 17 2021
+           Great Olympics FC              v Dreams FC                      2-1
+           Obuasi Ashanti Gold SC         v Inter Allies FC                7-0
+           West Africa Football Academy   v Accra Hearts of Oak SC         1-0
+  Sun Jul 18 2021
+           Aduana FC                      v Karela United FC               2-1
+           Asante Kotoko FC               v Elmina Sharks FC               0-1
+           Ebusua Dwarfs FC               v Bechem United FC               2-1
+           Legon Cities FC                v Techiman Eleven Wonders        3-2
+           Liberty Professionals FC       v King Faisal Babes FC           0-0
+           Medeama SC                     v Berekum Chelsea FC             1-0
