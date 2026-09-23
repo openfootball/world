@@ -1,0 +1,472 @@
+= Zimbabwe | Premier Soccer League 2021/22
+
+# Date       Fri Jul 2 2021 - Sun Jun 26 2022 (359d)
+# Teams      18
+# Matches    306
+# Source     https://www.rsssf.org/tablesz/zimb2021.html
+# Retrieved  2026-09-21
+
+
+▪ Matchday 1
+  Fri Nov 5 2021
+           Harare City FC            v Herentals College FC      0-1
+  Sat Nov 6 2021
+           FC Platinum               v Tenax FC                  6-1
+           ZPC Kariba FC             v CAPS United FC            0-0
+           Chicken Inn FC            v Cranborne Bullets FC      1-0
+           Black Rhinos FC           v Highlanders FC            2-0
+           Ngezi Platinum Stars FC   v Bulawayo City FC          5-0
+  Sun Nov 7 2021
+           Dynamos FC                v Yadah Stars FC            1-0
+           Bulawayo Chiefs FC        v Triangle United FC        1-0
+           Manica Diamonds FC        v Whawha FC                 4-0
+
+▪ Matchday 2
+  Fri Nov 26 2021
+           Cranborne Bullets FC      v Bulawayo Chiefs FC        0-0
+  Sat Nov 27 2021
+           Yadah Stars FC            v ZPC Kariba FC             0-1
+           Herentals College FC      v Black Rhinos FC           1-1
+           FC Platinum               v Chicken Inn FC            2-1
+           Tenax FC                  v Whawha FC                 2-2
+           Bulawayo City FC          v Manica Diamonds FC        1-2
+  Sun Nov 28 2021
+           Highlanders FC            v Ngezi Platinum Stars FC   0-0
+           Triangle United FC        v Dynamos FC                1-0
+           CAPS United FC            v Harare City FC            0-0
+
+▪ Matchday 3
+  Sat Dec 11 2021
+           Ngezi Platinum Stars FC   v Herentals College FC      3-0
+  Fri Dec 17 2021
+           Harare City FC            v Yadah Stars FC            1-1
+  Sat Dec 18 2021
+           Whawha FC                 v Bulawayo City FC          3-3
+           ZPC Kariba FC             v Triangle United FC        2-3 [also reported 1-3]
+  Sun Dec 19 2021
+           Manica Diamonds FC        v Highlanders FC            1-0
+           Dynamos FC                v Cranborne Bullets FC      1-0
+  Sat Feb 12 2022
+           Chicken Inn FC            v Tenax FC                  3-0
+  Sun Feb 13 2022
+           Black Rhinos FC           v CAPS United FC            1-1
+           Bulawayo Chiefs FC        v FC Platinum               2-0
+
+▪ Matchday 4
+  Sat Feb 19 2022
+           FC Platinum               v Dynamos FC                0-0
+           Yadah Stars FC            v Black Rhinos FC           0-0
+           Chicken Inn FC            v Bulawayo Chiefs FC        2-1
+  Sun Feb 20 2022
+           Highlanders FC            v Whawha FC                 2-0
+           Herentals College FC      v Manica Diamonds FC        2-1
+           Cranborne Bullets FC      v ZPC Kariba FC             0-0
+           Tenax FC                  v Bulawayo City FC          2-0
+           Triangle United FC        v Harare City FC            0-0
+  Mon Feb 21 2022
+           CAPS United FC            v Ngezi Platinum Stars FC   0-0
+
+▪ Matchday 5
+  Sat Feb 26 2022
+           Bulawayo Chiefs FC        v Tenax FC                  0-0
+           ZPC Kariba FC             v FC Platinum               1-1
+           Harare City FC            v Cranborne Bullets FC      3-1
+           Black Rhinos FC           v Triangle United FC        1-2
+           Ngezi Platinum Stars FC   v Yadah Stars FC            1-1
+  Sun Feb 27 2022
+           Manica Diamonds FC        v CAPS United FC            6-2
+           Whawha FC                 v Herentals College FC      0-3
+           Bulawayo City FC          v Highlanders FC            1-0
+           Dynamos FC                v Chicken Inn FC            0-1
+
+▪ Matchday 6
+  Sat Mar 5 2022
+           Herentals College FC      v Bulawayo City FC          1-1
+           Yadah Stars FC            v Manica Diamonds FC        1-1
+           FC Platinum               v Harare City FC            1-0
+           Bulawayo Chiefs FC        v Dynamos FC                0-2
+  Sun Mar 6 2022
+           CAPS United FC            v Whawha FC                 6-0
+           Cranborne Bullets FC      v Black Rhinos FC           1-3
+           Tenax FC                  v Highlanders FC            0-0
+           Triangle United FC        v Ngezi Platinum Stars FC   1-0
+           Chicken Inn FC            v ZPC Kariba FC             2-0
+
+▪ Matchday 7
+  Sat Mar 12 2022
+           Bulawayo City FC          v CAPS United FC            0-1
+           Harare City FC            v Chicken Inn FC            0-0
+           Black Rhinos FC           v FC Platinum               0-0
+           Ngezi Platinum Stars FC   v Cranborne Bullets FC      3-1
+           ZPC Kariba FC             v Bulawayo Chiefs FC        0-0
+  Sun Mar 13 2022
+           Dynamos FC                v Tenax FC                  3-1
+           Highlanders FC            v Herentals College FC      4-0
+           Whawha FC                 v Yadah Stars FC            1-0
+           Manica Diamonds FC        v Triangle United FC        2-1
+
+▪ Matchday 8
+  Sat Mar 19 2022
+           FC Platinum               v Ngezi Platinum Stars FC   0-1
+           Chicken Inn FC            v Black Rhinos FC           2-1
+           Yadah Stars FC            v Bulawayo City FC          0-0
+           Dynamos FC                v ZPC Kariba FC             2-0
+  Sun Mar 20 2022
+           CAPS United FC            v Highlanders FC            1-1
+           Tenax FC                  v Herentals College FC      0-2
+           Bulawayo Chiefs FC        v Harare City FC            1-2
+           Triangle United FC        v Whawha FC                 4-1
+           Cranborne Bullets FC      v Manica Diamonds FC        1-1
+
+▪ Matchday 9
+  Sat Mar 26 2022
+           Ngezi Platinum Stars FC   v Chicken Inn FC            0-2
+           Black Rhinos FC           v Bulawayo Chiefs FC        2-1
+           Bulawayo City FC          v Triangle United FC        1-3
+           Herentals College FC      v CAPS United FC            2-3
+           ZPC Kariba FC             v Tenax FC                  0-1
+  Sun Mar 27 2022
+           Harare City FC            v Dynamos FC                0-2
+           Manica Diamonds FC        v FC Platinum               0-0
+           Whawha FC                 v Cranborne Bullets FC      2-3
+           Highlanders FC            v Yadah Stars FC            3-0
+
+▪ Matchday 10
+  Sat Apr 2 2022
+           Chicken Inn FC            v Manica Diamonds FC        3-3
+           FC Platinum               v Whawha FC                 1-0
+           Cranborne Bullets FC      v Bulawayo City FC          2-1
+           Yadah Stars FC            v Herentals College FC      2-1
+           ZPC Kariba FC             v Harare City FC            2-1
+  Sun Apr 3 2022
+           Bulawayo Chiefs FC        v Ngezi Platinum Stars FC   1-1
+           Dynamos FC                v Black Rhinos FC           2-1
+           Tenax FC                  v CAPS United FC            2-1
+           Triangle United FC        v Highlanders FC            0-0
+
+▪ Matchday 11
+  Fri Apr 8 2022
+           Harare City FC            v Tenax FC                  1-1
+  Sat Apr 9 2022
+           Herentals College FC      v Triangle United FC        1-0
+           Black Rhinos FC           v ZPC Kariba FC             2-1
+           Ngezi Platinum Stars FC   v Dynamos FC                0-0
+           Bulawayo City FC          v FC Platinum               0-2
+           Whawha FC                 v Chicken Inn FC            3-0
+  Sun Apr 10 2022
+           Manica Diamonds FC        v Bulawayo Chiefs FC        0-0
+           CAPS United FC            v Yadah Stars FC            1-0
+           Highlanders FC            v Cranborne Bullets FC      2-2
+
+▪ Matchday 12
+  Sat Apr 23 2022
+           Tenax FC                  v Yadah Stars FC            1-3
+           Harare City FC            v Black Rhinos FC           0-0
+           Chicken Inn FC            v Bulawayo City FC          1-0
+           FC Platinum               v Highlanders FC            3-0 [awarded; abandoned at 1-1 in 84' due to pitch invasion by Highlanders supporters]
+           ZPC Kariba FC             v Ngezi Platinum Stars FC   0-1
+  Sun Apr 24 2022
+           Cranborne Bullets FC      v Herentals College FC      1-0
+           Dynamos FC                v Manica Diamonds FC        1-0
+           Bulawayo Chiefs FC        v Whawha FC                 1-0
+           Triangle United FC        v CAPS United FC            2-1
+
+▪ Matchday 13
+  Fri Apr 29 2022
+           Yadah Stars FC            v Triangle United FC        1-1
+  Sat Apr 30 2022
+           Herentals College FC      v FC Platinum               1-0
+           Black Rhinos FC           v Tenax FC                  3-2
+           Bulawayo City FC          v Bulawayo Chiefs FC        0-1
+           Ngezi Platinum Stars FC   v Harare City FC            0-1
+           Whawha FC                 v Dynamos FC                1-2
+  Sun May 1 2022
+           Highlanders FC            v Chicken Inn FC            1-1
+           Manica Diamonds FC        v ZPC Kariba FC             1-0
+           CAPS United FC            v Cranborne Bullets FC      0-2
+
+▪ Matchday 14
+  Fri May 6 2022
+           Cranborne Bullets FC      v Yadah Stars FC            0-1
+  Sat May 7 2022
+           Harare City FC            v Manica Diamonds FC        0-0
+           Chicken Inn FC            v Herentals College FC      0-0
+           ZPC Kariba FC             v Whawha FC                 1-0
+           FC Platinum               v CAPS United FC            3-0
+           Black Rhinos FC           v Ngezi Platinum Stars FC   1-1
+  Sun May 8 2022
+           Tenax FC                  v Triangle United FC        1-1
+           Dynamos FC                v Bulawayo City FC          1-1
+           Bulawayo Chiefs FC        v Highlanders FC            2-2
+
+▪ Matchday 15
+  Fri May 13 2022
+           Yadah Stars FC            v FC Platinum               0-2
+  Sat May 14 2022
+           Ngezi Platinum Stars FC   v Tenax FC                  4-0
+           Herentals College FC      v Bulawayo Chiefs FC        1-1
+           Bulawayo City FC          v ZPC Kariba FC             3-0
+           Whawha FC                 v Harare City FC            1-1
+  Sun May 15 2022
+           CAPS United FC            v Chicken Inn FC            0-1
+           Manica Diamonds FC        v Black Rhinos FC           0-0
+           Highlanders FC            v Dynamos FC                3-0 [awarded; abandoned at 1-0 in 93' due to crowd trouble]
+           Triangle United FC        v Cranborne Bullets FC      5-2
+
+▪ Matchday 16
+  Sat May 28 2022
+           ZPC Kariba FC             v Highlanders FC            0-0
+           Black Rhinos FC           v Whawha FC                 1-0
+           Harare City FC            v Bulawayo City FC          0-0
+           Chicken Inn FC            v Yadah Stars FC            1-1
+           FC Platinum               v Triangle United FC        4-0
+           Ngezi Platinum Stars FC   v Manica Diamonds FC        0-0
+  Sun May 29 2022
+           Tenax FC                  v Cranborne Bullets FC      1-0
+           Dynamos FC                v Herentals College FC      0-0
+           Bulawayo Chiefs FC        v CAPS United FC            2-0
+
+▪ Matchday 17
+  Fri Jun 3 2022
+           Yadah Stars FC            v Bulawayo Chiefs FC        0-1
+  Sat Jun 4 2022
+           Herentals College FC      v ZPC Kariba FC             0-0
+           Bulawayo City FC          v Black Rhinos FC           0-0
+           Cranborne Bullets FC      v FC Platinum               0-1
+  Sun Jun 5 2022
+           CAPS United FC            v Dynamos FC                0-3
+           Highlanders FC            v Harare City FC            1-0
+           Manica Diamonds FC        v Tenax FC                  1-0
+           Triangle United FC        v Chicken Inn FC            0-1
+           Whawha FC                 v Ngezi Platinum Stars FC   1-0
+
+▪ Matchday 18
+  Fri Jun 24 2022
+           Herentals College FC      v Harare City FC            2-0
+  Sat Jun 25 2022
+           Cranborne Bullets FC      v Chicken Inn FC            1-4
+           Bulawayo City FC          v Ngezi Platinum Stars FC   0-3
+           Yadah Stars FC            v Dynamos FC                1-0
+  Sun Jun 26 2022
+           Tenax FC                  v FC Platinum               0-2
+           CAPS United FC            v ZPC Kariba FC             0-1
+           Highlanders FC            v Black Rhinos FC           3-2
+           Triangle United FC        v Bulawayo Chiefs FC        2-2
+           Whawha FC                 v Manica Diamonds FC        0-1
+
+▪ Matchday 19
+  Fri Jul 2 2021
+           ZPC Kariba FC             v Yadah Stars FC            0-1
+           Black Rhinos FC           v Herentals College FC      2-1
+           Harare City FC            v CAPS United FC            1-2
+           Chicken Inn FC            v FC Platinum               0-3
+  Sat Jul 3 2021
+           Ngezi Platinum Stars FC   v Highlanders FC            1-1
+           Dynamos FC                v Triangle United FC        0-0
+           Manica Diamonds FC        v Bulawayo City FC          0-1
+           Bulawayo Chiefs FC        v Cranborne Bullets FC      0-1
+           Whawha FC                 v Tenax FC                  2-0
+
+▪ Matchday 20
+  Thu Jul 8 2021
+           Yadah Stars FC            v Harare City FC            1-1
+  Fri Jul 9 2021
+           Herentals College FC      v Ngezi Platinum Stars FC   3-0
+           Bulawayo City FC          v Whawha FC                 3-1
+           Cranborne Bullets FC      v Dynamos FC                1-0
+           FC Platinum               v Bulawayo Chiefs FC        1-0
+  Sat Jul 10 2021
+           Highlanders FC            v Manica Diamonds FC        3-0
+           Triangle United FC        v ZPC Kariba FC             0-0
+           CAPS United FC            v Black Rhinos FC           0-0
+           Tenax FC                  v Chicken Inn FC            1-0
+
+▪ Matchday 21
+  Fri Jul 16 2021
+           ZPC Kariba FC             v Cranborne Bullets FC      1-0
+           Whawha FC                 v Highlanders FC            2-1
+           Manica Diamonds FC        v Herentals College FC      1-1
+           Bulawayo City FC          v Tenax FC                  1-0
+           Harare City FC            v Triangle United FC        1-0
+           Ngezi Platinum Stars FC   v CAPS United FC            2-2
+  Sat Jul 17 2021
+           Dynamos FC                v FC Platinum               0-0
+           Black Rhinos FC           v Yadah Stars FC            1-1
+           Bulawayo Chiefs FC        v Chicken Inn FC            1-3
+
+▪ Matchday 22
+  Thu Jul 22 2021
+           Herentals College FC      v Whawha FC                 0-0
+  Fri Jul 23 2021
+           Cranborne Bullets FC      v Harare City FC            2-1
+           FC Platinum               v ZPC Kariba FC             1-0
+           Chicken Inn FC            v Dynamos FC                0-3
+           Yadah Stars FC            v Ngezi Platinum Stars FC   1-0
+  Sat Jul 24 2021
+           Highlanders FC            v Bulawayo City FC          1-0
+           CAPS United FC            v Manica Diamonds FC        0-0
+           Triangle United FC        v Black Rhinos FC           1-0
+           Tenax FC                  v Bulawayo Chiefs FC        0-2
+
+▪ Matchday 23
+  Fri Jul 30 2021
+           ZPC Kariba FC             v Chicken Inn FC            0-0
+           Harare City FC            v FC Platinum               0-2
+           Black Rhinos FC           v Cranborne Bullets FC      1-0
+           Bulawayo City FC          v Herentals College FC      0-1
+           Whawha FC                 v CAPS United FC            1-2
+  Sat Jul 31 2021
+           Ngezi Platinum Stars FC   v Triangle United FC        2-0
+           Manica Diamonds FC        v Yadah Stars FC            1-1
+           Highlanders FC            v Tenax FC                  0-0
+           Dynamos FC                v Bulawayo Chiefs FC        2-0
+
+▪ Matchday 24
+  Thu Aug 12 2021
+           Yadah Stars FC            v Whawha FC                 3-0
+  Fri Aug 13 2021
+           Cranborne Bullets FC      v Ngezi Platinum Stars FC   1-0
+           Chicken Inn FC            v Harare City FC            1-0
+           Herentals College FC      v Highlanders FC            1-1
+           FC Platinum               v Black Rhinos FC           1-1
+  Sat Aug 14 2021
+           Tenax FC                  v Dynamos FC                0-2
+           Bulawayo Chiefs FC        v ZPC Kariba FC             2-1
+           Triangle United FC        v Manica Diamonds FC        1-1
+           CAPS United FC            v Bulawayo City FC          1-0
+
+▪ Matchday 25
+  Fri Aug 27 2021
+           ZPC Kariba FC             v Dynamos FC                0-0
+           Ngezi Platinum Stars FC   v FC Platinum               0-0
+           Black Rhinos FC           v Chicken Inn FC            2-1
+           Harare City FC            v Bulawayo Chiefs FC        0-0
+           Whawha FC                 v Triangle United FC        0-0
+           Bulawayo City FC          v Yadah Stars FC            2-0
+  Sat Aug 28 2021
+           Highlanders FC            v CAPS United FC            2-1
+           Herentals College FC      v Tenax FC                  3-1
+           Manica Diamonds FC        v Cranborne Bullets FC      2-1
+
+▪ Matchday 26
+  Thu Sep 2 2021
+           Yadah Stars FC            v Highlanders FC            2-3
+  Fri Sep 3 2021
+           Cranborne Bullets FC      v Whawha FC                 3-1
+           Chicken Inn FC            v Ngezi Platinum Stars FC   1-2
+           CAPS United FC            v Herentals College FC      1-1
+           FC Platinum               v Manica Diamonds FC        2-0
+  Sat Sep 4 2021
+           Bulawayo Chiefs FC        v Black Rhinos FC           1-0
+           Triangle United FC        v Bulawayo City FC          3-0
+           Tenax FC                  v ZPC Kariba FC             0-2
+           Dynamos FC                v Harare City FC            2-1
+
+▪ Matchday 27
+  Thu Sep 9 2021
+           Herentals College FC      v Yadah Stars FC            0-0
+  Fri Sep 10 2021
+           Bulawayo City FC          v Cranborne Bullets FC      1-2
+           Harare City FC            v ZPC Kariba FC             0-0
+           Ngezi Platinum Stars FC   v Bulawayo Chiefs FC        1-0
+           Whawha FC                 v FC Platinum               1-2
+  Sat Sep 11 2021
+           Black Rhinos FC           v Dynamos FC                1-1
+           CAPS United FC            v Tenax FC                  0-0
+           Highlanders FC            v Triangle United FC        2-0
+  Mon Sep 13 2021
+           Manica Diamonds FC        v Chicken Inn FC            0-1
+
+▪ Matchday 28
+  Fri Sep 24 2021
+           ZPC Kariba FC             v Black Rhinos FC           1-1
+           Cranborne Bullets FC      v Highlanders FC            1-1
+           FC Platinum               v Bulawayo City FC          1-0
+           Yadah Stars FC            v CAPS United FC            1-0
+           Chicken Inn FC            v Whawha FC                 1-0
+           Tenax FC                  v Harare City FC            1-0
+  Sat Sep 25 2021
+           Dynamos FC                v Ngezi Platinum Stars FC   0-1
+           Bulawayo Chiefs FC        v Manica Diamonds FC        1-0
+           Triangle United FC        v Herentals College FC      1-0
+
+▪ Matchday 29
+  Thu Sep 30 2021
+           Yadah Stars FC            v Tenax FC                  0-1
+  Fri Oct 1 2021
+           Black Rhinos FC           v Harare City FC            1-2
+           Ngezi Platinum Stars FC   v ZPC Kariba FC             3-0
+           Herentals College FC      v Cranborne Bullets FC      0-0
+           Bulawayo City FC          v Chicken Inn FC            0-3
+           Whawha FC                 v Bulawayo Chiefs FC        0-2
+  Sat Oct 2 2021
+           Highlanders FC            v FC Platinum               2-3
+           Manica Diamonds FC        v Dynamos FC                0-1
+           CAPS United FC            v Triangle United FC        2-1
+
+▪ Matchday 30
+  Fri Oct 8 2021
+           ZPC Kariba FC             v Manica Diamonds FC        3-0
+           Tenax FC                  v Black Rhinos FC           0-2
+           Bulawayo Chiefs FC        v Bulawayo City FC          0-1
+           Harare City FC            v Ngezi Platinum Stars FC   1-1
+           FC Platinum               v Herentals College FC      1-0
+  Sat Oct 9 2021
+           Triangle United FC        v Yadah Stars FC            1-0
+           Dynamos FC                v Whawha FC                 1-0
+           Chicken Inn FC            v Highlanders FC            2-2
+           Cranborne Bullets FC      v CAPS United FC            0-1
+
+▪ Matchday 31
+  Thu Oct 21 2021
+           Herentals College FC      v Chicken Inn FC            0-0
+  Fri Oct 22 2021
+           Yadah Stars FC            v Cranborne Bullets FC      1-1
+           Bulawayo City FC          v Dynamos FC                1-0
+           Ngezi Platinum Stars FC   v Black Rhinos FC           0-0
+           Whawha FC                 v ZPC Kariba FC             1-2
+  Sat Oct 23 2021
+           Highlanders FC            v Bulawayo Chiefs FC        1-0
+           Manica Diamonds FC        v Harare City FC            2-0
+           Triangle United FC        v Tenax FC                  4-0
+           CAPS United FC            v FC Platinum               2-2
+
+▪ Matchday 32
+  Fri Oct 29 2021
+           ZPC Kariba FC             v Bulawayo City FC          0-1
+           Harare City FC            v Whawha FC                 1-1
+           Chicken Inn FC            v CAPS United FC            2-1
+           FC Platinum               v Yadah Stars FC            1-0
+           Black Rhinos FC           v Manica Diamonds FC        0-0
+           Tenax FC                  v Ngezi Platinum Stars FC   0-5
+  Sat Oct 30 2021
+           Cranborne Bullets FC      v Triangle United FC        0-0
+           Bulawayo Chiefs FC        v Herentals College FC      2-1
+           Dynamos FC                v Highlanders FC            0-0
+
+▪ Matchday 33
+  Thu Nov 4 2021
+           Yadah Stars FC            v Chicken Inn FC            0-0
+  Fri Nov 5 2021
+           Bulawayo City FC          v Harare City FC            1-2
+           CAPS United FC            v Bulawayo Chiefs FC        2-2
+           Cranborne Bullets FC      v Tenax FC                  0-0
+           Whawha FC                 v Black Rhinos FC           3-2
+  Sat Nov 6 2021
+           Herentals College FC      v Dynamos FC                1-0
+           Highlanders FC            v ZPC Kariba FC             1-1
+           Manica Diamonds FC        v Ngezi Platinum Stars FC   0-0
+           Triangle United FC        v FC Platinum               1-1
+
+▪ Matchday 34
+  Fri Nov 12 2021
+           ZPC Kariba FC             v Herentals College FC      3-1
+           Black Rhinos FC           v Bulawayo City FC          0-0
+           FC Platinum               v Cranborne Bullets FC      3-0
+           Chicken Inn FC            v Triangle United FC        1-0
+           Harare City FC            v Highlanders FC            3-1
+           Ngezi Platinum Stars FC   v Whawha FC                 5-0
+  Sat Nov 13 2021
+           Tenax FC                  v Manica Diamonds FC        0-0
+           Bulawayo Chiefs FC        v Yadah Stars FC            2-0
+           Dynamos FC                v CAPS United FC            1-1
