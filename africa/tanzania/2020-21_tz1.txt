@@ -1,0 +1,520 @@
+= Tanzania | Premier League 2020/21
+
+# Date       Sun Sep 6 2020 - Sun Jul 18 2021 (315d)
+# Teams      18
+# Matches    306
+# Source     https://www.rsssf.org/tablest/tanz2021.html
+# Retrieved  2026-09-21
+
+
+▪ Matchday 1
+  Sun Sep 6 2020
+           Namungo FC            v Coastal Union FC      1-0
+           Biashara United FC    v Gwambina FC           1-0
+           Mtibwa Sugar FC       v Ruvu Shooting FC      0-0
+           Ihefu FC              v Simba SC              1-2
+           Dodoma Jiji FC        v Mwadui FC             1-0
+           Young Africans SC     v Tanzania Prisons FC   1-1
+  Mon Sep 7 2020
+           KMC FC                v Mbeya City FC         4-0
+           Kagera Sugar FC       v JKT Tanzania FC       0-1
+           Azam FC               v Polisi Tanzania FC    1-0
+
+▪ Matchday 2
+  Fri Sep 11 2020
+           Gwambina FC           v Kagera Sugar FC       0-0
+           Azam FC               v Coastal Union FC      2-0
+  Sat Sep 12 2020
+           JKT Tanzania FC       v Dodoma Jiji FC        0-2
+           Mtibwa Sugar FC       v Simba SC              1-1
+           KMC FC                v Tanzania Prisons FC   2-1
+  Sun Sep 13 2020
+           Ihefu FC              v Ruvu Shooting FC      1-0
+           Biashara United FC    v Mwadui FC             1-0
+           Young Africans SC     v Mbeya City FC         1-0
+  Mon Sep 14 2020
+           Namungo FC            v Polisi Tanzania FC    0-1
+
+▪ Matchday 3
+  Fri Sep 18 2020
+           Polisi Tanzania FC    v JKT Tanzania FC       1-1
+           Ihefu FC              v Mtibwa Sugar FC       0-1
+  Sat Sep 19 2020
+           Tanzania Prisons FC   v Namungo FC            1-0
+           Kagera Sugar FC       v Young Africans SC     0-1
+  Sun Sep 20 2020
+           Mbeya City FC         v Azam FC               0-1
+           Coastal Union FC      v Dodoma Jiji FC        0-0
+           Simba SC              v Biashara United FC    4-0
+  Mon Sep 21 2020
+           Mwadui FC             v KMC FC                1-2
+           Ruvu Shooting FC      v Gwambina FC           1-0
+
+▪ Matchday 4
+  Fri Sep 25 2020
+           Kagera Sugar FC       v KMC FC                1-0
+           Mbeya City FC         v Namungo FC            0-1
+  Sat Sep 26 2020
+           Polisi Tanzania FC    v Dodoma Jiji FC        3-0
+           Tanzania Prisons FC   v Azam FC               0-1
+           Simba SC              v Gwambina FC           3-0
+  Sun Sep 27 2020
+           Ruvu Shooting FC      v Biashara United FC    0-0
+           Mtibwa Sugar FC       v Young Africans SC     0-1
+           Mwadui FC             v Ihefu FC              2-0
+  Mon Sep 28 2020
+           Coastal Union FC      v JKT Tanzania FC       1-0
+
+▪ Matchday 5
+  Fri Oct 2 2020
+           Dodoma Jiji FC        v Ruvu Shooting FC      2-0
+  Sat Oct 3 2020
+           Gwambina FC           v Ihefu FC              2-0
+           Mbeya City FC         v Tanzania Prisons FC   0-0
+           Namungo FC            v Mwadui FC             0-1
+           Young Africans SC     v Coastal Union FC      3-0
+  Sun Oct 4 2020
+           Biashara United FC    v Mtibwa Sugar FC       1-0
+           JKT Tanzania FC       v Simba SC              0-4
+           Azam FC               v Kagera Sugar FC       4-2
+  Mon Oct 5 2020
+           KMC FC                v Polisi Tanzania FC    0-1
+
+▪ Matchday 6
+  Wed Oct 14 2020
+           JKT Tanzania FC       v Ruvu Shooting FC      0-1
+           Biashara United FC    v Ihefu FC              1-0
+           KMC FC                v Coastal Union FC      0-0
+           Namungo FC            v Kagera Sugar FC       2-1
+  Thu Oct 15 2020
+           Gwambina FC           v Mtibwa Sugar FC       2-0
+           Azam FC               v Mwadui FC             3-0
+  Fri Oct 16 2020
+           Dodoma Jiji FC        v Mbeya City FC         0-0
+  Thu Oct 22 2020
+           Tanzania Prisons FC   v Simba SC              1-0
+           Young Africans SC     v Polisi Tanzania FC    1-0
+
+▪ Matchday 7
+  Mon Oct 19 2020
+           JKT Tanzania FC       v Tanzania Prisons FC   1-1
+           Coastal Union FC      v Biashara United FC    3-0
+           Polisi Tanzania FC    v Gwambina FC           1-1
+           Mtibwa Sugar FC       v Namungo FC            1-0
+  Tue Oct 20 2020
+           Ruvu Shooting FC      v KMC FC                1-1
+           Ihefu FC              v Azam FC               0-2
+           Kagera Sugar FC       v Dodoma Jiji FC        0-0
+           Mwadui FC             v Mbeya City FC         2-1
+  Sat Nov 7 2020
+           Young Africans SC     v Simba SC              1-1
+
+▪ Matchday 8
+  Sat Oct 24 2020
+           Ihefu FC              v Namungo FC            0-0
+           Coastal Union FC      v Gwambina FC           1-1
+           Kagera Sugar FC       v Mbeya City FC         1-2
+  Sun Oct 25 2020
+           Polisi Tanzania FC    v Biashara United FC    0-1
+           Mwadui FC             v JKT Tanzania FC       1-6
+           KMC FC                v Young Africans SC     1-2
+  Mon Oct 26 2020
+           Dodoma Jiji FC        v Tanzania Prisons FC   0-1
+           Mtibwa Sugar FC       v Azam FC               1-0
+           Simba SC              v Ruvu Shooting FC      0-1
+
+▪ Matchday 9
+  Fri Oct 30 2020
+           Gwambina FC           v KMC FC                0-3
+           Azam FC               v JKT Tanzania FC       1-1
+  Sat Oct 31 2020
+           Tanzania Prisons FC   v Polisi Tanzania FC    0-1
+           Namungo FC            v Dodoma Jiji FC        1-0
+           Biashara United FC    v Young Africans SC     0-1
+           Simba SC              v Mwadui FC             5-0
+  Sun Nov 1 2020
+           Kagera Sugar FC       v Mtibwa Sugar FC       2-1
+           Ruvu Shooting FC      v Coastal Union FC      3-1
+  Mon Nov 2 2020
+           Mbeya City FC         v Ihefu FC              1-1
+
+▪ Matchday 10
+  Tue Nov 3 2020
+           Gwambina FC           v Young Africans SC     0-0
+           Biashara United FC    v KMC FC                1-1
+  Wed Nov 4 2020
+           Simba SC              v Kagera Sugar FC       2-0
+           Namungo FC            v JKT Tanzania FC       2-2
+           Mwadui FC             v Ruvu Shooting FC      1-1
+  Thu Nov 5 2020
+           Mbeya City FC         v Polisi Tanzania FC    1-1
+           Mtibwa Sugar FC       v Coastal Union FC      0-1
+           Azam FC               v Dodoma Jiji FC        3-0
+  Fri Nov 6 2020
+           Tanzania Prisons FC   v Ihefu FC              1-0
+
+▪ Matchday 12
+  Fri Nov 20 2020
+           Tanzania Prisons FC   v Mtibwa Sugar FC       0-0
+           Ruvu Shooting FC      v Mbeya City FC         3-0
+           Dodoma Jiji FC        v Biashara United FC    1-1
+  Sat Nov 21 2020
+           Polisi Tanzania FC    v Ihefu FC              0-0
+           Coastal Union FC      v Simba SC              0-7
+           KMC FC                v Azam FC               1-0
+           JKT Tanzania FC       v Gwambina FC           0-2
+  Sun Nov 22 2020
+           Kagera Sugar FC       v Mwadui FC             1-0
+           Young Africans SC     v Namungo FC            1-1
+
+▪ Matchday 11
+  Tue Nov 24 2020
+           JKT Tanzania FC       v Mbeya City FC         0-1
+           Coastal Union FC      v Ihefu FC              1-0
+           Polisi Tanzania FC    v Mtibwa Sugar FC       1-0
+  Wed Nov 25 2020
+           Ruvu Shooting FC      v Tanzania Prisons FC   1-0
+           Kagera Sugar FC       v Biashara United FC    3-0
+           Mwadui FC             v Gwambina FC           3-4
+           Azam FC               v Young Africans SC     0-1
+  Thu Feb 4 2021
+           Dodoma Jiji FC        v Simba SC              1-2
+           KMC FC                v Namungo FC            3-0
+
+▪ Matchday 13
+  Sat Nov 28 2020
+           Mbeya City FC         v Mtibwa Sugar FC       0-0
+           Young Africans SC     v JKT Tanzania FC       1-0
+           Dodoma Jiji FC        v Ihefu FC              3-0
+  Sun Nov 29 2020
+           Tanzania Prisons FC   v Mwadui FC             2-0
+           Polisi Tanzania FC    v Coastal Union FC      1-1
+           Ruvu Shooting FC      v Kagera Sugar FC       0-0
+  Mon Nov 30 2020
+           Biashara United FC    v Azam FC               1-1
+  Wed Dec 16 2020
+           Simba SC              v KMC FC                1-0
+  Wed May 26 2021
+           Namungo FC            v Gwambina FC           1-0
+
+▪ Matchday 14
+  Fri Dec 4 2020
+           KMC FC                v Dodoma Jiji FC        1-0
+  Sat Dec 5 2020
+           Tanzania Prisons FC   v Kagera Sugar FC       0-1
+           Coastal Union FC      v Mbeya City FC         0-0
+  Sun Dec 6 2020
+           Mtibwa Sugar FC       v Mwadui FC             1-0
+           Ihefu FC              v JKT Tanzania FC       1-1
+           Young Africans SC     v Ruvu Shooting FC      2-1
+  Mon Dec 7 2020
+           Gwambina FC           v Azam FC               0-0
+  Wed Dec 9 2020
+           Namungo FC            v Biashara United FC    0-0
+           Simba SC              v Polisi Tanzania FC    2-0
+
+▪ Matchday 15
+  Fri Dec 11 2020
+           Mtibwa Sugar FC       v KMC FC                1-0
+  Sat Dec 12 2020
+           Dodoma Jiji FC        v Gwambina FC           1-0
+           Mwadui FC             v Young Africans SC     0-5
+           Polisi Tanzania FC    v Ruvu Shooting FC      0-0
+  Sun Dec 13 2020
+           JKT Tanzania FC       v Biashara United FC    2-0
+           Coastal Union FC      v Tanzania Prisons FC   0-0
+           Mbeya City FC         v Simba SC              0-1
+  Mon Dec 14 2020
+           Ihefu FC              v Kagera Sugar FC       2-1
+           Azam FC               v Namungo FC            2-2
+
+▪ Matchday 16
+  Fri Dec 18 2020
+           Mwadui FC             v Polisi Tanzania FC    1-1
+           Biashara United FC    v Mbeya City FC         3-0
+           Kagera Sugar FC       v Coastal Union FC      3-1
+           Azam FC               v Ruvu Shooting FC      2-2
+  Sat Dec 19 2020
+           Gwambina FC           v Tanzania Prisons FC   1-1
+           Ihefu FC              v KMC FC                1-0
+           Mtibwa Sugar FC       v JKT Tanzania FC       1-0
+           Young Africans SC     v Dodoma Jiji FC        3-1
+  Sat May 29 2021
+           Namungo FC            v Simba SC              1-3
+
+▪ Matchday 17
+  Tue Dec 22 2020
+           Gwambina FC           v Mbeya City FC         1-1
+           Biashara United FC    v Tanzania Prisons FC   2-0
+           Kagera Sugar FC       v Polisi Tanzania FC    2-2
+           Mwadui FC             v Coastal Union FC      0-0
+  Wed Dec 23 2020
+           JKT Tanzania FC       v KMC FC                2-0
+           Ihefu FC              v Young Africans SC     0-3
+           Mtibwa Sugar FC       v Dodoma Jiji FC        0-1
+  Sun Feb 7 2021
+           Namungo FC            v Ruvu Shooting FC      2-1
+           Simba SC              v Azam FC               2-2
+
+▪ Matchday 18
+  Wed Dec 30 2020
+           Simba SC              v Ihefu FC              4-0
+  Thu Dec 31 2020
+           Tanzania Prisons FC   v Young Africans SC     1-1
+           Coastal Union FC      v Namungo FC            1-1
+           Polisi Tanzania FC    v Azam FC               0-1
+  Fri Jan 1 2021
+           Mwadui FC             v Dodoma Jiji FC        1-0
+           JKT Tanzania FC       v Kagera Sugar FC       1-0
+  Sat Jan 2 2021
+           Ruvu Shooting FC      v Mtibwa Sugar FC       2-0
+           Mbeya City FC         v KMC FC                0-0
+  Sun Jan 3 2021
+           Gwambina FC           v Biashara United FC    0-1
+
+▪ Matchday 19
+  Thu Feb 11 2021
+           Kagera Sugar FC       v Gwambina FC           1-1
+           Coastal Union FC      v Azam FC               2-1
+  Fri Feb 12 2021
+           Tanzania Prisons FC   v KMC FC                2-1
+           Ruvu Shooting FC      v Ihefu FC              0-2
+  Sat Feb 13 2021
+           Mwadui FC             v Biashara United FC    1-2
+           Mbeya City FC         v Young Africans SC     1-1
+  Sun Feb 14 2021
+           Dodoma Jiji FC        v JKT Tanzania FC       2-1
+  Wed Apr 14 2021
+           Simba SC              v Mtibwa Sugar FC       5-0
+  Thu Apr 15 2021
+           Polisi Tanzania FC    v Namungo FC            2-1
+
+▪ Matchday 20
+  Tue Feb 16 2021
+           Gwambina FC           v Ruvu Shooting FC      0-1
+           KMC FC                v Mwadui FC             2-1
+  Wed Feb 17 2021
+           Dodoma Jiji FC        v Coastal Union FC      2-1
+           Mtibwa Sugar FC       v Ihefu FC              1-1
+           Young Africans SC     v Kagera Sugar FC       3-3
+  Thu Feb 18 2021
+           JKT Tanzania FC       v Polisi Tanzania FC    1-1
+           Biashara United FC    v Simba SC              0-1
+           Azam FC               v Mbeya City FC         2-1
+  Wed Jun 2 2021
+           Namungo FC            v Tanzania Prisons FC   1-1
+
+▪ Matchday 21
+  Sat Feb 20 2021
+           KMC FC                v Kagera Sugar FC       3-0
+           Ihefu FC              v Mwadui FC             3-2
+           Young Africans SC     v Mtibwa Sugar FC       1-0
+  Sun Feb 21 2021
+           Biashara United FC    v Ruvu Shooting FC      3-0
+           JKT Tanzania FC       v Coastal Union FC      2-0
+  Mon Feb 22 2021
+           Dodoma Jiji FC        v Polisi Tanzania FC    2-2
+           Azam FC               v Tanzania Prisons FC   0-0
+  Sat Apr 24 2021
+           Namungo FC            v Mbeya City FC         0-1
+           Gwambina FC           v Simba SC              0-1
+
+▪ Matchday 22
+  Mon Mar 1 2021
+           Simba SC              v JKT Tanzania FC       3-0
+  Wed Mar 3 2021
+           Ihefu FC              v Gwambina FC           1-2
+           Mwadui FC             v Namungo FC            0-1
+           Kagera Sugar FC       v Azam FC               1-2
+           Ruvu Shooting FC      v Dodoma Jiji FC        0-2
+  Thu Mar 4 2021
+           Mtibwa Sugar FC       v Biashara United FC    0-0
+           Polisi Tanzania FC    v KMC FC                1-0
+           Tanzania Prisons FC   v Mbeya City FC         1-1
+           Coastal Union FC      v Young Africans SC     2-1
+
+▪ Matchday 23
+  Sat Mar 6 2021
+           Kagera Sugar FC       v Namungo FC            0-1
+           Mwadui FC             v Azam FC               0-0
+           Ruvu Shooting FC      v JKT Tanzania FC       3-0
+  Sun Mar 7 2021
+           Mtibwa Sugar FC       v Gwambina FC           0-2
+           Coastal Union FC      v KMC FC                0-0
+           Polisi Tanzania FC    v Young Africans SC     1-1
+  Mon Mar 8 2021
+           Ihefu FC              v Biashara United FC    0-1
+  Tue Mar 9 2021
+           Mbeya City FC         v Dodoma Jiji FC        1-1
+  Wed Mar 10 2021
+           Simba SC              v Tanzania Prisons FC   1-1
+
+▪ Matchday 24
+  Thu Mar 11 2021
+           KMC FC                v Ruvu Shooting FC      1-0
+           Azam FC               v Ihefu FC              3-0
+  Fri Mar 12 2021
+           Dodoma Jiji FC        v Kagera Sugar FC       0-0
+           Mbeya City FC         v Mwadui FC             1-0
+  Sat Mar 13 2021
+           Gwambina FC           v Polisi Tanzania FC    0-0
+  Sun Mar 14 2021
+           Tanzania Prisons FC   v JKT Tanzania FC       1-0
+  Tue Apr 13 2021
+           Biashara United FC    v Coastal Union FC      0-1
+  Wed May 12 2021
+           Namungo FC            v Mtibwa Sugar FC       1-0
+  Sat Jul 3 2021
+           Simba SC              v Young Africans SC     0-1
+
+▪ Matchday 25
+  Thu Apr 8 2021
+           Mbeya City FC         v Kagera Sugar FC       0-0
+           Namungo FC            v Ihefu FC              1-1
+  Fri Apr 9 2021
+           Biashara United FC    v Polisi Tanzania FC    1-1
+           JKT Tanzania FC       v Mwadui FC             3-1
+           Azam FC               v Mtibwa Sugar FC       2-0
+  Sat Apr 10 2021
+           Tanzania Prisons FC   v Dodoma Jiji FC        0-1
+           Gwambina FC           v Coastal Union FC      4-0
+           Young Africans SC     v KMC FC                1-1
+  Thu Jun 3 2021
+           Ruvu Shooting FC      v Simba SC              0-3
+
+▪ Matchday 26
+  Thu Apr 15 2021
+           Ihefu FC              v Mbeya City FC         1-0
+  Fri Apr 16 2021
+           JKT Tanzania FC       v Azam FC               0-1
+           KMC FC                v Gwambina FC           3-0
+  Sat Apr 17 2021
+           Coastal Union FC      v Ruvu Shooting FC      2-1
+           Mtibwa Sugar FC       v Kagera Sugar FC       1-1
+           Young Africans SC     v Biashara United FC    1-0
+  Sun Apr 18 2021
+           Polisi Tanzania FC    v Tanzania Prisons FC   1-2
+           Dodoma Jiji FC        v Namungo FC            0-1
+           Mwadui FC             v Simba SC              0-1
+
+▪ Matchday 27
+  Tue Apr 20 2021
+           KMC FC                v Biashara United FC    1-1
+           Coastal Union FC      v Mtibwa Sugar FC       0-2
+           Young Africans SC     v Gwambina FC           3-1
+  Wed Apr 21 2021
+           Ruvu Shooting FC      v Mwadui FC             5-1
+           Kagera Sugar FC       v Simba SC              0-2
+           Polisi Tanzania FC    v Mbeya City FC         0-1
+  Thu Apr 22 2021
+           Ihefu FC              v Tanzania Prisons FC   1-0
+           Dodoma Jiji FC        v Azam FC               2-2
+  Wed May 5 2021
+           JKT Tanzania FC       v Namungo FC            1-0
+
+▪ Matchday 28
+  Sun Apr 25 2021
+           Ihefu FC              v Coastal Union FC      3-0
+           Tanzania Prisons FC   v Ruvu Shooting FC      1-0
+           Young Africans SC     v Azam FC               0-1
+  Mon Apr 26 2021
+           Mtibwa Sugar FC       v Polisi Tanzania FC    1-2
+           Biashara United FC    v Kagera Sugar FC       2-1
+  Tue Apr 27 2021
+           Gwambina FC           v Mwadui FC             1-2
+           Simba SC              v Dodoma Jiji FC        3-1
+  Wed Apr 28 2021
+           Mbeya City FC         v JKT Tanzania FC       6-1
+  Sun May 9 2021
+           Namungo FC            v KMC FC                0-0
+
+▪ Matchday 29
+  Tue May 11 2021
+           Mwadui FC             v Kagera Sugar FC       0-3
+  Wed May 12 2021
+           Ihefu FC              v Polisi Tanzania FC    1-1
+  Thu May 13 2021
+           Mbeya City FC         v Ruvu Shooting FC      2-0
+  Fri May 14 2021
+           Gwambina FC           v JKT Tanzania FC       0-1
+  Sat May 15 2021
+           Namungo FC            v Young Africans SC     0-0
+           Mtibwa Sugar FC       v Tanzania Prisons FC   1-0
+           Azam FC               v KMC FC                2-1
+  Sun May 16 2021
+           Biashara United FC    v Dodoma Jiji FC        1-1
+  Sun Jul 11 2021
+           Simba SC              v Coastal Union FC      2-0
+
+▪ Matchday 30
+  Sun May 16 2021
+           Coastal Union FC      v Polisi Tanzania FC    0-1
+  Mon May 17 2021
+           Kagera Sugar FC       v Ruvu Shooting FC      3-1
+  Tue May 18 2021
+           Mwadui FC             v Tanzania Prisons FC   0-1
+           Mtibwa Sugar FC       v Mbeya City FC         2-0
+  Wed May 19 2021
+           Gwambina FC           v Namungo FC            0-0
+           JKT Tanzania FC       v Young Africans SC     0-2
+  Thu May 20 2021
+           Ihefu FC              v Dodoma Jiji FC        1-0
+           Azam FC               v Biashara United FC    2-0
+  Wed Jul 7 2021
+           KMC FC                v Simba SC              0-2
+
+▪ Matchday 31
+  Tue Jun 15 2021
+           Biashara United FC    v Namungo FC            1-1
+  Wed Jun 16 2021
+           JKT Tanzania FC       v Ihefu FC              2-0
+           Kagera Sugar FC       v Tanzania Prisons FC   1-0
+  Thu Jun 17 2021
+           Mwadui FC             v Mtibwa Sugar FC       1-3
+           Dodoma Jiji FC        v KMC FC                1-0
+           Ruvu Shooting FC      v Young Africans SC     2-3
+  Fri Jun 18 2021
+           Mbeya City FC         v Coastal Union FC      2-0
+           Azam FC               v Gwambina FC           4-1
+  Sat Jun 19 2021
+           Polisi Tanzania FC    v Simba SC              0-1
+
+▪ Matchday 32
+  Sun Jun 20 2021
+           Kagera Sugar FC       v Ihefu FC              0-0
+           Biashara United FC    v JKT Tanzania FC       1-0
+           Young Africans SC     v Mwadui FC             3-2
+  Mon Jun 21 2021
+           KMC FC                v Mtibwa Sugar FC       1-1
+           Namungo FC            v Azam FC               0-0
+  Tue Jun 22 2021
+           Tanzania Prisons FC   v Coastal Union FC      2-2
+           Simba SC              v Mbeya City FC         4-1
+  Wed Jun 23 2021
+           Gwambina FC           v Dodoma Jiji FC        2-0
+  Thu Jun 24 2021
+           Ruvu Shooting FC      v Polisi Tanzania FC    1-1
+
+▪ Matchday 33
+  Thu Jul 15 2021
+           KMC FC                v JKT Tanzania FC       5-2
+           Ruvu Shooting FC      v Namungo FC            2-1
+           Tanzania Prisons FC   v Biashara United FC    1-1
+           Coastal Union FC      v Mwadui FC             5-0
+           Dodoma Jiji FC        v Mtibwa Sugar FC       0-0
+           Mbeya City FC         v Gwambina FC           1-0
+           Polisi Tanzania FC    v Kagera Sugar FC       0-1
+           Young Africans SC     v Ihefu FC              2-0
+           Azam FC               v Simba SC              1-1
+
+▪ Matchday 34
+  Sun Jul 18 2021
+           Coastal Union FC      v Kagera Sugar FC       3-1
+           Dodoma Jiji FC        v Young Africans SC     0-0
+           JKT Tanzania FC       v Mtibwa Sugar FC       2-1
+           KMC FC                v Ihefu FC              1-0
+           Mbeya City FC         v Biashara United FC    4-0
+           Polisi Tanzania FC    v Mwadui FC             1-0
+           Ruvu Shooting FC      v Azam FC               0-1
+           Simba SC              v Namungo FC            4-0
+           Tanzania Prisons FC   v Gwambina FC           1-1

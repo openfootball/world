@@ -1,0 +1,447 @@
+= Tanzania | Premier League 2021/22
+
+# Date       Mon Sep 27 2021 - Wed Jun 29 2022 (275d)
+# Teams      16
+# Matches    240
+# Source     https://www.rsssf.org/tablest/tanz2022.html
+# Retrieved  2026-09-21
+
+
+▪ Matchday 1
+  Mon Sep 27 2021
+           Mtibwa Sugar FC       v Mbeya Kwanza FC       0-1
+           Coastal Union FC      v Azam FC               1-1
+           Namungo FC            v Geita Gold FC         2-0
+  Tue Sep 28 2021
+           Dodoma Jiji FC        v Ruvu Shooting FC      1-0
+           Biashara United FC    v Simba SC              0-0
+           Mbeya City FC         v Tanzania Prisons FC   1-0
+  Wed Sep 29 2021
+           Polisi Tanzania FC    v KMC FC                2-0
+           Kagera Sugar FC       v Young Africans SC     0-1
+
+▪ Matchday 2
+  Fri Oct 1 2021
+           Dodoma Jiji FC        v Simba SC              0-1
+           Biashara United FC    v Ruvu Shooting FC      0-1
+  Sat Oct 2 2021
+           Coastal Union FC      v KMC FC                0-0
+           Polisi Tanzania FC    v Azam FC               2-1
+           Young Africans SC     v Geita Gold FC         1-0
+  Sun Oct 3 2021
+           Mtibwa Sugar FC       v Tanzania Prisons FC   0-0
+           Mbeya City FC         v Mbeya Kwanza FC       2-2
+           Namungo FC            v Kagera Sugar FC       1-1
+
+▪ Matchday 3
+  Sat Oct 16 2021
+           Kagera Sugar FC       v Mbeya City FC         0-0
+           Geita Gold FC         v Mtibwa Sugar FC       1-1
+  Sun Oct 17 2021
+           Mbeya Kwanza FC       v Dodoma Jiji FC        0-0
+           Ruvu Shooting FC      v Coastal Union FC      1-0
+  Tue Oct 19 2021
+           KMC FC                v Young Africans SC     0-2
+           Azam FC               v Namungo FC            1-0
+  Wed Oct 27 2021
+           Tanzania Prisons FC   v Biashara United FC    0-3
+           Simba SC              v Polisi Tanzania FC    1-0
+
+▪ Matchday 4
+  Fri Oct 22 2021
+           Kagera Sugar FC       v Mtibwa Sugar FC       1-0
+  Sat Oct 23 2021
+           Namungo FC            v KMC FC                1-1
+           Geita Gold FC         v Mbeya City FC         1-1
+  Sun Oct 24 2021
+           Ruvu Shooting FC      v Polisi Tanzania FC    0-1
+           Dodoma Jiji FC        v Tanzania Prisons FC   2-1
+  Fri Oct 29 2021
+           Mbeya Kwanza FC       v Biashara United FC    1-1
+  Sat Oct 30 2021
+           Young Africans SC     v Azam FC               2-0
+  Sun Oct 31 2021
+           Simba SC              v Coastal Union FC      0-0
+
+▪ Matchday 5
+  Fri Oct 29 2021
+           KMC FC                v Kagera Sugar FC       0-1
+  Sat Oct 30 2021
+           Mtibwa Sugar FC       v Dodoma Jiji FC        0-1
+  Mon Nov 1 2021
+           Mbeya Kwanza FC       v Polisi Tanzania FC    2-2
+  Tue Nov 2 2021
+           Young Africans SC     v Ruvu Shooting FC      3-1
+           Azam FC               v Geita Gold FC         1-0
+  Wed Nov 3 2021
+           Coastal Union FC      v Tanzania Prisons FC   0-0
+           Biashara United FC    v Mbeya City FC         0-0
+           Simba SC              v Namungo FC            1-0
+
+▪ Matchday 6
+  Fri Nov 19 2021
+           Tanzania Prisons FC   v Mbeya Kwanza FC       2-1
+           Polisi Tanzania FC    v Coastal Union FC      0-1
+           Ruvu Shooting FC      v Simba SC              1-3
+  Sat Nov 20 2021
+           Mbeya City FC         v Mtibwa Sugar FC       3-1
+           Namungo FC            v Young Africans SC     1-1
+           Kagera Sugar FC       v Geita Gold FC         1-2
+  Sun Nov 21 2021
+           KMC FC                v Azam FC               2-1
+           Dodoma Jiji FC        v Biashara United FC    1-1
+
+▪ Matchday 7
+  Fri Nov 26 2021
+           Ruvu Shooting FC      v Kagera Sugar FC       2-1
+  Sat Nov 27 2021
+           Mbeya City FC         v KMC FC                2-2
+           Tanzania Prisons FC   v Namungo FC            3-1
+  Sun Nov 28 2021
+           Dodoma Jiji FC        v Coastal Union FC      0-0
+  Tue Nov 30 2021
+           Biashara United FC    v Polisi Tanzania FC    1-1
+           Mbeya Kwanza FC       v Young Africans SC     0-2
+           Azam FC               v Mtibwa Sugar FC       1-0
+  Wed Dec 1 2021
+           Simba SC              v Geita Gold FC         2-1
+
+▪ Matchday 8
+  Fri Dec 3 2021
+           Ruvu Shooting FC      v Namungo FC            1-2
+  Sat Dec 4 2021
+           Polisi Tanzania FC    v Tanzania Prisons FC   1-0
+  Sun Dec 5 2021
+           KMC FC                v Geita Gold FC         2-0
+           Coastal Union FC      v Mbeya Kwanza FC       2-1
+  Mon Dec 6 2021
+           Mbeya City FC         v Dodoma Jiji FC        2-0
+  Sat Dec 11 2021
+           Simba SC              v Young Africans SC     0-0
+  Sun Dec 12 2021
+           Mtibwa Sugar FC       v Biashara United FC    2-0
+           Azam FC               v Kagera Sugar FC       0-0
+
+▪ Matchday 9
+  Fri Dec 17 2021
+           Geita Gold FC         v Ruvu Shooting FC      2-1
+           Mbeya Kwanza FC       v Namungo FC            0-1
+           Dodoma Jiji FC        v Polisi Tanzania FC    1-1
+  Sat Dec 18 2021
+           Mtibwa Sugar FC       v KMC FC                0-0
+           Azam FC               v Mbeya City FC         2-2
+  Sun Dec 19 2021
+           Tanzania Prisons FC   v Young Africans SC     1-2
+  Mon Dec 20 2021
+           Biashara United FC    v Coastal Union FC      0-1
+  Wed Jan 26 2022
+           Kagera Sugar FC       v Simba SC              1-0
+
+▪ Matchday 10
+  Tue Dec 21 2021
+           Mtibwa Sugar FC       v Polisi Tanzania FC    1-1
+  Wed Dec 22 2021
+           Namungo FC            v Dodoma Jiji FC        1-2
+           Kagera Sugar FC       v Mbeya Kwanza FC       0-2
+  Thu Dec 23 2021
+           Geita Gold FC         v Tanzania Prisons FC   1-0
+           Azam FC               v Ruvu Shooting FC      4-1
+  Fri Dec 24 2021
+           KMC FC                v Simba SC              1-4
+           Coastal Union FC      v Mbeya City FC         3-2
+  Sun Dec 26 2021
+           Young Africans SC     v Biashara United FC    2-1
+
+▪ Matchday 11
+  Sun Dec 26 2021
+           Kagera Sugar FC       v Tanzania Prisons FC   0-1
+  Mon Dec 27 2021
+           Geita Gold FC         v Mbeya Kwanza FC       1-1
+           Polisi Tanzania FC    v Mbeya City FC         0-0
+  Tue Dec 28 2021
+           Coastal Union FC      v Mtibwa Sugar FC       0-1
+           KMC FC                v Ruvu Shooting FC      1-1
+  Thu Dec 30 2021
+           Namungo FC            v Biashara United FC    1-1
+  Fri Dec 31 2021
+           Young Africans SC     v Dodoma Jiji FC        4-0
+  Sat Jan 1 2022
+           Simba SC              v Azam FC               2-1
+
+▪ Matchday 12
+  Fri Jan 14 2022
+           Ruvu Shooting FC      v Mtibwa Sugar FC       1-1
+  Sat Jan 15 2022
+           Biashara United FC    v Kagera Sugar FC       3-3
+           Dodoma Jiji FC        v Geita Gold FC         1-1
+  Sun Jan 16 2022
+           Tanzania Prisons FC   v KMC FC                0-2
+           Coastal Union FC      v Young Africans SC     0-2
+  Mon Jan 17 2022
+           Polisi Tanzania FC    v Namungo FC            0-0
+           Mbeya City FC         v Simba SC              1-0
+  Tue Jan 18 2022
+           Mbeya Kwanza FC       v Azam FC               0-1
+
+▪ Matchday 13
+  Thu Jan 20 2022
+           Mbeya City FC         v Ruvu Shooting FC      1-0
+  Fri Jan 21 2022
+           Mbeya Kwanza FC       v KMC FC                1-1
+           Dodoma Jiji FC        v Kagera Sugar FC       1-2
+  Sat Jan 22 2022
+           Tanzania Prisons FC   v Azam FC               0-4
+           Biashara United FC    v Geita Gold FC         0-0
+           Mtibwa Sugar FC       v Simba SC              0-0
+  Sun Jan 23 2022
+           Polisi Tanzania FC    v Young Africans SC     0-1
+           Coastal Union FC      v Namungo FC            1-3
+
+▪ Matchday 14
+  Thu Feb 3 2022
+           Ruvu Shooting FC      v Mbeya Kwanza FC       1-1
+           Simba SC              v Tanzania Prisons FC   1-0
+  Fri Feb 4 2022
+           Azam FC               v Dodoma Jiji FC        2-0
+  Sat Feb 5 2022
+           KMC FC                v Biashara United FC    1-1
+           Kagera Sugar FC       v Coastal Union FC      2-1
+           Young Africans SC     v Mbeya City FC         0-0
+  Sun Feb 6 2022
+           Geita Gold FC         v Polisi Tanzania FC    3-1
+           Namungo FC            v Mtibwa Sugar FC       3-1
+
+▪ Matchday 15
+  Sun Feb 6 2022
+           Simba SC              v Mbeya Kwanza FC       1-0
+  Sat Feb 19 2022
+           Polisi Tanzania FC    v Kagera Sugar FC       0-0
+           Geita Gold FC         v Coastal Union FC      2-0
+  Sun Feb 20 2022
+           Tanzania Prisons FC   v Ruvu Shooting FC      0-1
+           KMC FC                v Dodoma Jiji FC        2-0
+  Mon Feb 21 2022
+           Namungo FC            v Mbeya City FC         2-0
+  Tue Feb 22 2022
+           Biashara United FC    v Azam FC               2-0
+  Wed Feb 23 2022
+           Mtibwa Sugar FC       v Young Africans SC     0-2
+
+▪ Matchday 16
+  Fri Feb 25 2022
+           Geita Gold FC         v Namungo FC            1-1
+  Sat Feb 26 2022
+           Mbeya Kwanza FC       v Mtibwa Sugar FC       1-2
+           KMC FC                v Polisi Tanzania FC    3-0
+  Sun Feb 27 2022
+           Ruvu Shooting FC      v Dodoma Jiji FC        1-1
+           Tanzania Prisons FC   v Mbeya City FC         1-1
+           Young Africans SC     v Kagera Sugar FC       3-0
+  Tue Mar 1 2022
+           Azam FC               v Coastal Union FC      0-0
+  Fri Mar 4 2022
+           Simba SC              v Biashara United FC    3-0
+
+▪ Matchday 17
+  Wed Mar 2 2022
+           Tanzania Prisons FC   v Mtibwa Sugar FC       0-0
+  Fri Mar 4 2022
+           Kagera Sugar FC       v Namungo FC            1-1
+  Sat Mar 5 2022
+           Mbeya Kwanza FC       v Mbeya City FC         0-0
+           Azam FC               v Polisi Tanzania FC    0-1
+  Sun Mar 6 2022
+           Geita Gold FC         v Young Africans SC     0-1
+  Mon Mar 7 2022
+           Ruvu Shooting FC      v Biashara United FC    0-0
+           KMC FC                v Coastal Union FC      2-3
+           Simba SC              v Dodoma Jiji FC        2-0
+
+▪ Matchday 18
+  Sat Mar 12 2022
+           Mbeya City FC         v Kagera Sugar FC       0-1
+           Coastal Union FC      v Ruvu Shooting FC      1-3
+  Sun Mar 13 2022
+           Mtibwa Sugar FC       v Geita Gold FC         2-0
+           Dodoma Jiji FC        v Mbeya Kwanza FC       2-0
+  Tue Mar 15 2022
+           Biashara United FC    v Tanzania Prisons FC   2-1
+  Wed Mar 16 2022
+           Namungo FC            v Azam FC               1-2
+  Sat Mar 19 2022
+           Young Africans SC     v KMC FC                2-0
+  Sun Apr 10 2022
+           Polisi Tanzania FC    v Simba SC              0-0
+
+▪ Matchday 19
+  Fri Apr 1 2022
+           Polisi Tanzania FC    v Ruvu Shooting FC      1-1
+  Sat Apr 2 2022
+           Mbeya City FC         v Geita Gold FC         0-1
+  Sun Apr 3 2022
+           Mtibwa Sugar FC       v Kagera Sugar FC       1-1
+           KMC FC                v Namungo FC            0-0
+  Mon Apr 4 2022
+           Tanzania Prisons FC   v Dodoma Jiji FC        3-2
+  Wed Apr 6 2022
+           Biashara United FC    v Mbeya Kwanza FC       1-0
+           Azam FC               v Young Africans SC     1-2
+  Thu Apr 7 2022
+           Coastal Union FC      v Simba SC              1-2
+
+▪ Matchday 20
+  Sat Apr 16 2022
+           Polisi Tanzania FC    v Mbeya Kwanza FC       1-1
+  Sun Apr 17 2022
+           Dodoma Jiji FC        v Mtibwa Sugar FC       1-2
+           Kagera Sugar FC       v KMC FC                0-0
+  Mon Apr 18 2022
+           Namungo FC            v Ruvu Shooting FC      3-1
+           Tanzania Prisons FC   v Coastal Union FC      1-0
+  Thu Apr 28 2022
+           Mbeya City FC         v Biashara United FC    1-0
+  Fri Apr 29 2022
+           Geita Gold FC         v Azam FC               2-2
+  Sat Apr 30 2022
+           Young Africans SC     v Simba SC              0-0
+
+▪ Matchday 21
+  Fri Apr 22 2022
+           Mbeya Kwanza FC       v Coastal Union FC      2-0
+  Sat Apr 23 2022
+           Geita Gold FC         v KMC FC                2-0
+           Dodoma Jiji FC        v Mbeya City FC         2-1
+  Sun May 1 2022
+           Tanzania Prisons FC   v Polisi Tanzania FC    1-0
+  Mon May 2 2022
+           Biashara United FC    v Mtibwa Sugar FC       1-1
+  Tue May 3 2022
+           Namungo FC            v Simba SC              2-2
+           Kagera Sugar FC       v Azam FC               1-0
+  Wed May 4 2022
+           Ruvu Shooting FC      v Young Africans SC     0-0
+
+▪ Matchday 22
+  Sat Apr 23 2022
+           Young Africans SC     v Namungo FC            2-1
+  Thu May 5 2022
+           Mbeya Kwanza FC       v Tanzania Prisons FC   1-0
+           Biashara United FC    v Dodoma Jiji FC        1-3
+  Sat May 7 2022
+           Geita Gold FC         v Kagera Sugar FC       1-0
+           Mtibwa Sugar FC       v Mbeya City FC         1-0
+           Azam FC               v KMC FC                2-1
+  Sun May 8 2022
+           Coastal Union FC      v Polisi Tanzania FC    1-0
+           Simba SC              v Ruvu Shooting FC      4-1
+
+▪ Matchday 23
+  Mon May 9 2022
+           Young Africans SC     v Tanzania Prisons FC   0-0
+  Tue May 10 2022
+           Mbeya City FC         v Azam FC               2-1
+  Wed May 11 2022
+           Polisi Tanzania FC    v Dodoma Jiji FC        0-0
+           Coastal Union FC      v Biashara United FC    1-0
+           Simba SC              v Kagera Sugar FC       2-0
+  Thu May 12 2022
+           KMC FC                v Mtibwa Sugar FC       3-2
+           Ruvu Shooting FC      v Geita Gold FC         2-1
+  Fri May 13 2022
+           Namungo FC            v Mbeya Kwanza FC       3-0 [awarded; Mbeya Kwanza forfeited]
+
+▪ Matchday 26
+  Sun May 15 2022
+           Mbeya City FC         v Polisi Tanzania FC    0-0
+           Mtibwa Sugar FC       v Coastal Union FC      0-0
+           Dodoma Jiji FC        v Young Africans SC     0-2
+  Mon May 16 2022
+           Ruvu Shooting FC      v KMC FC                1-1
+           Tanzania Prisons FC   v Kagera Sugar FC       0-1
+  Tue May 17 2022
+           Mbeya Kwanza FC       v Geita Gold FC         0-1
+           Biashara United FC    v Namungo FC            1-2
+  Wed May 18 2022
+           Azam FC               v Simba SC              1-1
+
+▪ Matchday 24
+  Thu May 19 2022
+           KMC FC                v Mbeya City FC         3-0
+  Fri May 20 2022
+           Coastal Union FC      v Dodoma Jiji FC        2-1
+           Namungo FC            v Tanzania Prisons FC   3-3
+           Young Africans SC     v Mbeya Kwanza FC       4-0
+  Sat May 21 2022
+           Mtibwa Sugar FC       v Azam FC               1-2
+           Kagera Sugar FC       v Ruvu Shooting FC      0-0
+  Sun May 22 2022
+           Geita Gold FC         v Simba SC              1-1
+  Mon May 30 2022
+           Polisi Tanzania FC    v Biashara United FC    2-0
+
+▪ Matchday 25
+  Mon May 23 2022
+           Biashara United FC    v Young Africans SC     1-1
+           Dodoma Jiji FC        v Namungo FC            1-0
+  Tue May 24 2022
+           Mbeya City FC         v Coastal Union FC      0-1
+           Ruvu Shooting FC      v Azam FC               1-1
+  Wed May 25 2022
+           Mbeya Kwanza FC       v Kagera Sugar FC       2-0
+           Polisi Tanzania FC    v Mtibwa Sugar FC       2-0
+  Thu May 26 2022
+           Tanzania Prisons FC   v Geita Gold FC         1-1
+  Sun Jun 19 2022
+           Simba SC              v KMC FC                3-1
+
+▪ Matchday 27
+  Mon Jun 13 2022
+           Mtibwa Sugar FC       v Ruvu Shooting FC      3-1
+           Geita Gold FC         v Dodoma Jiji FC        2-0
+  Tue Jun 14 2022
+           KMC FC                v Tanzania Prisons FC   1-1
+           Kagera Sugar FC       v Biashara United FC    0-0
+  Wed Jun 15 2022
+           Azam FC               v Mbeya Kwanza FC       2-0
+           Young Africans SC     v Coastal Union FC      3-0
+  Thu Jun 16 2022
+           Namungo FC            v Polisi Tanzania FC    1-2
+           Simba SC              v Mbeya City FC         3-0
+
+▪ Matchday 28
+  Sat Jun 18 2022
+           Geita Gold FC         v Biashara United FC    2-0
+           Kagera Sugar FC       v Dodoma Jiji FC        1-1
+  Sun Jun 19 2022
+           Ruvu Shooting FC      v Mbeya City FC         0-1
+  Mon Jun 20 2022
+           Namungo FC            v Coastal Union FC      0-1
+  Wed Jun 22 2022
+           KMC FC                v Mbeya Kwanza FC       4-1
+           Young Africans SC     v Polisi Tanzania FC    2-0
+           Azam FC               v Tanzania Prisons FC   1-0
+  Thu Jun 23 2022
+           Simba SC              v Mtibwa Sugar FC       2-0
+
+▪ Matchday 29
+  Sat Jun 25 2022
+           Coastal Union FC      v Kagera Sugar FC       0-1
+           Polisi Tanzania FC    v Geita Gold FC         0-1
+           Mbeya City FC         v Young Africans SC     1-1
+           Biashara United FC    v KMC FC                1-0
+           Mbeya Kwanza FC       v Ruvu Shooting FC      1-2
+           Dodoma Jiji FC        v Azam FC               0-2
+  Sun Jun 26 2022
+           Mtibwa Sugar FC       v Namungo FC            2-4
+           Tanzania Prisons FC   v Simba SC              1-0
+
+▪ Matchday 30
+  Wed Jun 29 2022
+           Azam FC               v Biashara United FC    4-1
+           Coastal Union FC      v Geita Gold FC         1-1
+           Dodoma Jiji FC        v KMC FC                1-0
+           Kagera Sugar FC       v Polisi Tanzania FC    0-0
+           Mbeya City FC         v Namungo FC            1-1
+           Mbeya Kwanza FC       v Simba SC              0-0
+           Ruvu Shooting FC      v Tanzania Prisons FC   1-0
+           Young Africans SC     v Mtibwa Sugar FC       1-0
